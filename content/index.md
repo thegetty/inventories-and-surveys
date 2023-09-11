@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: 
+image: spiral-overlay.png
 ---
 
 TK
