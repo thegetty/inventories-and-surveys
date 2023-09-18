@@ -1,6 +1,7 @@
 ---
-title: Introduction
+title: "Foreword"
 layout: page
+contributor:
 order: 10
 ---
 
