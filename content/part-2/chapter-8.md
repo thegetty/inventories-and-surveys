@@ -5,9 +5,9 @@ short_title:
 layout: essay
 contributor: 
   - id: jhansen 
-    sort as: "1"
+    sort_as: "1"
   - id: sdelgadillo
-    sort as: "2"
+    sort_as: "2"
 order: 75
 ---
 
