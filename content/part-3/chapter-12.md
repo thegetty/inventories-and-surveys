@@ -13,7 +13,7 @@ order: 100
 
 This chapter describes how inventory and survey information has been used with respect to six specific heritage management issues deemed to be worthy of particular attention: [recognizing cultural diversity](#recognizing-diversity), [urban planning](#urban-planning), [heritage impact assessments](#heritage-impact-assessments), [disaster preparedness and response](#disaster-preparedness-and-response), [sea level rise](#sea-level-rise), and [armed conflict](#armed-conflict). The sections that follow include relevant considerations and examples from practice, and point to references for further reading.
 
-## Recognizing Diversity
+## Recognizing Diversity {#recognizing-diversity}
 
 The global shift in heritage practice to further recognize diversity and promote social inclusion has resulted in efforts to identify and document places associated with traditionally marginalized communities, including ethnic, racial, and religious minorities; indigenous people; women; those identifying as LGBTQ; and the economically disadvantaged ([[Avrami 2021\|10]]). To tell the whole story, heritage surveys and inventories are being designed to identify and document underrepresented communities and to make digital information widely available for a range of purposes.
 
@@ -31,7 +31,7 @@ Surveys and inventories are also supporting broader goals and objectives to crea
 
 As more and more surveys and inventories are collecting and making available information on underrepresented communities, research opportunities are growing to, for example, initiate new or further studies on certain topics, themes, and heritage typologies. As well, digital data and mapping can inform analyses regarding the location and distribution of ethnic and cultural resources within a geographic area and related studies examining neighborhood growth and change, shifting demographics, overlapping histories, and intersectionality.
 
-## Urban Planning 
+## Urban Planning {#urban-planning}
 
 Local governments throughout the world are increasingly using inventories and their associated surveys as tools to develop programs and policies that integrate heritage preservation into urban planning initiatives. Because planning practices and priorities change and evolve over time, heritage data that is up to date, comprehensive, and easily accessible will have the most relevancy for local planning. Today, cities of all sizes are creating or updating digital inventories and undertaking modern surveys as tools to manage heritage in urban environments that are changing rapidly, whether from growth or decline.
 
@@ -51,7 +51,7 @@ In some instances, surveys are being designed to focus on identifying and protec
 
 Heritage inventories and surveys can also be used to promote interdepartmental collaboration and information sharing regarding heritage assets owned or managed by other city departments outside of planning. Resource typologies may include infrastructure such as bridges, public art, street trees, streetlights, libraries, parks, and fire stations. Knowing which heritage resources are significant helps in developing capital improvement programs related to those that may be replaced, upgraded, rehabilitated, or decommissioned ([[Hansen and Delgadillo Cruz 2019]]).
 
-## Heritage Impact Assessments 
+## Heritage Impact Assessments {#heritage-impact-assessments}
 
 The legal and policy frameworks of many jurisdictions require heritage impact assessments (HIA) as part of broader land use planning processes known as environmental impact assessment. An HIA is a formal process to ensure that the cultural significance of heritage resources is taken into account when developing and designing proposals for change. As stated in Welsh guidance on HIAs, “Conservation is about the careful management of change. This means that it is vital to understand the implications of any proposed change – from deciding what to do and how to do it, to deciding whether or not to give consent” ([[Cadw 2017a\|2]]). HIAs typically relate to proposed development projects, as well as proposed substantial modifications to or changes in the use of places. Many HIA regimes consider impacts of proposed changes that would affect heritage significance, including aspects such as setting and views associated with heritage resources ([[Historic England 2017a]]). Impact assessment processes normally provide for public input and engagement.
 
@@ -71,7 +71,7 @@ Predictive modelling has been applied to produce maps of archaeological sensitiv
 
 [[ figure 'fig-12-3' ]]
 
-## Disaster Preparedness and Response
+## Disaster Preparedness and Response {#disaster-preparedness-and-response}
 
 The most fundamental requirement for safeguarding heritage when facing natural disasters is identifying its location, significance, and vulnerabilities. Heritage inventories and related data collection activities such as surveys are vital to meeting this requirement.
 
@@ -79,7 +79,7 @@ The practice of cultural heritage disaster preparedness and response has been ex
 
 [[ figure 'fig-12-4' ]]
 
-### Predisaster Preparation 
+### Predisaster Preparation {#predisaster-preparation}
 
 ### Steps taken in anticipation of disasters – to reduce risk and adverse consequences – include the following.
 
@@ -91,7 +91,7 @@ The practice of cultural heritage disaster preparedness and response has been ex
 
 -   **Response procedures.** In certain cases, inventories and surveys can also help in preparing response procedures in advance of a disaster. For example, the identification of mudbrick historic buildings within a city’s inventory may help determine for which buildings nonwater fire retardants should be used in the case of fire.
 
-### Responding During a Disaster 
+### Responding During a Disaster {#responding-during-a-disaster}
 
 The reaction during a disaster to mobilize, assess impacts, and prevent further damage includes the following.
 
@@ -99,7 +99,7 @@ The reaction during a disaster to mobilize, assess impacts, and prevent further 
 
 -   **Identify which heritage items to prioritize.** A heritage inventory is a primary source for identifying which significant heritage should be prioritized for attention as soon as disaster strikes, in accordance with an emergency response plan, if one has been prepared. A properly detailed inventory can be important for prioritizing temporary stabilization and protection of important heritage items, identifying which heritage should preferably not be demolished, and for salvaging significant architectural elements or artifacts from damaged or collapsed structures.
 
-### Postdisaster activities 
+### Postdisaster activities {#postdisaster-activities}
 
 ### Measures taken after a disaster to continue to assess impacts, plan and implement actions to repair and conserve or restore heritage, and to prevent future damage include the following.
 
@@ -111,7 +111,7 @@ The reaction during a disaster to mobilize, assess impacts, and prevent further 
 
 Experience has shown that natural disasters are an ultimate test of the completeness, quality, and usability of heritage inventories. As noted by McCarthy ([[McCarthy 2013\|\|2013\|16]]), “Without an accurate inventory, responders spend valuable time identifying instead of evaluating resources, slowing the response and preventing recovery.” In some cases, disasters have revealed the urgent need for more robust inventories, which has in turn led to renewed investments in inventory preparation ([[ICOMOS Nepal 2015]]).
 
-## Sea Level Rise
+## Sea Level Rise {#sea-level-rise}
 
 Heritage in coastal areas is under increasing threat from global sea level rise, as well as severe coastal storms and erosion, induced by global climate change. As with other types of natural disasters, identifying heritage places through inventories and related surveys is a crucial first step to understanding which heritage is at risk, and that knowledge underpins determining appropriate responses. As the U.S. state of Florida’s guidance for climate change vulnerability assessments and adaptation planning notes, “a large part of setting the planning context will include identifying and inventorying existing historic and cultural resources. ... If no baseline inventory currently exists, the involvement of historic preservation agencies and organizations is important in the creation of a new historic resource inventory” ([[Florida Department of Economic Opportunity 2015\|24]]). If a heritage inventory for a coastal area is incomplete, areas that have not been investigated and that are most vulnerable to sea level rise–related impacts may be prioritized to be surveyed. Inventories in some places include submerged heritage resources; inventories of such resources may become increasingly necessary as sea levels rise.
 
@@ -125,7 +125,7 @@ Data from heritage inventories and related surveys can also provide a basis for 
 
 Through vulnerability analysis and predictive modelling, agencies can then identify, evaluate, and prioritize appropriate responses ([[Taylor Engineering 2020]]). This process may involve modeling and then planning for a range of scenarios due to uncertainties about future changes. Predictive modelling and condition monitoring can together aid in identifying and prioritizing responses based on the significance of heritage resources and their corresponding vulnerability. If heritage is expected to be destroyed or abandoned, or if resources are limited and other heritage places are deemed to be of higher priority, potential responses may include excavation (in the case of archaeological sites) or more detailed recording. Alternatively, if heritage resources are deemed to be of particular significance, if resources are available, and if such adaptations are feasible and have limited negative impacts on the integrity of heritage resources, plans may be made for interventions to adapt heritage resources or their surroundings to mitigate the effects of sea level rise. Examples include reducing groundwater extraction (which can cause ground subsidence), constructing barriers and other water-diversion and pumping mechanisms, raising the height of structures, and relocation of structures away from eroding coastlines.
 
-## Armed Conflict
+## Armed Conflict {#armed-conflict}
 
 In the case of armed conflicts, inventories and related surveys are essential measures for heritage protection as well as rehabilitation. Inventories are an important component of the 1999 Second Protocol to the Hague Convention of 1954, which explicitly calls for inventory compilation as a peacetime preparatory measure.
 
