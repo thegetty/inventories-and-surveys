@@ -275,7 +275,7 @@ Because survey teams are often composed of private consultants working on behalf
 
 It is also recommended that surveyors document the process in a journal and, most importantly, with digital photographs. Each day in the field brings a new adventure that does not make its way into the record of the project: a conversation with a community member, the discovery of local cafés for lunch or coffee, unexpected encounters with heritage assets, and interactions with survey team colleagues. Photographic documentation of all phases of the project from beginning to end – including pilot surveys, training, fieldwork, and recording – will help ensure not only that the collective memories of the process are not be lost but also that the lessons learned are carried forward for future survey projects.
 
-## Making Assessments of Heritage Resource Significance 
+## Making Assessments of Heritage Resource Significance {#making-assessments}
 
 Heritage resource assessment or evaluation is the process of applying established local, regional, national, or international assessment criteria, thresholds, and other guidelines to determine heritage significance based on intensive-level field observations, research, community input, and comparative analysis. Assessments identify resources that best represent important aspects of the history and development of an area, as defined by the criteria, and provide information to guide heritage designation, planning, and management programs.
 
@@ -331,7 +331,7 @@ Heritage resource analysis and evaluation is a sequential process that is guided
 
 [[ figure 'fig-10-10' ]]
 
-## SurveyLA Case Study in Heritage Resource Assessment: Goodyear Gardens Historic District 
+## SurveyLA Case Study in Heritage Resource Assessment: Goodyear Gardens Historic District {#surveyla-case-study}
 
 The survey and evaluation of the Goodyear Gardens Historic District in Los Angeles illustrates the steps discussed above. The potential historic district was documented by SurveyLA field surveyors as part of the Southeast Los Angeles community plan area, which comprises roughly fifty-four thousand legal parcels and is located directly south of downtown Los Angeles. Goodyear Gardens is an example of a heritage resource that was not identified as part of any prefield research or community outreach. Rather, it was newly discovered during the field survey process. The sections below describe the assessment steps followed for the potential district based on the model presented in this chapter.
 
