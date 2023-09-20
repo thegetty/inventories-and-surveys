@@ -42,11 +42,11 @@ In some cases, laws or their associated regulations identify criteria and thresh
 
 The following section describes the need for dedicated resources – [budget](#budget) and [personnel](#personnel) – that are indispensable for both securing infrastructure and carrying out activities supporting inventory programs.
 
-### Budget
+### Budget {#budget}
 
 An effective heritage inventory program will require an annual budget to cover regular, ongoing core costs of essential infrastructure, personnel, and activities. The sources of an inventory program’s budget will vary depending on whether it is part of a public agency or an NGO. Sources may include direct public agency funding, fees charged for more robust access to inventory information systems, and service fees for time spent by inventory staff on responding to research requests. Some inventories are supported through public-private partnerships or consortia of multiple organizations, enabling pooling of resources. In certain cases, external funding such as grants might be sought to enhance the infrastructure and services of the inventory program, although grants typically have a fixed timeframe and are not a reliable source of support for ongoing operations.
 
-### Personnel
+### Personnel {#personnel}
 
 As mentioned, an effective heritage inventory program will also require dedicated personnel supporting it on an ongoing basis. The following are inventory program roles that may be required, depending on the size and nature of the inventory program.
 
@@ -76,7 +76,7 @@ The following sections describe various types of organizational infrastructure t
 
 **\[\[Insert Controlled Vocabularies sidebar hereabouts\]\]**
 
-### Information Policies, Standards, and Guidance
+### Information Policies, Standards, and Guidance {#information-policies-standards-and-guidance}
 
 Information policies, standards, and other guidance are key elements of any inventory program. Many heritage inventory programs, or their parent organization, create an information access policy as a mechanism for ensuring that information access is both provided and controlled in accordance with relevant laws for a jurisdiction, such as those covering freedom of information, information privacy, copyright laws, and the restriction of certain sensitive information relating to archaeological sites and places held sacred by indigenous groups. Information standards and guidance also are essential to ensuring that information is created and enhanced in a consistent and valid way over time, even when many individuals with varying expertise and experience are contributing to the effort and various means of data creation are used. Digital data standards are also necessary to promote data readability over time, to integrate information seamlessly into inventory databases, and to support information comparison and retrieval.
 
@@ -106,7 +106,7 @@ Certain staff may need to be responsible for preparing, expanding, or improving 
 
 **\[\[Place sidebar here: Overview of Thematic Frameworks, Thematic Studies, and Historic Contexts\]\]**
 
-### Thematic Frameworks, Thematic Studies, and Historic Contexts
+### Thematic Frameworks, Thematic Studies, and Historic Contexts {#thematic-frameworks-thematic-studies-and-historic-contexts}
 
 A heritage organization may find it useful to implement a combination of a thematic framework and accompanying thematic studies and/or historic contexts as mechanisms serving multiple purposes within an inventory program, as well as related data collection activities such as surveys. (See the **Overview of Thematic Frameworks, Thematic Studies, and Historic Contexts** sidebar.) These tools define important prehistoric and historic themes and subthemes to be represented among heritage resources that are formally listed or designated, which in turn will help provide that a full range of significant heritage resources are protected, taken into consideration within heritage impact assessments and other planning decisions, and potentially qualify for public financial incentives. Once created, they can be applied to:
 
@@ -132,9 +132,9 @@ An inventory program may also need other types of hardware and software, such as
 
 ## Support through Activities
 
-The following are potential activities to support an inventory as a tool for effective heritage management. They are grouped by the general categories shown in [figure 2.1](#fig-2-1): [information collection, creation, and editing](#information-collection-creation-and-editing); [information management](#_Information_Management); and [program-wide activities](#_Program-wide_Activities).
+The following are potential activities to support an inventory as a tool for effective heritage management. They are grouped by the general categories shown in [figure 2.1](#fig-2-1): [information collection, creation, and editing](#information-collection-creation-and-editing); [information management](#information-management); and [program-wide activities](#program-wide-activities).
 
-### Information Collection, Creation, and Editing
+### Information Collection, Creation, and Editing {#information-collection-creation-and-editing}
 
 For any inventory program, a fundamental set of activities that typically occurs on an ongoing basis is the collection, creation, review, and editing (including updating) of inventory information. The following sections describe the most commonly related activities.
 
@@ -148,13 +148,13 @@ In some cases, particularly with respect to archaeological and landscape-scale i
 
 #### Surveys
 
-Surveys can be a vital method of collecting, enhancing, and updating existing inventory information. **Part II** of this publication covers surveys in detail, including personnel and infrastructure requirements, as well as methods used to elicit public participation and input.
+Surveys can be a vital method of collecting, enhancing, and updating existing inventory information. [Part II](/part-2/) of this publication covers surveys in detail, including personnel and infrastructure requirements, as well as methods used to elicit public participation and input.
 
 #### Input from Other Heritage-Related Processes 
 
 It is recommended that those working with public agencies require that relevant information collected through other heritage-related processes be input into the heritage inventory as those activities occur. Such processes include heritage designations or listings, heritage financial incentive programs, impact assessments and other development-related activities, and disaster response efforts. Some heritage agencies that issue permits for academic archaeological surveys or other investigations require as a condition of those permits that researchers submit information resulting from fieldwork for addition to the heritage inventory according to [specified standards](#information-policies-standards-and-guidance), as mentioned above.
 
-#### Research and Investigation
+#### Research and Investigation {#research-and-investigation}
 
 For any heritage inventory program, research and investigation are essential activities required for fulfilling many of the program’s mandates and ensuring its effectiveness. Research fundamentally informs what is known and understood about heritage, including supporting heritage identification and recognition of significance; these in turn bolster the credibility of decision-making. Research relating to an inventory can be approached at a strategic level and also as specific research questions arise. At a strategic level, some heritage organizations create formal research frameworks that define an overall research agenda identifying priority topics and research questions to be addressed ([[Nixon et al. 2002]]).[^2]
 
@@ -210,31 +210,31 @@ Such investments in stakeholder engagement efforts can return multiple benefits.
 
 These various activities supporting information collection, creation, and editing require a combination of resources, including [budget](#budget) and [personnel with required expertise](#personnel), and activities, such as [planning, management, and coordination](#planning-management-and-coordination).
 
-### Information Management
+### Information Management {#information-management}
 
 The overarching task of information management is a key requirement of any inventory program. It requires personnel as well as a range of activities, policies, standards, procedures, and infrastructure. The topic of information management has many facets, and an entire field of study is devoted to it. The sections that follow highlight three core types of information management activities that are relevant to heritage inventories: [data validation](#data-validation); [storage, backup, and recovery](#storage-backup-and-recovery); and [access and security](#access-and-security).
 
-#### Data Validation
+#### Data Validation {#data-validation}
 
 For an inventory information system, a DBA will commonly be responsible for implementing data validation measures. This frequently entails creating and running database scripts to confirm that newly imported, created, or edited data meets defined data standards or other validation rules. It could include identifying duplicate records or errors in geospatial locations of newly created or edited records, such as a location erroneously recorded outside the relevant governmental jurisdiction. All such issues normally need to be resolved.
 
 The DBA or other information technology (IT) support will at certain points in time need to migrate inventory data from one software platform to a newer and/or more capable one, which typically involves extensive checks to ensure that migrated data meets the validation requirements of the new platform.
 
-#### Storage, Backup, and Recovery
+#### Storage, Backup, and Recovery {#storage-backup-and-recovery}
 
 The DBA or other IT support typically needs to ensure on an ongoing basis that adequate data storage is provided for the inventory program, including its primary information system. Data storage might be implemented through a physical server or servers, cloud-based server services, or a combination of these arrangements. Ongoing data integrity is normally also provided for by implementing a strategy for regular data backups to provide for data recovery in case of unintended data loss or corruption. In accordance with IT standard practices, backups typically occur on a server located separately from the primary data storage location, in part to mitigate the risk of destruction of data due to natural disasters or armed conflict. Stored data is also typically checked on a regular basis to confirm that no inadvertent loss or corruption has occurred.
 
-#### Access and Security
+#### Access and Security {#access-and-security}
 
 Intertwined with information management is managing information access and security. As previously mentioned, public heritage agencies sometimes create and implement an information access policy that applies to their heritage inventory. A DBA is also typically responsible for managing user accounts and maintaining related information access levels.
 
 Another crucial part of information management is providing information security, which is often also a responsibility of a DBA. Potential security measures include passwords, firewalls, systems to detect network intrusions, and data encryption.
 
-### Program-wide Activities
+### Program-wide Activities {#program-wide-activities}
 
 The activity types that follow support work across the entire inventory program.
 
-#### Planning, Management, and Coordination
+#### Planning, Management, and Coordination {#planning-management-and-coordination}
 
 An inventory program will require planning as well as management of activities and investments over the annual, medium, and longer terms. Some inventory programs prepare a written plan for a specific time period. The following are elements that might be included in such a plan:
 
@@ -252,7 +252,7 @@ An inventory program will require planning as well as management of activities a
 
 In addition, an effective inventory program will require coordination both internally and with external public agencies and nongovernmental actors (see [External Engagement](#external-engagement)).
 
-#### Capacity Building
+#### Capacity Building {#capacity-building}
 
 Inventory programs also require ongoing training or capacity building for personnel carrying out programmatic activities. Capacity building is essential for the onboarding of new staff, interns, or volunteers; for maintaining the skills of existing personnel; and for keeping up with developments in the heritage field, in IT, and in data management practices. Activities may include orientation to the meaning and application of data standards, as well as training in field recording and in the assessment of heritage places.
 
@@ -262,7 +262,7 @@ In some cases, capacity building on techniques for public engagement may be bene
 
 Information technology support encompasses another set of activities that is typically essential for an inventory program, particularly as it relates to supporting information collection, creation, editing, and management. IT support normally helps provide for information system procurement, hosting and setup, software upgrades, and monitoring and optimizing system performance. IT support also typically deals with hardware procurement, maintenance, and repair, as well as replacement. Ensuring compatibility and integration with other relevant information systems and planning for future IT system capacity needs are typically also the responsibility of IT.
 
-#### External Engagement
+#### External Engagement {#external-engagement}
 
 In addition to the frequent need to solicit information from external stakeholders as input to inventory information, heritage inventory programs typically need ongoing engagement with a range of external entities and stakeholders for a range of other purposes. For public agencies, this typically includes interacting with different parts of one’s own organization, as well as separate government agencies, which may or may not be at differing levels of governmental jurisdiction. For example, the inventory program of a city agency may need to interact with other city agencies and with regional-, state- or provincial-, and national-level agencies to carry out its mandate. These necessary interactions may be about obtaining or exchanging information, providing advice, or interpreting and using data.
 
@@ -272,7 +272,7 @@ Heritage organizations also often carry out activities and create resources to p
 
 The usefulness of the inventory might also be presented to investors and realtors who are interested in historic properties, organizations that promote tourism, and to those involved in identifying potential filming locations. In some situations, it is important for the public to understand how the inventory data will or will not be utilized for regulatory purposes, particularly when private property is involved.
 
-#### Monitoring and Evaluation
+#### Monitoring and Evaluation {#monitoring-and-evaluation}
 
 Some inventory programs establish systems for monitoring and periodically assessing performance and the extent to which defined outcomes are being achieved. Such monitoring and evaluation systems can help identify areas in need of attention and improvement. In the United Kingdom, for example, the English and Welsh governments have each developed a series of benchmarks or specifications against which historic environment records (HERs) – regional and local government inventories – are assessed every five years ([[Historic England 2023b]]; [[Cadw 2017c]]). Although the English and Welsh systems are somewhat different, their benchmarks both apply to four inventory-related service areas:
 

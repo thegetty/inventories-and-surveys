@@ -32,13 +32,13 @@ Organizations, groups, and individuals representing a range of interests in the 
 
 ## Survey Administration
 
-Survey planning includes developing a framework for overall project administration. The managing agency or organization must address issues relating to four key and interdependent factors: [project personnel](#survey-personnel), [budget](#survey-budget), [funding](#_Survey_Funding), and [schedule](#survey-schedule-and-timeline), as described below.
+Survey planning includes developing a framework for overall project administration. The managing agency or organization must address issues relating to four key and interdependent factors: [project personnel](#survey-personnel), [budget](#survey-budget), [funding](#survey-funding), and [schedule](#survey-schedule-and-timeline), as described below.
 
-### Survey Personnel 
+### Survey Personnel {#survey-personnel}
 
-Survey planning will identify positions needed to manage and carry out a survey project in light of the size and scope of the survey, the skill sets needed, and available funding. Because financial resources are often limited for surveys, creative approaches may be needed to consider how funds might be secured and allocated (and potentially augmented) to fill full- or part-time staff positions, engage external consultants and other specialists, and supplement staff and consultant time with interns and volunteers. The section [Considerations and Recommendations for Assembling a Survey Project Team](#considerations-and-recommendations-for-assembling-a-survey-project-team), at the end of this chapter, defines key positions to consider, as well as the role of volunteers and interns.
+Survey planning will identify positions needed to manage and carry out a survey project in light of the size and scope of the survey, the skill sets needed, and available funding. Because financial resources are often limited for surveys, creative approaches may be needed to consider how funds might be secured and allocated (and potentially augmented) to fill full- or part-time staff positions, engage external consultants and other specialists, and supplement staff and consultant time with interns and volunteers. The section [Considerations and Recommendations for Assembling a Survey Project Team](#assembling-a-survey-project-team), at the end of this chapter, defines key positions to consider, as well as the role of volunteers and interns.
 
-### Survey Budget
+### Survey Budget {#survey-budget}
 
 Estimating the costs associated with a survey will establish budgets for the project as a whole and for its various components. Project expenses are highly dependent on factors relating to the size and scope of the survey, adequate and qualified project personnel, technological infrastructure, state of an existing inventory data or previous survey data, available research and scholarship on the area’s heritage resources, and the scope of outreach programs and activities. [Figure 7.1](#fig-7-1) is a budget model with the main cost categories for a survey depicted as percentages of the total budget, based on the experiences of SurveyLA.
 
@@ -50,23 +50,23 @@ Estimating the costs associated with a survey will establish budgets for the pro
 
 While it is necessary to develop at least a preliminary project budget to secure a commitment to complete a survey, it is important to expect that the budget may need to be revised once the project is initiated and survey tools and methods are tested and further defined. Pilot surveys are central to estimating the time and budget needed to complete the field surveys, as discussed in [chapter 9](/part-2/chapter-9/).
 
-## Survey Funding
+## Survey Funding {#survey-funding}
 
 The planning phase will identify potential funding sources and opportunities for the survey, which may include [lead agency/organization resources](#agencyorganization-resources), [grants](#grants), and [partnerships](#partnerships), as described below.
 
-### Agency/Organization Resources
+### Agency/Organization Resources {#agencyorganization-resources}
 
 The lead agency or organization for the survey must commit sufficient funds and/or identify sufficient supplemental funding sources to complete the survey. A long lead time may be required to allocate funds for a survey into annual budgets, and a phased survey approach or methodology may be necessary as a result. Creative approaches to funding could include leveraging financial resources from existing programs that overlap with the goals of the survey. For example, within a municipal planning department, a survey might dovetail with already-funded community planning activities and programs that rely on up-to-date and comprehensive heritage data, so surveys could be incorporated into those efforts. Interagency funding opportunities could result from collaborations with museums, libraries, universities, and associated cultural heritage programs.
 
-### Grants 
+### Grants {#grants}
 
 Grants can be an important source of supplemental funding for heritage surveys; however, they take time to administer, and in many cases require matching funds. Grant opportunities can be explored during the planning process and throughout the project, such that available funds and funding cycles can be accounted for in the overall project budget and schedule over the life of a survey.
 
-### Partnerships
+### Partnerships {#partnerships}
 
-Budget planning can include examining the opportunity to establish partnerships with universities and other research institutions, the private sector, and charitable foundations to help support the costs of the survey. Like grants, partnerships may provide funding for the project in whole or in part. As mentioned in **chapter 5**, the work of the Getty Conservation Institute to establish a blueprint for a citywide survey in Los Angeles resulted in the multiyear partnership and associated grant agreement between the J. Paul Getty Trust and the City of Los Angeles to complete SurveyLA. After the official launch of SurveyLA, the GCI funded work associated with the citywide historic context and project technology and also helped to implement Arches as the city’s heritage inventory system.
+Budget planning can include examining the opportunity to establish partnerships with universities and other research institutions, the private sector, and charitable foundations to help support the costs of the survey. Like grants, partnerships may provide funding for the project in whole or in part. As mentioned in [chapter 5](/part-2/chapter-5/), the work of the Getty Conservation Institute to establish a blueprint for a citywide survey in Los Angeles resulted in the multiyear partnership and associated grant agreement between the J. Paul Getty Trust and the City of Los Angeles to complete SurveyLA. After the official launch of SurveyLA, the GCI funded work associated with the citywide historic context and project technology and also helped to implement Arches as the city’s heritage inventory system.
 
-## Survey Schedule and Timeline 
+## Survey Schedule and Timeline {#survey-schedule-and-timeline}
 
 Developing a realistic schedule for a survey is important to managing the expectations of the lead agency or organization, stakeholders, and the public regarding how the project will unfold over time. The overall project schedule may be based on variables such as the size and scope of the survey, available resources for its completion, and the urgency of data needs. The schedule guides the work plan for the survey and typically incorporates a timeline for the project as a whole, as well as for each individual activity of the survey: when each will start and end, and areas of overlap.
 
@@ -74,7 +74,7 @@ Developing a realistic schedule for a survey is important to managing the expect
 
 Survey elements or components are identified during survey planning to drive the development of survey tools, methods, processes, and procedures.
 
-### Technologies for Data Collection and Management 
+### Technologies for Data Collection and Management {#technologies-for-data-collection}
 
 Survey planning is the time to develop a strategy to fully explore technology options and approaches for data collection and management. Surveys are ideally designed for compatibility between the field data collection system and the associated inventory information system: these systems should be in accord with respect to data structures and standards. While this is the ideal, in reality, many agencies that initiate new surveys have no existing digital inventory or have inventory systems that need to be updated or made more robust.
 
@@ -102,13 +102,13 @@ The concepts of historic contexts and thematic frameworks, as defined in the **s
 
 ### The Role of Community Outreach and Engagement 
 
-The public can be engaged in heritage surveys in many ways. The extent and type of outreach approaches considered will reflect the overall goals of the survey as well as available funding and staffing. Survey planning may engage key stakeholders and others with a clear understanding of the scope and content of the survey and expertise in developing and implementing a range of community outreach strategies for heritage work. See **Public Outreach and Engagement** in [chapter 8](/part-2/chapter-8/).
+The public can be engaged in heritage surveys in many ways. The extent and type of outreach approaches considered will reflect the overall goals of the survey as well as available funding and staffing. Survey planning may engage key stakeholders and others with a clear understanding of the scope and content of the survey and expertise in developing and implementing a range of community outreach strategies for heritage work. See [Public Outreach and Engagement](/part-2/chapter-8/#public-outreach-and-engagement) in chapter 8.
 
 ## Pilot Surveys
 
 A pilot survey program serves as a test run to assess and refine tools, methods, and procedures in advance of the official launch of field surveys. The pilot may include one or more geographic areas, themes, and resource types. See [chapter 9](/part-2/chapter-9/) for details on completing pilot surveys.
 
-## Considerations and Recommendations for Assembling a Survey Project Team
+## Considerations and Recommendations for Assembling a Survey Project Team {#assembling-a-survey-project-team}
 
 Considerations for putting together a project team may include the survey scope and approach, in-house staffing capacity, the need for specialized knowledge, skills, and expertise, and project budget and funding. Multilingual needs and relevant professional qualification standards are also considerations when selecting project participants.[^3]
 
@@ -176,8 +176,8 @@ Source: Los Angeles City Planning, Office of Historic Resources
 
 {% endbackmatter %}
 
-[^1]: . For local jurisdictions where no survey standards have been developed, regional or national standards may be used.
+[^1]: For local jurisdictions where no survey standards have been developed, regional or national standards may be used.
 
-[^2]: . Most heritage agencies publish standards and guidelines on their associated websites.
+[^2]: Most heritage agencies publish standards and guidelines on their associated websites.
 
-[^3]: . A number of countries, including the United States and United Kingdom, have qualification standards for heritage professionals.
+[^3]: A number of countries, including the United States and United Kingdom, have qualification standards for heritage professionals.

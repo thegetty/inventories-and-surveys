@@ -5,6 +5,7 @@ subtitle: "Purpose-Built Software for Heritage Inventories and Surveys"
 layout: essay
 contributor:
   - id: dmyers
+  - id: aenriquez
 order: 50
 ---
 
@@ -44,7 +45,7 @@ Choosing an open-source software approach enables the work of the project to inc
 
 The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see [[GCI and WMF n.d.]].[^1]
 
-### Data Management
+### Data Management {#data-management}
 
 A fundamental aspect of Arches is that the platform is designed to enable implementers to manage the specific data they have defined by modifying the system to accommodate it. For example, the visual interface of Arches provides the ability to configure the underlying database and generate the necessary end-user interfaces without the need for software coding. Integrated with this configurability is the capacity for advanced management of controlled vocabularies. Arches also offers the ability to publish information online, including tools to fully control access to published information.
 
@@ -52,7 +53,7 @@ Additionally, Arches is built to support the ongoing work of heritage inventorie
 
 The data structure of Arches provides the ability to produce semantically enhanced, self-describing data according to internationally recognized standards, such as ISO 21127:2014 – more commonly referred to as the CIDOC Conceptual Reference Model, or CIDOC CRM ([[ISO 2014]]). This capability creates machine-readable data that is interoperable and portable. Because Arches uses common nonproprietary file formats, the structured data stored in Arches is software-platform independent and can be exported and migrated to other systems as necessary.
 
-### Data Visualization and Discovery
+### Data Visualization and Discovery {#data-visualization-and-discovery}
 
 In addition to providing for data management, Arches features robust visualization and discovery tools. The most prominent means of visualization in Arches is its geospatial features, such as navigation via the map interface, search using map filters, and the inclusion of historic map layers and satellite imagery ([fig. 4.1](#fig-4-1)).
 
@@ -70,7 +71,7 @@ Arches includes discovery tools that allow for in-depth interrogation of data. I
 
 An administrator of an independent Arches implementation can create predefined saved searches deemed to be of interest to users. For example, the City of Los Angeles’s deployment of Arches, HistoricPlacesLA, features an Entertainment Industry saved search on its homepage. All of these discovery tools can be used together to create powerful custom search queries.
 
-### Task and Project Management
+### Task and Project Management {#task-and-project-management}
 
 Arches can be customized to accommodate an agency’s specific workflows or business processes, integrating the existing inventory data with the information entered during the steps of a workflow. For example, if a heritage agency needs to manage a process mandated by law, such as a heritage impact assessment, that agency can customize Arches to include a step-by-step workflow that accesses the existing inventory data and includes task tracking, notifications of deadlines, and management of correspondence to help ensure that the process is completed in the correct order and in a timely fashion.
 
@@ -94,4 +95,4 @@ Its design is also intended to enable data to be used, updated, shared, and avai
 
 {% endbackmatter %}
 
-[^1]: . For more information on Arches, visit the project website (<http://archesproject.org/>). There, along with participating in the community forum, you can interact with an online demonstration version, download the software code, access documentation, view the project roadmap, and sign up for project updates.
+[^1]: For more information on Arches, visit the project website (<http://archesproject.org/>). There, along with participating in the community forum, you can interact with an online demonstration version, download the software code, access documentation, view the project roadmap, and sign up for project updates.

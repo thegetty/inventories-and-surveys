@@ -80,7 +80,7 @@ Also of relevance, the CARE Principles for Indigenous Data Governance were creat
 
 **\[END BLOCK\]**
 
-An inventory program can create metrics to assess the degree to which inventory information reflects whatever key qualities are deemed most appropriate. Such metrics are addressed further in chapter 2 under [Monitoring and Periodic Evaluation](/part-1/chapter-2/#monitoring-and-periodic-evaluation/).
+An inventory program can create metrics to assess the degree to which inventory information reflects whatever key qualities are deemed most appropriate. Such metrics are addressed further in chapter 2 under [Monitoring and Periodic Evaluation](/part-1/chapter-2/#monitoring-and-evaluation).
 
 {% backmatter %}
 

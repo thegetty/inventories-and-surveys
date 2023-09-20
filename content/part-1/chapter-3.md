@@ -16,19 +16,19 @@ The considerations are presented with the most fundamental first followed by oth
 
 ## Legal and Organizational Considerations
 
-The following are considerations relating to the [legal and policy framework](#does-a-legal-and-policy-framework-for-the-inventory-need-to-be-established-or-enhanced), [potential inventory consolidation](#how-many-inventories-are-needed-for-a-specific-jurisdiction), the [inventory’s purposes](#what-are-the-primary-and-secondary-purposes-of-the-inventory), and related [roles and responsibilities](#who-will-hold-what-roles-and-responsibilities-for-the-inventory).
+The following are considerations relating to the [legal and policy framework](#legal-and-policy-framework), [potential inventory consolidation](#how-many-inventories), the [inventory’s purposes](#what-are-the-purposes), and related [roles and responsibilities](#roles-and-responsibilities).
 
-### Does a Legal and Policy Framework for the Inventory Need to Be Established or Enhanced?
+### Does a Legal and Policy Framework for the Inventory Need to Be Established or Enhanced? {#legal-and-policy-framework}
 
 For an official heritage inventory of an administrative jurisdiction, a first consideration is to determine whether a legal and policy framework for the inventory needs to be established or enhanced. The following are specific points to consider examining in this regard:
 
 -   Does the existing legal and policy framework of your administrative jurisdiction explicitly authorize and support the jurisdiction’s heritage inventory or inventories? If not, then consider exploring ways to provide for that formal authorization and support, perhaps through amending the legal and policy framework.
 
--   If the inventory is already formally linked to the related legal and policy framework, are there ways the framework could be enhanced to strengthen the inventory’s effectiveness as a tool for heritage management? Has the historical development of the legal and policy framework led to the creation of multiple topical heritage inventories (e.g., archaeological, architectural and urban, intangible) that would function more effectively if they were consolidated? (This question is dealt with in further detail in the [next section](#how-many-inventories-are-needed-for-a-specific-jurisdiction).)
+-   If the inventory is already formally linked to the related legal and policy framework, are there ways the framework could be enhanced to strengthen the inventory’s effectiveness as a tool for heritage management? Has the historical development of the legal and policy framework led to the creation of multiple topical heritage inventories (e.g., archaeological, architectural and urban, intangible) that would function more effectively if they were consolidated? (This question is dealt with in further detail in the [next section](#how-many-inventories).)
 
 An in-depth analysis may help determine how a legal and policy framework might be enhanced to better support a heritage inventory or inventories. It may also be worthwhile to look at examples of how other legal and policy frameworks support inventories for reference. See **Legal and Policy Framework** and **Inventory Consolidation and Integration** in the sidebar for examples.
 
-### How Many Inventories Are Needed for a Specific Jurisdiction? 
+### How Many Inventories Are Needed for a Specific Jurisdiction? {#how-many-inventories}
 
 When a heritage organization has the opportunity to establish or modernize an inventory program, a first-order consideration may be to determine how many inventories would be optimal for the jurisdiction. If multiple inventories and related inventory databases already exist, a related question is whether any of them should be consolidated. This question may be primarily relevant for national-level inventories, and occasionally for regional-level ones.
 
@@ -40,23 +40,23 @@ As is well known, such separations in law, in administration and practice, and i
 
 As mentioned in the [introduction](/introduction/), in recent years the heritage field has experienced a trend toward a more holistic approach to management, in which the variety of heritage typologies are integrated within a unified system. A more holistic approach is now broadly deemed to be more efficient, effective, and sensitive. Following this trend, some heritage agencies have taken proactive measures to rationalize their separate inventories into fewer ones, or even a single inventory database, and to unify their controlled vocabularies. Some have even integrated their field survey teams to include a range of specialties, such as both archaeology and architectural history. See **Inventory Consolidation and Integration** in the sidebar for examples of how two jurisdictions are handling these issues.
 
-### What Are the Primary and Secondary Purposes of the Inventory? 
+### What Are the Primary and Secondary Purposes of the Inventory? {#what-are-the-purposes}
 
 Another first-order consideration is what purposes an inventory will serve, at the primary and secondary levels, and perhaps beneath that. Very often, inventories of public agencies first serve the function of heritage protection and management and land-use planning, as well as informing the public (which is typically a requirement for any public agency). Then, secondarily, they serve research needs. Confirming these priorities will help guide the selection of types of information that need to be contained in an information system, culled from legacy data, collected in the field, and so on.
 
 Problems can arise when trying to make an inventory database equally serve everyone’s wishes. Experience has shown that inventory databases function better when they are designed to do a limited number of tasks simply. Public agencies also typically have limited resources, and therefore need to prioritize the areas of focus of their infrastructure and activities.
 
-### Who Will Hold What Roles and Responsibilities for the Inventory?
+### Who Will Hold What Roles and Responsibilities for the Inventory? {#roles-and-responsibilities}
 
 Another key consideration for an inventory program is who will hold related roles and responsibilities, and particularly who will serve in primary roles. In some cases, roles and responsibilities may be spread across multiple organizations. Roles and responsibilities may first be determined at an organizational level (i.e., which organization or organizations have what responsibilities), then at a suborganizational level, and finally at an individual personnel member level. In some cases, roles and responsibilities may be specified within the relevant legal and policy framework.[^1] Spreading roles and responsibilities across an organization or multiple organizations will require mechanisms for coordination.
 
 ## Users, Languages, and Access
 
-The following are considerations relating to [inventory users](#who-will-the-inventory-users-be), the [official language or languages of the inventory](#should-the-inventory-have-more-than-one-official-language), and [categories of information access](#what-categories-of-inventory-information-access-are-needed).
+The following are considerations relating to [inventory users](#inventory-users), the [official language or languages of the inventory](#official-language), and [categories of information access](#categories-of-inventory-information-access).
 
-### Who Will the Inventory Users Be? 
+### Who Will the Inventory Users Be? {#inventory-users}
 
-An additional consideration is what categories of users will be using the inventory. Determining user types will flow logically from defining the purposes the inventory serves. Different types of users will have varying motivations, interests, and technical capabilities and will seek different levels of information detail. Identifying user categories and needs can in turn provide a basis for defining different categories of inventory information system access, as well as system user privileges with respect to adding, editing, deleting, and exporting information (see [What Categories of Inventory Information Access Are Needed?](#how-will-inventory-information-be-managed-over-time)).
+An additional consideration is what categories of users will be using the inventory. Determining user types will flow logically from defining the purposes the inventory serves. Different types of users will have varying motivations, interests, and technical capabilities and will seek different levels of information detail. Identifying user categories and needs can in turn provide a basis for defining different categories of inventory information system access, as well as system user privileges with respect to adding, editing, deleting, and exporting information (see [What Categories of Inventory Information Access Are Needed?](#categories-of-inventory-information-access)).
 
 Clearly, primary users will include those who are responsible for managing and maintaining the inventory and adding, updating, and editing information within it. A small number of individuals will need exclusive privileges to administer the database and its other users; in IT parlance these would be considered superusers.
 
@@ -64,13 +64,13 @@ Another user group of primary importance is other heritage professionals from th
 
 Typically, other types of nongovernmental heritage professionals also require inventory access, such as heritage consultants, professional researchers, and NGO staff. Other types of nonheritage specialists may need inventory access for professional purposes, for example, other government planners and environmental, planning, or design consultants. Other typical inventory users include community groups, educators and students, property owners and developers, amateur researchers, and casual users.
 
-### Should the Inventory Have More than One Official Language? 
+### Should the Inventory Have More than One Official Language? {#official-language}
 
 If an inventory is for a multilingual jurisdiction, its official operating language (or languages) is an important consideration – one that is sometimes specified by law. This determination will affect things such as the text of the user interface of an inventory database, the languages of database drop-down values or vocabularies, the language permitted for free-text data entry into the database, and the language used for related written guidance and other informational materials and in inventory-related public meetings. Some jurisdictions will need multilingual inventory databases as well as related materials and activities. Knowing the intended inventory users will inform the determination of inventory languages. Having a multilingual inventory may at some point necessitate efforts to translate terms and texts between languages.[^2]
 
 Web-based tools and standards also exist for collaborative creation and management of translations of the user interface and potentially data input components of information systems and apps, documentation, and websites. This process is known in information technology practice as *internationalization and localization* ([[Souphavanh and Karoonboonyanan 2005]]).
 
-### What Categories of Inventory Information Access Are Needed?
+### What Categories of Inventory Information Access Are Needed? {#categories-of-inventory-information-access}
 
 Another essential consideration when establishing an inventory is to determine what users should have access to which information. In some cases, most information will be made accessible to all users, including the general public. Very often, however, access to specific types of information will be restricted by law, such as detailed or location information on archaeological sites and places held sacred by indigenous groups. Typically, certain information must be held confidential, such as personal information about property owners or information system user credentials. Access to some data may also be limited by copyright and privacy restrictions. See **Information Accessibility** in the sidebar for more on this topic.
 
@@ -80,7 +80,7 @@ Once an information access policy has been created, the inventory DBA can create
 
 ## Inventory Information
 
-The following are considerations related to inventory information record types, as well as [controlled vocabularies](#are-controlled-vocabularies-needed-for-the-inventory).
+The following are considerations related to inventory information record types, as well as [controlled vocabularies](#controlled-vocabularies).
 
 ### What Record Types Need to Be Included in the Inventory?
 
@@ -90,7 +90,7 @@ Another important consideration is what types of information records an inventor
 
 Following from identifying the heritage resource types and other record types to be included in the inventory, a next-order consideration is what set of information each inventory record type should contain (see [fig. 2.2b](/part-1/chapter-2/#fig-2-2b)). The specific data fields for each type of database record will need to be defined, as well as the data type of each field (e.g., free text, numeric, address, geospatial location, controlled vocabulary). When considering incorporating inventory data within an information system, many additional related details will need to be determined, depending on the characteristics of the information system. See **Data Standards** in the sidebar for more on this topic.
 
-### Are Controlled Vocabularies Needed for the Inventory?
+### Are Controlled Vocabularies Needed for the Inventory? {#controlled-vocabularies}
 
 As discussed in the **Controlled Vocabularies** sidebar in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
 
@@ -100,9 +100,9 @@ The task of defining controlled vocabularies may require the involvement of a gr
 
 ## Sources, Guidance, and Activities
 
-The following are considerations regarding [sources of legacy data](#what-legacy-data-sets-should-be-incorporated-in-the-inventory), ongoing [management of inventory information](#how-will-inventory-information-be-managed-over-time), and [external engagement](#how-will-the-inventory-program-address-external-engagement-community-outreach-and-public-participation).
+The following are considerations regarding [sources of legacy data](#legacy-data), ongoing [management of inventory information](#inventory-information-over-time), and [external engagement](#external-engagement-outreach-participation).
 
-### What Legacy Data Sets Should be Incorporated in the Inventory?
+### What Legacy Data Sets Should be Incorporated in the Inventory? {#legacy-data}
 
 A key step when establishing or enhancing a heritage inventory is to identify any relevant sets of legacy data to potentially incorporate. Legacy data might collectively help form an initial data set for an inventory or may otherwise add valuable information. Such legacy data might exist within your own agency or with other government agencies, academic institutions, or NGOs, or with individual researchers, libraries, or archives.
 
@@ -112,9 +112,9 @@ After valuable legacy data sets have been identified, steps may be taken to secu
 
 A later step with legacy data is to prepare the data to be imported into a target heritage database. If legacy data resides in other databases, it will need to be transferred through a multi-step ETL (extract-transform-load) process. Preparing legacy data for import inevitably involves an extensive investment of time in data cleanup (e.g., addressing errors or inconsistencies), formatting, and mapping data fields from the legacy database to the target database structure. Once that legacy data is cleaned and mapped to a target database, the import process is typically an iterative one, with data errors or inconsistencies being revealed with each import attempt. Further legacy data corrections are needed after each step, until an import succeeds without errors.
 
-### How Will Inventory Information Be Managed Over Time? 
+### How Will Inventory Information Be Managed Over Time? {#inventory-information-over-time}
 
-For your inventory program, what measures should be implemented to create, collect, update, add to, and improve information over time? Improving the inventory record is a continuous process that is usually best achieved through a variety of means. As discussed in chapter 2, in the section **Information Collection, Creation, and Editing**, common related activities include:
+For your inventory program, what measures should be implemented to create, collect, update, add to, and improve information over time? Improving the inventory record is a continuous process that is usually best achieved through a variety of means. As discussed in chapter 2, in the section [Information Collection, Creation, and Editing](/part-1/chapter-2/#information-collection-creation-and-editing), common related activities include:
 
 -   Compiling legacy data or existing information
 
@@ -140,7 +140,7 @@ Finally, as mentioned previously, it is important that heritage organizations st
 
 QA/QC may include activities such as data editors regularly checking the quality of additions and edits to data and flagging issues needing correction, possibly including checking mapped locations for accuracy and precision. Another quality control example is DBAs running automated validation tests to evaluate data with respect to the established rules or standards and then flagging issues for correction.
 
-### How Will the Inventory Program Address External Engagement, Community Outreach, and Public Participation?
+### How Will the Inventory Program Address External Engagement, Community Outreach, and Public Participation? {#external-engagement-outreach-participation}
 
 As discussed in chapter 2, for inventory programs of public heritage agencies, engagement with external organizations and stakeholders, including the general public, is a key and ongoing activity (see **External Engagement, Community Outreach, and Public Participation**). This is often also the case in certain ways for heritage NGOs. Those working within an inventory program may wish to determine the nature of those engagements, some of which may be determined by the legal or administrative context within which they are operating. The following are related considerations:
 
@@ -227,15 +227,15 @@ It is recommended that an inventory program have a set of guidance materials for
 
 -   **Access by external or public users**, which might focus on searching for and visualizing inventory data, and potentially downloading data
 
-Guidance for IT typically refers to relevant data standards, including [controlled vocabularies](#are-controlled-vocabularies-needed-for-the-inventory), as discussed in earlier in this chapter. Guidance can take the form of written and illustrated documents or webpages, which might include screenshots from the inventory database and mobile apps, and potentially also video tutorials.
+Guidance for IT typically refers to relevant data standards, including [controlled vocabularies](#controlled-vocabularies), as discussed in earlier in this chapter. Guidance can take the form of written and illustrated documents or webpages, which might include screenshots from the inventory database and mobile apps, and potentially also video tutorials.
 
-Depending on the [number of official languages](#should-the-inventory-have-more-than-one-official-language) of the inventory, guidance might need to be prepared in multiple languages. It is recommended that attention be given to keeping guidance up to date as changes occur, for example, when the database software is replaced, field recording technologies are updated, methods are improved, or if organizational roles and responsibilities change. See **Guidance Materials** in the sidebar for useful examples.
+Depending on the [number of official languages](#official-language) of the inventory, guidance might need to be prepared in multiple languages. It is recommended that attention be given to keeping guidance up to date as changes occur, for example, when the database software is replaced, field recording technologies are updated, methods are improved, or if organizational roles and responsibilities change. See **Guidance Materials** in the sidebar for useful examples.
 
 ## Ongoing Support, Evaluation, and Improvement
 
-The following are considerations regarding long-term [inventory program support](#how-will-inventory-related-infrastructure-activities-and-staffing-be-supported-over-the-long-term), [evaluation](#_What_Measures_Are), and [improvement](#how-might-the-interactions-of-multiple-inventories-across-a-heritage-sector-be-improved).
+The following are considerations regarding long-term [inventory program support](#infrastructure-over-the-long-term), [evaluation](#what-measures-are), and [improvement](#how-might-the-interactions-improve).
 
-### How Will Inventory-Related Infrastructure, Activities, and Staffing Be Supported over the Long Term?
+### How Will Inventory-Related Infrastructure, Activities, and Staffing Be Supported over the Long Term? {#infrastructure-over-the-long-term}
 
 Given that inventory information needs to be improved and updated on an ongoing basis, one of the most important considerations is to determine how inventory-related infrastructure, activities, and staffing will be supported over time. Potential types of support utilized by public agencies and NGOs include:
 
@@ -253,13 +253,13 @@ Given that inventory information needs to be improved and updated on an ongoing 
 
 See **Fiscal Support** in the sidebar for examples of the latter two approaches.
 
-### What Measures Are Needed to Monitor and Evaluate How Well-Defined Inventory Outcomes Are Being Achieved?
+### What Measures Are Needed to Monitor and Evaluate How Well-Defined Inventory Outcomes Are Being Achieved? {##what-measures-are}
 
 It is recommended that heritage organizations consider establishing systems to monitor and periodically evaluate aspects of their inventory program. By defining specific outcomes and related indicators over defined time periods, organizations can assess the extent to which defined outcomes are achieved. Topical areas for assessment might include currency and comprehensiveness of inventory information, compliance with data standards, data security, levels of access and external engagement, delivery of services, and assessing the appropriateness of infrastructure, resources, and management.
 
 Heritage organizations might additionally consider evaluating their inventories with respect to the key qualities required for effective heritage management outlined in [chapter 1](/part-1/chapter-1/). These efforts can ultimately help identify areas in need of improvement, attention, and/or further investment. For example, inventory information currency can be assessed to help identify specific areas in need of updates through new data collection activities, such as surveys. See **Monitoring and Evaluation** in the sidebar for examples of auditing systems.
 
-### How Might the Interactions of Multiple Inventories across a Heritage Sector Be Improved?
+### How Might the Interactions of Multiple Inventories across a Heritage Sector Be Improved? {#how-might-the-interactions-improve}
 
 In many heritage sectors multiple heritage inventories need to interact with one another, which tends to involve a number of complexities and other challenges. For example, information from regional or local inventories may need to be integrated into or shared with a corresponding national inventory, or information from local inventories may need to be integrated into or shared with a state or provincial inventory. This integration can be further complicated by additional heritage organizations responsible for collecting inventory-level information within a given sector, such as public works or transportation agencies or managers of heritage sites or areas.
 
@@ -275,8 +275,8 @@ For varied examples of means to improve inventory interactions across a heritage
 
 {% endbackmatter %}
 
-[^1]: . See, for example, the statutorily defined roles and responsibilities in Wales with respect to Welsh historic environment records ([[Cadw 2017a]]).
+[^1]: See, for example, the statutorily defined roles and responsibilities in Wales with respect to Welsh historic environment records ([[Cadw 2017a]]).
 
-[^2]: . Use of online automated translation services, such as Google Translate, is growing. Note that caution should be exercised in assessing the accuracy of such automated translations.
+[^2]: Use of online automated translation services, such as Google Translate, is growing. Note that caution should be exercised in assessing the accuracy of such automated translations.
 
-[^3]: . The management consulting company Gartner defines total cost of ownership (TCO) as “a comprehensive assessment of information technology (IT) or other costs across enterprise boundaries over time. For IT, TCO includes hardware and software acquisition, management and support, communications, end-user expenses and the opportunity cost of downtime, training and other productivity losses” ([[Gartner n.d]]).
+[^3]: The management consulting company Gartner defines total cost of ownership (TCO) as “a comprehensive assessment of information technology (IT) or other costs across enterprise boundaries over time. For IT, TCO includes hardware and software acquisition, management and support, communications, end-user expenses and the opportunity cost of downtime, training and other productivity losses” ([[Gartner n.d]]).
