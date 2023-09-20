@@ -81,7 +81,11 @@ contributor:
     first_name: Nicholas
     last_name: Yeo
     bio: "Nicholas Yeo is currently the senior manager of the Heritage Policy & Research department of the National Heritage Board, Singapore. He is involved in developing programs, content, and campaigns to raise awareness of Singapore’s intangible cultural heritage, alongside initiatives to support the sustainability of heritage businesses. Nicholas has more than twelve years of experience in the cultural heritage sector and has worked in various fields, including marketing and communications and digital engagement. He also enjoys documenting both the built heritage and food heritage of Singapore through photos."
-
+  - id: aenriquez
+    type: secondary
+    first_name: Annabel Lee
+    last_name: Enriquez
+    bio: "TK"
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
