@@ -54,7 +54,7 @@ Following desk-based assessment, further intrusive archaeological investigation 
 
 Any resulting information is submitted to the HER, where it is recorded to inform future applications and decisions. Thus, the heritage record is constantly enhanced and updated, with benefits to the academic community through the gathering of knowledge, to developers in the greater certainty and confidence of their finances and timetables, and to the public through greater understanding of their past and in the provision of new, sustainable construction.
 
-## Arcade: Lincoln’s HER Information System
+## Arcade: Lincoln’s HER Information System {#arcade-lincolns-her-information-system}
 
 In Lincoln, the information system used to perform all these tasks is called Arcade ([[City of Lincoln Council n.d.]]); it is an Arches-powered heritage inventory launched in 2018 (see [chapter 4](/part-1/chapter-4/)). The system enables real-time online access to the city’s HER and is used by academic and commercial researchers to gain a better understanding of the city’s heritage ([fig. 13.2](#fig-13-2)).
 
