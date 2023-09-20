@@ -13,7 +13,7 @@ This narrative includes recommendations, considerations, and pointers for survey
 
 As described in [chapter 5](/part-2/chapter-5/), SurveyLA is the outgrowth of earlier research and study by the Getty Conservation Institute (GCI) to establish the need for and benefits of a survey of Los Angeles and to provide a blueprint for how it could be completed. This information served as an indispensable starting point for the city in undertaking a survey of unprecedented size and scope and implementing innovative methodologies. Various strategies were tried, tested, and revised over the course of the multiyear survey. While in the end SurveyLA proved successful for Los Angeles, it has also gained ongoing international interest as a demonstration project for completing surveys.
 
-Using the experience of SurveyLA, part II presents the heritage survey process as a series of steps (**fig. II.1**) that are summarized below and detailed in the chapters that follow.
+Using the experience of SurveyLA, part II presents the heritage survey process as a series of steps ([fig. II.1](#fig-II-1)) that are summarized below and detailed in the chapters that follow.
 
 1.  **Establish the need for a survey** to assess the scope and type of information to be collected to meet survey goals and objectives, including the proposed uses of the resulting data and inventory to inform heritage management (see [chapter 6](/part-2/chapter-6/)).
 
