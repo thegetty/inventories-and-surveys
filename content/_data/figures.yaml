@@ -1,7 +1,355 @@
 figure_list:
 
-  - id: ""
-    src: 
-    caption: ""
-    credit: ""
-    alt: ""
+  - id: "fig-i-1"
+    src: "figures/fig-i-1.jpg"
+    caption: "The Burra Charter Process ({{Australia ICOMOS 2013a}})."
+    credit: "Australia ICOMOS Incorporated"
+    alt: 
+
+  - id: "fig-i-2"
+    src: "figures/fig-i-2.png"
+    caption: "The English Heritage virtuous circle of understanding, valuing, caring for, and enjoying the historic environment ({{English Heritage 2005}})."
+    credit: "English Heritage"
+    alt: 
+  
+   - id: "fig-i-3"
+    src: "figures/fig-i-3.png"
+    caption: "The heritage items included in an inventory typically represent that subset of places evaluated that are deemed significant or potentially significant. A further subset of heritage items in an inventory is typically designated or listed."
+    credit: "David Myers, GCI"
+    alt:
+
+  - id: "fig-i-4"
+    src: "figures/fig-i-4.png"
+    caption: "The inventory lifecycle. A heritage inventory is an ongoing record (bottom) that is created and (ideally) updated and improved over time through a range of information collection and assessment activities (top), including surveys. Note: The types of activity shown are merely examples. Aside from the initial inventory creation activity, the other activity types may occur in any sequence."
+    credit: "David Myers, GCI"
+    alt:
+
+  - id: "fig-i-5"
+    src: "figures/fig-i-5.png"
+    caption: "Roles of inventories and surveys. Surveys and inventories can serve a variety of purposes that can be divided broadly between understanding heritage and providing a basis for making decisions and taking actions regarding that heritage."
+    credit: "David Myers, GCI"
+    alt:
+
+  - id: "fig-2-1"
+    src: "figures/fig-2-1.png"
+    caption: "Types of infrastructure, resources, and activities an inventory program may require. The program’s legal and policy framework is the foundation of the other elements."
+    credit: "David Myers, GCI"
+    alt:
+
+  - id: "fig-2-2a"
+    src: "figures/fig-2-2-a.png"
+    caption: "Example inventory information record types."
+    credit: "David Myers, GCI"
+    alt:
+
+  - id: "fig-2-2b"
+    src: "figures/fig-2-2-b.png"
+    caption: "Example attributes of a heritage resource record type."
+    credit: "David Myers, GCI"
+    alt:
+
+  - id: "fig-2-3"
+    src: "figures/fig-2-3.jpg"
+    caption: "A generic website analytics dashboard. Periodically assessing website analytics can provide a range of useful information about the characteristics of visitors to inventory-related webpages."
+    credit: "Lindsey Gant, GCI"
+    alt:
+
+  - id: "fig-4-1"
+    src: "figures/fig-4-1.jpg"
+    caption: "Using the Location filter in Arches, heritage resources that would be impacted by a proposed development project can be quickly identified."
+    credit: "HistoricPlacesLA"
+    alt:
+
+  - id: "fig-4-2"
+    src: "figures/fig-4-2.png"
+    caption: "The Related Resources graph displays relationships between Arches resources, in this instance between an architect and the buildings he designed as well as other persons related to those buildings, such as owners and occupants."
+    credit: "Annabel Lee Enriquez, GCI, ©J. Paul Getty Trust"
+    alt:
+
+  - id: 
+    src: "figures/fig-4-3.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-4-4.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-4-5.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-ii-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-5-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-5-2.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-6-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-7-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-7-2.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-2.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-3-a.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-3-b.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-4.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-5.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-6.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-8-7.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-9-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-9-2.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-9-3.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-2.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-3.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-4.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-5.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-6.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-7.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-8.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-9.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-10.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-11-a.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-11-b.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-11-c.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-11-d.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-10-12.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-11-1.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-12-1.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-12-2.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-12-3.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-12-4.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-12-5.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-12-6.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-13-1.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-13-2.png"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-13-3.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-14-1.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-14-2.jpg"
+    caption:
+    credit:
+    alt:
+
+  - id: 
+    src: "figures/fig-14-3.jpg"
+    caption:
+    credit:
+    alt:
