@@ -12,7 +12,7 @@ figure_list:
     credit: "English Heritage"
     alt: 
   
-   - id: "fig-i-3"
+  - id: "fig-i-3"
     src: "figures/fig-i-3.png"
     caption: "The heritage items included in an inventory typically represent that subset of places evaluated that are deemed significant or potentially significant. A further subset of heritage items in an inventory is typically designated or listed."
     credit: "David Myers, GCI"
@@ -158,7 +158,7 @@ figure_list:
 
   - id: "fig-8-6"
     src: "figures/fig-8-6.jpg"
-    caption: "The media can be an ally to promote and support the project. Location shooting for a \**PBS NewsHour*\* story on SurveyLA. The special report, titled “Preserving the LA Story, One Block at a Time,” aired in May 2014."
+    caption: "The media can be an ally to promote and support the project. Location shooting for a *PBS NewsHour* story on SurveyLA. The special report, titled “Preserving the LA Story, One Block at a Time,” aired in May 2014."
     credit: "Los Angeles City Planning, Office of Historic Resources"
     alt:
 
