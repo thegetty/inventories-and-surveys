@@ -35,9 +35,9 @@ The ongoing experiences of the authors provide thoughts and recommendations for 
 
 -   Preparing survey data for inventory integration requires a detailed and cautious review by the data manager, who must identify any commonalities and differences between the inventory system data structure and that of the survey. Most often these can be found in the controlled vocabularies used for the organization of data. For example, the survey data in review for integration may include the use of different, yet parallel, terminology than that established for the inventory. Alternatively, the survey data in review for integration may include terminology for which an equivalent term is lacking in the inventory. It is critical to reconcile discrepancies such as these before survey data is integrated into the inventory. In cases when it is not possible to import or merge records simply, it may be necessary to edit the existing inventory, the survey data structure, or the controlled vocabularies to support the data being integrated.
 
-> [Figure 11.1](#fig-11-1) illustrates the steps necessary to integrate survey data that is not recorded directly into an inventory system.
->
-> [[ figure 'fig-11-1' ]]
+[Figure 11.1](#fig-11-1) illustrates the steps necessary to integrate survey data that is not recorded directly into an inventory system.
+
+{% figure 'fig-11-1' %}
 
 ## Final Survey Reports
 

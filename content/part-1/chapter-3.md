@@ -150,9 +150,6 @@ As discussed in chapter 2, for inventory programs of public heritage agencies, e
 
 -   Would the inventory benefit from having an advisory committee that includes representatives from stakeholder groups or the general public?
 
-```{=html}
-<!-- -->
-```
 -   How can stakeholder groups, as well as the general public, best participate in identifying heritage resources they deem significant and provide other relevant information? In some cases, this decision may be enhanced through proactive outreach to stakeholder groups to encourage their participation (see **Stakeholder Inclusion** in the sidebar). Consider the following approaches:
 
     -   Carrying out oral history interviews with targeted stakeholders or members of the public
@@ -163,7 +160,7 @@ As discussed in chapter 2, for inventory programs of public heritage agencies, e
 
     -   Enlisting and training stakeholder groups or volunteers in crowdsourcing activities
 
-> To help ensure the quality of information provided, you may also wish to consider limiting publicly submitted or crowdsourced information to a subset of data within inventory records (perhaps by eliciting descriptive and factual information but not assessments of significance), as well as putting in place measures to validate publicly submitted or crowdsourced information, such as follow-up research.
+To help ensure the quality of information provided, you may also wish to consider limiting publicly submitted or crowdsourced information to a subset of data within inventory records (perhaps by eliciting descriptive and factual information but not assessments of significance), as well as putting in place measures to validate publicly submitted or crowdsourced information, such as follow-up research.
 
 -   If a heritage inventory utilizes an accompanying thematic framework, thematic studies, or historic context statements, how can stakeholders be engaged to provide input on formulating or enhancing those tools?
 

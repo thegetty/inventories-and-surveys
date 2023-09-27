@@ -12,9 +12,9 @@ This principle is embedded in the heritage management processes of many nations.
 
 Although inventories and related surveys may not provide a comprehensive understanding of heritage, they provide a valuable foundation to gain such understanding, particularly when dealing with large numbers of heritage places at site, regional, national, or international scale. As shown in the Burra Charter flowchart (see [fig. i.1](#fig-i-1)), such understanding provides a basis for all of the heritage management and protection activities that follow.
 
-[[ figure 'fig-i-1' ]]
+{% figure 'fig-i-1' %}
 
-[[ figure 'fig-i-2' ]]
+{% figure 'fig-i-2' %}
 
 Across the globe, heritage-related legislation at national, regional, and local levels usually mandates the establishment and use of inventories for heritage management and for keeping inventory information current through surveys. The UNESCO Recommendation Concerning the Protection, at National Level, of the Cultural and Natural Heritage ([[UNESCO 1972b\|\|1972]]) urges national heritage authorities as a matter of urgency to establish heritage inventories and keep them up to date. For organizations tasked with safeguarding heritage resources, inventories, surveys, and their linkage to legal regimes for heritage protection are the most fundamental means at their disposal for managing change to the built environment.
 
@@ -46,7 +46,7 @@ For the purposes of this volume, we define a *heritage inventory* as an ongoing,
 
 Official heritage inventories maintained by public agencies typically include records of heritage resources designated or listed through statutory lists or registers, as well as properties determined through evaluation to meet a minimum threshold of significance ([fig. i.3](#fig-i-3)). While the latter are not formally listed or designated, they may nevertheless need to be considered in planning decisions. Some inventories also include properties determined through assessments to not meet a minimum threshold of significance – another important factor to inform decision-making.[^4] In addition, inventories may hold records about heritage that no longer exists for purposes of posterity and research. They are established to serve as tools for a range of purposes, including heritage management and protection and public appreciation, as discussed in the [Roles of Inventories and Surveys](#roles-of-inventories) section here and the case studies in [part IV](/part-IV/).
 
-**\[\[fig-i-3\]\]**
+{% figure 'fig-i-3' %}
 
 Official inventories are typically established through legal mandate, in which case they are often known as *statutory inventories.* Inventories are also often created by nongovernmental organizations (NGOs), professional or voluntary organizations, or researchers with interests relating to geographical areas or topical concerns.[^5] In many cases, inventories first created by NGOs or researchers have formed the basis for creating or supplementing official or statutory inventories. Inventories are produced at a variety of geographic scales, including international, national, regional, local (e.g., city), and site levels. In some cases, topical or thematic inventories are produced, such as of modern or industrial heritage, shipwrecks, or intangible heritage.
 
@@ -56,7 +56,7 @@ Ideally, information within an inventory evolves as more is learned about herita
 
 A heritage survey is one among several types of heritage data collection activities with similar purposes, including historical map regression;[^6] analysis of remote sensing data such as satellite imagery, aerial photography, or airborne laser scanning (known as *lidar*); cultural mapping; and archaeological excavations. Ideally, surveys and other data collection activities are designed (before implementation) to collect information in such a way that it can be incorporated efficiently within an ongoing inventory ([fig. i.4](#fig-i-4)). Put another way, information within inventories is best kept current as well as improved through surveys and other data collection activities with similar purposes.
 
-[[ figure 'fig-i-4' ]]
+{% figure 'fig-i-4' %}
 
 Surveys may be undertaken to create or update an inventory and may have a geographic, thematic, or temporal focus. Some surveys cover entire geographic areas that have never been surveyed or formally investigated or focus on subareas that have not been included in previous surveys of a geographic area. Others focus on heritage typologies that are underrepresented in existing inventories or are from certain time periods that have never been recorded. Surveys may also be geared toward updating existing information on heritage places, for example, after a substantial amount of time has elapsed since a prior survey, in advance of planned development in an area, or in direct response to changes in the built environment, such as in the wake of natural disasters or conflicts.
 
@@ -66,7 +66,7 @@ Survey information provides a snapshot from a specific point in time. Potentiall
 
 Inventories and surveys in tandem play a variety of important roles in heritage management. As shown in [figure i.5](#fig-i-5), these functions can be divided broadly between those that aid in understanding heritage and those aimed at using that understanding to make decisions and take actions with respect to heritage. With respect to the “understanding” function, the primary purpose of inventories and surveys is to identify, describe, and collect assessments of heritage resources deemed to be significant or potentially significant – or those not deemed significant. Crucially, they can provide a basis for monitoring and understanding changes to significant heritage resources over time. Inventories and surveys can also be valuable tools for progressing knowledge and understanding of the collective historic environment over broad areas, to whatever geographic extent they pertain. Such a knowledge base can be progressively added to over time through successive surveys and other data collection activities.
 
-[[ fihure 'fig-i-5' ]]
+{% figure 'fig-i-5' %}
 
 Making inventories publicly accessible and seeking public participation in reference to both inventories and related surveys can be highly beneficial. This effort can serve as a means to elicit from stakeholders information about heritage resources not included in inventories and can allow them to contribute additional information to existing records to supplement or improve those records. This input can be particularly useful in the identification of heritage resources that are significant for their historical, ethnic, and cultural associations in ways that may not be readily apparent through visual inspection. Inventories and surveys can, in this way, provide mechanisms to generate and foster public engagement in heritage identification, understanding, and management.
 

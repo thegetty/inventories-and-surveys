@@ -42,11 +42,11 @@ Survey planning will identify positions needed to manage and carry out a survey 
 
 Estimating the costs associated with a survey will establish budgets for the project as a whole and for its various components. Project expenses are highly dependent on factors relating to the size and scope of the survey, adequate and qualified project personnel, technological infrastructure, state of an existing inventory data or previous survey data, available research and scholarship on the area’s heritage resources, and the scope of outreach programs and activities. [Figure 7.1](#fig-7-1) is a budget model with the main cost categories for a survey depicted as percentages of the total budget, based on the experiences of SurveyLA.
 
-[[ figure 'fig-7-1' ]]
+{% figure 'fig-7-1' %}
 
 [Table 7.1](table-7-1) shows a breakdown of the primary expenses within each category. Note that these expenses may not all be relevant for every survey; for example, small-scale surveys or those highly reliant on community involvement and the use of volunteers can reduce or avoid some costs.
 
-[[ figure 'table-7-1' ]]
+**[[ figure 'table-7-1' ]]**
 
 While it is necessary to develop at least a preliminary project budget to secure a commitment to complete a survey, it is important to expect that the budget may need to be revised once the project is initiated and survey tools and methods are tested and further defined. Pilot surveys are central to estimating the time and budget needed to complete the field surveys, as discussed in [chapter 9](/part-2/chapter-9/).
 
@@ -118,7 +118,7 @@ In some instances, a survey may be wholly completed by agency or organization pe
 
 Key survey team positions and responsibilities, including volunteers and interns, are illustrated in the survey team model in [figure 7.2](#fig-7-2).
 
-[[ figure 'fig-7-2' ]]
+{% figure 'fig-7-2' %}
 
 The model can be applied or adapted to a range of survey types, as not every survey will require every position described below, and some surveys may be highly dependent on community outreach and the use of volunteers.
 

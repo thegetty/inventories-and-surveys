@@ -43,9 +43,6 @@ The following are suggestions for when it may be appropriate to use a reconnaiss
 
 -   **When there is an urgent need for rapid collection of information on a particular geographic area or resource typology** due to circumstances such as natural disasters or development pressures.
 
-```{=html}
-<!-- -->
-```
 -   **When a geographic area has never before been surveyed** and the nature of its heritage resources is unknown. In these instances, reconnaissance survey data can be used to develop a scope and plan for an intensive survey.
 
 -   **For archaeological surveys where there is no associated prior survey or excavation work.**
@@ -86,7 +83,7 @@ Survey methodology will include how field surveys will be organized, ordered, an
 
 For SurveyLA, field surveys were organized into thirty-five geographic areas based on the long-established boundaries of Los Angeles’s community plan areas ([fig. 8.1](#fig-8-1)). These survey areas were further organized into nine groups, which were prioritized, sequenced, and phased to inform and coordinate with the city’s Community Plan Update program. (See also the [SurveyLA Case Study](/part-2/chapter-10/#surveyla-case-study) section in chapter 10 to learn how this structure informed the community planning process.)
 
-[[ figure 'fig-8-1' ]]
+{% figure 'fig-8-1' %}
 
 ## Designing Digital Surveys {#designing-digital-surveys}
 
@@ -140,21 +137,21 @@ This section provides recommendations and considerations for developing historic
 
 Consideration for a historic context–based approach for SurveyLA originated with the GCI study for a citywide survey. Once SurveyLA was officially undertaken by the city of Los Angeles, the Office of Historic Resources further studied and refined the recommendations of the GCI report ([[Howe 2008\|22–23]]). This resulted in an extensive effort to develop a citywide historic context statement that would implement the MPD approach and be designed for digital data collection.
 
-([fig. 8.2](#fig-8-2)) illustrates the structure and content of the MPD format that was adapted for use for SurveyLA. Following this structure, SurveyLA’s citywide historic context was organized into eight overarching contexts as well as a number of contexts covering ethnic and cultural histories ([figs. 8.3a](#fig-8-3a)-[8.3b](#fig-8-3b)). Each context was then further organized into a framework of themes with associated resource types (note that in some cases subcontexts and subthemes are used). The citywide context now features over two hundred themes and subthemes.[^5]
+([fig. 8.2](#fig-8-2)) illustrates the structure and content of the MPD format that was adapted for use for SurveyLA. Following this structure, SurveyLA’s citywide historic context was organized into eight overarching contexts as well as a number of contexts covering ethnic and cultural histories ([figs. 8.3a](#fig-8-3-a)-[8.3b](#fig-8-3-b)). Each context was then further organized into a framework of themes with associated resource types (note that in some cases subcontexts and subthemes are used). The citywide context now features over two hundred themes and subthemes.[^5]
 
-[[ figure 'fig-8-2' ]]
+{% figure 'fig-8-2' %}
 
-[[ figuregroup '2' 'fig-8-3a, fig-8-3b' ]]
+{% figuregroup '2' 'fig-8-3-a, fig-8-3-b' %}
 
 Each context, theme, and resource type combination is unique and has its own set of eligibility standards, character-defining and associative features, and integrity considerations. A template designed for SurveyLA to record these unique combinations guided the creation of data fields and related controlled vocabularies and drop-down lists for standardizing digital data collection ([fig. 8.4](#fig-8-4)). This approach enabled surveyors to consistently identify, classify, and evaluate resources by context, theme, and type as they were identified in the field or through research and outreach. Importantly, it also allowed surveyors to associate resources with one or more contexts and themes to fully represent multiple layers of significance.
 
-[[ figure 'fig-8-4' ]]
+{% figure 'fig-8-4' %}
 
 Designing historic contexts for digital data collection enables their use as analytical tools during the survey process. Over the course of fieldwork, for example, surveyors can map, review, and use context information to visualize the geographic distribution of resource types by theme. This in turn helps surveyors begin to understand the frequency, abundance, or rarity of each – factors important to comparative analysis and assessment of integrity thresholds.
 
 When incorporated into a digital inventory, historic contexts can be managed and expanded over time to add new themes and resource types and to guide future survey work ([fig. 8.5](#fig-8-5)). This approach is increasingly being used in the United States and is a replicable model for digital surveys and inventories.
 
-[[ figure 'fig-8-5' ]]
+{% figure 'fig-8-5' %}
 
 ### General Recommendations for Designing Historic Context– and Theme-Based Surveys {#general-recommendations-designing-historic-surveys}
 
@@ -176,9 +173,6 @@ The content of the thematic framework will reflect the survey scope and approach
 
 -   A framework that is flexible and expandable can be adapted over time to account for changing interpretations of history, ongoing public input, new research and scholarship, and new discoveries during surveys and other data collection activities.
 
-```{=html}
-<!-- -->
-```
 -   As discussed above under [Designing Digital Surveys](#designing-digital-surveys), a framework designed for digital data collection can facilitate both survey recording and analysis processes and the use of the information in the inventory.
 
 ### Tips for Writing Narrative Historic Context Statements {#tips-for-writing-narrative}
@@ -187,16 +181,10 @@ The following tips may also relate to narrative thematic or theme studies (see t
 
 -   A range of heritage organizations and agencies worldwide have published historic context statements and related theme studies that may provide useful information and can be studied as prototypes (see [[National Park Service 2021]]). SurveyLA’s citywide historic context statement, for example, has relevancy for other Southern California communities that share similar development patterns and related historical themes and associated resource types (see [[Los Angeles City Planning Department n.d.c]]).
 
-```{=html}
-<!-- -->
-```
 -   As with other elements of survey methodology, historic context statements must be credible and defensible and developed according to accepted professional standards where applicable.
 
 -   A historic context specialist is recommended to lead the process of designing and developing a context-based approach and to direct the work of the writers (see [fig. 7.2](/part-2/chapter-7/#fig-7-2)).
 
-```{=html}
-<!-- -->
-```
 -   Context writers can be members of the survey team or outside heritage professionals, scholars, local history experts, and others with proven experience researching and writing about relevant themes and resource types. Depending on the nature of the survey, areas of expertise may include architectural history, ethnic studies, archaeology, social and historic landscapes.
 
 -   Community collaboration is essential when writing themes that require firsthand experience and specialized knowledge, such as ethnic and cultural histories. In such cases, advisory committees are particularly useful; when organized early on they provide critical input to focus the theme narratives, direct and guide the writing process, and help foster overall community trust and buy-in for the process. Community collaboration can also include public meetings, workshops, and other activities.
@@ -247,7 +235,7 @@ The extent and type of outreach may vary depending on the scope, goals, and obje
 
 -   To encourage ongoing use of the survey information and resulting inventory once the survey is completed
 
-[[ figure 'fig-8-6' ]]
+{% figure 'fig-8-6' %}
 
 ### A Note on Community-Based Heritage Surveys {#note-on-community-based-heritage-surveys}
 
@@ -261,7 +249,7 @@ Survey outreach and engagement programs can only be effective when they are well
 
 -   **Provide qualified staff and adequate funding for outreach.** As referenced above and illustrated in [figures 7.2](/part-2/chapter-7/#fig-7-2) and [8.7](#fig-8-7), recruiting dedicated staff with the required skillsets and expertise to plan, oversee, and conduct outreach is a primary responsibility of the managing agency or organization and should be integrated into the overall project administration strategy for the survey.
 
-[[ figure 'fig-8-7' ]]
+{% figure 'fig-8-7' %}
 
 -   **Organize an outreach committee or working group** to assist with developing an outreach approach. This group would ideally be organized once the survey project is initiated and during the planning phase of the survey to establish preliminary outreach goals and objectives, identify challenges and opportunities, and provide recommendations for the structure and content of the outreach program.
 
@@ -273,9 +261,6 @@ Survey outreach and engagement programs can only be effective when they are well
 
 -   **Seek out grant opportunities.** The lead agency or organization and project partners can secure support for outreach through grants, particularly those that focus on funding projects that champion inclusive approaches to outreach and civic engagement. SurveyLA relied heavily on grants to fund development, production, and translation costs of outreach materials.[^7]
 
-```{=html}
-<!-- -->
-```
 -   **Brand the survey and outreach program.** A survey name and logo help create an identity for the survey as a whole and are also essential in producing outreach materials that are readily associated with the project. For Los Angeles, SurveyLA was adopted as the brand for the citywide survey project, and MyHistoricLA branded the project’s outreach materials and programs ([discussed below](#sample-outreach-tools-materials-and-activities)).
 
 ### Sample Outreach Tools, Materials, and Activities {#sample-outreach-tools-materials-and-activities}
@@ -298,9 +283,6 @@ A range of tools, materials, and activities may be considered to support outreac
 
     -   Flyers to advertise public meetings, workshops, and other survey events[^9]
 
-```{=html}
-<!-- -->
-```
 -   **Questionnaires.** A questionnaire like that **shown below** can be designed to solicit ideas and information from the public about heritage resources that may be included in the survey. It can be produced in hard copy for distribution at public meetings and other venues and as an online form available on the project website, where it can be completed and submitted.
 
 **\[\[Begin box\]\]**

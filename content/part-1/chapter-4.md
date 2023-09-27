@@ -57,15 +57,15 @@ The data structure of Arches provides the ability to produce semantically enhanc
 
 In addition to providing for data management, Arches features robust visualization and discovery tools. The most prominent means of visualization in Arches is its geospatial features, such as navigation via the map interface, search using map filters, and the inclusion of historic map layers and satellite imagery ([fig. 4.1](#fig-4-1)).
 
-[[ figure 'fig-4-1' ]]
+{% figure 'fig-4-1' %}
 
 End users can also visually explore the relationships among resources in Arches and find new connections via the Related Resources network visualization. This capability allows relationships to be established among people, places, and things, including historical events and activities ([fig. 4.2](#fig-4-2)).
 
-[[ figure 'fig-4-2' ]]
+{% figure 'fig-4-2' %}
 
 Another visually oriented tool is the Time Wheel, which represents all time data in any particular implementation in a circular histogram. This feature allows users to filter and search the distribution of temporal attributes with all resources in their Arches implementation ([fig. 4.3](#fig-4-3)).
 
-[[ figure 'fig-4-3' ]]
+{% figure 'fig-4-3' %}
 
 Arches includes discovery tools that allow for in-depth interrogation of data. In addition to the geospatial and time filters mentioned above, the ability to conduct semantic searches based on the underlying data structure and controlled vocabularies provides an important way to find data in Arches. Users also have access to an advanced search capability that allows them to query any specific data field.
 
