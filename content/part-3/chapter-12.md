@@ -133,11 +133,7 @@ A practical implication for nations that are signatories to the 1954 Hague Conve
 
 The identification of cultural sites near legitimate military targets can also lead to those targets being placed on restricted-target lists, according to which any attack on the objective must be conducted under stringent conditions, such as employing a specific weapon, to limit collateral damage to the nearby cultural property. However, as O’Keefe et al. ([[O’Keefe et al. 2016\|\|2016\|25]]) note,
 
-**\[\[block quote\]\]**
-
 > But information gathering is only the first step. Information gathered must be communicated in accessible, utilizable form to those engaged in the planning and execution of military operations. How this is done will depend largely on the military operation in question. In the case of targeting decisions, best practice involves the compilation and entry into any relevant military databases of official “no-strike” lists. ... In the case of planning for ground attack and subsequent belligerent occupation, it may involve the preparation and distribution of detailed, specially marked maps.
-
-**\[\[end block\]\]**
 
 Cooperation and consultation between militaries and heritage organizations, such as international and national committees of the Blue Shield,[^3] as well as other heritage organizations and professionals, are essential to effectively compiling and conveying such lists. It is not a military skillset to identify what is cultural heritage “of great importance.” Archaeologist Peter Stone has conveyed related practical considerations based on his experience as advisor to the U.K. Ministry of Defence regarding the protection of archaeological sites in Iraq leading up to the invasion of 2003, as well as with respect to conflicts in Libya in 2011 and Mali in 2012 ([[Stone 2013]]). Unfortunately, experience has shown that often such no-strike lists have been hastily prepared in the lead-up to conflicts, resulting in limited information ([[Gerstenblith 2006]]; [[Kane 2013]]). Worse, if they fall into the wrong hands, no-strike lists can also be used to intentionally target heritage ([[Cunliffe 2020]]).
 

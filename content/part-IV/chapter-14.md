@@ -13,11 +13,7 @@ Home to more than 5.6 million people, the nation of Singapore is one of the most
 
 The 2003 UNESCO Convention for the Safeguarding of Intangible Cultural Heritage ([[UNESCO 2003]]), defines ICH as follows:
 
-**\[\[block quote\]\]**
-
 > Intangible Cultural Heritage means the practices, representations, expressions, knowledge, and skills – as well as the instruments, objects, artifacts and cultural spaces associated therewith – that communities, groups and, in some cases, individuals recognize as part of their cultural heritage. This intangible cultural heritage, transmitted from generation to generation, is constantly recreated by communities and groups in response to their environment, their interaction with nature and their history, and provides them with a sense of identity and continuity, thus promoting respect for cultural diversity and human creativity.
-
-**\[\[end block\]\]**
 
 In Singapore, these cross-cultural influences have evolved over time into ICH practices treasured by the different communities. Today, they are most evident in Singapore’s rich multicultural food heritage, where popular dishes like *mee goreng* (a stir-fried noodle dish made with Chinese noodles using Indian spices) are made possible through the marrying of ingredients and cooking techniques among the communities.
 

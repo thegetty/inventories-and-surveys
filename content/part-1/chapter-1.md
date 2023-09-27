@@ -68,8 +68,6 @@ It is worth noting two other sets of principles relating to data management and 
 
 Also of relevance, the CARE Principles for Indigenous Data Governance were created by the Global Indigenous Data Alliance ([[Carroll et al. 2020]]) to promote the legal principles underlying the collective and individual data rights set out in the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP). They are intended to complement the FAIR principles and the broader movement toward open data, to better support the particular rights and interests of indigenous peoples as they relate to data. The CARE Principles strive for the following ([[GIDA 2019]]):
 
-**\[BEGIN BLOCK INDENT\]**
-
 > **Collective Benefit** Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to derive benefit from the data.
 >
 > **Authority to Control** Indigenous Peoples’ rights and interests in Indigenous data must be recognized and their authority to control such data be empowered.
@@ -77,8 +75,6 @@ Also of relevance, the CARE Principles for Indigenous Data Governance were creat
 > **Responsibility** Those working with Indigenous data have a responsibility to share how those data are used to support Indigenous Peoples’ self-determination and collective benefit.
 >
 > **Ethics** Indigenous Peoples’ rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem.
-
-**\[END BLOCK\]**
 
 An inventory program can create metrics to assess the degree to which inventory information reflects whatever key qualities are deemed most appropriate. Such metrics are addressed further in chapter 2 under [Monitoring and Periodic Evaluation](/part-1/chapter-2/#monitoring-and-evaluation).
 
