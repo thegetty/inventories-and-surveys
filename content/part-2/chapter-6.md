@@ -58,7 +58,7 @@ The following are questions to consider when completing a baseline analysis with
 
 The needs assessment can help inform survey goals and objectives, which in turn help shape the survey scope and approach. Goals and objectives may address the purpose, benefits, and value of the survey and projected outputs in terms of the kind of data the survey will yield and the users and uses of such data. The scope defines the geographical area(s) and boundaries to be surveyed, historic and/or prehistoric time period(s) of heritage resources to be covered, and one or more themes/topics and associated resource types to be included ([fig. 6.1](#fig-6-1)).
 
-[[ figure 'fig-6-1' ]]
+{% figure 'fig-6-1' %}
 
 While all three of these aspects are present in every survey, typically one will provide the basis for the overall survey approach and focus, and ultimately the type of survey to be undertaken.[^1]
 
