@@ -86,7 +86,7 @@ Survey methodology will include how field surveys will be organized, ordered, an
 
 For SurveyLA, field surveys were organized into thirty-five geographic areas based on the long-established boundaries of Los Angeles’s community plan areas ([fig. 8.1](#fig-8-1)). These survey areas were further organized into nine groups, which were prioritized, sequenced, and phased to inform and coordinate with the city’s Community Plan Update program. (See also the [SurveyLA Case Study](/part-2/chapter-10/#surveyla-case-study) section in chapter 10 to learn how this structure informed the community planning process.)
 
-[[ figure 'fig-8-1' ]]
+{% figure 'fig-8-1' %}
 
 ## Designing Digital Surveys {#designing-digital-surveys}
 
@@ -142,19 +142,19 @@ Consideration for a historic context–based approach for SurveyLA originated wi
 
 ([fig. 8.2](#fig-8-2)) illustrates the structure and content of the MPD format that was adapted for use for SurveyLA. Following this structure, SurveyLA’s citywide historic context was organized into eight overarching contexts as well as a number of contexts covering ethnic and cultural histories ([figs. 8.3a](#fig-8-3a)-[8.3b](#fig-8-3b)). Each context was then further organized into a framework of themes with associated resource types (note that in some cases subcontexts and subthemes are used). The citywide context now features over two hundred themes and subthemes.[^5]
 
-[[ figure 'fig-8-2' ]]
+{% figure 'fig-8-2' %}
 
-[[ figuregroup '2' 'fig-8-3a, fig-8-3b' ]]
+{% figuregroup '2' 'fig-8-3-a, fig-8-3-b' %}
 
 Each context, theme, and resource type combination is unique and has its own set of eligibility standards, character-defining and associative features, and integrity considerations. A template designed for SurveyLA to record these unique combinations guided the creation of data fields and related controlled vocabularies and drop-down lists for standardizing digital data collection ([fig. 8.4](#fig-8-4)). This approach enabled surveyors to consistently identify, classify, and evaluate resources by context, theme, and type as they were identified in the field or through research and outreach. Importantly, it also allowed surveyors to associate resources with one or more contexts and themes to fully represent multiple layers of significance.
 
-[[ figure 'fig-8-4' ]]
+{% figure 'fig-8-4' %}
 
 Designing historic contexts for digital data collection enables their use as analytical tools during the survey process. Over the course of fieldwork, for example, surveyors can map, review, and use context information to visualize the geographic distribution of resource types by theme. This in turn helps surveyors begin to understand the frequency, abundance, or rarity of each – factors important to comparative analysis and assessment of integrity thresholds.
 
 When incorporated into a digital inventory, historic contexts can be managed and expanded over time to add new themes and resource types and to guide future survey work ([fig. 8.5](#fig-8-5)). This approach is increasingly being used in the United States and is a replicable model for digital surveys and inventories.
 
-[[ figure 'fig-8-5' ]]
+{% figure 'fig-8-5' %}
 
 ### General Recommendations for Designing Historic Context– and Theme-Based Surveys {#general-recommendations-designing-historic-surveys}
 
@@ -247,7 +247,7 @@ The extent and type of outreach may vary depending on the scope, goals, and obje
 
 -   To encourage ongoing use of the survey information and resulting inventory once the survey is completed
 
-[[ figure 'fig-8-6' ]]
+{% figure 'fig-8-6' %}
 
 ### A Note on Community-Based Heritage Surveys {#note-on-community-based-heritage-surveys}
 
@@ -261,7 +261,7 @@ Survey outreach and engagement programs can only be effective when they are well
 
 -   **Provide qualified staff and adequate funding for outreach.** As referenced above and illustrated in [figures 7.2](/part-2/chapter-7/#fig-7-2) and [8.7](#fig-8-7), recruiting dedicated staff with the required skillsets and expertise to plan, oversee, and conduct outreach is a primary responsibility of the managing agency or organization and should be integrated into the overall project administration strategy for the survey.
 
-[[ figure 'fig-8-7' ]]
+{% figure 'fig-8-7' %}
 
 -   **Organize an outreach committee or working group** to assist with developing an outreach approach. This group would ideally be organized once the survey project is initiated and during the planning phase of the survey to establish preliminary outreach goals and objectives, identify challenges and opportunities, and provide recommendations for the structure and content of the outreach program.
 
