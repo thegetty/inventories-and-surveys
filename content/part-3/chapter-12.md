@@ -23,7 +23,7 @@ Heritage designation or listing can be a significant step in integrating a wider
 
 In Los Angeles, for example, SurveyLA and the subsequent creation of a Jewish History context statement spurred the community’s nomination of the Beverly Fairfax Historic District to the National Register ([fig. 12.1](#fig-12-1)) ([[Hansen and Delgadillo Cruz 2020]]). That district reflects the westward shift in Los Angeles’s Jewish population starting in the 1920s, and by the end of the 1940s it was firmly established as the residential anchor of the city’s Jewish community. The nomination was made on behalf of Save Beverly Fairfax, an advocacy organization, working with a consultant team that surveyed the area for SurveyLA.
 
-[[ figure 'fig-12-1' ]]
+{% figure 'fig-12-1' %}
 
 While surveys and inventories are accelerating the designation of resources that better represent an area’s diversity, perhaps more importantly they are provoking discussions of how data can serve larger initiatives to celebrate community diversity and cultural identity. For governmental agencies, heritage data is not only being used for city planning (see [Urban Planning](#urban-planning), below) but can also inform interdepartmental programs and initiatives relating to diversity and inclusion, for example, the activities of city offices associated with arts and culture.
 
@@ -43,7 +43,7 @@ Other cities are using heritage data in thoughtful ways to inform community plan
 
 To facilitate broad-based thinking about how planners can use survey data, staff of the Office of Historic Resources developed and held workshops for city planners to summarize the survey process; provide an overview of the historical patterns of settlement, growth, and development in each plan area; and review survey findings for both individual heritage resources and potential historic districts. Overall, the training helped planners understand the prevailing character of each community, the range and location of significant heritage resources, and the typologies, contexts, and themes they represent ([fig. 12.2](#fig-12-2)).
 
-[[ figure 'fig-12-2' ]]
+{% figure 'fig-12-2' %}
 
 Community plan tools informed by SurveyLA include character residential districts that provide for demolition and alteration review and compatible infill in potential residential historic districts (those meeting eligibility criteria for designation or listing), as an alternative to protections offered by historic designation. SurveyLA data has informed the development of other neighborhood planning tools, including special overlay zones for the city’s overhaul of its 1946 zoning code, as well as context-sensitive zoning in single-family neighborhoods ([[Bernstein and Hansen 2016]]).
 
@@ -69,7 +69,7 @@ There is often some degree of uncertainty about whether archaeological resources
 
 Predictive modelling has been applied to produce maps of archaeological sensitivity (also called *archaeological priority* and *archaeological potential*) that require differing levels of investigation, consultation, or caution when approaching proposed development projects. For example, Historic England’s Greater London Archaeological Advisory Service utilizes a set of formally defined and mapped Archaeological Priority Areas ([fig. 12.3](#fig-12-3)), in combination with the Greater London Historic Environment Record, when assessing the potential impact of development proposals within its jurisdiction ([[Historic England 2016]], [[Historic England n.d.\|\|n.d.]]).
 
-[[ figure 'fig-12-3' ]]
+{% figure 'fig-12-3' %}
 
 ## Disaster Preparedness and Response {#disaster-preparedness-and-response}
 
@@ -77,7 +77,7 @@ The most fundamental requirement for safeguarding heritage when facing natural d
 
 The practice of cultural heritage disaster preparedness and response has been extensively studied, with various methodologies proposed. The disaster risk management framework of the ARCH project ([fig. 12.4](#fig-12-4)) conveys one such approach ([[Milde, Lückerath, and Ullrich 2020\|31]]).[^1] While details of different methodologies vary, they generally approach natural disasters in three phases: [predisaster preparation](#predisaster-preparation), [responding during disasters](#responding-during-a-disaster), and [postdisaster activities](#postdisaster-activities), as discussed in the following sections in terms of considerations specific to inventories and surveys (see [[Stovel 1998]]).
 
-[[ figure 'fig-12-4' ]]
+{% figure 'fig-12-4' %}
 
 ### Predisaster Preparation {#predisaster-preparation}
 
@@ -101,7 +101,7 @@ The reaction during a disaster to mobilize, assess impacts, and prevent further 
 
 ### Postdisaster activities {#postdisaster-activities}
 
-### Measures taken after a disaster to continue to assess impacts, plan and implement actions to repair and conserve or restore heritage, and to prevent future damage include the following.
+Measures taken after a disaster to continue to assess impacts, plan and implement actions to repair and conserve or restore heritage, and to prevent future damage include the following.
 
 -   **Assess and document conditions of heritage resources and prioritize interventions.** As is the case with predisaster preparations, having a robust inventory already in place provides a ready basis for planning, carrying out, and recording assessments of the condition of heritage resources, as well as for determining priorities for short-, medium-, and long-term response when considering all resources across an entire jurisdiction or area. This typically involves carrying out field surveys to assess and document conditions.
 
@@ -121,7 +121,7 @@ Given the large number of heritage sites to be monitored in many coastal regions
 
 Data from heritage inventories and related surveys can also provide a basis for predictive modeling to forecast future higher sea levels, storm surges, and other negative impacts as an additional step in vulnerability analysis ([[Miller and Murray 2018]]). Such modelling typically considers the location of known heritage resources relative to surrounding topography and in relation to predicted scenarios of sea level rise, storm surges, and other environmental factors ([fig. 12.5](#fig-12-5)).
 
-[[ figure 'fig-12-5' ]]
+{% figure 'fig-12-5' %}
 
 Through vulnerability analysis and predictive modelling, agencies can then identify, evaluate, and prioritize appropriate responses ([[Taylor Engineering 2020]]). This process may involve modeling and then planning for a range of scenarios due to uncertainties about future changes. Predictive modelling and condition monitoring can together aid in identifying and prioritizing responses based on the significance of heritage resources and their corresponding vulnerability. If heritage is expected to be destroyed or abandoned, or if resources are limited and other heritage places are deemed to be of higher priority, potential responses may include excavation (in the case of archaeological sites) or more detailed recording. Alternatively, if heritage resources are deemed to be of particular significance, if resources are available, and if such adaptations are feasible and have limited negative impacts on the integrity of heritage resources, plans may be made for interventions to adapt heritage resources or their surroundings to mitigate the effects of sea level rise. Examples include reducing groundwater extraction (which can cause ground subsidence), constructing barriers and other water-diversion and pumping mechanisms, raising the height of structures, and relocation of structures away from eroding coastlines.
 
@@ -143,7 +143,7 @@ Cooperation and consultation between militaries and heritage organizations, such
 
 Inventories and related condition surveys are also key tools for systematically determining intervention priorities to rehabilitate heritage places damaged during armed conflicts. Using remote sensing technologies, such as satellite imagery, in conjunction with inventories, it is possible to carry out ongoing damage assessments during conflicts to help prepare postconflict intervention priorities and plans ([fig. 12.6](#fig-12-6)) ([[Fiol and Tabet 2018]]; [[Danti, Branting, and Penacho 2017]]). These remote activities can be supplemented by on-the-ground surveys when feasible.
 
-[[ figure 'fig-12-6' ]]
+{% figure 'fig-12-6' %}
 
 Inventories and surveys also have contributed to the legal prosecution of those involved in intentional destruction of cultural heritage during armed conflicts. During the Balkan wars of the 1990s, amid the collapse of the nation of Yugoslavia, military forces intentionally targeted, damaged, and destroyed sites of cultural significance, including places of worship, archives, and libraries. In response, heritage specialists carried out extensive surveys of hundreds of cultural sites to document the extent and nature of damages. Evidence gathered, in addition to comparison with prior heritage inventory records, documented systematic intentional destruction of numerous culturally significant sites ([[Riedlmayer 2002]], [[Riedlmayer 2007\|\|2007]]). This evidence contributed to the indictment and eventual conviction of several individuals for crimes against humanity at the International Criminal Tribunal for the Former Yugoslavia at the Hague ([[SENSE 2016]]).
 
