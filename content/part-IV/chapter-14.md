@@ -25,7 +25,7 @@ In Singapore, these cross-cultural influences have evolved over time into ICH pr
 
 ICH contributes to the sense of identity and rootedness that shapes Singapore’s multicultural identity. A big part of ICH in Singapore is the celebration of cultural festivals such as Lunar New Year, Hari Raya Puasa, and Deepavali by the Chinese, Malay, and Indian communities, respectively. Each festival consists of a myriad of practices that contribute to the identities of the communities and form part of Singapore’s multicultural ICH. These ICH practices include the traditional crafting of *rangoli* (intricate patterns made from colored rice powder or rice grains) as part of Deepavali, the making of traditional baked goods or *kuehs* (sweet or savory snacks) like pineapple tarts and *kueh baulu* (sponge cake), and social customs such as the kissing of elders’ hands as a sign of respect practiced by the Malay community during Hari Raya Puasa ([fig. 14.1](#fig-14-1)).
 
-[[ figure 'fig-14-1' ]]
+{% figure 'fig-14-1' %}
 
 The importance of ICH was further recognized under Our SG Heritage Plan ([[National Heritage Board 2018]]), Singapore’s first heritage master plan, which outlined the broad strategies for Singapore’s heritage and museum sector to be carried out from 2018 to 2022. The plan was developed in consultation with academics, cultural practitioners, community leaders, educators, students and members of the public.
 
@@ -57,13 +57,13 @@ To ensure that the inventory is accessible, and its content engaging for the pub
 
 As of this writing, the inventory is home to 102 elements that reflect the practices of the various ethnic groups in Singapore. The content in the inventory is written for the general public and features the associated social and cultural practices, viability, and future outlook of the ICH elements, as well as the experiences of the practitioners. It has also been utilized by schools to educate students on ICH in Singapore, through classroom learning and/or school projects. Social media, particularly Facebook and Instagram, is also actively embraced to further promote awareness of ICH to the wider audience ([fig. 14.2](#fig-14-2)).
 
-[[ figure 'fig-14-2' ]]
+{% figure 'fig-14-2' %}
 
 ### Expanding on ICH Research 
 
 In March 2023, Our SG Heritage Plan 2.0 was launched, to guide strategies for the next chapter of Singapore's heritage landscape from 2023 to 2027; it includes plans to strengthen research and documentation of Singapore’s ICH ([[National Heritage Board. 2023a]]). NHB administers the Heritage Research Grant, which encourages academics, researchers, and heritage NGOs to embark on heritage-related research projects that document and preserve Singapore’s heritage ([fig. 14.3](#fig-14-3)).
 
-[[ figure 'fig-14-3' ]]
+{% figure 'fig-14-3' %}
 
 ## Lessons for ICH Surveys and Inventorying
 
