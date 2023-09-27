@@ -47,32 +47,20 @@ A survey project will ideally have a finite budget and schedule predetermined by
 
 -   **Size of the survey area,** both in physical distance and number of resources to be surveyed:
 
-```{=html}
-<!-- -->
-```
--   Drawing from experience with surveys in similar environmental and geographic conditions, how many properties and/or how large an area can be surveyed in a day?
+    -   Drawing from experience with surveys in similar environmental and geographic conditions, how many properties and/or how large an area can be surveyed in a day?
 
--   Are there logical ways to break up the survey area into smaller, more manageable components for multiple teams to survey concurrently?
+    -   Are there logical ways to break up the survey area into smaller, more manageable components for multiple teams to survey concurrently?
 
--   How long will it take to travel to and from the survey area each day?
+    -   How long will it take to travel to and from the survey area each day?
 
-```{=html}
-<!-- -->
-```
 -   **Topography and geography.** What is the terrain of the survey area? For instance, it will take longer to survey a hilly area with winding roads or an area that must be walked rather than driven than a relatively flat urban area of gridded streets.
 
 -   **Survey technology to be used in the field:**
 
-```{=html}
-<!-- -->
-```
--   Is the technology going to be provided by the managing agency or organization, or will it be up to the consultant to identify the software to be used in the field?
+    -   Is the technology going to be provided by the managing agency or organization, or will it be up to the consultant to identify the software to be used in the field?
 
--   Will the team need to budget for hardware, software, or data storage needed to conduct and manage the work?
+    -   Will the team need to budget for hardware, software, or data storage needed to conduct and manage the work?
 
-```{=html}
-<!-- -->
-```
 -   **Level of documentation and amount of data to be collected.** How much data needs to be collected for each heritage resource, and roughly how long will it take?
 
 These factors should be considered when developing the survey approach, and in doing so the managing agency or organization will gain a level of comfort that the professionals implementing the survey have thoughtfully considered the defined project parameters and a path to successful implementation.

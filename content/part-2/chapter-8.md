@@ -43,9 +43,6 @@ The following are suggestions for when it may be appropriate to use a reconnaiss
 
 -   **When there is an urgent need for rapid collection of information on a particular geographic area or resource typology** due to circumstances such as natural disasters or development pressures.
 
-```{=html}
-<!-- -->
-```
 -   **When a geographic area has never before been surveyed** and the nature of its heritage resources is unknown. In these instances, reconnaissance survey data can be used to develop a scope and plan for an intensive survey.
 
 -   **For archaeological surveys where there is no associated prior survey or excavation work.**
@@ -176,9 +173,6 @@ The content of the thematic framework will reflect the survey scope and approach
 
 -   A framework that is flexible and expandable can be adapted over time to account for changing interpretations of history, ongoing public input, new research and scholarship, and new discoveries during surveys and other data collection activities.
 
-```{=html}
-<!-- -->
-```
 -   As discussed above under [Designing Digital Surveys](#designing-digital-surveys), a framework designed for digital data collection can facilitate both survey recording and analysis processes and the use of the information in the inventory.
 
 ### Tips for Writing Narrative Historic Context Statements {#tips-for-writing-narrative}
@@ -187,16 +181,10 @@ The following tips may also relate to narrative thematic or theme studies (see t
 
 -   A range of heritage organizations and agencies worldwide have published historic context statements and related theme studies that may provide useful information and can be studied as prototypes (see [[National Park Service 2021]]). SurveyLA’s citywide historic context statement, for example, has relevancy for other Southern California communities that share similar development patterns and related historical themes and associated resource types (see [[Los Angeles City Planning Department n.d.c]]).
 
-```{=html}
-<!-- -->
-```
 -   As with other elements of survey methodology, historic context statements must be credible and defensible and developed according to accepted professional standards where applicable.
 
 -   A historic context specialist is recommended to lead the process of designing and developing a context-based approach and to direct the work of the writers (see [fig. 7.2](/part-2/chapter-7/#fig-7-2)).
 
-```{=html}
-<!-- -->
-```
 -   Context writers can be members of the survey team or outside heritage professionals, scholars, local history experts, and others with proven experience researching and writing about relevant themes and resource types. Depending on the nature of the survey, areas of expertise may include architectural history, ethnic studies, archaeology, social and historic landscapes.
 
 -   Community collaboration is essential when writing themes that require firsthand experience and specialized knowledge, such as ethnic and cultural histories. In such cases, advisory committees are particularly useful; when organized early on they provide critical input to focus the theme narratives, direct and guide the writing process, and help foster overall community trust and buy-in for the process. Community collaboration can also include public meetings, workshops, and other activities.
@@ -273,9 +261,6 @@ Survey outreach and engagement programs can only be effective when they are well
 
 -   **Seek out grant opportunities.** The lead agency or organization and project partners can secure support for outreach through grants, particularly those that focus on funding projects that champion inclusive approaches to outreach and civic engagement. SurveyLA relied heavily on grants to fund development, production, and translation costs of outreach materials.[^7]
 
-```{=html}
-<!-- -->
-```
 -   **Brand the survey and outreach program.** A survey name and logo help create an identity for the survey as a whole and are also essential in producing outreach materials that are readily associated with the project. For Los Angeles, SurveyLA was adopted as the brand for the citywide survey project, and MyHistoricLA branded the project’s outreach materials and programs ([discussed below](#sample-outreach-tools-materials-and-activities)).
 
 ### Sample Outreach Tools, Materials, and Activities {#sample-outreach-tools-materials-and-activities}
@@ -298,9 +283,6 @@ A range of tools, materials, and activities may be considered to support outreac
 
     -   Flyers to advertise public meetings, workshops, and other survey events[^9]
 
-```{=html}
-<!-- -->
-```
 -   **Questionnaires.** A questionnaire like that **shown below** can be designed to solicit ideas and information from the public about heritage resources that may be included in the survey. It can be produced in hard copy for distribution at public meetings and other venues and as an online form available on the project website, where it can be completed and submitted.
 
 **\[\[Begin box\]\]**

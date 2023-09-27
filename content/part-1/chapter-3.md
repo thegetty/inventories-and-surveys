@@ -150,9 +150,6 @@ As discussed in chapter 2, for inventory programs of public heritage agencies, e
 
 -   Would the inventory benefit from having an advisory committee that includes representatives from stakeholder groups or the general public?
 
-```{=html}
-<!-- -->
-```
 -   How can stakeholder groups, as well as the general public, best participate in identifying heritage resources they deem significant and provide other relevant information? In some cases, this decision may be enhanced through proactive outreach to stakeholder groups to encourage their participation (see **Stakeholder Inclusion** in the sidebar). Consider the following approaches:
 
     -   Carrying out oral history interviews with targeted stakeholders or members of the public

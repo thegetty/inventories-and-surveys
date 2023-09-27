@@ -42,16 +42,10 @@ The following are questions to consider when completing a baseline analysis with
 
 -   What formats are used (e.g., paper, digital)? Are they adequate?
 
-```{=html}
-<!-- -->
-```
--   Are formats outdated or obsolete?
+    -   Are formats outdated or obsolete?
 
--   If so, what resources are needed (time, staff and/or consultants, funding, technology) to make the information usable for digital data collection (e.g., data entry, conversion, consolidation)?
+    -   If so, what resources are needed (time, staff and/or consultants, funding, technology) to make the information usable for digital data collection (e.g., data entry, conversion, consolidation)?
 
-```{=html}
-<!-- -->
-```
 -   Are there copyright considerations to utilizing existing information such as images and photographs?
 
 ## Survey Scope and Approach 
