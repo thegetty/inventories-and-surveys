@@ -43,7 +43,7 @@ Choosing an open-source software approach enables the work of the project to inc
 
 ## Arches Capabilities
 
-The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}.[^1]
+The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}).[^1]
 
 ### Data Management {#data-management}
 
