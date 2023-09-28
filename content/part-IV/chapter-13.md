@@ -14,17 +14,17 @@ Local heritage inventories have a long pedigree in England, from the early card 
 
 Many resources are available to guide the operators and users of England’s HERs:
 
--   Historic England publishes specifications to guide local authorities delivering HERs ([[Historic England 2019]]).
+-   Historic England publishes specifications to guide local authorities delivering HERs ({% cite 'Historic England 2019' %}).
 
--   MIDAS Heritage, the U.K. Historic Environment Data Standard, defines what information should be included on HERs when recording heritage information ([[English Heritage 2012]]).
+-   MIDAS Heritage, the U.K. Historic Environment Data Standard, defines what information should be included on HERs when recording heritage information ({% cite 'English Heritage 2012' %}).
 
--   The U.K.’s Forum on Information Standards in Heritage (FISH) maintains standard vocabularies used by all HERs ([[FISH n.d.]]).
+-   The U.K.’s Forum on Information Standards in Heritage (FISH) maintains standard vocabularies used by all HERs ({% cite 'FISH n.d.' %}).
 
--   Working guidelines for HERs have been published as an online wiki ([[Informing the Future of the Past n.d.]]).
+-   Working guidelines for HERs have been published as an online wiki ({% cite 'Informing the Future of the Past n.d.' %}).
 
 -   The HER Forum provides an online discussion list and holds in-person meetings to share best practices.[^2]
 
-These resources ensure that HERs are mutually comprehensible across the whole country, while allowing them to retain locally distinctive information. The benefits of a standardized approach can be seen on the Heritage Gateway website, which allows users to search across multiple participating HERs as well as national datasets maintained by Historic England ([[Heritage Gateway n.d.]]).
+These resources ensure that HERs are mutually comprehensible across the whole country, while allowing them to retain locally distinctive information. The benefits of a standardized approach can be seen on the Heritage Gateway website, which allows users to search across multiple participating HERs as well as national datasets maintained by Historic England ({% cite 'Heritage Gateway n.d.' %}).
 
 A typical HER in England maintains a core data set of three linked data types:
 
@@ -56,7 +56,7 @@ Any resulting information is submitted to the HER, where it is recorded to infor
 
 ## Arcade: Lincoln’s HER Information System {#arcade-lincolns-her-information-system}
 
-In Lincoln, the information system used to perform all these tasks is called Arcade ([[City of Lincoln Council n.d.]]); it is an Arches-powered heritage inventory launched in 2018 (see [chapter 4](/part-1/chapter-4/)). The system enables real-time online access to the city’s HER and is used by academic and commercial researchers to gain a better understanding of the city’s heritage ([fig. 13.2](#fig-13-2)).
+In Lincoln, the information system used to perform all these tasks is called Arcade ({% cite 'City of Lincoln Council n.d.' %}); it is an Arches-powered heritage inventory launched in 2018 (see [chapter 4](/part-1/chapter-4/)). The system enables real-time online access to the city’s HER and is used by academic and commercial researchers to gain a better understanding of the city’s heritage ([fig. 13.2](#fig-13-2)).
 
 {% figure 'fig-13-2' %}
 

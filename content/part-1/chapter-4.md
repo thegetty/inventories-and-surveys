@@ -43,7 +43,7 @@ Choosing an open-source software approach enables the work of the project to inc
 
 ## Arches Capabilities
 
-The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see [[GCI and WMF n.d.]].[^1]
+The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}.[^1]
 
 ### Data Management {#data-management}
 
@@ -51,7 +51,7 @@ A fundamental aspect of Arches is that the platform is designed to enable implem
 
 Additionally, Arches is built to support the ongoing work of heritage inventories and surveys to create, edit, update, and share data over the long term. This includes robust capabilities to create and edit geospatial data that describes locations. For those using ArcGIS Pro, the Arches Esri Add-In module facilitates a bidirectional link between ArcGIS Pro and Arches such that the creation or editing of spatial features and attributes in either software will be reflected in the other.
 
-The data structure of Arches provides the ability to produce semantically enhanced, self-describing data according to internationally recognized standards, such as ISO 21127:2014 – more commonly referred to as the CIDOC Conceptual Reference Model, or CIDOC CRM ([[ISO 2014]]). This capability creates machine-readable data that is interoperable and portable. Because Arches uses common nonproprietary file formats, the structured data stored in Arches is software-platform independent and can be exported and migrated to other systems as necessary.
+The data structure of Arches provides the ability to produce semantically enhanced, self-describing data according to internationally recognized standards, such as ISO 21127:2014 – more commonly referred to as the CIDOC Conceptual Reference Model, or CIDOC CRM ({% cite 'ISO 2014' %}). This capability creates machine-readable data that is interoperable and portable. Because Arches uses common nonproprietary file formats, the structured data stored in Arches is software-platform independent and can be exported and migrated to other systems as necessary.
 
 ### Data Visualization and Discovery {#data-visualization-and-discovery}
 

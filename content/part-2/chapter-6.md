@@ -14,7 +14,7 @@ A needs assessment can provide a baseline analysis of the content of existing in
 
 Oftentimes the need for a survey is concurrent with the need to develop a new inventory or to modernize, update, and enhance an existing one. Considerations for building and modernizing inventories are discussed in [part I](/part-1/). See also the section in chapter 7 relating to the elements of a survey: [Technologies for Data Collection and Management](/part-2/chapter-7/#technologies-for-data-collection).
 
-A needs assessment can originate as a stand-alone activity for a new survey ([[Howe 2001]]) or can be the result of a broader study to evaluate the state of a preservation or heritage conservation program (see [[Philadelphia Historic Preservation Task Force 2019]]; [[Portland Historic Landmarks Commission 2018]]).
+A needs assessment can originate as a stand-alone activity for a new survey ({% cite 'Howe 2001' %}) or can be the result of a broader study to evaluate the state of a preservation or heritage conservation program (see {% cite 'Philadelphia Historic Preservation Task Force 2019' %}; {% cite 'Portland Historic Landmarks Commission 2018' %}).
 
 ## Participants in a Needs Assessment 
 
@@ -70,4 +70,4 @@ Decision-making in the early phases of a survey regarding the survey approach pr
 
 {% endbackmatter %}
 
-[^1]: The National Park Service discusses these three approaches in the National Register Bulletin *How to Complete the Multiple Property Documentation Form* ([[National Park Service 1999\|11–12]]*.* Although the approaches are introduced in relation to developing historic context statements, they are also useful for organizing survey work.
+[^1]: The National Park Service discusses these three approaches in the National Register Bulletin *How to Complete the Multiple Property Documentation Form* ({% cite 'National Park Service 1999' '11–12' %}*.* Although the approaches are introduced in relation to developing historic context statements, they are also useful for organizing survey work.
