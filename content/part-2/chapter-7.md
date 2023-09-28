@@ -12,7 +12,7 @@ The process of survey planning expands on the findings of the needs assessment t
 
 ## The Plan 
 
-Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the **Sample Heritage Survey Plan** **Outline** (see also [[City of Toronto 2019]]).
+Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the **Sample Heritage Survey Plan** **Outline** (see also {% cite 'City of Toronto 2019' %}).
 
 A primary audience for a plan may be decision-makers, such as a city or town council responsible for officially endorsing a survey and allocating or securing resources for its completion. The plan can also be used to introduce the survey to stakeholders and the general public, to encourage broad-based interest in the project and to initiate community outreach efforts. Finally, the plan can serve as the starting point for a more detailed strategy to guide day-to-day survey project management.
 

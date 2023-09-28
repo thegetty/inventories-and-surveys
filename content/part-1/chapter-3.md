@@ -68,7 +68,7 @@ Typically, other types of nongovernmental heritage professionals also require in
 
 If an inventory is for a multilingual jurisdiction, its official operating language (or languages) is an important consideration – one that is sometimes specified by law. This determination will affect things such as the text of the user interface of an inventory database, the languages of database drop-down values or vocabularies, the language permitted for free-text data entry into the database, and the language used for related written guidance and other informational materials and in inventory-related public meetings. Some jurisdictions will need multilingual inventory databases as well as related materials and activities. Knowing the intended inventory users will inform the determination of inventory languages. Having a multilingual inventory may at some point necessitate efforts to translate terms and texts between languages.[^2]
 
-Web-based tools and standards also exist for collaborative creation and management of translations of the user interface and potentially data input components of information systems and apps, documentation, and websites. This process is known in information technology practice as *internationalization and localization* ([[Souphavanh and Karoonboonyanan 2005]]).
+Web-based tools and standards also exist for collaborative creation and management of translations of the user interface and potentially data input components of information systems and apps, documentation, and websites. This process is known in information technology practice as *internationalization and localization* ({% cite 'Souphavanh and Karoonboonyanan 2005' %}).
 
 ### What Categories of Inventory Information Access Are Needed? {#categories-of-inventory-information-access}
 
@@ -136,7 +136,7 @@ Consider which of those activities are needed and feasible in the case of your i
 
 An important part of improving inventory information is determining a regular schedule for proactively assessing its status to identify gaps and particular areas in need of updating. When relevant, thematic frameworks and thematic studies or historic context statements can aid in this process (see the **Overview** **sidebar** on this topic in chapter 2 for more on these tools). Through this sort of assessment, a heritage organization might recognize the need to carry out new surveys or other data collection activities or determine topical areas in need of new research to help address inventory gaps. Once needs for new data collection or research are identified, steps can be taken to determine when and how they should be undertaken.
 
-Finally, as mentioned previously, it is important that heritage organizations strive for accuracy of inventory information to provide a sound basis for heritage management decisions. Therefore, it is recommended that heritage inventory programs put in place measures for data validation through information quality assurance (QA) and quality control (QC). The U.S. Geological Survey defines the two concepts as follows: “QA refers to defect prevention, whereas QC refers to defect detection. Generally, QA is applied before and during data acquisition, whereas QC is applied after data are in hand” ([[USGS n.d.]]).
+Finally, as mentioned previously, it is important that heritage organizations strive for accuracy of inventory information to provide a sound basis for heritage management decisions. Therefore, it is recommended that heritage inventory programs put in place measures for data validation through information quality assurance (QA) and quality control (QC). The U.S. Geological Survey defines the two concepts as follows: “QA refers to defect prevention, whereas QC refers to defect detection. Generally, QA is applied before and during data acquisition, whereas QC is applied after data are in hand” ({% cite 'USGS n.d.' %}).
 
 QA/QC may include activities such as data editors regularly checking the quality of additions and edits to data and flagging issues needing correction, possibly including checking mapped locations for accuracy and precision. Another quality control example is DBAs running automated validation tests to evaluate data with respect to the established rules or standards and then flagging issues for correction.
 
@@ -272,8 +272,8 @@ For varied examples of means to improve inventory interactions across a heritage
 
 {% endbackmatter %}
 
-[^1]: See, for example, the statutorily defined roles and responsibilities in Wales with respect to Welsh historic environment records ([[Cadw 2017a]]).
+[^1]: See, for example, the statutorily defined roles and responsibilities in Wales with respect to Welsh historic environment records ({% cite 'Cadw 2017a' %}).
 
 [^2]: Use of online automated translation services, such as Google Translate, is growing. Note that caution should be exercised in assessing the accuracy of such automated translations.
 
-[^3]: The management consulting company Gartner defines total cost of ownership (TCO) as “a comprehensive assessment of information technology (IT) or other costs across enterprise boundaries over time. For IT, TCO includes hardware and software acquisition, management and support, communications, end-user expenses and the opportunity cost of downtime, training and other productivity losses” ([[Gartner n.d]]).
+[^3]: The management consulting company Gartner defines total cost of ownership (TCO) as “a comprehensive assessment of information technology (IT) or other costs across enterprise boundaries over time. For IT, TCO includes hardware and software acquisition, management and support, communications, end-user expenses and the opportunity cost of downtime, training and other productivity losses” ({% cite 'Gartner n.d' %}).
