@@ -148,7 +148,7 @@ Consideration for a historic context–based approach for SurveyLA originated wi
 
 Each context, theme, and resource type combination is unique and has its own set of eligibility standards, character-defining and associative features, and integrity considerations. A template designed for SurveyLA to record these unique combinations guided the creation of data fields and related controlled vocabularies and drop-down lists for standardizing digital data collection ([fig. 8.4](#fig-8-4)). This approach enabled surveyors to consistently identify, classify, and evaluate resources by context, theme, and type as they were identified in the field or through research and outreach. Importantly, it also allowed surveyors to associate resources with one or more contexts and themes to fully represent multiple layers of significance.
 
-[[ figure 'fig-8-4' ]]
+{% figure 'table-8-4' %}
 
 Designing historic contexts for digital data collection enables their use as analytical tools during the survey process. Over the course of fieldwork, for example, surveyors can map, review, and use context information to visualize the geographic distribution of resource types by theme. This in turn helps surveyors begin to understand the frequency, abundance, or rarity of each – factors important to comparative analysis and assessment of integrity thresholds.
 
