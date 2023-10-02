@@ -14,13 +14,13 @@ Before the official start of field surveys, a pilot survey program is critical t
 
 The pilot program will represent a microcosm or subset of the larger survey effort and test all aspects of the survey process from training field surveyors to submitting final data and reports. The number and selection of pilot surveys may depend on the size and scope of the survey but generally will include a range of resource typologies and historic contexts/themes within one or more geographic areas ([fig. 9.1](#fig-9-1)). SurveyLA, for example, included three pilot surveys: two tested specific themes, and a third tested multiple themes within a large and diverse neighborhood.
 
-[[ figure 'fig-9-1' ]]
+{% figure 'fig-9-1' %}
 
 Based on the SurveyLA experience, when organizing a pilot survey program, consider surveys that test:
 
 -   **Themes that have an expected high yield of significant resources.** SurveyLA included a pilot for a subset of the city’s expansive post–World War II residential neighborhoods ([fig. 9.2](#fig-9-2)). This pilot helped establish field and research strategies for surveying postwar historic districts and assessing integrity and significance thresholds for postwar housing as a whole. The pilots also helped focus the approach for writing the post–World War II Suburbanization historic context statement.
 
-[[ figure 'fig-9-2' ]]
+{% figure 'fig-9-2' %}
 
 -   **Geographic areas that have a high density of historic sites and an expected high yield of significant resources.** These pilot areas may require more surveyors, time, and other resources than less dense areas.
 
@@ -34,7 +34,7 @@ The following are general tips and recommendations for managing a pilot survey p
 
 -   An ongoing log is a critical tool for systematically tracking issues experienced during the pilot surveys. The log can be organized by categories relating to survey equipment and software, data collection and editing standards and procedures, research approaches, application of historic contexts, outreach strategies, and so forth ([fig. 9.3](#fig-9-3)). The log can also be used to track aspects of the survey that are particularly successful. Logged information could include date and time of recording, name of survey team member, summary of issue, date resolved, and notes. Use of a log can continue into the official field survey phase of a project, as was the case for SurveyLA.
 
-{% figure 'table-9-3' 'is-table-scale-6'%}
+{% figure 'table-9-3' 'is-table-scale-6' %}
 
 -   Regular survey team meetings are advised to discuss issues encountered during the pilot survey, such as those recorded in the log referenced above. The resolution of issues can then be prioritized and assigned to team members as needed.
 

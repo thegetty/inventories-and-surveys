@@ -19,7 +19,7 @@ Field surveys are and have been a vital aspect of heritage conservation practice
 
 This chapter focuses on the technical aspects of conducting field surveys and illustrates how the concepts, tools, and methods discussed in [chapter 8](/part-2/chapter-8/) are put into practice. The recommendations provided here are rooted in the experience of a heritage professional whose survey work has focused on historic aboveground resources and has been predominantly conducted in urban environments in the United States. Principal author Katie Horak conducted field surveys for SurveyLA from the pilot phase to completion, in addition to having participated in surveys in numerous diverse environments throughout California and in the city of New York, in roles including professional consultant and managing agency staff. To the greatest extent possible, the content of this chapter has been drawn from these experiences and then been generalized to apply to heritage surveys in any area, across the world ([fig. 10.1](#fig-10-1)).
 
-[[ figure 'fig-10-1' ]]
+{% figure 'fig-10-1' %}
 
 ## Understanding the Project Scope
 
@@ -47,32 +47,20 @@ A survey project will ideally have a finite budget and schedule predetermined by
 
 -   **Size of the survey area,** both in physical distance and number of resources to be surveyed:
 
-```{=html}
-<!-- -->
-```
--   Drawing from experience with surveys in similar environmental and geographic conditions, how many properties and/or how large an area can be surveyed in a day?
+    -   Drawing from experience with surveys in similar environmental and geographic conditions, how many properties and/or how large an area can be surveyed in a day?
 
--   Are there logical ways to break up the survey area into smaller, more manageable components for multiple teams to survey concurrently?
+    -   Are there logical ways to break up the survey area into smaller, more manageable components for multiple teams to survey concurrently?
 
--   How long will it take to travel to and from the survey area each day?
+    -   How long will it take to travel to and from the survey area each day?
 
-```{=html}
-<!-- -->
-```
 -   **Topography and geography.** What is the terrain of the survey area? For instance, it will take longer to survey a hilly area with winding roads or an area that must be walked rather than driven than a relatively flat urban area of gridded streets.
 
 -   **Survey technology to be used in the field:**
 
-```{=html}
-<!-- -->
-```
--   Is the technology going to be provided by the managing agency or organization, or will it be up to the consultant to identify the software to be used in the field?
+    -   Is the technology going to be provided by the managing agency or organization, or will it be up to the consultant to identify the software to be used in the field?
 
--   Will the team need to budget for hardware, software, or data storage needed to conduct and manage the work?
+    -   Will the team need to budget for hardware, software, or data storage needed to conduct and manage the work?
 
-```{=html}
-<!-- -->
-```
 -   **Level of documentation and amount of data to be collected.** How much data needs to be collected for each heritage resource, and roughly how long will it take?
 
 These factors should be considered when developing the survey approach, and in doing so the managing agency or organization will gain a level of comfort that the professionals implementing the survey have thoughtfully considered the defined project parameters and a path to successful implementation.
@@ -125,7 +113,7 @@ When working with consultant teams, heritage field survey projects are often too
 
 As discussed in earlier chapters, in the case of SurveyLA field, surveys were completed in phases based on geographically based community plan areas. Each survey phase included two to four plan areas, collectively comprising approximately forty thousand to ninety thousand properties. Survey teams included, at a minimum, six or seven staff from two or three professional firms, working collaboratively under the management of one lead consultant firm. The teams also included [interns](#student-interns) and [community experts](#local-heritage-experts) ([fig. 10.3](#fig-10-3)), as described below.
 
-[[ figure 'fig-10-3' ]]
+{% figure 'fig-10-3' %}
 
 ### Student Interns {#student-interns}
 
@@ -167,11 +155,11 @@ Every heritage survey brings its own unique set of challenges and conditions, an
 
 ### Classroom and Field Training
 
-Classroom and field training are effective ways for survey team members to get acquainted with one another and with survey tools and procedures. Training should take place before fieldwork proceeds in earnest, and all members of the survey team should attend. The nature of the training will be determined by the structure and makeup of the overall project team (see [Assembling Field Survey Teams](#assembling-field-survey-teams)). Training, for example, may be the role of one or more survey project personnel, such as the project manager, field survey manager, and team members who specialize in survey technology and data management. Training by a professional photographer with expertise in photo-documenting heritage resources is also recommended, to provide tips and guidance about taking photographs that capture meaningful information that will meet the survey’s goals ([figs. 10.4](#fig-10-4) and [10.5](#fig-10-5)); see also ([[Schafer 2008]]).
+Classroom and field training are effective ways for survey team members to get acquainted with one another and with survey tools and procedures. Training should take place before fieldwork proceeds in earnest, and all members of the survey team should attend. The nature of the training will be determined by the structure and makeup of the overall project team (see [Assembling Field Survey Teams](#assembling-field-survey-teams)). Training, for example, may be the role of one or more survey project personnel, such as the project manager, field survey manager, and team members who specialize in survey technology and data management. Training by a professional photographer with expertise in photo-documenting heritage resources is also recommended, to provide tips and guidance about taking photographs that capture meaningful information that will meet the survey’s goals ([figs. 10.4](#fig-10-4) and [10.5](#fig-10-5)); see also ({% cite 'Schafer 2008' %}).
 
-[[ figure 'fig-10-4' ]]
+{% figure 'fig-10-4' %}
 
-[[ figure 'fig-10-5' ]]
+{% figure 'fig-10-5' %}
 
 Topics covered in classroom and field training may include (and are not limited to):
 
@@ -223,7 +211,7 @@ Preliminary research may include the following:
 
 -   Review of source material directly related to the history and development of the survey area, to better familiarize the survey team with what they may encounter in the field.
 
-[[ figure 'fig-10-6' ]]
+{% figure 'fig-10-6' %}
 
 ### Reconnaissance Survey
 
@@ -235,7 +223,7 @@ It is also important that information about potential heritage resources provide
 
 In the case of SurveyLA, the reconnaissance survey team included several (three or four) senior-level team members working together in a single vehicle, with one member navigating using a printed GIS map and color-coding areas as they were driven to ensure no physical element was missed ([fig. 10.7](#fig-10-7)). Identified potential heritage resources were also marked on the map and included in a written list, with notes. Surveyors were guided by visual observations as well as the geospatial reference layers preloaded in the digital data collection system (e.g., construction dates, previous survey data, community input).
 
-[[ figure 'fig-10-7' ]]
+{% figure 'fig-10-7' %}
 
 By the end of the reconnaissance survey, the team had produced a list of potentially significant heritage resources in the survey area, which would be further considered for resource-specific research – and recording, if identified as potentially significant. Having several team members in a car at once assures that the reconnaissance work is comprehensive and that there is dialogue about what was surveyed among experienced surveyors. This customized approach to reconnaissance work was developed by the consultant team during the early phases of SurveyLA and has since been successfully used in heritage surveys of numerous diverse geographic areas in the United States.
 
@@ -263,7 +251,7 @@ At the culmination of any survey project, the survey team prepares a narrative r
 
 A field survey’s photographic record of heritage resources documents the visual basis for evaluations made in the field and is valuable evidence of the condition of a resource at a specific time. Photographs collected and stored as part of a heritage survey are often consulted for many years to come, both by the agencies utilizing the data once it is incorporated into the inventory and by the public. The following basic pointers can be used to guide field photography.
 
--   Account for environmental considerations, such as the position of the sun, when planning the field survey. On sunny days, consider what time of day will be optimal for a given survey location. Preplan for light to avoid shadows, and keep the sun behind you and out of the photographs. Overcast days are always optimal for field photography, as the light is consistent across all surfaces and glare is minimal ([[Schafer 2008\|12]]).
+-   Account for environmental considerations, such as the position of the sun, when planning the field survey. On sunny days, consider what time of day will be optimal for a given survey location. Preplan for light to avoid shadows, and keep the sun behind you and out of the photographs. Overcast days are always optimal for field photography, as the light is consistent across all surfaces and glare is minimal ({% cite 'Schafer 2008' '12' %}).
 
 -   If it is safe to do so and if time permits, take your photographs on foot rather than out the window of a car. It often takes some walking around a resource to ascertain the best photographic view, and this is not possible from a car window.
 
@@ -279,11 +267,11 @@ It is also recommended that surveyors document the process in a journal and, mos
 
 Heritage resource assessment or evaluation is the process of applying established local, regional, national, or international assessment criteria, thresholds, and other guidelines to determine heritage significance based on intensive-level field observations, research, community input, and comparative analysis. Assessments identify resources that best represent important aspects of the history and development of an area, as defined by the criteria, and provide information to guide heritage designation, planning, and management programs.
 
-Because the assessment process is based on the evaluation criteria, and associated guidelines for their applications, this section does not provide detailed information on the evaluation process itself. Rather, it provides general considerations and recommendations for assessments related to the process of conducting heritage surveys, and in particular those applying a historic context and/or thematic based approach, using a case study example from SurveyLA. (See also [[Heritage Council of New South Wales 2021]].)
+Because the assessment process is based on the evaluation criteria, and associated guidelines for their applications, this section does not provide detailed information on the evaluation process itself. Rather, it provides general considerations and recommendations for assessments related to the process of conducting heritage surveys, and in particular those applying a historic context and/or thematic based approach, using a case study example from SurveyLA. (See also {% cite 'Heritage Council of New South Wales 2021' %}.)
 
 ### Participants in Making Assessments of Significance
 
-Resource evaluation is a primary responsibility of heritage professionals who have completed the field surveys. In fact, in some cases guidelines require assessments be performed by “persons qualified by education, training, and experienced in applying the relevant criteria in the geographical area under consideration” ([[National Park Service 1983\|44724]]). Field professionals will have extensive experience applying assessment criteria and other guidelines for evaluation. They will also have a broad understanding of the type, quality, and distribution of resources in the entire survey area and the contexts and themes they represent. Surveyors will have an informed perspective on relative significance based on comparative analysis and considerations such as how common, rare, or unique typologies may be; integrity and authenticity; and other factors.
+Resource evaluation is a primary responsibility of heritage professionals who have completed the field surveys. In fact, in some cases guidelines require assessments be performed by “persons qualified by education, training, and experienced in applying the relevant criteria in the geographical area under consideration” ({% cite 'National Park Service 1983' '44724' %}). Field professionals will have extensive experience applying assessment criteria and other guidelines for evaluation. They will also have a broad understanding of the type, quality, and distribution of resources in the entire survey area and the contexts and themes they represent. Surveyors will have an informed perspective on relative significance based on comparative analysis and considerations such as how common, rare, or unique typologies may be; integrity and authenticity; and other factors.
 
 Collaborating and consulting with the public throughout the survey process helps ensure that properties that are documented and evaluated represent the values and interests of the entire community. (Various opportunities to involve the public are discussed in chapter 8, in the section [Public Outreach and Engagement](/part-2/chapter-8/#public-outreach-and-engagement).) Input is particularly valuable for resources that have social, ethnic, and cultural meaning that may not be readily apparent from field observations. Community members can bring to light stories about places, people, events, and practices that are not yet well known or documented, provide important research, and identify additional contacts and sources of information.
 
@@ -293,7 +281,7 @@ Public input in heritage assessments of significance can also include a peer rev
 
 Peer review can provide an important check against consistent bias among field surveyors, and the panel can represent a range of disciplines and perspectives. For details, see the **Peer Review in Heritage Surveys** sidebar.
 
-# **\[Sidebar: Peer Review in Heritage Surveys placed here with figures 10.8 and 10.9\]** 
+**\[Sidebar: Peer Review in Heritage Surveys placed here with figures 10.8 and 10.9\]** 
 
 ### Considerations for Making Assessment of Heritage Significance
 
@@ -313,7 +301,7 @@ The process for assessing heritage significance can be designed to align with th
 
 ### Evaluation as Part of the Survey Process 
 
-Heritage resource analysis and evaluation is a sequential process that is guided by the consistent application of field survey tools and methods ([[Howe 2008\|32]]). Following the previous discussion on conducting field surveys, and using SurveyLA as a model, assessment steps ([fig. 10.10](#fig-10-10)) include the following:
+Heritage resource analysis and evaluation is a sequential process that is guided by the consistent application of field survey tools and methods ({% cite 'Howe 2008' '32' %}). Following the previous discussion on conducting field surveys, and using SurveyLA as a model, assessment steps ([fig. 10.10](#fig-10-10)) include the following:
 
 1.  Identify the heritage resource for inclusion in a survey through prefield research, community outreach, and/or a reconnaissance survey.
 
@@ -329,7 +317,7 @@ Heritage resource analysis and evaluation is a sequential process that is guided
 
 7.  Record and incorporate the findings of the evaluation into the survey and then the inventory.
 
-[[ figure 'fig-10-10' ]]
+{% figure 'fig-10-10' %}
 
 ## SurveyLA Case Study in Heritage Resource Assessment: Goodyear Gardens Historic District {#surveyla-case-study}
 
@@ -343,7 +331,7 @@ Southeast Los Angeles is mostly flat in terrain and composed of numbered streets
 
 When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11)).
 
-[[ figure 'fig-10-11' ]]
+{% figuregroup '2' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, fig-10-11-d' %}
 
 {% figure 'table-10-11-d'%}
 
@@ -359,7 +347,7 @@ Upon review of research materials, including subdivision maps, historic building
 
 Based on the reconnaissance survey and research, surveyors identified the housing tract as a potential residential historic district associated with three contexts and associated themes of the citywide historic context: residential architecture, residential development, and industrial development/labor history in Los Angeles. Based on analysis of the potential district within the eligibility criteria and standards for each theme, surveyors determined that the district met only those associated with labor history. It is a significant example of an early housing subdivision constructed by an important industrial manufacturer, Goodyear Tire & Rubber Company, for its workers ([fig. 10.12](#fig-10-12)). This type of housing development, planned and constructed by an industrial employer, was extremely rare in Los Angeles in the early twentieth century. Under comparative analysis, no other examples of company-built single-family worker housing have been recorded for SurveyLA, making this district the only known survivor of the heritage resource type.
 
-[[ figure 'fig-10-12' ]]
+{% figure 'fig-10-12' %}
 
 ### Intensive Field Survey, Documentation, and Final Assessment
 
@@ -385,4 +373,4 @@ During intensive-level documentation, each residence was recorded as “contribu
 
 [^3]: Using interns for field surveys is also a low-risk way for consulting firms to test the capabilities of junior staff in a project-specific, time-limited role. Interns who perform highly are often offered permanent employment at the end of the term of the internship, as was the case for many SurveyLA interns.
 
-[^4]: SurveyLA also included a placeholder category called “Other” for resources identified during field surveys that merited further study but that did not fall within the context, themes, or property types defined for the citywide historic context ([[Los Angeles City Planning 2016a]]).
+[^4]: SurveyLA also included a placeholder category called “Other” for resources identified during field surveys that merited further study but that did not fall within the context, themes, or property types defined for the citywide historic context ({% cite 'Los Angeles City Planning 2016a' %}).
