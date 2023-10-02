@@ -353,3 +353,33 @@ figure_list:
     caption: "As part of the Heritage Research Grant administered by the National Heritage Board, a team of researchers and students from the Nanyang Technological University conducted an in-depth study on the Nine Emperor Gods Festival in Singapore. Such research projects have encouraged the involvement of young Singaporeans cultural researchers."
     credit: "National Heritage Board, Singapore"
     alt:
+
+  - id: "table-7-1"
+    src: "tables/table-7-1.html"
+    media_type: table
+    label: "Table 7.1"
+
+  - id: "table-8-4"
+    src: "tables/table-8-4.html"
+    media_type: table
+    label: "Table 8.4"
+
+  - id: "table-9-3"
+    src: "tables/table-9-3.html"
+    media_type: table
+    label: "Table 9.3"
+  
+  - id: "table-10-2"
+    src: "tables/table-10-2.html"
+    media_type: table
+    label: "Table 10.2"
+
+  - id: "table-10-11-d"
+    src: "tables/table-10-11-d.html"
+    media_type: table
+    label: "Table 10.11d"
+
+  - id: "table-12-3"
+    src: "tables/table-12-3.html"
+    media_type: table
+    label: "Table 12.3"
