@@ -331,7 +331,7 @@ Southeast Los Angeles is mostly flat in terrain and composed of numbered streets
 
 When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11)).
 
-{% figuregroup '2' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, fig-10-11-d' %}
+{% figuregroup '2' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' %}
 
 {% figure 'table-10-11-d'%}
 
