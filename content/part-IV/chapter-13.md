@@ -14,17 +14,17 @@ Local heritage inventories have a long pedigree in England, from the early card 
 
 Many resources are available to guide the operators and users of England’s HERs:
 
--   Historic England publishes specifications to guide local authorities delivering HERs ([[Historic England 2019]]).
+-   Historic England publishes specifications to guide local authorities delivering HERs ({% cite 'Historic England 2019' %}).
 
--   MIDAS Heritage, the U.K. Historic Environment Data Standard, defines what information should be included on HERs when recording heritage information ([[English Heritage 2012]]).
+-   MIDAS Heritage, the U.K. Historic Environment Data Standard, defines what information should be included on HERs when recording heritage information ({% cite 'English Heritage 2012' %}).
 
--   The U.K.’s Forum on Information Standards in Heritage (FISH) maintains standard vocabularies used by all HERs ([[FISH n.d.]]).
+-   The U.K.’s Forum on Information Standards in Heritage (FISH) maintains standard vocabularies used by all HERs ({% cite 'FISH n.d.' %}).
 
--   Working guidelines for HERs have been published as an online wiki ([[Informing the Future of the Past n.d.]]).
+-   Working guidelines for HERs have been published as an online wiki ({% cite 'Informing the Future of the Past n.d.' %}).
 
 -   The HER Forum provides an online discussion list and holds in-person meetings to share best practices.[^2]
 
-These resources ensure that HERs are mutually comprehensible across the whole country, while allowing them to retain locally distinctive information. The benefits of a standardized approach can be seen on the Heritage Gateway website, which allows users to search across multiple participating HERs as well as national datasets maintained by Historic England ([[Heritage Gateway n.d.]]).
+These resources ensure that HERs are mutually comprehensible across the whole country, while allowing them to retain locally distinctive information. The benefits of a standardized approach can be seen on the Heritage Gateway website, which allows users to search across multiple participating HERs as well as national datasets maintained by Historic England ({% cite 'Heritage Gateway n.d.' %}).
 
 A typical HER in England maintains a core data set of three linked data types:
 
@@ -44,7 +44,7 @@ As part of new construction projects, developers are required by English plannin
 
 Archaeological investigation can add significant costs to new development, often to the extent of making the project unprofitable for the developer. This fact makes it vital for the HER to be as up to date and accurate as possible; doing so is typically the duty of a dedicated records officer. It is equally important that the information held by the HER can be easily understood by nonspecialists, to enable effective decision-making by developers before resources are committed to a project ([fig. 13.1](#fig-13-1)).
 
-[[ figure 'fig-13-1' ]]
+{% figure 'fig-13-1' %}
 
 Typically, construction projects in Lincoln involve discussions between the applicant and the heritage team, which comprises the city’s experts in built heritage and archaeology. For both Lincoln’s archaeological and conservation officers,[^3] the HER is a key resource to identify any relevant historic buildings or archaeological remains that may have been recorded from previous excavations in the area affected by the proposed development.
 
@@ -56,13 +56,13 @@ Any resulting information is submitted to the HER, where it is recorded to infor
 
 ## Arcade: Lincoln’s HER Information System {#arcade-lincolns-her-information-system}
 
-In Lincoln, the information system used to perform all these tasks is called Arcade ([[City of Lincoln Council n.d.]]); it is an Arches-powered heritage inventory launched in 2018 (see [chapter 4](/part-1/chapter-4/)). The system enables real-time online access to the city’s HER and is used by academic and commercial researchers to gain a better understanding of the city’s heritage ([fig. 13.2](#fig-13-2)).
+In Lincoln, the information system used to perform all these tasks is called Arcade ({% cite 'City of Lincoln Council n.d.' %}); it is an Arches-powered heritage inventory launched in 2018 (see [chapter 4](/part-1/chapter-4/)). The system enables real-time online access to the city’s HER and is used by academic and commercial researchers to gain a better understanding of the city’s heritage ([fig. 13.2](#fig-13-2)).
 
-[[ figure 'fig-13-2' ]]
+{% figure 'fig-13-2' %}
 
 Where data is restricted, such as that relating to ongoing planning applications or the detailed locations of sensitive archaeological sites, it is maintained in a protected area of the system. All other information in Lincoln’s HER is publicly accessible on the Arcade system ([fig. 13.3](#fig-13-3)).
 
-[[ figure 'fig-13-3' ]]
+{% figure 'fig-13-3' %}
 
 For trusted users outside the organization, including members of local heritage societies or university staff, Arcade provides for data entry and upload. This capability has sparked new crowdsourcing initiatives, including providing a volunteer group with the ability to make provisional additions to Arcade (subject to verification) to identify and help protect particular historic buildings and enhance existing records. Such tasks would traditionally have been undertaken solely by council officers, who are now free to spend more time on casework, such as reviewing development proposals.
 

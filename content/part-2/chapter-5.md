@@ -12,19 +12,19 @@ A primary impetus for this publication is to share the experiences and lessons l
 
 SurveyLA is considered a groundbreaking project for several reasons. It covered all of Los Angeles, about five hundred square miles (eight hundred square kilometers) and 880,000 legal property parcels, making it undoubtedly the largest single urban heritage resources survey ever conducted in the United States, and perhaps internationally ([fig. 5.1](#fig-5-1)). The massive scale of the survey posed particular challenges with respect to its design and implementation, including how to consistently evaluate and document a large number of heritage resources.
 
-[[ figure 'fig-5-1' ]]
+{% figure 'fig-5-1' %}
 
 SurveyLA was also the first all-digital citywide survey of such scale in the country, which presented substantial data collection and management challenges. And SurveyLA achieved success through a public-private partnership between the J. Paul Getty Trust, a private philanthropic organization, and the City of Los Angeles. The Getty’s involvement was motivated by a desire to provide support to its local community of Los Angeles and to undertake the project as a demonstration that would serve as a model to be followed by other cities.
 
 ## Groundwork
 
-Groundwork for SurveyLA was initially laid in 2000 when the Getty Conservation Institute (GCI) commissioned a study to assess the need for and benefits of a citywide survey of Los Angeles. The GCI’s resulting *Los Angeles Historic Resource Survey Assessment Project Summary Report* ([[Howe 2001]]) revealed that about 15 percent of the city had previously been surveyed and that these surveys were maintained by diverse city agencies and departments and for a range of purposes.[^1] Moreover, prior surveys covered a limited temporal range of heritage resources and geographic areas, used varied and inconsistent data collection methods, and were largely outdated and inaccessible.
+Groundwork for SurveyLA was initially laid in 2000 when the Getty Conservation Institute (GCI) commissioned a study to assess the need for and benefits of a citywide survey of Los Angeles. The GCI’s resulting *Los Angeles Historic Resource Survey Assessment Project Summary Report* ({% cite 'Howe 2001' %}) revealed that about 15 percent of the city had previously been surveyed and that these surveys were maintained by diverse city agencies and departments and for a range of purposes.[^1] Moreover, prior surveys covered a limited temporal range of heritage resources and geographic areas, used varied and inconsistent data collection methods, and were largely outdated and inaccessible.
 
 Importantly, the assessment project also revealed broad support for having reliable and up-to-date information on heritage resources from a wide range of public and private interests, including city government, neighborhoods, the business community, the development sector, and preservationists. This support underscored the growing need for a citywide survey to serve as the foundation for a comprehensive municipal preservation program and integration of preservation in all facets of city planning.
 
 ## Research
 
-Following the assessment project, the GCI began preparing a series of research papers, known as white papers, on national best practices in implementing and utilizing heritage surveys, to provide a recommended approach for undertaking a Los Angeles survey. The papers covered topics including survey standards and resource evaluation criteria, community engagement, information management and dissemination, and project funding. The GCI presented the papers to managers in multiple city departments and agencies and received feedback. Following finalization and endorsement of the papers in 2004, the Los Angeles City Council passed a series of resolutions that further advanced the city’s commitment to completing a citywide survey. The white papers were later published by the GCI as *The Los Angeles Historic Resource Survey Report: A Framework for a Citywide Historic Resource Survey* ([[Howe 2008]]).
+Following the assessment project, the GCI began preparing a series of research papers, known as white papers, on national best practices in implementing and utilizing heritage surveys, to provide a recommended approach for undertaking a Los Angeles survey. The papers covered topics including survey standards and resource evaluation criteria, community engagement, information management and dissemination, and project funding. The GCI presented the papers to managers in multiple city departments and agencies and received feedback. Following finalization and endorsement of the papers in 2004, the Los Angeles City Council passed a series of resolutions that further advanced the city’s commitment to completing a citywide survey. The white papers were later published by the GCI as *The Los Angeles Historic Resource Survey Report: A Framework for a Citywide Historic Resource Survey* ({% cite 'Howe 2008' %}).
 
 ## Survey Effort
 
@@ -60,13 +60,13 @@ During SurveyLA, the GCI and World Monuments Fund had been separately developing
 
 ## HistoricPlacesLA
 
-HistoricPlacesLA, the city’s heritage resource inventory and management system, launched in 2015 with a partial set of SurveyLA data (see [[City of Los Angeles n.d.]]). In 2016, the OHR brought on a full-time data manager, and by 2019, integration of SurveyLA data within HistoricPlacesLA was complete.
+HistoricPlacesLA, the city’s heritage resource inventory and management system, launched in 2015 with a partial set of SurveyLA data (see {% cite 'City of Los Angeles n.d.' %}). In 2016, the OHR brought on a full-time data manager, and by 2019, integration of SurveyLA data within HistoricPlacesLA was complete.
 
 At this writing, HistoricPlacesLA includes records on over fifty-seven thousand heritage resources ([fig. 5.2](#fig-5-2)). Integration of other heritage data not derived from SurveyLA continues, including work to complete and enhance records on newly designated and identified resources and districts.
 
 The system support, hosting, and maintenance has now been fully and permanently transitioned from the GCI to City Planning, attesting to the city’s long-term commitment to manage, update, and expand its heritage inventory.
 
-[[ figure 'fig-5-2' ]]
+{% figure 'fig-5-2' %}
 
 {% backmatter %}
 
