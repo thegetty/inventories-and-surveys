@@ -230,7 +230,6 @@ figure_list:
   - id: "fig-10-1"
     label: "Fig. 10.1"
     src: "figures/fig-10-1.png"
-    media_type: table
     caption: "SurveyLA heritage field surveyor at work."
     credit: "Architectural Resources Group, Los Angeles"
     alt:
