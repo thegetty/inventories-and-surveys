@@ -133,6 +133,14 @@ figure_list:
     credit: "Janet Hansen"
     alt:
 
+  - id: "table-7-1"
+    label: "Table 7.1"
+    src: "tables/table-7-1.html"
+    media_type: table
+    caption:
+    credit:
+    alt:
+
   - id: "fig-7-2"
     label: "Fig. 7.2"
     src: "figures/fig-7-2.png"
@@ -168,9 +176,10 @@ figure_list:
     credit:
     alt:
 
-  - id: "fig-8-4"
+  - id: "table-8-4"
     label: "Fig. 8.4"
-    src: "figures/fig-8-4.png"
+    src: "tables/table-8-4.html"
+    media_type: table
     caption: "The figure illustrates the multiple property documentation template developed for SurveyLA populated for the resource type Single-Family Residential Hill Houses."
     credit: "Los Angeles City Planning, Office of Historic Resources"
     alt:
@@ -210,9 +219,10 @@ figure_list:
     credit: "Los Angeles City Planning, Office of Historic Resources"
     alt:
 
-  - id: "fig-9-3"
+  - id: "table-9-3"
     label: "Fig. 9.3"
-    src: "figures/fig-9-3.png"
+    src: "tables/table-9-3.html"
+    media_type: table
     caption: "During SurveyLA pilot surveys, a log was created to record issues encountered by survey team members during field recording."
     credit: "Los Angeles City Planning, Office of Historic Resources"
     alt:
@@ -220,13 +230,15 @@ figure_list:
   - id: "fig-10-1"
     label: "Fig. 10.1"
     src: "figures/fig-10-1.png"
+    media_type: table
     caption: "SurveyLA heritage field surveyor at work."
     credit: "Architectural Resources Group, Los Angeles"
     alt:
 
-  - id: "fig-10-2"
+  - id: "table-10-2"
     label: "Fig. 10.2"
-    src: "figures/fig-10-2.png"
+    src: "tables/table-10-2.html"
+    media_type: table
     caption: "Sample SurveyLA field survey schedule illustrating the sequencing of tasks and estimated times for completion."
     credit: "Los Angeles City Planning, Office of Historic Resources"
     alt:
@@ -308,9 +320,10 @@ figure_list:
     credit:
     alt:
 
-  - id: "fig-10-11-d"
-    label: "Fig. 10.11c"
-    src: "figures/fig-10-11-d.png"
+  - id: "table-10-11-d"
+    label: "Fig. 10.11d"
+    src: "tables/table-10-11-d.html"
+    media_type: table
     caption:
     credit:
     alt:
@@ -343,9 +356,10 @@ figure_list:
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
-  - id: "fig-12-3"
+  - id: "table-12-3"
     label: "Fig. 12.3"
-    src: "figures/fig-12-3.png"
+    src: "tables/table-12-3.html"
+    media_type: table
     caption: "The Greater London Archaeological Priority Areas assign all land within the jurisdiction to one of four tiers denoting different levels of sensitivity to development indicated by an archaeological risk model."
     credit: "© Historic England 2022"
     alt:

@@ -69,7 +69,7 @@ There is often some degree of uncertainty about whether archaeological resources
 
 Predictive modelling has been applied to produce maps of archaeological sensitivity (also called *archaeological priority* and *archaeological potential*) that require differing levels of investigation, consultation, or caution when approaching proposed development projects. For example, Historic England’s Greater London Archaeological Advisory Service utilizes a set of formally defined and mapped Archaeological Priority Areas ([fig. 12.3](#fig-12-3)), in combination with the Greater London Historic Environment Record, when assessing the potential impact of development proposals within its jurisdiction ({% cite 'Historic England 2016' %}, {% cite 'Historic England n.d.' '' 'n.d.' %}).
 
-{% figure 'fig-12-3' %}
+{% figure 'table-12-3' %}
 
 ## Disaster Preparedness and Response {#disaster-preparedness-and-response}
 

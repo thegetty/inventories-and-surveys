@@ -39,7 +39,7 @@ The major components of a field survey include the following (see [Field Survey 
 
 Although all these tasks are essential to a successful field survey, they may be conducted in phases, and some tasks may be conducted concurrently ([fig. 10.2](#fig-10-2)). Once the parameters and goals of the project have been defined, the survey team can predict the level of effort and documentation that will be needed for all tasks within the scope of work to successfully distribute resources and plan for the work.
 
-{% figure 'fig-10-2' %}
+{% figure 'table-10-2' 'is-table-scale-5' %}
 
 A survey project will ideally have a finite budget and schedule predetermined by the managing agency or organization during survey planning. Survey professionals will need to use their experience with similar projects to plan for the work within these parameters to avoid overspending and causing delays in schedule. An understanding of the following factors is important to consider when developing a survey project approach:
 
@@ -331,7 +331,9 @@ Southeast Los Angeles is mostly flat in terrain and composed of numbered streets
 
 When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11)).
 
-{% figuregroup '2' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, fig-10-11-d' %}
+{% figuregroup '2' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' %}
+
+{% figure 'table-10-11-d'%}
 
 **\[\[This figure is made up of image files 10.11a, 10.11b, 10.11c, 10.11d\]\]**
 

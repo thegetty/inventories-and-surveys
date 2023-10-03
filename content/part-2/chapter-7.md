@@ -46,7 +46,7 @@ Estimating the costs associated with a survey will establish budgets for the pro
 
 [Table 7.1](table-7-1) shows a breakdown of the primary expenses within each category. Note that these expenses may not all be relevant for every survey; for example, small-scale surveys or those highly reliant on community involvement and the use of volunteers can reduce or avoid some costs.
 
-**[[ figure 'table-7-1' ]]**
+{% figure 'table-7-1' 'is-table-scale-8' %}
 
 While it is necessary to develop at least a preliminary project budget to secure a commitment to complete a survey, it is important to expect that the budget may need to be revised once the project is initiated and survey tools and methods are tested and further defined. Pilot surveys are central to estimating the time and budget needed to complete the field surveys, as discussed in [chapter 9](/part-2/chapter-9/).
 
