@@ -19,3 +19,7 @@ Generates HTML output for generation of PDF books using [`Paged.js`](https://pag
 #### EPUB Output
 
 Generates HTML output for generation of EPUB book using [`EPUB.js`](http://futurepress.org)
+
+
+**_plugins/filters/getContributor.js**
+Add the page-level sort_as value if included with a contributor id
