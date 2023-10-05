@@ -1,7 +1,7 @@
 /* Temporary "UNCORRECTED PROOF" Banner */
 @media screen {
-  .quire-page::before,
-  .quire-page::after {
+  .quire::before,
+  .quire::after {
     color: black;
     font-weight: 700;
     position: fixed;
@@ -12,15 +12,33 @@
     text-align: center;
     padding-top: 1rem;
   }
-  .quire-page::before {
+  .quire::before {
     content: "UNCORRECTED";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
-  .quire-page::after {
+  .quire::after {
     content: "PROOF";
     bottom: -130px;
     right: -130px;
   }
+}
+
+:root {
+  --dark-blue: #112e4a;
+  --light-blue: #5ebad1;
+  --pink: #e79090;
+  --dark-pink: #e66464;
+  --red: #e23a3a;
+  --gray: #dbdbdb;
+  --light-gray: #f2f2f2;
+}
+
+
+.quire-menu .page-item a.active, 
+.quire-menu .section-item a.active,
+.quire-menu__formats h6 {
+  border-color: var(--light-blue);
+  color: var(--light-blue) !important;
 }
