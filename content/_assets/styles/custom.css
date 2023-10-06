@@ -188,3 +188,18 @@
 .q-figure.is-table-scale-9 a table {
   font-size: 0.9rem;
 }
+
+/* Fix li markers appearance on page an in lightbox */
+ul li::marker,
+.quire-page__content .container .content ul li::marker {
+  content: '◆  ';
+}
+.quire-page__content .container .content ul li::before {
+  content: none;
+}
+.q-lightbox-slides__element table ul {
+  margin-left: 1.5em;
+}
+.q-lightbox-slides__element table ul li::marker {
+  font-size: .875em;
+}
