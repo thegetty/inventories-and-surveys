@@ -90,9 +90,7 @@ Information policies, standards, and other guidance are key elements of any inve
 
 Standards relating to what information should be recorded can be referred to as *content standards.* In specifying *what* information should be recorded, this can be defined at two different levels of detail, as shown in [figures 2.2a](#fig-2-2a) and [2.2b](#fig-2-2b).
 
-{% figure 'fig-2-2a' %}
-
-{% figure 'fig-2-2b' %}
+{% figuregroup '2' 'fig-2-2a, fig-2-2b' %}
 
 -   **Record types.** As shown in [figure 2.2a](#fig-2-2a), a single inventory typically contains many types of information records, for example, immovable heritage resources (e.g., buildings, landscapes, archaeological sites, underwater heritage), intangible heritage (e.g., spiritual practices, oral traditions), collections of movable cultural materials associated with places or activities (e.g., surveys, conservation interventions), persons (e.g., architects, historical figures), organizations, information resources (e.g., images, reports).
 

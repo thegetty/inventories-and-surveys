@@ -23,3 +23,6 @@ Generates HTML output for generation of EPUB book using [`EPUB.js`](http://futur
 
 **_plugins/filters/getContributor.js**
 Add the page-level sort_as value if included with a contributor id
+
+**_plugins/shortcodes/figureGroup.js**
+Simplify markup and enable custom classes and group captions for figure groups

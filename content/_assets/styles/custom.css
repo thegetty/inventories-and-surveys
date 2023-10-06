@@ -109,3 +109,51 @@
   font-style: italic;
   font-size: .75em;
 }
+
+/* GROUP FIGURES
+============================================================================= */
+.q-figure.q-figure--group {
+  display: grid;
+  gap: 0 1rem;
+}
+.q-figure.q-figure--group .q-figure {
+  margin: 0;
+}
+.q-figure.q-figure--group .q-figure__caption {
+  grid-column: 1/-1;
+}
+.q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption {
+  margin-top: 0;
+}
+.q-figure.q-figure--group.quire-grid--2 {
+  grid-template-columns: 1fr 1fr;
+}
+.q-figure.q-figure--group.quire-grid--3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+@media print {
+  .q-figure.q-figure--group.quire-grid--2 .q-figure {
+    display: inline-block;
+    margin-right: 1rem;
+    width: calc((100% - 1rem) / 2);
+  }
+  .q-figure.q-figure--group.quire-grid--2 .q-figure:nth-child(2n+2) {
+    margin-right: 0;
+  }
+  .q-figure.q-figure--group.quire-grid--3 .q-figure {
+    display: inline-block;
+    margin-right: 1rem;
+    width: calc((100% - 1rem) / 3);
+  }
+  .q-figure.q-figure--group.quire-grid--3 .q-figure:nth-child(3n+3) {
+    margin-right: 0;
+  }
+}
+
+/* For table that's part of a figure group */
+#table-10-11-d {
+  grid-column: 1/-1;
+}
+#table-10-11-d a table {
+  font-size: .5em;
+}

@@ -163,17 +163,14 @@ figure_list:
     alt:
 
   - id: "fig-8-3-a"
-    label: "Fig. 8.3a"
+    label: "a"
     src: "figures/fig-8-3-a.png"
-    caption: "The citywide historic contexts developed for SurveyLA."
-    credit:
+    # caption: "The citywide historic contexts developed for SurveyLA."
     alt:
 
   - id: "fig-8-3-b"
-    label: "Fig. 8.3b"
+    label: "b"
     src: "figures/fig-8-3-b.png"
-    caption:
-    credit:
     alt:
 
   - id: "table-8-4"
@@ -299,32 +296,26 @@ figure_list:
     alt:
 
   - id: "fig-10-11-a"
-    label: "Fig. 10.11a"
+    label: "a"
     src: "figures/fig-10-11-a.jpg"
-    caption: "Representative houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles."
-    credit: "Los Angeles City Planning Office of Historic Resources"
+    # caption: "Representative houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles."
+    # credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-11-b"
-    label: "Fig. 10.11b"
+    label: "b"
     src: "figures/fig-10-11-b.jpg"
-    caption:
-    credit:
     alt:
 
   - id: "fig-10-11-c"
-    label: "Fig. 10.11c"
+    label: "c"
     src: "figures/fig-10-11-c.jpg"
-    caption:
-    credit:
     alt:
 
   - id: "table-10-11-d"
-    label: "Fig. 10.11d"
+    label: "d"
     src: "tables/table-10-11-d.html"
     media_type: table
-    caption:
-    credit:
     alt:
 
   - id: "fig-10-12"
