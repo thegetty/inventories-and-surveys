@@ -208,7 +208,8 @@
 .quire-page__content .container .content ul li::marker {
   content: '◆  ';
 }
-.quire-page__content .container .content ul li::before {
+.quire-page__content .container .content ul li::before,
+.quire-page__content .container .content ul.quire-contributors-list li::marker {
   content: none;
 }
 .q-lightbox-slides__element table ul {
