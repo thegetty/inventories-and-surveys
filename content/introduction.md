@@ -30,7 +30,7 @@ Despite the foundational role of inventories and surveys in heritage management,
 
 Although some jurisdictions do have more current guidance, in our experience interacting with colleagues from a broad range of heritage agencies around the world, more often than not available guidance on inventories is not only dated but also limited. The impetus for this publication, therefore, is to draw on the authors’ and others’ experiences to fill information gaps by providing practical technical advice, guidance, and lessons learned for creating functional, usable inventories and conducting modern surveys based on current practices in heritage management.
 
-{% accordion '## How to Use This Book' %}
+{% accordion '## How to Use This Book' 'sidebar' %}
 
 This book is organized as follows:
 

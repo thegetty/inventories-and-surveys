@@ -45,7 +45,8 @@
 
 /* SIDEBARS
 ============================================================================= */
-.accordion-section {
+/* For any accordion shortcode whose `id` value starts with 'sidebar' */
+.accordion-section[id^='sidebar'] {
   background-color: var(--pink);
   border-bottom: 10px solid var(--gray);
   float: right;
@@ -55,39 +56,39 @@
   padding-top: 1rem;
   width: 400px;
 }
-.accordion-section[open] {
+.accordion-section[id^='sidebar'][open] {
   margin-left: 0;
   width: calc(100% + 2.5rem);
 }
- .quire-page .accordion-section__heading h2,
- .accordion-section h2 {
+ .quire-page .accordion-section[id^='sidebar'] accordion-section__heading h2,
+ .accordion-section[id^='sidebar'] h2 {
   color: var(--light-gray);
   font-weight: 400;
   padding-bottom: 1rem;
   padding-left: 1rem;
   text-transform: none;
 }
-.accordion-section__controls::after {
+.accordion-section[id^='sidebar'] .accordion-section__controls::after {
   color: var(--light-gray);
   font-size: 30px;
   margin-right: 1rem;
 }
-.accordion-section__body {
-  background-color: var(--gray);
+.accordion-section[id^='sidebar'] .accordion-section__body {
+  background-color: var(--light-gray);
   padding: 1rem;
 }
 @media screen and (max-width:590px) {
-  .accordion-section {
+  .accordion-section[id^='sidebar'] {
     float: initial;
     margin-left: 0;
     width: calc(100% + 2.5rem);
   }
-  .accordion-section__body {
+  .accordion-section[id^='sidebar'] .accordion-section__body {
     padding-right: 2.5rem;
   }
 }
 @media print {
-  .accordion-section {
+  .accordion-section[id^='sidebar'] {
     background-color: var(--light-gray);
     float: top;
     margin-left: 0;
@@ -95,17 +96,17 @@
     padding-top: 0;
     width: 100%;
   }
-  .accordion-section > * {
+  .accordion-section[id^='sidebar'] > * {
     padding: 0 1.5rem;
   }
-  .accordion-section h2 {
+  .accordion-section[id^='sidebar'] h2 {
     background-color: var(--dark-pink);
     margin-top: 0 !important;
     padding: 1.5rem;
   }
 }
 /* For the authored sidebar in Chapter 10 */
-.accordion-section .sidebar-author {
+.accordion-section[id^='sidebar'] .sidebar-author {
   font-style: italic;
   font-size: .75em;
 }
