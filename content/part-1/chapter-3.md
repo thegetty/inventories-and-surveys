@@ -12,7 +12,7 @@ Given the information presented in the preceding chapters, what might heritage o
 
 The considerations that follow are based on a checklist created by the Getty Conservation Institute, which was informed by its research as well as collective experiences over a number of years dealing with heritage inventories in a variety of contexts and stages of development. Many of these considerations relate to the potential types of infrastructure, resources, and activities to support inventories described in [chapter 2](/part-1/chapter-2/).
 
-The considerations are presented with the most fundamental first followed by others that build upon them. (Note that not all considerations will be relevant to every heritage organization.) A **Resources sidebar** provides descriptions and directions to further guidance, related standards, or relevant examples of inventory practice.
+The considerations are presented with the most fundamental first followed by others that build upon them. (Note that not all considerations will be relevant to every heritage organization.) A [Resources sidebar](#sidebar) provides descriptions and directions to further guidance, related standards, or relevant examples of inventory practice.
 
 ## Legal and Organizational Considerations
 
@@ -26,7 +26,7 @@ For an official heritage inventory of an administrative jurisdiction, a first co
 
 -   If the inventory is already formally linked to the related legal and policy framework, are there ways the framework could be enhanced to strengthen the inventory’s effectiveness as a tool for heritage management? Has the historical development of the legal and policy framework led to the creation of multiple topical heritage inventories (e.g., archaeological, architectural and urban, intangible) that would function more effectively if they were consolidated? (This question is dealt with in further detail in the [next section](#how-many-inventories).)
 
-An in-depth analysis may help determine how a legal and policy framework might be enhanced to better support a heritage inventory or inventories. It may also be worthwhile to look at examples of how other legal and policy frameworks support inventories for reference. See **Legal and Policy Framework** and **Inventory Consolidation and Integration** in the sidebar for examples.
+An in-depth analysis may help determine how a legal and policy framework might be enhanced to better support a heritage inventory or inventories. It may also be worthwhile to look at examples of how other legal and policy frameworks support inventories for reference. See [Legal and Policy Framework](#legal) and [Inventory Consolidation and Integration](#inventory-consolidation) in the sidebar for examples.
 
 ### How Many Inventories Are Needed for a Specific Jurisdiction? {#how-many-inventories}
 
@@ -38,7 +38,7 @@ In some jurisdictions this is also the case for indigenous heritage, in which th
 
 As is well known, such separations in law, in administration and practice, and in data sets typically lead to numerous practical challenges and shortcomings. Having differing inventories separated by distinct databases often prevents searching across data sets. This may be compounded by different specialists using different, frequently incompatible terminology, even when referring to the same heritage item (e.g., architectural historians and archaeologists labeling the same type of building differently). Having different data structures and vocabularies for each inventory will also prove to be barriers should the inventories need to be unified in the future.
 
-As mentioned in the [introduction](/introduction/), in recent years the heritage field has experienced a trend toward a more holistic approach to management, in which the variety of heritage typologies are integrated within a unified system. A more holistic approach is now broadly deemed to be more efficient, effective, and sensitive. Following this trend, some heritage agencies have taken proactive measures to rationalize their separate inventories into fewer ones, or even a single inventory database, and to unify their controlled vocabularies. Some have even integrated their field survey teams to include a range of specialties, such as both archaeology and architectural history. See **Inventory Consolidation and Integration** in the sidebar for examples of how two jurisdictions are handling these issues.
+As mentioned in the [introduction](/introduction/), in recent years the heritage field has experienced a trend toward a more holistic approach to management, in which the variety of heritage typologies are integrated within a unified system. A more holistic approach is now broadly deemed to be more efficient, effective, and sensitive. Following this trend, some heritage agencies have taken proactive measures to rationalize their separate inventories into fewer ones, or even a single inventory database, and to unify their controlled vocabularies. Some have even integrated their field survey teams to include a range of specialties, such as both archaeology and architectural history. See [Inventory Consolidation and Integration](#inventory-consolidation) in the sidebar for examples of how two jurisdictions are handling these issues.
 
 ### What Are the Primary and Secondary Purposes of the Inventory? {#what-are-the-purposes}
 
@@ -72,7 +72,7 @@ Web-based tools and standards also exist for collaborative creation and manageme
 
 ### What Categories of Inventory Information Access Are Needed? {#categories-of-inventory-information-access}
 
-Another essential consideration when establishing an inventory is to determine what users should have access to which information. In some cases, most information will be made accessible to all users, including the general public. Very often, however, access to specific types of information will be restricted by law, such as detailed or location information on archaeological sites and places held sacred by indigenous groups. Typically, certain information must be held confidential, such as personal information about property owners or information system user credentials. Access to some data may also be limited by copyright and privacy restrictions. See **Information Accessibility** in the sidebar for more on this topic.
+Another essential consideration when establishing an inventory is to determine what users should have access to which information. In some cases, most information will be made accessible to all users, including the general public. Very often, however, access to specific types of information will be restricted by law, such as detailed or location information on archaeological sites and places held sacred by indigenous groups. Typically, certain information must be held confidential, such as personal information about property owners or information system user credentials. Access to some data may also be limited by copyright and privacy restrictions. See [Information Accessibility](#info-accessibility) in the sidebar for more on this topic.
 
 The inventory program may also need to create an information access policy. As mentioned previously, such a policy can help ensure that information access is both provided and controlled in accordance with the relevant laws for a jurisdiction, such as those covering freedom of information, information privacy, copyright laws, and the restriction of confidential information relating to archaeological sites and sacred places.
 
@@ -88,15 +88,161 @@ Another important consideration is what types of information records an inventor
 
 ### What Are the Scope and Details of Information for Each Inventory Record Type?
 
-Following from identifying the heritage resource types and other record types to be included in the inventory, a next-order consideration is what set of information each inventory record type should contain (see [fig. 2.2b](/part-1/chapter-2/#fig-2-2b)). The specific data fields for each type of database record will need to be defined, as well as the data type of each field (e.g., free text, numeric, address, geospatial location, controlled vocabulary). When considering incorporating inventory data within an information system, many additional related details will need to be determined, depending on the characteristics of the information system. See **Data Standards** in the sidebar for more on this topic.
+Following from identifying the heritage resource types and other record types to be included in the inventory, a next-order consideration is what set of information each inventory record type should contain (see [fig. 2.2b](/part-1/chapter-2/#fig-2-2b)). The specific data fields for each type of database record will need to be defined, as well as the data type of each field (e.g., free text, numeric, address, geospatial location, controlled vocabulary). When considering incorporating inventory data within an information system, many additional related details will need to be determined, depending on the characteristics of the information system. See [Data Standards](#data-standards) in the sidebar for more on this topic.
 
 ### Are Controlled Vocabularies Needed for the Inventory? {#controlled-vocabularies}
 
-As discussed in the **Controlled Vocabularies** sidebar in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
+As discussed in the [Controlled Vocabularies sidebar](/part-1/chapter-2/#sidebar-1) in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
 
-The task of defining controlled vocabularies may require the involvement of a group of professionals with expertise in the range of topics covered, as well as familiarity with knowledge organization practices. An organization may also wish to identify specific staff that will have ongoing responsibility for the management of controlled vocabularies, and perhaps also a standing reference group to consult as questions or issues arise. See **Controlled Vocabularies** in the sidebar for several resources on this topic.
+The task of defining controlled vocabularies may require the involvement of a group of professionals with expertise in the range of topics covered, as well as familiarity with knowledge organization practices. An organization may also wish to identify specific staff that will have ongoing responsibility for the management of controlled vocabularies, and perhaps also a standing reference group to consult as questions or issues arise. See [Controlled Vocabularies](#controlled-vocabularies) in the sidebar for several resources on this topic.
 
-**\[\[Insert Resources sidebar here – or anywhere it fits; placement does not matter\]\]**
+{% accordion '## Resources' 'sidebar' %}
+
+### Controlled Vocabularies {#controlled-vocabularies}
+
+#### *Introduction to Controlled Vocabularies*
+
+<https://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/index.html>
+
+A comprehensive overview of the characteristics, scope, and uses of controlled vocabularies for cultural heritage topics, and an explanation of integration of vocabularies in information systems and their use for indexing and retrieval is provided by *Introduction to Controlled Vocabularies: Terminology for Art, Architecture, and Other Cultural Works* ({% cite 'Harpring 2010' %}, {% cite 'Harpring 2013' '' '2013' %}).
+
+#### Getty Vocabularies 
+
+<https://www.getty.edu/research/tools/vocabularies/>
+
+The Getty Vocabularies are controlled vocabularies that may be useful for reference. They include the multilingual Getty Art and Architecture Thesaurus (AAT), which is used by a number of national and regional heritage inventory programs as a basis for defining their controlled vocabularies. The AAT contains an online, dynamic thesaurus of concepts of an international scope relating to historical architecture and archaeology, with many concepts in multiple languages. All concepts are validated through multiple authority references. AAT content is available in digital formats ready to be imported into databases. Because it is multilingual, the AAT could potentially serve as a useful resource for translation efforts for multilingual inventories, depending on the languages involved.
+
+#### U.K. national heritage thesauri
+
+<https://www.heritagedata.org/blog/vocabularies-provided/>
+
+Another interesting example for reference is provided by the controlled vocabularies used by national and local heritage inventories in the United Kingdom. They include hierarchical thesauri of building and monument types and their components, building materials, maritime craft types, temporal periods, event types, archaeological objects, types of archaeological evidence, and archaeological sciences. Both the Getty Vocabularies and the U.K. national heritage thesauri are available in formats that can be readily imported into databases, in their entirety, in part, or as selected concepts.
+
+#### Flanders Heritage Agency’s use of thesauri
+
+<https://doi.org/10.5194/isprs-annals-IV-2-W2-151-2017>
+
+Mortier et al. ({% cite 'Mortier et al. 2017' '' '2017' %}) offer an informative review of the Flanders Heritage Agency’s practical work with controlled vocabularies for its inventories over many years, including their evolution over time, how challenges were overcome, and how thesauri became an essential tool for integrating heritage recording by different disciplines.
+
+Also see [FISH](#fish), in this sidebar.
+
+### Data Standards {#data-standards}
+
+#### MIDAS Heritage data standard 
+
+<https://historicengland.org.uk/images-books/publications/midas-heritage/>
+
+Heritage organizations or practitioners considering which record types to include in an inventory may find it useful to review the MIDAS Heritage data standard ({% cite 'English Heritage 2012' %}), a well-considered example of a national standard that defines information categories.
+
+#### International and regional core data standards 
+
+<https://cidoc-data.org/aswg-international-core-data-standard-for-archaeological-and-architectural-heritage>
+
+For the task of identifying and defining specific categories of information, or data fields, for an inventory, the work undertaken to establish international standards for the inventory of heritage places may be helpful. In the early 1990s, two such standards were developed to identify the essential items of information that should form a part of any cultural heritage inventory: the Core Data Index to Historic Buildings and Monuments of the Architectural Heritage adopted by the Council of Europe in 1995 ({% cite 'Council of Europe 1995' %}), and the International Core Data Standard for Archaeological Sites and Monuments adopted by the International Committee for Documentation (CIDOC) of the International Council of Museums (ICOM) and the Council of Europe, also in 1995 ({% cite 'Council of Europe 1999' %}).
+
+In the late 2000s, the CIDOC Archaeological Sites Working Group made the decision to revise the Core Data Standard to bring it up to date, given that it was developed before the introduction of mass computing, the Internet, and the development and widespread adoption of geographic information systems. The working group decided to combine the two standards mentioned here, because they were so closely linked. The CIDOC working group, with input from CIPA, the Heritage Documentation Committee of the International Council on Monuments and Sites (ICOMOS), prepared a draft International Core Data Standard for Archaeological and Architectural Heritage, which was intended for use in the creation of inventories for both built and archaeological heritage. As of this writing, this newer standard has not yet been finalized; however, working drafts can be downloaded from the URL shown above.
+
+Also see [FISH](#fish), in this sidebar.
+
+### Fiscal Support {#fiscal-support}
+
+#### AZSITE
+
+<https://statemuseum.arizona.edu/crm/azsite>
+
+The U.S. state of Arizona has created an interesting combination of mechanisms to support its statewide heritage inventory database, known as AZSITE (<https://azsite3.asurite.ad.asu.edu/azsite/index.html>). First, the governor of Arizona issued an executive order directing the AZSITE Consortium – composed of the Arizona State Historic Preservation Office, the Arizona State Museum, Arizona State University, and the Museum of Northern Arizona – to “cooperatively share data, provide shared staffing resources, seek grant funding, and develop and implement a single statewide historic property (archaeological and historical period properties) inventory database and geographic information system (GIS)” ({% cite 'State of Arizona 2006' %}).
+
+The executive order provides that the consortium shall continue to participate in the management, maintenance, and updating of the AZSITE database, and that it will cooperatively seek grant funding to provide for database improvements. It also provides that “all state agencies owning, managing, funding or causing action upon historical or archaeological properties shall help to update the AZSITE system by submitting survey and property location information to the system.” Although a subset of data within the AZSITE database is freely available to the public, the consortium provides access to other secured data to individuals with certain qualifications, who must pay annual user fees that vary depending on types of information sought and user profile (see <https://azsite3.asurite.ad.asu.edu/azsite/forms.html>). AZSITE does not have an annual budget from state funds. It receives its support through grants and user fees.
+
+#### Historic England HER access and charging policy guidance
+
+In England, many of the more than eighty local government historic environment records (HERs) charge fees for recovering the costs of staff time for responding to queries from commercial inventory users. In some cases, HERs charge a fixed hourly rate for staff time. In other cases, HERs charge according to a tiered scale relating to the geographic scale, level of complexity, and requested response time of commercial entity searches. Historic England has created an Access and Charging Policy template as guidance for HERs preparing their own access and charging policies. That template (and many other resources) are available at [[https://historicengland.org.uk/advice/technical-advice/information-management/support-for-hers/]{.underline}](https://historicengland.org.uk/advice/technical-advice/information-management/support-for-hers/).
+
+Further information and an example of a completed charging policy are available from Greater London Historic Environment Record (GLHER) at <https://historicengland.org.uk/services-skills/our-planning-services/greater-london-archaeology-advisory-service/greater-london-historic-environment-record/#Charges>.
+
+### Guidance Materials {#guidance-materials}
+
+#### Informing the Future of the Past
+
+<https://archaeologydataservice.ac.uk/ifp/Wiki.jsp>
+
+Comprehensive guidance has been created for historic environment records in the U.K. on a broad range of topics relating to the operation of local authority heritage inventories ({% cite 'Informing the Future of the Past n.d.' %}). Formerly a printed book, this guidance has now been published as an online wiki, allowing it to be easily updated.
+
+#### Canmore polygonisation standards
+
+<https://canmore.org.uk/content/historic-environment-polygonisation-standards-scotland>
+
+National heritage organizations in Scotland have published useful guidelines for recording spatial polygons describing the location of heritage resources and heritage-related activities.
+
+### Information Accessibility {#info-accessibility}
+
+#### International Open Data Charter
+
+#### <https://opendatacharter.net/wp-content/uploads/2015/10/opendatacharter-charter_F.pdf>
+
+Those interested in decision-making concerning making information openly accessible may wish to consult for reference the 2015 International Open Data Charter.
+
+#### CARE Principles
+
+<https://www.gida-global.org/care>
+
+If you need to consider the cultural sensitivities of providing access to information relating to indigenous groups, see The CARE Principles for Indigenous Data Governance at the URL shown above. For further background, refer to {% cite 'Carroll et al. 2020' %}.
+
+### Inventory Communities of Practice {#inventory-communities}
+
+#### HER Forum 
+
+<https://historicengland.org.uk/advice/technical-advice/information-management/support-for-hers/#Section1Text>
+
+England’s Historic Environment Record Forum serves as community of practice for professionals working with and interested in regional and local heritage inventories. The HER Forum has in-person meetings twice annually, as well as an online discussion list. Discussions are archived at <https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=herforum>, where you can also subscribe.
+
+#### FISH
+
+<https://www.heritage-standards.org.uk/>
+
+The UK Forum on Information Standards in Heritage (FISH) is a well-established example of a sector-wide standing entity devoted to information standards (including controlled vocabularies) and their creation, ongoing maintenance, improvement, and application. The organization also includes a terminologies working group; see <https://www.heritage-standards.org.uk/working-groups/>.
+
+### Inventory Consolidation and Integration {#inventory-consolidation}
+
+#### Flanders Heritage Agency 
+
+<https://www.onroerenderfgoed.be/>
+
+The Flanders Heritage Agency of Belgium has published an excellent overview of its experience in unifying separate inventories for differing heritage types ({% cite 'Van Daele, Meganck, and Mortier 2015' %}, {% cite 'Van Daele, Meganck, and Mortier 2016' '' '2016' %}). As described in {% cite 'Van Daele et al. 2018' %}, this amalgamation of inventories was spurred by the passage of a new heritage law in 2013 that for the first time provided unified legislation in Flanders for archaeology, architectural heritage, and cultural landscapes.
+
+#### HIAS
+
+<https://historicengland.org.uk/research/support-and-collaboration/heritage-information-access-simplified/>
+
+England’s heritage sector has been implementing a multiyear initiative known as the Heritage Information Access Simplified (HIAS) strategy, which is aimed at resolving long-standing challenges of complexity and duplication of effort in the management of and access to heritage information nationally. It is composed of interlinked projects designed to simplify and improve public access to heritage information held or generated by Historic England, by regional and local agency HERs, and by other heritage organizations (see also {% cite 'Carlisle and Lee 2016' %}).
+
+Important aspects of this work have been to eliminate duplication of information held by multiple agencies and duplication of resources expended in the creation and management of information through the rationalization and clarification of responsibilities across the sector, and to further invest in the application of information standards shared across the national heritage sector.
+
+### Legal and Policy Framework {#legal}
+
+#### Cadw
+
+<https://cadw.gov.wales/advice-support/placemaking/historic-environment-records>
+
+The Welsh government’s historic environment service, known as Cadw, has published statutory guidance for a range of heritage agencies in Wales on how they should use and contribute information to the Welsh national and regional heritage inventories. This serves as a well-articulated example of how heritage inventories can be directly supported through a legal and policy framework; see especially {% cite 'Cadw 2017b' %}.
+
+### Monitoring and Evaluation {#monitoring}
+
+As noted previously, the English and Welsh governments have each created well-developed systems for auditing regional and local government inventories (HERs). Both systems include a range of specific benchmarks for assessment on a five-year basis; see {% cite 'Cadw 2017c' %} and {% cite 'Historic England 2023b' %}.
+
+### Stakeholder Inclusion {#stakeholder-inclusion}
+
+#### Australia ICOMOS code of ethics
+
+<https://australia.icomos.org/wp-content/uploads/Code-on-the-Ethics-of-Co-existence.pdf>
+
+In some contexts, professional codes of practice address how heritage specialists should deal with stakeholder groups in the identification of heritage resources and related information, and this has direct relevance to work pertaining to inventories as well as related data collection activities. For example, Australia ICOMOS’s Code on the Ethics of Co-existence in Conserving Significant Places ({% cite 'Australia ICOMOS 1998' %}) specifies, among other things, the following ethical principles:
+
+> Article 4. Each cultural group has a primary right to identify places of cultural significance to it and this right may include the withholding of certain information.
+>
+> Article 5. Each cultural group has the right of access to pertinent information and to any decision-making process affecting places it has identified as significant.
+
+{% endaccordion %}
 
 ## Sources, Guidance, and Activities
 
@@ -134,7 +280,7 @@ For your inventory program, what measures should be implemented to create, colle
 
 Consider which of those activities are needed and feasible in the case of your inventory.
 
-An important part of improving inventory information is determining a regular schedule for proactively assessing its status to identify gaps and particular areas in need of updating. When relevant, thematic frameworks and thematic studies or historic context statements can aid in this process (see the **Overview** **sidebar** on this topic in chapter 2 for more on these tools). Through this sort of assessment, a heritage organization might recognize the need to carry out new surveys or other data collection activities or determine topical areas in need of new research to help address inventory gaps. Once needs for new data collection or research are identified, steps can be taken to determine when and how they should be undertaken.
+An important part of improving inventory information is determining a regular schedule for proactively assessing its status to identify gaps and particular areas in need of updating. When relevant, thematic frameworks and thematic studies or historic context statements can aid in this process (see the [Overview sidebar](/part-1/chapter-2/#sidebar-2) on this topic in chapter 2 for more on these tools). Through this sort of assessment, a heritage organization might recognize the need to carry out new surveys or other data collection activities or determine topical areas in need of new research to help address inventory gaps. Once needs for new data collection or research are identified, steps can be taken to determine when and how they should be undertaken.
 
 Finally, as mentioned previously, it is important that heritage organizations strive for accuracy of inventory information to provide a sound basis for heritage management decisions. Therefore, it is recommended that heritage inventory programs put in place measures for data validation through information quality assurance (QA) and quality control (QC). The U.S. Geological Survey defines the two concepts as follows: “QA refers to defect prevention, whereas QC refers to defect detection. Generally, QA is applied before and during data acquisition, whereas QC is applied after data are in hand” ({% cite 'USGS n.d.' %}).
 
@@ -150,7 +296,7 @@ As discussed in chapter 2, for inventory programs of public heritage agencies, e
 
 -   Would the inventory benefit from having an advisory committee that includes representatives from stakeholder groups or the general public?
 
--   How can stakeholder groups, as well as the general public, best participate in identifying heritage resources they deem significant and provide other relevant information? In some cases, this decision may be enhanced through proactive outreach to stakeholder groups to encourage their participation (see **Stakeholder Inclusion** in the sidebar). Consider the following approaches:
+-   How can stakeholder groups, as well as the general public, best participate in identifying heritage resources they deem significant and provide other relevant information? In some cases, this decision may be enhanced through proactive outreach to stakeholder groups to encourage their participation (see [Stakeholder Inclusion](#stakeholder-inclusion) in the sidebar). Consider the following approaches:
 
     -   Carrying out oral history interviews with targeted stakeholders or members of the public
 
@@ -220,13 +366,13 @@ It is recommended that an inventory program have a set of guidance materials for
 
 -   **Guidance on use of digital applications** on mobile devices (tablet computers or phones) to create digital data in the field
 
--   **Use of the inventory database** **for internal users** – those from the heritage organization managing the inventory – including how to use system features accessible only to those users, such as how to enter and edit information records and how to export data
+-   **Use of the inventory database for internal users** – those from the heritage organization managing the inventory – including how to use system features accessible only to those users, such as how to enter and edit information records and how to export data
 
 -   **Access by external or public users**, which might focus on searching for and visualizing inventory data, and potentially downloading data
 
 Guidance for IT typically refers to relevant data standards, including [controlled vocabularies](#controlled-vocabularies), as discussed in earlier in this chapter. Guidance can take the form of written and illustrated documents or webpages, which might include screenshots from the inventory database and mobile apps, and potentially also video tutorials.
 
-Depending on the [number of official languages](#official-language) of the inventory, guidance might need to be prepared in multiple languages. It is recommended that attention be given to keeping guidance up to date as changes occur, for example, when the database software is replaced, field recording technologies are updated, methods are improved, or if organizational roles and responsibilities change. See **Guidance Materials** in the sidebar for useful examples.
+Depending on the [number of official languages](#official-language) of the inventory, guidance might need to be prepared in multiple languages. It is recommended that attention be given to keeping guidance up to date as changes occur, for example, when the database software is replaced, field recording technologies are updated, methods are improved, or if organizational roles and responsibilities change. See [Guidance Materials](#guidence-materials) in the sidebar for useful examples.
 
 ## Ongoing Support, Evaluation, and Improvement
 
@@ -248,13 +394,13 @@ Given that inventory information needs to be improved and updated on an ongoing 
 
 -   Service fees for time spent by inventory staff on responding to research requests
 
-See **Fiscal Support** in the sidebar for examples of the latter two approaches.
+See [Fiscal Support](#fiscal-support) in the sidebar for examples of the latter two approaches.
 
 ### What Measures Are Needed to Monitor and Evaluate How Well-Defined Inventory Outcomes Are Being Achieved? {##what-measures-are}
 
 It is recommended that heritage organizations consider establishing systems to monitor and periodically evaluate aspects of their inventory program. By defining specific outcomes and related indicators over defined time periods, organizations can assess the extent to which defined outcomes are achieved. Topical areas for assessment might include currency and comprehensiveness of inventory information, compliance with data standards, data security, levels of access and external engagement, delivery of services, and assessing the appropriateness of infrastructure, resources, and management.
 
-Heritage organizations might additionally consider evaluating their inventories with respect to the key qualities required for effective heritage management outlined in [chapter 1](/part-1/chapter-1/). These efforts can ultimately help identify areas in need of improvement, attention, and/or further investment. For example, inventory information currency can be assessed to help identify specific areas in need of updates through new data collection activities, such as surveys. See **Monitoring and Evaluation** in the sidebar for examples of auditing systems.
+Heritage organizations might additionally consider evaluating their inventories with respect to the key qualities required for effective heritage management outlined in [chapter 1](/part-1/chapter-1/). These efforts can ultimately help identify areas in need of improvement, attention, and/or further investment. For example, inventory information currency can be assessed to help identify specific areas in need of updates through new data collection activities, such as surveys. See [Monitoring and Evaluation](#monitoring) in the sidebar for examples of auditing systems.
 
 ### How Might the Interactions of Multiple Inventories across a Heritage Sector Be Improved? {#how-might-the-interactions-improve}
 
@@ -264,7 +410,7 @@ Related challenges may include duplication of data but also possible inconsisten
 
 Sometimes gaps in information coverage occur due to the complex range of heritage organizations collecting information within a given sector. In such cases, it is recommended that the stakeholders involved periodically consider how to improve interactions among inventories across the sector, such as by further rationalizing roles and responsibilities; bolstering the development and application of shared information standards; determining ways to reduce duplication in information held and resources expended; creating a community of practice among professionals working with heritage inventories across the sector; and considering potential information technology solutions to improve information sharing, access, and searchability. Such improvements might be achieved through pooling the resources of multiple organizations.
 
-For varied examples of means to improve inventory interactions across a heritage sector, refer to **Inventory Consolidation and Integration**, **Inventory Communities of Practice**, and **Fiscal Support** in the sidebar.
+For varied examples of means to improve inventory interactions across a heritage sector, refer to [Inventory Consolidation and Integration](#inventory-consolidation), [Inventory Communities of Practice](#inventory-communities), and [Fiscal Support](#fiscal-support) in the sidebar.
 
 {% backmatter %}
 

@@ -30,9 +30,27 @@ Despite the foundational role of inventories and surveys in heritage management,
 
 Although some jurisdictions do have more current guidance, in our experience interacting with colleagues from a broad range of heritage agencies around the world, more often than not available guidance on inventories is not only dated but also limited. The impetus for this publication, therefore, is to draw on the authors’ and others’ experiences to fill information gaps by providing practical technical advice, guidance, and lessons learned for creating functional, usable inventories and conducting modern surveys based on current practices in heritage management.
 
-Although the information provided applies to inventories and surveys in a variety of contexts, lessons drawn from SurveyLA are particularly relevant to practice relating to aboveground heritage resources in urban built environments – that is, extant resources that represent important aspects of the architectural, social, cultural, and ethnic history and development of urban areas. More generally, the contents of this book focus primarily on the application of inventories and surveys to the management of heritage places.
+{% accordion '## How to Use This Book' %}
 
-**\[\[Insert Sidebar hereabouts (placement does not matter)\]\]**
+This book is organized as follows:
+
+-   This introduction offers a foundational overview of modern inventories and surveys, defining essential concepts and their relation to each other, providing a conceptual framework for their application, and overviewing the range of ways they are utilized.
+
+-   The main body of the book is divided into four parts: [Part I](/part-1/) discusses in detail the processes and considerations for developing and implementing inventories, while [part II](/part-2/) does the same for surveys. [Part III](/part-3/) describes a range of important uses of heritage inventory and survey information. And [part IV](/part-4/) contains two case studies on heritage inventories: one of archaeological heritage in Lincoln, England, and a second of intangible heritage in Singapore.
+
+-   A [conclusion](/conclusion/) presents key considerations, common challenges, and potential remedies, as well as forward-looking recommendations relating to initiating, implementing, and sustaining heritage inventories and surveys.
+
+-   In several chapters, sidebars like this one address a variety of relevant topics to both expand upon and augment the authors’ experiences.
+
+-   Figures throughout the book illustrate a variety of structures, tools, and materials used in creating and implementing inventories and planning and conducting surveys. Some chapters in part II also include links to downloadable materials from SurveyLA that can serve as examples.
+
+-   A [glossary](/glossary/) at the back defines key terms used throughout this text.
+
+-   In addition, for online readers, author-date citations throughout the book provide easy access to related content with just a couple of clicks.
+
+{% endaccordion %}
+
+Although the information provided applies to inventories and surveys in a variety of contexts, lessons drawn from SurveyLA are particularly relevant to practice relating to aboveground heritage resources in urban built environments – that is, extant resources that represent important aspects of the architectural, social, cultural, and ethnic history and development of urban areas. More generally, the contents of this book focus primarily on the application of inventories and surveys to the management of heritage places.
 
 ## Inventories versus Surveys
 

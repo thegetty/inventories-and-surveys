@@ -12,17 +12,87 @@ The process of survey planning expands on the findings of the needs assessment t
 
 ## The Plan 
 
-Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the **Sample Heritage Survey Plan** **Outline** (see also {% cite 'City of Toronto 2019' %}).
+Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the [Sample Heritage Survey Plan Outline](#sidebar-1) (see also {% cite 'City of Toronto 2019' %}).
+
+{% accordion '## Sample Survey Plan Outline' 'sidebar-1' %}
+
+I.  Introduction and Purpose of the Survey Plan
+
+    a.  Initiating and establishing the need for a survey
+
+    b.  Survey goals, objectives, and outcomes
+
+    c.  Benefits of the survey
+
+II. Summary of the Planning Process
+
+    a.  Participants in developing the plan
+
+    b.  Research and design methods
+
+III. Description of the Survey Scope
+
+     a.  Geographic area
+
+     b.  What will be surveyed
+
+IV. Survey Technology
+
+    a.  Data collection tools and technologies to be explored/used
+
+V.  Survey Methodology
+
+    a.  Survey standards and guidelines
+
+    b.  Evaluation criteria
+
+    c.  Prioritizing, phasing, and sequencing surveys
+
+    d.  Historic context and theme-based approach
+
+    e.  Recording processes and procedures
+
+    f.  Data management
+
+    g.  Pilot survey program
+
+    h.  Publishing and reporting
+
+VI. Public Outreach and Participation Program
+
+    a.  Outreach goals and objectives
+
+    b.  Participants and stakeholders
+
+    c.  Tools, strategies, and activities to be explored/used
+
+VII. Administrative Framework for the Survey
+
+    a.  Staffing, consultants, interns, and volunteers
+
+    b.  Costs and funding
+
+    c.  Schedule and timeline
+
+VIII. Conclusions and Next Steps
+
+IX. Suggested Attachments
+
+    a.  List of community participants
+
+    b.  Outreach meeting summaries
+
+    c.  Map of survey area
+
+    d.  Budget
+
+    e.  Staffing model
+
+    f.  Schedule
+
+{% endaccordion %}
 
 A primary audience for a plan may be decision-makers, such as a city or town council responsible for officially endorsing a survey and allocating or securing resources for its completion. The plan can also be used to introduce the survey to stakeholders and the general public, to encourage broad-based interest in the project and to initiate community outreach efforts. Finally, the plan can serve as the starting point for a more detailed strategy to guide day-to-day survey project management.
-
-**\[\[Begin box\]\]**
-
-**Sample Outline for a Heritage Survey Plan**
-
-**Full Text**
-
-**\[\[end box\]\]**
 
 ## Participants in Survey Planning
 
@@ -86,9 +156,57 @@ Official survey standards and guidelines have been developed and published by na
 
 It is important to acknowledge that in many cases existing standards and guidelines are outdated. For example, data fields required for old paper survey forms may refer to specific ways to record spatial information that are no longer pertinent for digital data collection. As well, standards and guidelines may not apply to documenting the range of themes and heritage typologies that characterize modern surveys, such as intangible heritage. The planning phase is a critical time to assess and address the relevancy of these survey standards for a modern survey.
 
-The sidebar **Historic Preservation Practice in the U.S.** summarizes national survey standards used in the United States, which formed the basis for the SurveyLA methodology.
+{% accordion '## Historic Preservation Practice in the United States' 'sidebar-2' %}
 
-**\[“Sidebar: Historic Preservation Practice in the U.S.” placed here\]**
+Following passage of the National Historic Preservation Act of 1966 (NHPA), the U.S. Department of the Interior and the National Park Service (NPS) prepared extensive standards and guidelines concerning historic preservation activities carried out under federal programs, state and local level governments, and private parties ({% cite 'National Park Service 1983' %}). This guidance serves as nationally accepted professional standards for his­toric preservation practice and ensures a uniform and consistent process for documenting and evaluating historic properties through surveys or property designations. The concepts and terms discussed here comprise the basic elements of these national professional standards.[^1]
+
+### Historic Property 
+
+The terms *historic property* and *historic resource* are used interchangeably in the United States to refer to buildings, structures, objects, sites, and districts that have been evaluated as significant ({% cite 'National Park Service 1997b' '15' %}):
+
+-   **Building.** A building is created principally to shelter any form of human activity; examples are residences, schools, churches, factories, theaters, and stores.
+
+-   **Structure.** The term *structure* is used to distinguish from buildings those functional constructions made usually for purposes other than human shelter, such as bridges, roadway systems, dams, and tunnels.
+
+-   **Object.** The term *object* is used to distinguish from buildings and structures those constructions that are primarily artistic in nature or that are relatively small in scale and simply constructed. An object is associated with a specific setting or environment, although it may be movable. Examples include sculpture, statuary, and fountains.
+
+-   **Site.** A site is the location of a significant event, a prehistoric or historic occupation or activity, or a building or structure, whether standing, ruined, or vanished, where the location itself possesses historic, cultural, or archaeological value regardless of the value of an existing structure. Sites include cemeteries, designed landscapes, cultural landscapes, and natural features.
+
+-   **District.** A district possesses a significant concentration, linkage, or continuity of sites, buildings, structures, or objects united historically or aesthetically by plan or physical development. Districts include residential neighborhoods, commercial areas, civic centers, industrial complexes, and institutional campuses such as hospitals and universities.
+
+### National Register of Historic Places
+
+The National Register of Historic Places is the United States’ official inventory of historic places worthy of preservation. The NPS established the National Register to identify properties of architec­tural, historical, engineering, or archaeological signifi­cance at the local, state, or national level.[^2] The National Register provides standardized criteria for evaluating properties for significance ({% cite 'National Park Service 1997a' %}). These criteria have been adapted for use by most state and local governments in developing their own designation programs and are also applied to properties during survey work.[^3]
+
+To be listed in the National Register, a property must meet at least one of the criteria set forth in *How to Apply the National Register Criteria for Evaluation* ({% cite 'National Park Service 1997a' '2' %}; see below) and retain integrity of those features necessary to convey its significance.
+
+> The quality of significance in American history, architecture, archaeology, and culture is present in districts, sites, buildings, structures, and objects that possess integrity of location, design, setting, materials, workmanship, feeling, and association, and:
+>
+> A. that are associated with events that have made significant contributions to the broad patterns of our history; or
+>
+> B. that are associated with the lives of persons significant in our past; or
+>
+> C. that embody the distinctive characteristics of a type, period, or method of construction, or that represent the work of a master, or that possess high artistic values, or that represent a significant and distinguishable entity whose components may lack individual distinction; or
+>
+> D. that have yielded, or may be likely to yield, information important in prehistory or history
+
+### Historic Context Statements and the Multiple Property Documentation Approach 
+
+A historic context statement is a narrative, technical document specific to the field of historic preservation. Contexts organize information about important trends, patterns, and topics significant to the development history of a defined geographic area into themes, and then relate those themes to property types that share common physical and associative attributes.
+
+Historic context-based surveys are the foundation of preservation planning in the United States. They provide a framework for establishing preservation goals and priorities and ensure consistency in resource identification and evaluation. Contexts can address a single theme and property type, such as Midcentury Modern residential architecture, or can provide a comprehensive summary of all aspects of history of an area.
+
+The multiple property documentation (MPD) approach developed by the NPS is the format most used for context-based surveys in the United States ({% cite 'National Park Service 1999' %}). Although designed to streamline the nomination of properties related by theme to the National Register, the MPD approach is also highly effective in conducting heritage surveys, particularly at a large scale. This approach provides a narrative discussion of themes; identifies and describes property types that represent the themes; and, importantly, provides specific guidance and comparative analysis regarding the physical characteristics, associative qualities, and aspects of integrity a property must have to be an important example of a property type and eligible for designation.
+
+[^1]: Other terms used throughout this publication are defined in the [glossary](/glossary/).
+
+[^2]: The National Register Program was authorized as part of the NHPA. The associated National Historic Landmarks Program recognizes properties of exceptional significance to the nation.
+
+[^3]: The City of Los Angeles Historic-Cultural Monument program, for example, has four criteria that parallel National Register criteria.
+
+{% endaccordion %}
+
+The sidebar [Historic Preservation Practice in the U.S.](#sidebar-2) summarizes national survey standards used in the United States, which formed the basis for the SurveyLA methodology.
 
 ### Survey Evaluation Standards 
 
@@ -98,7 +216,7 @@ Like survey standards and guidelines, evaluation criteria may need to be enhance
 
 ### Historic Context and Thematically Based Surveys
 
-The concepts of historic contexts and thematic frameworks, as defined in the **sidebar in chapter 2**, can be applied to heritage surveys to consistently identify, categorize, and evaluate resources that reflect important aspects of the history and development of an area. The planning phase is the time to consider if a context and/or theme-based approach will be used for the survey and how the approach will be developed and implemented. Taking such an approach can be a substantial undertaking, depending on the scope and size of a survey, and it can impact survey budget, schedule, and personnel needs. [Chapter 8](/part-2/chapter-8/) draws on the example of SurveyLA to provide useful information for designing historic context and theme-based surveys.
+The concepts of historic contexts and thematic frameworks, as defined in the [sidebar in chapter 2](/part-1/chapter-2/#sidebar-2), can be applied to heritage surveys to consistently identify, categorize, and evaluate resources that reflect important aspects of the history and development of an area. The planning phase is the time to consider if a context and/or theme-based approach will be used for the survey and how the approach will be developed and implemented. Taking such an approach can be a substantial undertaking, depending on the scope and size of a survey, and it can impact survey budget, schedule, and personnel needs. [Chapter 8](/part-2/chapter-8/) draws on the example of SurveyLA to provide useful information for designing historic context and theme-based surveys.
 
 ### The Role of Community Outreach and Engagement 
 
@@ -140,7 +258,7 @@ The model can be applied or adapted to a range of survey types, as not every sur
 
 -   **Administrative support** includes part-time agency or organization staff that assist the project manager with various aspects of project administration, such as grant management and consultant contracting.
 
--   **Peer review experts** are engaged to review and vet survey findings and may be organized as a committee or panel. The **Peer Review in Heritage Surveys** sidebar in chapter 10 provides more information on the role and process of peer review. Peer reviewers may be volunteers or paid project personnel whose time is considered in the project budget. The five members of SurveyLA’s peer review committee were each paid a stipend to prepare for and attend each meeting.
+-   **Peer review experts** are engaged to review and vet survey findings and may be organized as a committee or panel. The [Peer Review in Heritage Surveys](/part-2/chapter-10/#sidebar) sidebar in chapter 10 provides more information on the role and process of peer review. Peer reviewers may be volunteers or paid project personnel whose time is considered in the project budget. The five members of SurveyLA’s peer review committee were each paid a stipend to prepare for and attend each meeting.
 
 -   **Project advisors** provide expert advice on various aspects of the project, as well as overall support for the survey. Although advisors may be individuals, a project advisory committee is recommended to bring a range of stakeholders to the table and provide consensus on important topics. The makeup of an advisory committee will vary based on the scope and focus of the survey and the goals and objectives established for the committee. Participants may be internal or external to the managing agency or organization. SurveyLA’s volunteer advisory committee was composed primarily of community-based stakeholders; they met on a quarterly basis while survey tools and methods were in development and less often as the field surveys were in progress. The committee provided advice on topics ranging from naming the survey to ensuring inclusive participation in the project.
 
