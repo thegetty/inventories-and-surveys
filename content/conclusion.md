@@ -159,7 +159,7 @@ The following are concluding recommendations for improving the effectiveness of 
 
 -   Heritage organizations and professionals can benefit greatly from increased sharing of inventory- and survey-related experiences and practices. This can be furthered through a variety of means, including:
 
-    -   Creating both virtual and in-person communities of practice (such as England’s HER Forum, discussed under **Inventory Communities of Practice** in the Resources sidebar in chapter 3)
+    -   Creating both virtual and in-person communities of practice (such as England’s HER Forum, discussed under [Inventory Communities of Practice](/part-1/chapter-3/#inventory-communities) in the Resources sidebar in chapter 3)
 
     -   Disseminating information through additional publications, dedicated conference sessions and workshops, and webinars
 
@@ -189,8 +189,8 @@ The authors hope that these conclusions and recommendations can help promote add
 
 {% endbackmatter %}
 
-[^1]: As an example, as discussed under **Fiscal Support** in the Resources sidebar in chapter 3, AZSITE, Arizona’s Cultural Resource Inventory website, offers annual database access subscriptions at tiered pricing rates based upon the number of users and type of user organization. See <https://azsite3.asurite.ad.asu.edu/azsite/forms.html>.
+[^1]: As an example, as discussed under [Fiscal Support](/part-1/chapter-3/#fiscal-support) in the Resources sidebar in chapter 3, AZSITE, Arizona’s Cultural Resource Inventory website, offers annual database access subscriptions at tiered pricing rates based upon the number of users and type of user organization. See <https://azsite3.asurite.ad.asu.edu/azsite/forms.html>.
 
-[^2]: Historic England has made available a model historic environment record (HER) access and charging policy for use by England’s more than eighty local government authority inventories that includes options for cost-recovery charging of this sort. See **Fiscal Support** in chapter 3’s Resources sidebar for details.
+[^2]: Historic England has made available a model historic environment record (HER) access and charging policy for use by England’s more than eighty local government authority inventories that includes options for cost-recovery charging of this sort. See [Fiscal Support](/part-1/chapter-3/#fiscal-support) in chapter 3’s Resources sidebar for details.
 
 [^3]: As an example of crowdsourced information, see Historypin (<https://www.historypin.org/en/>) an online, user-generated archive of historical photos, audio recordings, videos, and personal recollections. Users can use the location and date of their content to “pin” it to Google Maps.
