@@ -190,7 +190,9 @@
 }
 
 /* Fix li markers appearance on page an in lightbox */
-ul li::marker,
+.content ul {
+  margin-left: 1.5em;
+}
 .quire-page__content .container .content ul li::marker {
   content: '◆  ';
 }
@@ -201,5 +203,6 @@ ul li::marker,
   margin-left: 1.5em;
 }
 .q-lightbox-slides__element table ul li::marker {
+  content: '◆  ';
   font-size: .875em;
 }
