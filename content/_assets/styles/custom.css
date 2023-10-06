@@ -157,3 +157,34 @@
 #table-10-11-d a table {
   font-size: .5em;
 }
+
+/* FIXES
+============================================================================= */
+/* Fix .is-table-scale utility classes to not change caption size */
+.q-figure.is-table-scale-1 a table {
+  font-size: 0.1rem;
+}
+.q-figure.is-table-scale-2 a table {
+  font-size: 0.2rem;
+}
+.q-figure.is-table-scale-3 a table {
+  font-size: 0.3rem;
+}
+.q-figure.is-table-scale-4 a table {
+  font-size: 0.4rem;
+}
+.q-figure.is-table-scale-5 a table {
+  font-size: 0.5rem;
+}
+.q-figure.is-table-scale-6 a table {
+  font-size: 0.6rem;
+}
+.q-figure.is-table-scale-7 a table {
+  font-size: 0.7rem;
+}
+.q-figure.is-table-scale-8 a table {
+  font-size: 0.8rem;
+}
+.q-figure.is-table-scale-9 a table {
+  font-size: 0.9rem;
+}
