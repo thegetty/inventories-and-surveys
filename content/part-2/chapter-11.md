@@ -59,21 +59,36 @@ It is also recommended that reports describe aspects of a survey project with re
 
 For SurveyLA, thirty-five separate reports were prepared by survey consultant teams, corresponding with the thirty-five community plan areas surveyed ({% cite 'Los Angeles City Planning n.d.b' %}). The report for each area included appendices summarizing survey findings by resource category used for SurveyLA (e.g., individual properties, historic districts, etc.) and they were published sequentially as the surveys were completed. The *Field Survey Results Master Report* was also developed to function as a cover document for the plan area reports ({% cite 'Los Angeles City Planning 2016b' %}). It explains the survey data collection tools and methods, introduces the citywide historic context statement, and outlines the resource evaluation and documentation process.
 
-The report formats developed for SurveyLA may serve as useful references or templates. A sample report is **shown below**.
+The report formats developed for SurveyLA may serve as useful references or templates. A sample report is [shown below](#resource-1).
 
-**\[\[Begin Box\]\]**
+<section class="additional-resource" id="resource-1">
 
-**SurveyLA Historic Resources Survey Report:**
+#### SurveyLA Historic Resources Survey Report: Northeast Los Angeles Community Plan Area
 
-**Northeast Los Angeles Community Plan Area**
+[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/SurveyLA_SurveyReport_Northeast_LosAngeles.pdf)
 
-Source: Los Angeles City Planning, Office of Historic Resources
+{% figuregroup '2' 'ch-11-resource-1' '' 'Source: Los Angeles City Planning, office of Historic Resources' %}
 
-Download Report
+{% accordion '##### Table of Contents' %}
 
-Table of Contents
+- Project Overview
+  - SurveyLA Methodology Summary
+  - Project Team
+  - Survey Area
+  - Designated Resources
+  - Community Plan Area Survey Methodology
+- Summary of Findings
+  - Summary of Property Types
+  - Summary of Contexts and Themes
+- For Further Reading
+- Appendices
+  - Appendix A: Individual Resources
+  - Appendix B: Non-Parcel Resources
+  - Appendix C: Historic Districts & Planning Districts
 
-**\[\[end box\]\]**
+{% endaccordion %}
+
+</section>
 
 ## Publishing Survey Reports
 

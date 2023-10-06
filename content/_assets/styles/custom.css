@@ -27,12 +27,14 @@
 
 :root {
   --dark-blue: #112e4a;
-  --light-blue: #5ebad1;
-  --pink: #e79090;
+  --light-blue: #69dcf8;
+  --pink: #f98d8d;
   --dark-pink: #e66464;
   --red: #e23a3a;
+  --black: #000;
   --gray: #dbdbdb;
   --light-gray: #f2f2f2;
+  --white: #fff;
 }
 
 
@@ -109,6 +111,125 @@
 .accordion-section[id^='sidebar'] .sidebar-author {
   font-style: italic;
   font-size: .75em;
+}
+
+/* ADDITIONAL RESOURCE BOXES
+============================================================================= */
+/* Special <sections> with PDF downloads and/or accordions containing full-test resources */
+.additional-resource {
+  background-color: var(--dark-blue);
+  color: var(--white);
+  margin-bottom: 1.5rem;
+  border-bottom: 10px solid var(--gray);
+  padding-top: 1.5rem;
+}
+.additional-resource > * {
+  color: var(--white) !important;
+  padding: 0 1.5rem;
+}
+.additional-resource .accordion-section {
+  margin: 0;
+  padding: 0;
+}
+.additional-resource .accordion-section__heading {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+}
+.additional-resource .accordion-section__heading *:not(button) {
+  color: inherit;
+}
+.additional-resource .accordion-section__heading:hover button {
+  color: var(--white) !important;
+}
+.additional-resource .accordion-section__body {
+  background-color: var(--light-gray);
+  color: var(--black);
+  padding: 1.5rem;
+}
+/* For the Download links and icons */
+.quire-page__content .content .additional-resource a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+ color: var(--light-blue);
+}
+.quire-page__content .content .additional-resource a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  color: var(--white) !important;
+}
+.additional-resource a {
+  border-bottom-width: 0px !important;
+}
+.additional-resource a svg {
+  width: 1rem;
+  height: 1rem;
+  fill: currentColor;
+}
+/* For figures, usually the cover of the report in question */
+.additional-resource .q-figure {
+  padding: 0;
+  border-width: 0;
+  margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+.additional-resource .q-figure .q-figure__caption {
+  color: var(--white);
+  margin-top: .25rem;
+  padding-top: 0;
+}
+/* For the full-text TOCs */
+.additional-resource ol,
+.additional-resource ol li {
+  margin-left: .5rem !important;
+}
+.additional-resource ul,
+.additional-resource ul li {
+  margin-left: 0 !important;
+}
+.additional-resource ul li ul,
+.additional-resource ol li ul {
+  margin-left: 1.5rem !important;
+}
+.additional-resource ul li::marker {
+  content: none !important;
+}
+/* Some Resources appear within lists, but the markdown processor wasn't working with them, so this makes them *look* like they're in the list */
+.additional-resource.inside-list {
+  margin-left: 2.5rem;
+}
+/* Lone <li> elements in between the Resources noted above, aren't processing into <p> elements and so need some line-height help */
+.content ul li {
+  line-height: 2;
+}
+/* Special form markup for Chapter 7, Resource 1 */
+.form-line {
+  display: flex;
+  flex-wrap: wrap;
+}
+.form-line__group {
+  flex-grow: 1;
+  display: flex;
+}
+.form-line label {
+  margin-bottom: .5rem;
+  margin-right: .5rem;
+}
+.form-line input {
+  flex-grow: 1;
+  background-color: transparent;
+  border-width: 0;
+  border-bottom: 1px solid var(--black);
+  margin-bottom: .5rem;
+}
+.form-checkboxes input:not(:first-child) {
+  margin-top: 1rem;
+}
+.form-box {
+  margin-top: 1rem;
+}
+.form-box input {
+  background-color: transparent;
+  display: block;
+  width: 100%;
+  height: 4rem;
+  border: 1px solid var(--black);
+  margin-top: .5rem;
 }
 
 /* GROUP FIGURES

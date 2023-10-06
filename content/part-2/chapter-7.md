@@ -274,19 +274,103 @@ Volunteers can play a critical role in supplementing the work of project staff, 
 
 Although volunteers may have a variety of skill sets, they will have in common a desire to feel a part of and contribute meaningfully to the survey. A well-designed volunteer program identifies and describes specific opportunities that account for a range of skills and also establishes qualifications, work programs (including expected time commitments), and relevant training needed for each activity. In this way, potential volunteers have a clear understanding of what activities may or may not be available to them. The roles of volunteers in various aspects of a survey are discussed in subsequent chapters where relevant.
 
-Volunteers, like interns, are not recommended for tasks that require specialized professional training, experience, and qualifications or that may have implications for credible and defensible survey results. A volunteer intake questionnaire, such as the one used for SurveyLA **shown here**, can aid in the process of engaging community members with a range of skills and matching them with tasks that align with individual interests and skills.
+Volunteers, like interns, are not recommended for tasks that require specialized professional training, experience, and qualifications or that may have implications for credible and defensible survey results. A volunteer intake questionnaire, such as the one used for SurveyLA [shown here](#resource-1), can aid in the process of engaging community members with a range of skills and matching them with tasks that align with individual interests and skills.
 
-**\[\[Begin box\]\]**
+<section class="additional-resource" id="resource-1">
 
-**SurveyLA volunteer intake form**
+#### SurveyLA: Volunteer Registration Form
 
-Source: Los Angeles City Planning, Office of Historic Resources
+{% figuregroup '2' 'ch-7-resource-1' '' 'Source: Los Angeles City Planning, Office of Historic Resources' %}
 
-**\[\[**see Fig. 7.3_INV_Fig_2.07_SurveyLAVolunteerForm for content**\]\]**
+{% accordion '##### Full Text' %}
 
-**Full Text**
+<form disabled="disabled">
 
-**\[\[End box\]\]**
+The Office of Historic Resources is seeking qualified volunteers to help with SurveyLA, the citywide historic resources survey project. If you are interested in the opportunities available, please provide the following information:
+
+<div class="form-line">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name">
+</div>  
+
+<div class="form-line">
+  <label for="name">Address:</label>
+  <input type="text" id="name" name="name">
+</div> 
+
+<div class="form-line">
+  <div class="form-line__group">
+  <label for="city">City:</label>
+  <input type="text" id="city" name="city">
+  </div>
+  <div class="form-line__group">
+  <label for="zip">Zip:</label>
+  <input type="text" id="zip" name="zip">
+  </div>
+</div> 
+
+<div class="form-line">
+  <div class="form-line__group">
+  <label for="phone">Phone:</label>
+  <input type="text" id="phone" name="phone">
+  </div>
+  <div class="form-line__group">
+  <label for="email">Email:</label>
+  <input type="text" id="email" name="email">
+  </div>
+</div> 
+
+<div class="form-line">
+  <label for="date">Date:</label>
+  <input type="text" id="date" name="date">
+</div> 
+
+Let us know when you are available, and hours per week during that time frame. (8 hours minimum per week preferred): 
+
+<div class="form-line">
+  <div class="form-line__group">
+  <label for="start-date">Start:</label>
+  <input type="text" id="start-date" name="start-date">
+  </div>
+  <div class="form-line__group">
+  <label for="end-date">End:</label>
+  <input type="text" id="end-date" name="end-date">
+  </div>
+  <div class="form-line__group">
+  <label for="hours">Hours Per Week:</label>
+  <input type="text" id="hours" name="hours">
+  </div>
+</div> 
+
+Our current volunteer needs are listed below. Indicate your interest by checking the appropriate box(es): 
+
+<div class="form-checkboxes">
+  <input type="checkbox" id="interest-1" name="interest-1" value="Research">
+  <label for="interest-1"> <strong>Research:</strong> Use your research skills to uncover and record information to help professional survey teams identify and assess significant properties and districts. </label><br />
+
+  <input type="checkbox" id="interest-2" name="interest-2" value="Draft Historic Contex">
+  <label for="interest-2"> <strong>Draft Historic Context:</strong> Contribute to the Citywide Historic Context Statement, a narrative document that discusses Los Angeles’ development from its founding through 1980. Themes within the context statement include architecture as well as social, cultural and ethnic history. </label><br />
+
+  <input type="checkbox" id="interest-3" name="interest-3" value="Neighborhood Coordinator">
+  <label for="interest-3"> <strong>Neighborhood Coordinator:</strong> Head up a neighborhood effort or work independently to gather information about the history of your community and specific places that should be included in the field surveys.</label><br />
+
+  <input type="checkbox" id="interest-4" name="interest-4" value="Photography">
+  <label for="interest-4"> <strong>Photography:</strong> Using your digital photography skills, help provide visual interest to survey data.</label><br />
+
+  <input type="checkbox" id="interest-5" name="interest-5" value="Speakers Bureau">
+  <label for="interest-5"> <strong>Speakers Bureau:</strong> Join the Speakers Bureau to help spread the word about SurveyLA throughout Los Angeles. Recruitment and training take place once a year.</label><br />
+</div>
+
+<div class="form-box">
+  <label for="experience">Tell us about your experience/qualifications:</label>
+  <input type="text" id="experience" name="experience">
+</div> 
+
+</form>
+
+{% endaccordion %}
+
+</section>
 
 {% backmatter %}
 

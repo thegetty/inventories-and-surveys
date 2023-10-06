@@ -21,6 +21,10 @@ Generates HTML output for generation of PDF books using [`Paged.js`](https://pag
 Generates HTML output for generation of EPUB book using [`EPUB.js`](http://futurepress.org)
 
 
+
+**_includes/components/icon.js**
+Used `oneLine` instead of `html` so that the include could be used in Markdown files
+
 **_plugins/filters/getContributor.js**
 Add the page-level sort_as value if included with a contributor id
 

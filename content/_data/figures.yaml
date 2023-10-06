@@ -148,6 +148,10 @@ figure_list:
     credit: "Janet Hansen"
     alt:
 
+  - id: "ch-7-resource-1"
+    src: "figures/ch-7-resource-1.png"
+    alt: ""
+
   - id: "fig-8-1"
     label: "Fig. 8.1"
     src: "figures/fig-8-1.png"
@@ -201,6 +205,26 @@ figure_list:
     caption: "Heritage Survey Outreach Management Model illustrating key participants in developing and implementing a heritage outreach program."
     credit: "Janet Hansen"
     alt:
+
+  - id: "ch-8-resource-1"
+    src: "figures/ch-8-resource-1.jpg"
+    alt: ""
+
+  - id: "ch-8-resource-2-a"
+    src: "figures/ch-8-resource-2-a.jpg"
+    alt: ""
+
+  - id: "ch-8-resource-2-b"
+    src: "figures/ch-8-resource-2-b.jpg"
+    alt: ""
+  
+  - id: "ch-8-resource-3"
+    src: "figures/ch-8-resource-3.jpg"
+    alt: ""
+  
+  - id: "ch-8-resource-4"
+    src: "figures/ch-8-resource-4.png"
+    alt: ""
 
   - id: "fig-9-1"
     label: "Fig. 9.1"
@@ -331,6 +355,10 @@ figure_list:
     caption: "Survey-to-inventory data integration process. Survey data not collected directly into an inventory system requires careful review and revision of the data itself or the inventory system to which it will be introduced."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
+  
+  - id: "ch-11-resource-1"
+    src: "figures/ch-11-resource-1.jpg"
+    alt: ""
 
   - id: "fig-12-1"
     label: "Fig. 12.1"
