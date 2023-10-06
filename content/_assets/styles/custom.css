@@ -188,6 +188,17 @@
 .q-figure.is-table-scale-9 a table {
   font-size: 0.9rem;
 }
+.q-figure.is-table-scale-1,
+.q-figure.is-table-scale-2,
+.q-figure.is-table-scale-3,
+.q-figure.is-table-scale-4,
+.q-figure.is-table-scale-5,
+.q-figure.is-table-scale-6,
+.q-figure.is-table-scale-7,
+.q-figure.is-table-scale-8,
+.q-figure.is-table-scale-9 {
+  font-size: inherit;
+}
 
 /* Fix li markers appearance on page an in lightbox */
 .content ul {
