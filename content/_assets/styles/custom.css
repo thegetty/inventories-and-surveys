@@ -121,6 +121,8 @@
   color: var(--white);
   margin-bottom: 1.5rem;
   border-bottom: 10px solid var(--gray);
+}
+.additional-resource > *:first-child {
   padding-top: 1.5rem;
 }
 .additional-resource > * {
@@ -193,6 +195,11 @@
 .additional-resource.inside-list {
   margin-left: 2.5rem;
 }
+@media print {
+  .additional-resource.inside-list {
+    margin-left: 2rem;
+  }
+}
 /* Lone <li> elements in between the Resources noted above, aren't processing into <p> elements and so need some line-height help */
 .content ul li {
   line-height: 2;
@@ -230,6 +237,49 @@
   height: 4rem;
   border: 1px solid var(--black);
   margin-top: .5rem;
+}
+@media print {
+  /* Hide the download link */
+  .additional-resource > p > a:after {
+    content: " (" attr(href) ")";
+  }
+  .additional-resource .accordion-section {
+    background-color: var(--light-gray);
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1rem 0;
+    width: 100%;
+    /* This bit is because there was a little show through of the dark-blue around the edges */
+    width: calc(100% + .5pt);
+    margin-left: -.25pt;
+    border-bottom: 10px solid var(--gray);
+  }
+  .additional-resource {
+    border-bottom-width: 0;
+  }
+  .additional-resource .accordion-section > * {
+    color: var(--black);
+    padding: 0 1.5rem;
+    font-size: .75em;
+    line-height: 1.35;
+  }
+  .additional-resource .accordion-section h5 {
+    font-size: 1rem;
+  }  
+  .additional-resource .accordion-section ol li,
+  .additional-resource .accordion-section ul li {
+    margin-bottom: .5rem !important; 
+  }
+  .additional-resource .accordion-section > ul:last-child,
+  .additional-resource .accordion-section > ul:last-child > li:last-child {
+    margin-bottom: 0;
+  }
+  .additional-resource .accordion-section ol li ul {
+    margin-top: .5rem;
+  }
+  .additional-resource .q-figure.q-figure--group.quire-grid--2 .q-figure {
+    width: 47%; 
+  }
 }
 
 /* GROUP FIGURES

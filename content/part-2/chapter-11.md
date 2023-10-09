@@ -65,7 +65,7 @@ The report formats developed for SurveyLA may serve as useful references or temp
 
 #### SurveyLA Historic Resources Survey Report: Northeast Los Angeles Community Plan Area
 
-[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/SurveyLA_SurveyReport_Northeast_LosAngeles.pdf)
+[Download Report {% icon type='download' description='Download the PDF' %}](/_assets/downloads/SurveyLA_SurveyReport_Northeast_LosAngeles.pdf)
 
 {% figuregroup '2' 'ch-11-resource-1' '' 'Source: Los Angeles City Planning, office of Historic Resources' %}
 
