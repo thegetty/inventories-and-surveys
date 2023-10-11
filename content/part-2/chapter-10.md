@@ -39,7 +39,7 @@ The major components of a field survey include the following (see [Field Survey 
 
 Although all these tasks are essential to a successful field survey, they may be conducted in phases, and some tasks may be conducted concurrently ([fig. 10.2](#fig-10-2)). Once the parameters and goals of the project have been defined, the survey team can predict the level of effort and documentation that will be needed for all tasks within the scope of work to successfully distribute resources and plan for the work.
 
-{% figure 'table-10-2' 'is-table-scale-5' %}
+{% figure 'table-10-2' 'is-table-scale-4 pdf-two-column' %}
 
 A survey project will ideally have a finite budget and schedule predetermined by the managing agency or organization during survey planning. Survey professionals will need to use their experience with similar projects to plan for the work within these parameters to avoid overspending and causing delays in schedule. An understanding of the following factors is important to consider when developing a survey project approach:
 
@@ -289,7 +289,7 @@ This essay is drawn from the author’s experiences both managing and serving on
 
 The scope of a survey and the goals and objectives established for peer preview will determine factors to consider when selecting panelists ([fig. 10.8](#fig-10-8)). Participants should have a knowledge of current survey practice, methods, and technologies, including an understanding of thematic frameworks and historic contexts as strategies for resource identification and evaluation (see the [sidebar on this subject](/part-1/chapter-2/#sidebar-1) in chapter 2). The survey scope defines the geographic area and nature of the resource types to be identified. Panelists, therefore, may be experts in the history and development of a city or region or individuals with expertise on particular building typologies, distinctive construction materials and systems, or topics relating to social, ethnic, and cultural histories.
 
-{% figure 'fig-10-8' %}
+{% figure 'fig-10-8' 'pdf-float-top' %}
 
 Participants may contribute subject matter expertise to inform the development of historic contexts as well as survey findings. Peer review is also benefited by the knowledge of heritage preservation agencies and advocates who are aware of current issues in local or regional heritage management. During review sessions, guest panelists with specialized knowledge of the history of an area or community may also supplement the knowledge base of the panelists. This may be particularly important for large-scale citywide or regional surveys. Guest panelists may also be city planners and others engaged in implementing the survey findings through land use management and environmental review. In sum, peer review panelists provide a number of functions to support quality control of survey findings:
 
@@ -375,7 +375,7 @@ Southeast Los Angeles is mostly flat in terrain and composed of numbered streets
 
 When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11)).
 
-{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' '' '<span class="q-figure__label">Fig. 10.11</span> Representative houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' 'pdf-two-column' '<span class="q-figure__label">Fig. 10.11</span> Representative houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
 
 Using the preloaded reference layers in the mobile survey application (see [Designing Digital Surveys](/part-2/chapter-8/#designing-digital-surveys) in chapter 8), surveyors could see that these houses were all constructed in the same year: 1920. Field observations also noted the houses’ condition and alterations that had been made to them. The survey team members agreed the neighborhood was something to research further, and they noted it on the reconnaissance map for additional study.
 

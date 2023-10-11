@@ -90,7 +90,7 @@ Information policies, standards, and other guidance are key elements of any inve
 
 Standards relating to what information should be recorded can be referred to as *content standards.* In specifying *what* information should be recorded, this can be defined at two different levels of detail, as shown in [figures 2.2a](#fig-2-2a) and [2.2b](#fig-2-2b).
 
-{% figuregroup '2' 'fig-2-2a, fig-2-2b' %}
+{% figuregroup '2' 'fig-2-2a, fig-2-2b' 'pdf-two-column' %}
 
 -   **Record types.** As shown in [figure 2.2a](#fig-2-2a), a single inventory typically contains many types of information records, for example, immovable heritage resources (e.g., buildings, landscapes, archaeological sites, underwater heritage), intangible heritage (e.g., spiritual practices, oral traditions), collections of movable cultural materials associated with places or activities (e.g., surveys, conservation interventions), persons (e.g., architects, historical figures), organizations, information resources (e.g., images, reports).
 
@@ -151,6 +151,7 @@ Historic contexts are used to organize information about related heritage resour
 Thematic frameworks, as well as theme or thematic studies and historic context statements, periodically need to be expanded and revised. Interpretations of history change over time – sometimes through new research, new survey findings, and public engagement  – and through new methods of information analysis. Inevitably, at times new priorities or topics emerge that are deemed to be significant but that in the past had gone unrecognized.
 
 [^1]: For an overview of the use of thematic frameworks within national and international contexts, see {% cite 'Clayworth 2008' %}.
+
 
 {% endaccordion %}
 

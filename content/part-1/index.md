@@ -2,7 +2,8 @@
 label: "Part 1"
 title: "Heritage Inventories"
 layout: "table-of-contents"
-class: "pdf-heading-only"
+classes:
+  - pdf-splash-page
 presentation: "list"
 order: 30
 ---

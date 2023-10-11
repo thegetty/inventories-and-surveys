@@ -1,6 +1,6 @@
 ---
 title: "Foreword"
-layout: essay
+layout: page
 contributor:
   - first_name: "Timothy P." 
     last_name: "Whalen"

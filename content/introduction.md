@@ -1,7 +1,9 @@
 ---
 title: "Introduction"
 subtitle: "Importance of Inventories and Surveys to Heritage Management"
-layout: page
+layout: essay
+classes:
+  - page-one
 contributor:
 order: 25
 ---
