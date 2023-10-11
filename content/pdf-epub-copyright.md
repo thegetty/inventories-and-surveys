@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 180
+order: 3
 classes:
   - copyright-page
 outputs:

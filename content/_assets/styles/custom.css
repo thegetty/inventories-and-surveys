@@ -353,15 +353,36 @@
   }
 }
 
-/* GLOSSARY
+/* BACKMATTER PAGES: GLOSSSARY, REFERENCES, CONTRIBUTORS
 ============================================================================= */
-.quire-page__content .content dl {
-  margin-left: 0;
+.quire-page.backmatter .quire-page__content {
   line-height: 2;
 }
+.quire-page.backmatter .quire-page__content dl {
+  margin-left: 0;
+}
+
 @media print {
-  .quire-page__content .content dl a {
+  .quire-page.backmatter .quire-page__content {
+    column-count: 2;
+    column-gap: 0.1875in;
+    font-size: 0.75rem !important;
+    line-height: 1.6 !important;
+    margin: 0;
+    max-width: 100%;
+  }
+  #page-glossary.quire-page.backmatter .quire-page__content a {
     font-weight: bold;
+  }
+  .quire-page.backmatter .quire-page__content dd {
+    break-before: avoid;
+    break-inside: avoid;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+  }
+  /* Hide manually added, link to contribution */
+  .quire-page#page-contributors .quire-contributor#lauren-weiss-bricker ul {
+    display: none;
   }
 }
 

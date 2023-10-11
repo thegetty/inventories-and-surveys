@@ -1,7 +1,8 @@
 ---
 title: "Glossary"
 layout: page
-class: backmatter
+classes: 
+  - backmatter
 order: 125
 ---
 
