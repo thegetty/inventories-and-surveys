@@ -348,6 +348,18 @@
   }
 }
 
+/* GLOSSARY
+============================================================================= */
+.quire-page__content .content dl {
+  margin-left: 0;
+  line-height: 2;
+}
+@media print {
+  .quire-page__content .content dl a {
+    font-weight: bold;
+  }
+}
+
 /* FIXES
 ============================================================================= */
 /* Fix .is-table-scale utility classes to not change caption size */

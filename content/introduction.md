@@ -142,4 +142,4 @@ We will attempt to address these and other emerging trends and challenges in the
 
 [^5]: For example, Docomomo International, as well as many national chapters of Docomomo, have created registers identifying and documenting significant buildings, sites, and neighborhoods of the modern movement, and these are added to on an ongoing basis. One of the specialist committees of Docomomo International is also devoted to such registers. Further information is available at <https://docomomo.com/iscs/>.
 
-[^6]: See further explanation of historical map regression in the [glossary](/glossary/).
+[^6]: See further explanation of [historical map regression](/glossary/#historical-map-regression) in the glossary.
