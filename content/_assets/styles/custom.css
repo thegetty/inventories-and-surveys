@@ -42,6 +42,8 @@
 ============================================================================= */
 .quire-menu .page-item a.active, 
 .quire-menu .section-item a.active,
+.quire-menu .page-item a.active *, 
+.quire-menu .section-item a.active *,
 .quire-menu__formats h6 {
   border-color: var(--light-blue);
   color: var(--light-blue) !important;
