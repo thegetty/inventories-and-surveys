@@ -34,5 +34,8 @@ Add the page-level sort_as value if included with a contributor id
 **_plugins/markdown/index.js**
 Create better line breaks for URLs, per Chicago Manual of Style
 
+**_plugins/shortcodes/contributors.js**
+Refactor logic to handle oxford commas correctly
+
 **_plugins/shortcodes/figureGroup.js**
 Simplify markup and enable custom classes and group captions for figure groups
