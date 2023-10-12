@@ -31,5 +31,8 @@ Add subtitles, and Foreword contributors to sidebar menu
 **_plugins/filters/getContributor.js**
 Add the page-level sort_as value if included with a contributor id
 
+**_plugins/markdown/index.js**
+Create better line breaks for URLs, per Chicago Manual of Style
+
 **_plugins/shortcodes/figureGroup.js**
 Simplify markup and enable custom classes and group captions for figure groups
