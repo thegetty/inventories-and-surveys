@@ -1,5 +1,5 @@
 ---
-label: "Chapter 6"
+label: "6"
 title: "Establish the Need for a Survey"
 short_title: 
 layout: essay

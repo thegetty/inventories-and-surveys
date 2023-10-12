@@ -1,5 +1,5 @@
 ---
-label: "Chapter 9"
+label: "9"
 title: "Complete a Pilot Survey Program"
 short_title: 
 layout: essay

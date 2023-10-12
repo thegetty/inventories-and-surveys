@@ -1,5 +1,5 @@
 ---
-label: "Chapter 10"
+label: "10"
 title: "Conduct Field Surveys"
 short_title: 
 layout: essay

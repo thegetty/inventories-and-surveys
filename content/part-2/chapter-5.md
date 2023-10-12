@@ -1,5 +1,5 @@
 ---
-label: "Chapter 5"
+label: "5"
 title: "SurveyLA and HistoricPlacesLA"
 subtitle: "A Synopsis" 
 layout: essay

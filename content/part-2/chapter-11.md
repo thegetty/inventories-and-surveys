@@ -1,5 +1,5 @@
 ---
-label: "Chapter 11"
+label: "11"
 title: "Publish Survey Results"
 short_title: 
 layout: essay

@@ -1,5 +1,5 @@
 ---
-label: "Chapter 8"
+label: "8"
 title: "Develop Survey Tools and Methods"
 short_title: 
 layout: essay

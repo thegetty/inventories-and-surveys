@@ -1,5 +1,5 @@
 ---
-label: "Chapter 12"
+label: "12"
 title: "Using Inventory and Survey Information for Heritage Management"
 short_title: 
 layout: essay

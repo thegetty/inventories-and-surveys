@@ -1,5 +1,5 @@
 ---
-label: "Chapter 2"
+label: "2"
 title: "Infrastructure, Resources, and Activities to Support Inventory Effectiveness"
 short_title: 
 layout: essay
