@@ -42,4 +42,4 @@ The following are general tips and recommendations for managing a pilot survey p
 
 -   Pilot survey areas may need to be resurveyed later, or the data modified in whole or in part, based on lessons learned and revisions to survey methods. For SurveyLA, all pilot survey areas were either resurveyed or the data thoroughly reviewed and revised to ensure consistency in content and quality with all final survey results.
 
-The pilot survey program ends with developing survey reporting procedures and report formats that will serve as prototypes for those published after the official survey phase is completed. Survey reports are discussed further in [chapter 11](/part-2/chapter-11/).
+The pilot survey program ends with developing survey reporting procedures and report formats that will serve as prototypes for those published after the official survey phase is completed. Survey reports are discussed further in [chapter 11](/part-ii/chapter-11/).

@@ -10,7 +10,7 @@ order: 45
 
 Given the information presented in the preceding chapters, what might heritage organizations consider in their particular cases when approaching the establishment, modernization, or invigoration of heritage inventories or increasing their effectiveness? In this chapter, a series of considerations is presented for an organization to use in examining what is needed in its particular case given its own circumstances.
 
-The considerations that follow are based on a checklist created by the Getty Conservation Institute, which was informed by its research as well as collective experiences over a number of years dealing with heritage inventories in a variety of contexts and stages of development. Many of these considerations relate to the potential types of infrastructure, resources, and activities to support inventories described in [chapter 2](/part-1/chapter-2/).
+The considerations that follow are based on a checklist created by the Getty Conservation Institute, which was informed by its research as well as collective experiences over a number of years dealing with heritage inventories in a variety of contexts and stages of development. Many of these considerations relate to the potential types of infrastructure, resources, and activities to support inventories described in [chapter 2](/part-i/chapter-2/).
 
 The considerations are presented with the most fundamental first followed by others that build upon them. (Note that not all considerations will be relevant to every heritage organization.) A [Resources sidebar](#sidebar) provides descriptions and directions to further guidance, related standards, or relevant examples of inventory practice.
 
@@ -84,15 +84,15 @@ The following are considerations related to inventory information record types, 
 
 ### What Record Types Need to Be Included in the Inventory?
 
-Another important consideration is what types of information records an inventory should contain (see [fig. 2.2a](/part-1/chapter-2/#fig-2-2a)). This decision may be informed in part by the types of heritage to be recorded in the inventory (e.g., buildings, landscapes, archaeological sites, districts or areas, maritime heritage, intangible heritage). Inventories also often contain records for activities such as surveys, excavations, and conservation interventions; persons and organizations such as architects, historical figures, and heritage organizations; and information sources such as images, reports, historical maps and documents, audio or video recordings, as well as archives or other repositories. Other record types may be needed depending on the particular requirements of an inventory program.
+Another important consideration is what types of information records an inventory should contain (see [fig. 2.2a](/part-i/chapter-2/#fig-2-2a)). This decision may be informed in part by the types of heritage to be recorded in the inventory (e.g., buildings, landscapes, archaeological sites, districts or areas, maritime heritage, intangible heritage). Inventories also often contain records for activities such as surveys, excavations, and conservation interventions; persons and organizations such as architects, historical figures, and heritage organizations; and information sources such as images, reports, historical maps and documents, audio or video recordings, as well as archives or other repositories. Other record types may be needed depending on the particular requirements of an inventory program.
 
 ### What Are the Scope and Details of Information for Each Inventory Record Type?
 
-Following from identifying the heritage resource types and other record types to be included in the inventory, a next-order consideration is what set of information each inventory record type should contain (see [fig. 2.2b](/part-1/chapter-2/#fig-2-2b)). The specific data fields for each type of database record will need to be defined, as well as the data type of each field (e.g., free text, numeric, address, geospatial location, controlled vocabulary). When considering incorporating inventory data within an information system, many additional related details will need to be determined, depending on the characteristics of the information system. See [Data Standards](#data-standards) in the sidebar for more on this topic.
+Following from identifying the heritage resource types and other record types to be included in the inventory, a next-order consideration is what set of information each inventory record type should contain (see [fig. 2.2b](/part-i/chapter-2/#fig-2-2b)). The specific data fields for each type of database record will need to be defined, as well as the data type of each field (e.g., free text, numeric, address, geospatial location, controlled vocabulary). When considering incorporating inventory data within an information system, many additional related details will need to be determined, depending on the characteristics of the information system. See [Data Standards](#data-standards) in the sidebar for more on this topic.
 
 ### Are Controlled Vocabularies Needed for the Inventory? {#controlled-vocabularies}
 
-As discussed in the [Controlled Vocabularies sidebar](/part-1/chapter-2/#sidebar-1) in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
+As discussed in the [Controlled Vocabularies sidebar](/part-i/chapter-2/#sidebar-1) in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
 
 The task of defining controlled vocabularies may require the involvement of a group of professionals with expertise in the range of topics covered, as well as familiarity with knowledge organization practices. An organization may also wish to identify specific staff that will have ongoing responsibility for the management of controlled vocabularies, and perhaps also a standing reference group to consult as questions or issues arise. See [Controlled Vocabularies](#controlled-vocabularies) in the sidebar for several resources on this topic.
 
@@ -260,7 +260,7 @@ A later step with legacy data is to prepare the data to be imported into a targe
 
 ### How Will Inventory Information Be Managed Over Time? {#inventory-information-over-time}
 
-For your inventory program, what measures should be implemented to create, collect, update, add to, and improve information over time? Improving the inventory record is a continuous process that is usually best achieved through a variety of means. As discussed in chapter 2, in the section [Information Collection, Creation, and Editing](/part-1/chapter-2/#information-collection-creation-and-editing), common related activities include:
+For your inventory program, what measures should be implemented to create, collect, update, add to, and improve information over time? Improving the inventory record is a continuous process that is usually best achieved through a variety of means. As discussed in chapter 2, in the section [Information Collection, Creation, and Editing](/part-i/chapter-2/#information-collection-creation-and-editing), common related activities include:
 
 -   Compiling legacy data or existing information
 
@@ -280,7 +280,7 @@ For your inventory program, what measures should be implemented to create, colle
 
 Consider which of those activities are needed and feasible in the case of your inventory.
 
-An important part of improving inventory information is determining a regular schedule for proactively assessing its status to identify gaps and particular areas in need of updating. When relevant, thematic frameworks and thematic studies or historic context statements can aid in this process (see the [Overview sidebar](/part-1/chapter-2/#sidebar-2) on this topic in chapter 2 for more on these tools). Through this sort of assessment, a heritage organization might recognize the need to carry out new surveys or other data collection activities or determine topical areas in need of new research to help address inventory gaps. Once needs for new data collection or research are identified, steps can be taken to determine when and how they should be undertaken.
+An important part of improving inventory information is determining a regular schedule for proactively assessing its status to identify gaps and particular areas in need of updating. When relevant, thematic frameworks and thematic studies or historic context statements can aid in this process (see the [Overview sidebar](/part-i/chapter-2/#sidebar-2) on this topic in chapter 2 for more on these tools). Through this sort of assessment, a heritage organization might recognize the need to carry out new surveys or other data collection activities or determine topical areas in need of new research to help address inventory gaps. Once needs for new data collection or research are identified, steps can be taken to determine when and how they should be undertaken.
 
 Finally, as mentioned previously, it is important that heritage organizations strive for accuracy of inventory information to provide a sound basis for heritage management decisions. Therefore, it is recommended that heritage inventory programs put in place measures for data validation through information quality assurance (QA) and quality control (QC). The U.S. Geological Survey defines the two concepts as follows: “QA refers to defect prevention, whereas QC refers to defect detection. Generally, QA is applied before and during data acquisition, whereas QC is applied after data are in hand” ({% cite 'USGS n.d.' %}).
 
@@ -346,7 +346,7 @@ Although a full review of criteria for software selection is beyond the scope of
 
 -   What is the projected total cost of ownership (TCO)[^3] of the options being considered? How does this compare with the organization’s available resources?
 
-[Chapter 4](/part-1/chapter-4/) discusses one particular open-source information technology that has been purpose built for heritage inventories and surveys based on the requirements of heritage organizations around the world.
+[Chapter 4](/part-i/chapter-4/) discusses one particular open-source information technology that has been purpose built for heritage inventories and surveys based on the requirements of heritage organizations around the world.
 
 ### Should the Inventory Information System Link or Integrate with Other Information Systems?
 
@@ -362,7 +362,7 @@ This section discusses the types of guidance materials that might be needed to e
 
 It is recommended that an inventory program have a set of guidance materials for key activities and infrastructure. Such guidance is particularly helpful to new staff members, interns, and volunteers, and to those learning how to use an inventory database. Does your inventory program need to create new guidance materials or enhance an existing set? The following are some of the topics that such guidance might address.
 
--   **Field recording and assessment of heritage resources**, including how to compile inventory forms, photography, and field recording of geographic locations (see [chapter 10](/part-2/chapter-10/) for further discussion of these topics)
+-   **Field recording and assessment of heritage resources**, including how to compile inventory forms, photography, and field recording of geographic locations (see [chapter 10](/part-ii/chapter-10/) for further discussion of these topics)
 
 -   **Guidance on use of digital applications** on mobile devices (tablet computers or phones) to create digital data in the field
 
@@ -400,7 +400,7 @@ See [Fiscal Support](#fiscal-support) in the sidebar for examples of the latter 
 
 It is recommended that heritage organizations consider establishing systems to monitor and periodically evaluate aspects of their inventory program. By defining specific outcomes and related indicators over defined time periods, organizations can assess the extent to which defined outcomes are achieved. Topical areas for assessment might include currency and comprehensiveness of inventory information, compliance with data standards, data security, levels of access and external engagement, delivery of services, and assessing the appropriateness of infrastructure, resources, and management.
 
-Heritage organizations might additionally consider evaluating their inventories with respect to the key qualities required for effective heritage management outlined in [chapter 1](/part-1/chapter-1/). These efforts can ultimately help identify areas in need of improvement, attention, and/or further investment. For example, inventory information currency can be assessed to help identify specific areas in need of updates through new data collection activities, such as surveys. See [Monitoring and Evaluation](#monitoring) in the sidebar for examples of auditing systems.
+Heritage organizations might additionally consider evaluating their inventories with respect to the key qualities required for effective heritage management outlined in [chapter 1](/part-i/chapter-1/). These efforts can ultimately help identify areas in need of improvement, attention, and/or further investment. For example, inventory information currency can be assessed to help identify specific areas in need of updates through new data collection activities, such as surveys. See [Monitoring and Evaluation](#monitoring) in the sidebar for examples of auditing systems.
 
 ### How Might the Interactions of Multiple Inventories across a Heritage Sector Be Improved? {#how-might-the-interactions-improve}
 

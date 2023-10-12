@@ -89,7 +89,7 @@ Potential remedies include:
 
 -   Tourism-related taxes.
 
--   National governments may, under certain conditions, apply to the Committee for the Protection of Cultural Property in the Event of Armed Conflict for inventory and survey-related support specifically relating to preparedness for and response to armed conflict. (See [Armed Conflict](/part-3/chapter-12/#armed-conflict) in chapter 12 for details.)
+-   National governments may, under certain conditions, apply to the Committee for the Protection of Cultural Property in the Event of Armed Conflict for inventory and survey-related support specifically relating to preparedness for and response to armed conflict. (See [Armed Conflict](/part-iii/chapter-12/#armed-conflict) in chapter 12 for details.)
 
 ### Keeping Information Current
 
@@ -119,7 +119,7 @@ Keeping up with rapid information technology developments can be a significant c
 
 Potential remedies include:
 
--   Heritage organizations may seek to pool resources, rather than making scattered small-scale investments, to be better positioned to invest in keeping pace with rapid advancements and to gain access to IT specialists who stay abreast of and adept at implementing new technologies. This type of approach could include multiple organizations jointly investing in shared, purpose-built IT applications. One way to enable pooling of resources is to adopt open-source software, such as the Arches Heritage Data Management Platform described in [chapter 4](/part-1/chapter-4/). The Arches HER software package is an example of one such solution. It was created based on the standards and requirements of England’s more than eighty regional and local agency historic environment records.
+-   Heritage organizations may seek to pool resources, rather than making scattered small-scale investments, to be better positioned to invest in keeping pace with rapid advancements and to gain access to IT specialists who stay abreast of and adept at implementing new technologies. This type of approach could include multiple organizations jointly investing in shared, purpose-built IT applications. One way to enable pooling of resources is to adopt open-source software, such as the Arches Heritage Data Management Platform described in [chapter 4](/part-i/chapter-4/). The Arches HER software package is an example of one such solution. It was created based on the standards and requirements of England’s more than eighty regional and local agency historic environment records.
 
 -   Heritage organizations may wish to, whenever possible, create inventory and survey data in nonproprietary formats so that data can be read in the future without relying on particular software.
 
@@ -159,7 +159,7 @@ The following are concluding recommendations for improving the effectiveness of 
 
 -   Heritage organizations and professionals can benefit greatly from increased sharing of inventory- and survey-related experiences and practices. This can be furthered through a variety of means, including:
 
-    -   Creating both virtual and in-person communities of practice (such as England’s HER Forum, discussed under [Inventory Communities of Practice](/part-1/chapter-3/#inventory-communities) in the Resources sidebar in chapter 3)
+    -   Creating both virtual and in-person communities of practice (such as England’s HER Forum, discussed under [Inventory Communities of Practice](/part-i/chapter-3/#inventory-communities) in the Resources sidebar in chapter 3)
 
     -   Disseminating information through additional publications, dedicated conference sessions and workshops, and webinars
 
@@ -189,8 +189,8 @@ The authors hope that these conclusions and recommendations can help promote add
 
 {% endbackmatter %}
 
-[^1]: As an example, as discussed under [Fiscal Support](/part-1/chapter-3/#fiscal-support) in the Resources sidebar in chapter 3, AZSITE, Arizona’s Cultural Resource Inventory website, offers annual database access subscriptions at tiered pricing rates based upon the number of users and type of user organization. See <https://azsite3.asurite.ad.asu.edu/azsite/forms.html>.
+[^1]: As an example, as discussed under [Fiscal Support](/part-i/chapter-3/#fiscal-support) in the Resources sidebar in chapter 3, AZSITE, Arizona’s Cultural Resource Inventory website, offers annual database access subscriptions at tiered pricing rates based upon the number of users and type of user organization. See <https://azsite3.asurite.ad.asu.edu/azsite/forms.html>.
 
-[^2]: Historic England has made available a model historic environment record (HER) access and charging policy for use by England’s more than eighty local government authority inventories that includes options for cost-recovery charging of this sort. See [Fiscal Support](/part-1/chapter-3/#fiscal-support) in chapter 3’s Resources sidebar for details.
+[^2]: Historic England has made available a model historic environment record (HER) access and charging policy for use by England’s more than eighty local government authority inventories that includes options for cost-recovery charging of this sort. See [Fiscal Support](/part-i/chapter-3/#fiscal-support) in chapter 3’s Resources sidebar for details.
 
 [^3]: As an example of crowdsourced information, see Historypin (<https://www.historypin.org/en/>) an online, user-generated archive of historical photos, audio recordings, videos, and personal recollections. Users can use the location and date of their content to “pin” it to Google Maps.

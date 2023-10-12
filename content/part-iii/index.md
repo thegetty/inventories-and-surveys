@@ -1,5 +1,5 @@
 ---
-label: "Part 3"
+label: "Part III"
 title: "Using Information"
 layout: "table-of-contents"
 classes:
