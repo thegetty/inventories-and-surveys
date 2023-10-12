@@ -22,6 +22,7 @@ $navbar: normal;
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
+$work-sans: 'Work Sans', sans-serif;
 $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
@@ -79,7 +80,7 @@ $print-entry-image-display: all; // first | all
 // -----------------------------------------------------------------------------
 // Declare theme variables
 $quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
+$quire-headings-font: $work-sans; // headings
 $quire-footnotes-font: null; // footnotes and page backmatter
 $quire-navigation-font: null; // navbar and next/prev buttons
 

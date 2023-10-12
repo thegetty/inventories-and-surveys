@@ -25,8 +25,14 @@ Generates HTML output for generation of EPUB book using [`EPUB.js`](http://futur
 **_includes/components/icon.js**
 Used `oneLine` instead of `html` so that the include could be used in Markdown files
 
+**_includes/components/menu/header.js**
+Added individual title and subtitle elements
+
 **_includes/components/menu/item.js**
 Add subtitles, and Foreword contributors to sidebar menu
+
+**_layouts/cover.liquid**
+Remove unused reading_line element, and hard-coded <em> tags on contributors
 
 **_plugins/filters/getContributor.js**
 Add the page-level sort_as value if included with a contributor id
