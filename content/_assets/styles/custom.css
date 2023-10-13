@@ -149,6 +149,53 @@
   font-style: italic;
 }
 
+/* TOC
+============================================================================= */
+.quire-contents-list.list, .quire-contents-list.brief {
+  font-family: 'Noto Sans', sans-serif;
+}
+.quire-contents-list .menu-list a {
+  font-size: 1rem;
+}
+.quire-contents-list .menu-list .section-item ol a {
+  border-bottom-width: 0;
+}
+.quire-contents-list .menu-list .section-item ol {
+  margin-left: 1.5rem;
+}
+/* Part openers */
+.quire-contents.pdf-splash-page .quire-contents-list .menu-list {
+  font-weight: 600;
+  font-family: 'Work Sans', sans-serif;
+}
+.quire-contents.pdf-splash-page .quire-contents-list .menu-list a {
+  font-size: 1.25rem;
+}
+
+
+/* PAGE HEADERS & HEADINGS
+============================================================================= */
+.quire-page h2 {
+  font-weight: 900;
+}
+.quire-page h3 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.625rem;
+}
+.quire-page__header__contributor {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.quire-page__header .hero-body .label {
+  border-width: 0;
+  font-weight: 300;
+  font-size: 3rem;
+  padding: 0;
+  margin: 1rem auto;
+}
+
 /* SIDEBARS
 ============================================================================= */
 /* For any accordion shortcode whose `id` value starts with 'sidebar' */
@@ -482,6 +529,18 @@
   /* Hide manually added, link to contribution */
   .quire-page#page-contributors .quire-contributor#lauren-weiss-bricker ul {
     display: none;
+  }
+}
+
+/* MISC
+============================================================================= */
+/* Blockquote dingbat */
+@media screen {
+  .quire-page__content .container .content blockquote p:first-child::before {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    left: -3.5rem;
+    color: var(--light-gray);
   }
 }
 
