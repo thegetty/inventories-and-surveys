@@ -1,5 +1,8 @@
 //@ts-check
-
+//
+// CUSTOMIZED FILE
+// Added copyURL() function to strip zero-width spaces from URLs on copy
+// 
 /**
  * @fileOverview
  * @name application.js
