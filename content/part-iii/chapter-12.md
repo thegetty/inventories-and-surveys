@@ -81,7 +81,7 @@ The practice of cultural heritage disaster preparedness and response has been ex
 
 ### Predisaster Preparation {#predisaster-preparation}
 
-### Steps taken in anticipation of disasters – to reduce risk and adverse consequences – include the following.
+Steps taken in anticipation of disasters – to reduce risk and adverse consequences – include the following.
 
 -   **Prepare the ground.** This stage includes the central task of identifying and documenting significant heritage resources through ongoing preparation and maintenance of an inventory, including through surveys. Doing so provides baseline information about what heritage needs to be protected. This data is required to carry out subsequent steps in the disaster preparedness and response process, yet the importance of this work as an investment in disaster preparedness is seemingly overlooked in many published sources devoted to the topic. The more a heritage agency’s inventory is complete, current, accurate, and accessible, the better the agency will be prepared for a disaster. Because disaster events often span across jurisdictional boundaries, response efforts can also benefit from standardized data that is readily shareable with external agencies ({% cite 'McCarthy 2013' '17' %}). Heritage recording guidance also advises that digital repositories, including inventories, should be backed up in a secure alternate location to prevent loss due to disasters ({% cite 'ICOMOS 1996' %}).
 

@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://main--inventories-and-surveys.netlify.app'
+url: 'https://first-pages--inventories-and-surveys.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -83,7 +83,7 @@ contributor:
     bio: |
       Lauren Weiss Bricker, PhD, recently retired as a professor of Architecture at California State Polytechnic University, Pomona, where she co-coordinated the historic preservation program and was director of the ENV Archives–Special Collections. She served as a chair of the National Council for Preservation Education and chair of California’s State Historical Resources Commission. Lauren was the Clarkson Chair in Urban Planning for 2019, University at Buffalo. She writes on American architecture and historic preservation and has curated several architectural exhibitions. She is the author of the *Mediterranean House in America* (2008) and is currently completing the book *Designing the Modern American House*.
 
-      - [Sidebar: Peer Review in Heritage Surveys](/part-2/chapter-10/#peer-review-in-heritage-surveys)
+      - [Sidebar: Peer Review in Heritage Surveys](/part-ii/chapter-10/#peer-review-in-heritage-surveys)
 
   - id: sdelgadillo
     type: secondary

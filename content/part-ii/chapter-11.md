@@ -13,7 +13,7 @@ order: 90
 
 The publication of survey results marks the final step in the heritage survey process. While digital survey data are published in an associated inventory, survey results can also be published in the form of a written report or reports. This chapter discusses both of these publishing formats.
 
-## Data Integration
+## Data Integration {#data-integration}
 
 Data integration, as it relates to heritage inventories, is the process of adding or merging data from multiple sources into an inventory to publish it and provide users with a unified view of the data. When the same software, data structure and content (e.g., terminology), and methodological approaches are used to both collect and publish survey data, the integration process is ongoing as data is collected. In cases where these factors differ from those used to publish the data, data migration is necessary – a process through which data is verified and changes are made to ensure the data content and format are compatible, readable, and/or interoperable for successful integration into the software that will be used to publish it.
 

@@ -16,79 +16,69 @@ Survey planning culminates in a written survey plan. While survey plans may vary
 
 {% accordion '## Sample Survey Plan Outline' 'sidebar-1' %}
 
-I.  Introduction and Purpose of the Survey Plan
-
-    a.  Initiating and establishing the need for a survey
-
-    b.  Survey goals, objectives, and outcomes
-
-    c.  Benefits of the survey
-
-II. Summary of the Planning Process
-
-    a.  Participants in developing the plan
-
-    b.  Research and design methods
-
-III. Description of the Survey Scope
-
-     a.  Geographic area
-
-     b.  What will be surveyed
-
-IV. Survey Technology
-
-    a.  Data collection tools and technologies to be explored/used
-
-V.  Survey Methodology
-
-    a.  Survey standards and guidelines
-
-    b.  Evaluation criteria
-
-    c.  Prioritizing, phasing, and sequencing surveys
-
-    d.  Historic context and theme-based approach
-
-    e.  Recording processes and procedures
-
-    f.  Data management
-
-    g.  Pilot survey program
-
-    h.  Publishing and reporting
-
-VI. Public Outreach and Participation Program
-
-    a.  Outreach goals and objectives
-
-    b.  Participants and stakeholders
-
-    c.  Tools, strategies, and activities to be explored/used
-
-VII. Administrative Framework for the Survey
-
-    a.  Staffing, consultants, interns, and volunteers
-
-    b.  Costs and funding
-
-    c.  Schedule and timeline
-
-VIII. Conclusions and Next Steps
-
-IX. Suggested Attachments
-
-    a.  List of community participants
-
-    b.  Outreach meeting summaries
-
-    c.  Map of survey area
-
-    d.  Budget
-
-    e.  Staffing model
-
-    f.  Schedule
+<ol type="I">
+  <li>Introduction and Purpose of the Survey Plan
+    <ol type="a">
+      <li>Initiating and establishing the need for a survey</li>
+      <li>Survey goals, objectives, and outcomes</li>
+      <li>Benefits of the survey</li>
+    </ol>
+  </li>
+  <li>Summary of the Planning Process
+    <ol type="a">
+      <li>Participants in developing the plan</li>
+      <li>Research and design methods</li>
+    </ol>
+  </li>
+  <li>Description of the Survey Scope
+    <ol type="a">
+      <li>Geographic area</li>
+      <li>What will be surveyed</li>
+    </ol>
+  </li>
+  <li>Survey Technology
+    <ol type="a">
+      <li>Data collection tools and technologies to be explored/used</li>
+    </ol>
+  </li>
+  <li>Survey Methodology
+    <ol type="a">
+      <li>Survey standards and guidelines</li>
+      <li>Evaluation criteria</li>
+      <li>Prioritizing, phasing, and sequencing surveys</li>
+      <li>Historic context and theme-based approach</li>
+      <li>Recording processes and procedures</li>
+      <li>Data management</li>
+      <li>Pilot survey program</li>
+      <li>Publishing and reporting</li>
+    </ol>
+  </li>
+  <li>Public Outreach and Participation Program
+    <ol type="a">
+      <li>Outreach goals and objectives</li>
+      <li>Participants and stakeholders</li>
+      <li>Tools, strategies, and activities to be explored/used</li>
+    </ol>
+  </li>
+  <li>Administrative Framework for the Survey
+    <ol type="a">
+      <li>Staffing, consultants, interns, and volunteers</li>
+      <li>Costs and funding</li>
+      <li>Schedule and timeline</li>
+    </ol>
+  </li>
+  <li>Conclusions and Next Steps</li>
+  <li>Suggested Attachments
+    <ol type="a">
+      <li>List of community participants</li>
+      <li>Outreach meeting summaries</li>
+      <li>Map of survey area</li>
+      <li>Budget</li>
+      <li>Staffing model</li>
+      <li>Schedule</li>
+    </ol>
+  </li>
+</ol>
 
 {% endaccordion %}
 
@@ -116,7 +106,7 @@ Estimating the costs associated with a survey will establish budgets for the pro
 
 [Table 7.1](table-7-1) shows a breakdown of the primary expenses within each category. Note that these expenses may not all be relevant for every survey; for example, small-scale surveys or those highly reliant on community involvement and the use of volunteers can reduce or avoid some costs.
 
-{% figure 'table-7-1' 'is-table-scale-8 pdf-two-column' %}
+{% figure 'table-7-1' 'is-table-scale-6 pdf-two-column' %}
 
 While it is necessary to develop at least a preliminary project budget to secure a commitment to complete a survey, it is important to expect that the budget may need to be revised once the project is initiated and survey tools and methods are tested and further defined. Pilot surveys are central to estimating the time and budget needed to complete the field surveys, as discussed in [chapter 9](/part-ii/chapter-9/).
 

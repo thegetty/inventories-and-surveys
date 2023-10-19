@@ -134,7 +134,7 @@ figure_list:
     alt:
 
   - id: "table-7-1"
-    label: "Table 7.1"
+    label: " "
     src: "tables/table-7-1.html"
     media_type: table
     caption:

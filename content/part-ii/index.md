@@ -54,4 +54,4 @@ The commitment to undertake a survey is generally secured at the beginning or up
 
 {% endbackmatter %}
 
-[^1]: . SurveyLA did not include archaeological resources or resources associated with indigenous peoples. Though these topics, as well as intangible heritage, are not explored in detail in part II, they are touched on throughout this publication. Archaeological resources are directly addressed in [chapter 13](/part-iv/chapter-13/), and an intangible heritage inventory is described in [chapter 14](/part-iv/chapter-14/).
+[^1]: SurveyLA did not include archaeological resources or resources associated with indigenous peoples. Though these topics, as well as intangible heritage, are not explored in detail in part II, they are touched on throughout this publication. Archaeological resources are directly addressed in [chapter 13](/part-iv/chapter-13/), and an intangible heritage inventory is described in [chapter 14](/part-iv/chapter-14/).

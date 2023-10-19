@@ -93,7 +93,7 @@ For resources covering large areas with multiple associated features, such as a 
 
 ### Data Standards and Specifications {#data-standards-and-specifications}
 
-Survey data standards and specifications help ensure consistency in recording resources, that the data created is valid, and that it can be readily integrated with a corresponding heritage inventory (see **Data Migration** in chapter 11 for recommendations on the latter point). The following are key aspects to be addressed in such standards and specifications:
+Survey data standards and specifications help ensure consistency in recording resources, that the data created is valid, and that it can be readily integrated with a corresponding heritage inventory (see [Data Integration](/part-ii/chapter-11/#data-integration) in chapter 11 for recommendations on the latter point). The following are key aspects to be addressed in such standards and specifications:
 
 -   **Controlled values and vocabularies.** A key component of standards and specifications is controlled values and vocabularies, which use uniform concepts and terms to identify, categorize, describe, and evaluate heritage resources. These will align with those of the corresponding inventory and be in accordance with the standards and guidelines adopted for the survey. (See [chapters 2](/part-i/chapter-2/) and [3](/part-i/chapter-3/) for more on these topics.)
 
@@ -137,7 +137,7 @@ This section provides recommendations and considerations for developing historic
 
 Consideration for a historic context–based approach for SurveyLA originated with the GCI study for a citywide survey. Once SurveyLA was officially undertaken by the city of Los Angeles, the Office of Historic Resources further studied and refined the recommendations of the GCI report ({% cite 'Howe 2008' '22–23' %}). This resulted in an extensive effort to develop a citywide historic context statement that would implement the MPD approach and be designed for digital data collection.
 
-([fig. 8.2](#fig-8-2)) illustrates the structure and content of the MPD format that was adapted for use for SurveyLA. Following this structure, SurveyLA’s citywide historic context was organized into eight overarching contexts as well as a number of contexts covering ethnic and cultural histories ([figs. 8.3a](#fig-8-3-a)-[8.3b](#fig-8-3-b)). Each context was then further organized into a framework of themes with associated resource types (note that in some cases subcontexts and subthemes are used). The citywide context now features over two hundred themes and subthemes.[^5]
+([fig. 8.2](#fig-8-2)) illustrates the structure and content of the MPD format that was adapted for use for SurveyLA. Following this structure, SurveyLA’s citywide historic context was organized into eight overarching contexts as well as a number of contexts covering ethnic and cultural histories ([figs. 8.3a](#fig-8-3-a) and [8.3b](#fig-8-3-b)). Each context was then further organized into a framework of themes with associated resource types (note that in some cases subcontexts and subthemes are used). The citywide context now features over two hundred themes and subthemes.[^5]
 
 {% figure 'fig-8-2' %}
 
@@ -195,34 +195,34 @@ The following tips may also relate to narrative thematic or theme studies (see t
 
 <section class="additional-resource inside-list" id="resource-1">
 
-#### Citywide Historic Context Statement: Resource Guide
+#### Citywide Historic Context Statement: <br />Resource Guide
 
-[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/Historic_Context_Statement_Resource_Guide.pdf)
+[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/Historic_Context_Statement_Resource_Guide.pdf){target=_blank}
 
 {% figuregroup '2' 'ch-8-resource-1' '' 'Source: Los Angeles City Planning, Office of Historic Resources' %}
 
 {% accordion '##### Table of Contents' 'resource-1-toc' %}
 
 - PREFACE: Welcome Note From the Office of Historic Preservation 
-- 1.0 INTRODUCTION
-- 2.0 THE CONTEXT STATEMENT AND THE MPD APPROACH
-    - 2.1 Organization of the SurveyLA HCS
-- 3.0 WRITING THEMES
-    - 3.1 Theme Names
-    - 3.2 The Narrative Statement of Significance
-    - 3.3 Property Types
-    - 3.4 Eligibility Standards
-    - 3.5 Period of Significance
-    - 3.6 Areas of Significance
-    - 3.7 SurveyLA and the California Historical Resource (CHR) Status Codes
-    - 3.8 Guidelines for Applying the Status Codes for SurveyLA
-    - 3.9 Notes on Chapter 1 and Appendices 
-- 4.0 DEVELOPING WORK PLANS
-    - 4.1 Work Plan Tasks 
-- 5.0 THE HCS AND THE FIELD GUIDE SURVEY SYSTEM (FIGSS) 
-    - 5.1 Context, Theme and Property Type
-    - 5.2 Eligibility Standards: 1 of 2
-    - 5.3 Eligibility Standards: 2 of 2 (Integrity)
+- 1.0 INTRODUCTION
+- 2.0 THE CONTEXT STATEMENT AND THE MPD APPROACH
+    - 2.1 Organization of the SurveyLA HCS
+- 3.0 WRITING THEMES
+    - 3.1 Theme Names
+    - 3.2 The Narrative Statement of Significance
+    - 3.3 Property Types
+    - 3.4 Eligibility Standards
+    - 3.5 Period of Significance
+    - 3.6 Areas of Significance
+    - 3.7 SurveyLA and the California Historical Resource (CHR) Status Codes
+    - 3.8 Guidelines for Applying the Status Codes for SurveyLA
+    - 3.9 Notes on Chapter 1 and Appendices 
+- 4.0 DEVELOPING WORK PLANS
+    - 4.1 Work Plan Tasks 
+- 5.0 THE HCS AND THE FIELD GUIDE SURVEY SYSTEM (FIGSS) 
+    - 5.1 Context, Theme and Property Type
+    - 5.2 Eligibility Standards: 1 of 2
+    - 5.3 Eligibility Standards: 2 of 2 (Integrity)
 
 APPENDICES:
 
@@ -284,7 +284,7 @@ Survey outreach and engagement programs can only be effective when they are well
 
 -   **Provide qualified staff and adequate funding for outreach.** As referenced above and illustrated in [figures 7.2](/part-ii/chapter-7/#fig-7-2) and [8.7](#fig-8-7), recruiting dedicated staff with the required skillsets and expertise to plan, oversee, and conduct outreach is a primary responsibility of the managing agency or organization and should be integrated into the overall project administration strategy for the survey.
 
-{% figure 'fig-8-7' %}
+    {% figure 'fig-8-7' %}
 
 -   **Organize an outreach committee or working group** to assist with developing an outreach approach. This group would ideally be organized once the survey project is initiated and during the planning phase of the survey to establish preliminary outreach goals and objectives, identify challenges and opportunities, and provide recommendations for the structure and content of the outreach program.
 
@@ -322,9 +322,9 @@ A range of tools, materials, and activities may be considered to support outreac
 
 <section class="additional-resource inside-list" id="resource-2">
 
-#### MyHistoricLA Historic Resources Identification Form <br />developed for SurveyLA
+#### MyHistoricLA Historic Resources Identification Form developed for SurveyLA
 
-[Download Form {% icon type='download' description='Download the PDF' %}](/_assets/downloads/MyHistoricLA_Historic_Resources_Identification_Form.pdf)
+[Download Form {% icon type='download' description='Download the PDF' %}](/_assets/downloads/MyHistoricLA_Historic_Resources_Identification_Form.pdf){target=_blank}
 
 {% figuregroup '2' 'ch-8-resource-2-a, ch-8-resource-2-b' '' 'Source: Los Angeles City Planning, Office of Historic Resources' %}
 
@@ -340,7 +340,7 @@ A range of tools, materials, and activities may be considered to support outreac
 
 #### MyHistoricLA: Guide to Public Participation in SurveyLA
 
-[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/MyHistoricLA_Guide_to_Public_Participation_in_SurveyLA.pdf)
+[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/MyHistoricLA_Guide_to_Public_Participation_in_SurveyLA.pdf){target=_blank}
 
 {% figuregroup '2' 'ch-8-resource-3' '' 'Source: Los Angeles City Planning, Office of Historic Resources' %}
 
