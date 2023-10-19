@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Return plain cite id if no match is found in references.yaml
+//
 const chalkFactory = require('~lib/chalk')
 const { renderOneLine, stripIndent } = require('~lib/common-tags')
 
@@ -57,7 +61,7 @@ module.exports = function(eleventyConfig, { page }) {
           Example:
             {% cite \"Faure 1909\" \"304\" \"1909\" %}
       `)
-      return ''
+      return `${id}`
     }
 
 
@@ -91,7 +95,7 @@ module.exports = function(eleventyConfig, { page }) {
 
     const citation = findCitationReference(id)
 
-    if (!citation) return
+    if (!citation) return `${id}`
 
     // ensure that the page citations object exists
     if (!page.citations) page.citations = {}
