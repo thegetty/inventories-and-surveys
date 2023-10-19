@@ -1,8 +1,9 @@
 ---
-label: "Part 3"
+label: "Part III"
 title: "Using Information"
 layout: "table-of-contents"
-class: "pdf-heading-only"
+classes:
+  - pdf-splash-page
 presentation: "list"
 order: 95
 ---

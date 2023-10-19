@@ -1,8 +1,9 @@
 ---
-label: "Part 2"
+label: "Part II"
 title: "Heritage Surveys"
 layout: "table-of-contents"
-class: "pdf-heading-only"
+classes:
+  - pdf-splash-page
 presentation: "list"
 order: 55
 ---
@@ -11,21 +12,21 @@ Part II of this book aims to provide a framework and practical guidance for plan
 
 This narrative includes recommendations, considerations, and pointers for surveys drawn largely from hands-on experiences and lessons learned in my role as lead author and manager of SurveyLA, the citywide survey of Los Angeles, with contributions from city staff, consultants, and others directly involved in the project.
 
-As described in [chapter 5](/part-2/chapter-5/), SurveyLA is the outgrowth of earlier research and study by the Getty Conservation Institute (GCI) to establish the need for and benefits of a survey of Los Angeles and to provide a blueprint for how it could be completed. This information served as an indispensable starting point for the city in undertaking a survey of unprecedented size and scope and implementing innovative methodologies. Various strategies were tried, tested, and revised over the course of the multiyear survey. While in the end SurveyLA proved successful for Los Angeles, it has also gained ongoing international interest as a demonstration project for completing surveys.
+As described in [chapter 5](/part-ii/chapter-5/), SurveyLA is the outgrowth of earlier research and study by the Getty Conservation Institute (GCI) to establish the need for and benefits of a survey of Los Angeles and to provide a blueprint for how it could be completed. This information served as an indispensable starting point for the city in undertaking a survey of unprecedented size and scope and implementing innovative methodologies. Various strategies were tried, tested, and revised over the course of the multiyear survey. While in the end SurveyLA proved successful for Los Angeles, it has also gained ongoing international interest as a demonstration project for completing surveys.
 
 Using the experience of SurveyLA, part II presents the heritage survey process as a series of steps ([fig. ii.1](#fig-ii-1)) that are summarized below and detailed in the chapters that follow.
 
-1.  **Establish the need for a survey** to assess the scope and type of information to be collected to meet survey goals and objectives, including the proposed uses of the resulting data and inventory to inform heritage management (see [chapter 6](/part-2/chapter-6/)).
+1.  **Establish the need for a survey** to assess the scope and type of information to be collected to meet survey goals and objectives, including the proposed uses of the resulting data and inventory to inform heritage management (see [chapter 6](/part-ii/chapter-6/)).
 
-2.  **Create a survey plan** to determine the elements of the survey and to provide a framework for how it will be carried out and administered (see [chapter 7](/part-2/chapter-7/)).
+2.  **Create a survey plan** to determine the elements of the survey and to provide a framework for how it will be carried out and administered (see [chapter 7](/part-ii/chapter-7/)).
 
-3.  **Develop survey tools and methods** to guide data collection and recording processes and procedures (see [chapter 8](/part-2/chapter-8/)).
+3.  **Develop survey tools and methods** to guide data collection and recording processes and procedures (see [chapter 8](/part-ii/chapter-8/)).
 
-4.  **Complete a pilot survey program** to test, refine, and finalize survey tools and methods (see [chapter 9](/part-2/chapter-9/)).
+4.  **Complete a pilot survey program** to test, refine, and finalize survey tools and methods (see [chapter 9](/part-ii/chapter-9/)).
 
-5.  **Conduct field surveys** to identify, evaluate, and document heritage resources that reflect the goals, objectives, and scope of the survey (see [chapter 10](/part-2/chapter-10/)).
+5.  **Conduct field surveys** to identify, evaluate, and document heritage resources that reflect the goals, objectives, and scope of the survey (see [chapter 10](/part-ii/chapter-10/)).
 
-6.  **Publish survey results** through an associated heritage inventory system and other means (e.g., reports) that are accessible to a range of users (see [chapter 11](/part-2/chapter-11/)).
+6.  **Publish survey results** through an associated heritage inventory system and other means (e.g., reports) that are accessible to a range of users (see [chapter 11](/part-ii/chapter-11/)).
 
 {% figure 'fig-ii-1' %}
 
@@ -37,7 +38,7 @@ Surveys are essential to identifying and understanding an area’s heritage and 
 
 Perhaps the most important characteristic is the use of digital technologies, which have fundamentally changed the way field surveys are completed. The practice of surveying with paper, pencil, and film photography has been supplanted by the use of portable computer devices loaded with survey software, interactive digital maps, land use information, and other data. Surveyors can record precise geographic locations and document resource history, description, and significance using controlled vocabularies and drop-down menus. Digital technology also facilitates associated research activities as more and more sources become readily available on mobile and desktop computers. But while digital surveys may be more accurate and efficient than past surveys, they also require substantial upfront time to prepare data collection tools and methods and post-field time for data integration and management.
 
-Surveys today also go beyond the traditional focus on monumental buildings and architecture to cover a wide range of heritage themes and typologies that represent a more holistic and inclusive view of the history and development of an area. In countries including the United States, Canada, and Australia, thematic frameworks, theme studies, and historic context statements are being used to systematically guide resource identification and evaluation as part of survey work (see the **sidebar on this subject** and related information in [chapter 2](/part-1/chapter-2/)). These mechanisms help ensure that surveys incorporate expanding definitions of heritage and heritage value and represent diverse populations and multiple narratives. They also provide a means to identify and consistently categorize and evaluate resources. Importantly, they can be designed for use in digital format and applied directly in the field.
+Surveys today also go beyond the traditional focus on monumental buildings and architecture to cover a wide range of heritage themes and typologies that represent a more holistic and inclusive view of the history and development of an area. In countries including the United States, Canada, and Australia, thematic frameworks, theme studies, and historic context statements are being used to systematically guide resource identification and evaluation as part of survey work (see the [sidebar on this subject](/part-i/chapter--2/#sidebar-2) and related information in [chapter 2](/part-i/chapter-2/)). These mechanisms help ensure that surveys incorporate expanding definitions of heritage and heritage value and represent diverse populations and multiple narratives. They also provide a means to identify and consistently categorize and evaluate resources. Importantly, they can be designed for use in digital format and applied directly in the field.
 
 Finally, an increasingly central feature of modern surveys is public outreach and the associated participation programs. When effective, these efforts are far-reaching, diverse, and integral to all steps of the survey process (see [fig. ii.1](#fig-ii-1)). Such programs may incorporate a range of strategies to directly involve communities in documenting their stories, foster partnerships and collaborations, and incite interest in a survey generally ({% cite 'Hansen and Delgadillo Cruz 2019' %}). Today, developing and implementing thoughtful and innovative approaches to survey outreach can be a substantial, time-intensive effort that requires specialized expertise in community engagement.
 
@@ -53,4 +54,4 @@ The commitment to undertake a survey is generally secured at the beginning or up
 
 {% endbackmatter %}
 
-[^1]: . SurveyLA did not include archaeological resources or resources associated with indigenous peoples. Though these topics, as well as intangible heritage, are not explored in detail in part II, they are touched on throughout this publication. Archaeological resources are directly addressed in [chapter 13](/part-IV/chapter-13/), and an intangible heritage inventory is described in [chapter 14](/part-IV/chapter-14/).
+[^1]: SurveyLA did not include archaeological resources or resources associated with indigenous peoples. Though these topics, as well as intangible heritage, are not explored in detail in part II, they are touched on throughout this publication. Archaeological resources are directly addressed in [chapter 13](/part-iv/chapter-13/), and an intangible heritage inventory is described in [chapter 14](/part-iv/chapter-14/).

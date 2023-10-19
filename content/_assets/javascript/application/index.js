@@ -1,5 +1,8 @@
 //@ts-check
-
+//
+// CUSTOMIZED FILE
+// Added copyURL() function to strip zero-width spaces from URLs on copy
+// 
 /**
  * @fileOverview
  * @name application.js
@@ -318,11 +321,30 @@ function toggleCite() {
 }
 
 /**
+ * @description 
+ * When a reader copies a URL, this removes the break character that was inserted 
+ * as a markdown rendering rule in _plugins/markdown/index.js for better URL line breaks
+ * https://developer.mozilla.org/en-US/docs/Web/API/Element/copy_event
+ */
+function copyURL() {
+  const links = document.querySelectorAll("a");
+  const breakCharacter = '​' // zero-width space
+  for (let i = 0; i < links.length; i++) {
+    links[i].addEventListener("copy", event => {
+      const selection = document.getSelection();
+      event.clipboardData.setData("text/plain", selection.toString().replaceAll(breakCharacter, ''));
+      event.preventDefault();
+    })
+  }
+}
+
+/**
  * pageSetup
  * @description This function is called after each smoothState reload.
  * Set up page UI elements here.
  */
 function pageSetup() {
+  copyURL()
   setDate()
   toggleCite()
 }

@@ -4,7 +4,9 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: spiral-overlay.png
+outputs:
+  - html
+image: figures/cover-background.jpg
 ---
 
-TK
+{{ publication.description.full }}

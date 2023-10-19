@@ -1,4 +1,8 @@
-const { html } = require('~lib/common-tags')
+//
+// CUSTOMIZED FILE
+// Used `oneLine` instead of `html` so that the include could be used in Markdown files
+//
+const { oneLine } = require('~lib/common-tags')
 const path = require('path')
 
 /**
@@ -21,7 +25,7 @@ module.exports = function(eleventyConfig) {
       ? `<span class="visually-hidden" data-outputs-exclude="epub,pdf">${description}</span>`
       : ''
 
-    return html`
+    return oneLine`
       <svg data-outputs-exclude="epub,pdf">
         <switch>
           <use xlink:href="#${type}-icon"></use>

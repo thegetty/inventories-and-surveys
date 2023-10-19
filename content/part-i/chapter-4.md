@@ -1,5 +1,5 @@
 ---
-label: "Chapter 4"
+label: "4"
 title: "The Arches Open-Source Platform"
 subtitle: "Purpose-Built Software for Heritage Inventories and Surveys" 
 layout: essay

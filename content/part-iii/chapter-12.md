@@ -1,5 +1,5 @@
 ---
-label: "Chapter 12"
+label: "12"
 title: "Using Inventory and Survey Information for Heritage Management"
 short_title: 
 layout: essay
@@ -39,7 +39,7 @@ When survey and inventory datasets are integrated within land use databases and 
 
 While heritage data has traditionally supported stand-alone heritage programs and activities such as those related to resource designation, listing, and incentives, uses are expanding to include informing [disaster preparedness and response programs](#disaster-preparedness-and-response), redevelopment initiatives, day-to-day development project review and [impact assessment](#heritage-impact-assessments), and long-range community planning. In the United States, legacy cities experiencing decreasing populations and economic decline, such as Detroit, Michigan, and Muncie, Indiana, are undertaking so-called rapid mobile surveys to inform programs aimed at demolition of vacant and neglected buildings, many of which (despite their condition) meet heritage designation criteria and can contribute to neighborhood revitalization efforts ({% cite 'Evans 2014' %}).
 
-Other cities are using heritage data in thoughtful ways to inform community planning. These uses include crafting goals, policies, and programs that maintain and enhance the unique historic character of neighborhoods; establishing preservation priorities; encouraging restoration and adaptive reuse; regulating demolitions and alterations to existing buildings; providing guidelines for compatible new construction and infill development; and celebrating diversity and cultural identity. As discussed in [part II](/part-2/), the City of Los Angeles organized and sequenced SurveyLA surveys to guide updates to the city’s geographically based community plans ({% cite 'Los Angeles City Planning n.d.a' %}). These local land use plans guide future development in neighborhoods and are reshaping the city’s growth patterns around the region’s major investment in new transit lines.
+Other cities are using heritage data in thoughtful ways to inform community planning. These uses include crafting goals, policies, and programs that maintain and enhance the unique historic character of neighborhoods; establishing preservation priorities; encouraging restoration and adaptive reuse; regulating demolitions and alterations to existing buildings; providing guidelines for compatible new construction and infill development; and celebrating diversity and cultural identity. As discussed in [part II](/part-ii/), the City of Los Angeles organized and sequenced SurveyLA surveys to guide updates to the city’s geographically based community plans ({% cite 'Los Angeles City Planning n.d.a' %}). These local land use plans guide future development in neighborhoods and are reshaping the city’s growth patterns around the region’s major investment in new transit lines.
 
 To facilitate broad-based thinking about how planners can use survey data, staff of the Office of Historic Resources developed and held workshops for city planners to summarize the survey process; provide an overview of the historical patterns of settlement, growth, and development in each plan area; and review survey findings for both individual heritage resources and potential historic districts. Overall, the training helped planners understand the prevailing character of each community, the range and location of significant heritage resources, and the typologies, contexts, and themes they represent ([fig. 12.2](#fig-12-2)).
 
@@ -69,7 +69,7 @@ There is often some degree of uncertainty about whether archaeological resources
 
 Predictive modelling has been applied to produce maps of archaeological sensitivity (also called *archaeological priority* and *archaeological potential*) that require differing levels of investigation, consultation, or caution when approaching proposed development projects. For example, Historic England’s Greater London Archaeological Advisory Service utilizes a set of formally defined and mapped Archaeological Priority Areas ([fig. 12.3](#fig-12-3)), in combination with the Greater London Historic Environment Record, when assessing the potential impact of development proposals within its jurisdiction ({% cite 'Historic England 2016' %}, {% cite 'Historic England n.d.' '' 'n.d.' %}).
 
-{% figure 'table-12-3' %}
+{% figure 'table-12-3' 'pdf-two-column' %}
 
 ## Disaster Preparedness and Response {#disaster-preparedness-and-response}
 
@@ -81,7 +81,7 @@ The practice of cultural heritage disaster preparedness and response has been ex
 
 ### Predisaster Preparation {#predisaster-preparation}
 
-### Steps taken in anticipation of disasters – to reduce risk and adverse consequences – include the following.
+Steps taken in anticipation of disasters – to reduce risk and adverse consequences – include the following.
 
 -   **Prepare the ground.** This stage includes the central task of identifying and documenting significant heritage resources through ongoing preparation and maintenance of an inventory, including through surveys. Doing so provides baseline information about what heritage needs to be protected. This data is required to carry out subsequent steps in the disaster preparedness and response process, yet the importance of this work as an investment in disaster preparedness is seemingly overlooked in many published sources devoted to the topic. The more a heritage agency’s inventory is complete, current, accurate, and accessible, the better the agency will be prepared for a disaster. Because disaster events often span across jurisdictional boundaries, response efforts can also benefit from standardized data that is readily shareable with external agencies ({% cite 'McCarthy 2013' '17' %}). Heritage recording guidance also advises that digital repositories, including inventories, should be backed up in a secure alternate location to prevent loss due to disasters ({% cite 'ICOMOS 1996' %}).
 

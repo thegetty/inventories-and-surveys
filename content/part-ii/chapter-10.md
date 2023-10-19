@@ -1,5 +1,5 @@
 ---
-label: "Chapter 10"
+label: "10"
 title: "Conduct Field Surveys"
 short_title: 
 layout: essay
@@ -17,7 +17,7 @@ Fieldwork is both physically taxing and mentally exciting; it is at the same tim
 
 Field surveys are and have been a vital aspect of heritage conservation practice for decades (in the United States, for half a century), and in many ways the practice remains, at its core values and objectives, relatively unchanged. Field survey implementation, however, has adapted dramatically to new technologies in data collection and storage, including geographic information system (GIS) mapping and data collection software that can be used on a computer that fits in your hand, linking photos and attribute data together, and enabling integration of survey data into local planning practices.[^1]
 
-This chapter focuses on the technical aspects of conducting field surveys and illustrates how the concepts, tools, and methods discussed in [chapter 8](/part-2/chapter-8/) are put into practice. The recommendations provided here are rooted in the experience of a heritage professional whose survey work has focused on historic aboveground resources and has been predominantly conducted in urban environments in the United States. Principal author Katie Horak conducted field surveys for SurveyLA from the pilot phase to completion, in addition to having participated in surveys in numerous diverse environments throughout California and in the city of New York, in roles including professional consultant and managing agency staff. To the greatest extent possible, the content of this chapter has been drawn from these experiences and then been generalized to apply to heritage surveys in any area, across the world ([fig. 10.1](#fig-10-1)).
+This chapter focuses on the technical aspects of conducting field surveys and illustrates how the concepts, tools, and methods discussed in [chapter 8](/part-ii/chapter-8/) are put into practice. The recommendations provided here are rooted in the experience of a heritage professional whose survey work has focused on historic aboveground resources and has been predominantly conducted in urban environments in the United States. Principal author Katie Horak conducted field surveys for SurveyLA from the pilot phase to completion, in addition to having participated in surveys in numerous diverse environments throughout California and in the city of New York, in roles including professional consultant and managing agency staff. To the greatest extent possible, the content of this chapter has been drawn from these experiences and then been generalized to apply to heritage surveys in any area, across the world ([fig. 10.1](#fig-10-1)).
 
 {% figure 'fig-10-1' %}
 
@@ -27,7 +27,7 @@ Field surveys may be conducted in house by managing agency or organization staff
 
 ### Developing the Approach to the Survey
 
-By the time heritage professionals are solicited to conduct a heritage survey, the project may have been well defined through a planning process (see [chapter 7](/part-2/chapter-7/)). The initial role of the heritage professional, then, is to understand the survey project in as much detail as possible and develop the approach to project implementation.
+By the time heritage professionals are solicited to conduct a heritage survey, the project may have been well defined through a planning process (see [chapter 7](/part-ii/chapter-7/)). The initial role of the heritage professional, then, is to understand the survey project in as much detail as possible and develop the approach to project implementation.
 
 The major components of a field survey include the following (see [Field Survey Implementation](#field-survey-implementation) for details):[^2]
 
@@ -39,7 +39,7 @@ The major components of a field survey include the following (see [Field Survey 
 
 Although all these tasks are essential to a successful field survey, they may be conducted in phases, and some tasks may be conducted concurrently ([fig. 10.2](#fig-10-2)). Once the parameters and goals of the project have been defined, the survey team can predict the level of effort and documentation that will be needed for all tasks within the scope of work to successfully distribute resources and plan for the work.
 
-{% figure 'table-10-2' 'is-table-scale-5' %}
+{% figure 'table-10-2' 'is-table-scale-4 pdf-two-column' %}
 
 A survey project will ideally have a finite budget and schedule predetermined by the managing agency or organization during survey planning. Survey professionals will need to use their experience with similar projects to plan for the work within these parameters to avoid overspending and causing delays in schedule. An understanding of the following factors is important to consider when developing a survey project approach:
 
@@ -137,7 +137,7 @@ Roles for community experts may include the following:
 
 -   Research assistance and identification of local repositories or other locations of relevant information
 
--   Identification of and serving as a liaison with local constituent groups to ensure effective and comprehensive community outreach (see also [Public Outreach and Engagement](/part-2/chapter-8/#public-outreach-and-engagement) in chapter 8)
+-   Identification of and serving as a liaison with local constituent groups to ensure effective and comprehensive community outreach (see also [Public Outreach and Engagement](/part-ii/chapter-8/#public-outreach-and-engagement) in chapter 8)
 
 -   Participation in a tour of the survey area, during which significant resources are shared by the expert with the rest of the team
 
@@ -179,7 +179,7 @@ Topics covered in classroom and field training may include (and are not limited 
 
 ### Field Survey Manual
 
-As mentioned in [chapter 8](/part-2/chapter-8/), it is recommended that a written manual be developed that provides detailed instructions for survey data entry processes and protocols and making heritage resource assessment of significance. All surveyors should be provided with the field survey manual for field and classroom trainings and as an ongoing reference throughout the surveys. Topics covered in the classroom and field training should be addressed in the manual, and contact information for the project manager(s) and IT support should be provided.
+As mentioned in [chapter 8](/part-ii/chapter-8/), it is recommended that a written manual be developed that provides detailed instructions for survey data entry processes and protocols and making heritage resource assessment of significance. All surveyors should be provided with the field survey manual for field and classroom trainings and as an ongoing reference throughout the surveys. Topics covered in the classroom and field training should be addressed in the manual, and contact information for the project manager(s) and IT support should be provided.
 
 ### Internal Team Training
 
@@ -191,7 +191,7 @@ In addition to the field survey manual, it is also useful to prepare survey reco
 
 Once the survey team has been selected and trained, the fieldwork can commence. Field surveys that cover entire geographic areas are most accurate and effective when they are comprehensive. That is, every street should be driven, biked, or walked; every dirt road or field traversed; every trail hiked; and ultimately, every physical element considered. Only then can a comprehensive and thorough understanding of an area’s heritage resources be achieved. Ever-improving online mapping, satellite imagery, and interactive panoramic street view photography (such as Google Street View or KartaView) may make it tempting to conduct some of the fieldwork online to save time and resources. Indeed, using online satellite and aerial imagery is standard practice for certain types of archaeological site identification, as input to impact assessments, and may be necessary for areas of armed conflict. However, although this technology may be helpful for spot-checking resources and providing a high-level understanding of an area for recording the built environment, field surveys are ultimately more accurate and effective when conducted in person, whenever possible.
 
-The following sections describe the phases of a heritage survey. Development of the thematic or contextual framework, an essential component of a survey project, is discussed in [Historic Context and Theme-Based Surveys](/part-2/chapter-8/#historic-context-and-theme-based-surveys), in chapter 8.
+The following sections describe the phases of a heritage survey. Development of the thematic or contextual framework, an essential component of a survey project, is discussed in [Historic Context and Theme-Based Surveys](/part-ii/chapter-8/#historic-context-and-theme-based-surveys), in chapter 8.
 
 ### Research 
 
@@ -201,13 +201,13 @@ Preliminary research may include the following:
 
 -   Review of existing inventory and previous heritage surveys results and data for the subject area.
 
--   Review and coordination of information provided by the public during community outreach efforts. (See [Public Outreach and Engagement](/part-2/chapter-8/#public-outreach-and-engagement) in chapter 8 for more detail.)
+-   Review and coordination of information provided by the public during community outreach efforts. (See [Public Outreach and Engagement](/part-ii/chapter-8/#public-outreach-and-engagement) in chapter 8 for more detail.)
 
 -   Conversations with community members, who may be able to provide information about heritage resources that represent an area’s social, cultural, and ethnic history. These conversations may be formal (e.g., oral histories) or informal individual or group interviews collected through community outreach activities.
 
--   Review and analysis of historic maps and aerial photographs (hard copy or geospatial data), which can provide information relating to patterns of settlement, ethnographic movement, land use, and development and redevelopment over time. These activities relate to methods of analysis, such as historical map regression (see the corresponding **glossary entry** and [Research and Investigation](/part-1/chapter-2/#research-and-investigation) in chapter 2).
+-   Review and analysis of historic maps and aerial photographs (hard copy or geospatial data), which can provide information relating to patterns of settlement, ethnographic movement, land use, and development and redevelopment over time. These activities relate to methods of analysis, such as historical map regression (see the corresponding [glossary entry](/glossary/#historical-map-regression) and [Research and Investigation](/part-i/chapter-2/#research-and-investigation) in chapter 2).
 
--   Review and analysis of other geospatial data and reference layers prepared for the survey area (see [Geospatial and Other Reference Data](/part-2/chapter-8/#geospatial-and-other-reference-data) in chapter 8). For SurveyLA, for example, construction or built dates provided information to produce GIS-based “chronology maps” for each community plan area. These maps shaded legal parcels by date of construction to provide field surveyors with a visual representation of periods of development of an area ([fig. 10.6](#fig-10-6)).
+-   Review and analysis of other geospatial data and reference layers prepared for the survey area (see [Geospatial and Other Reference Data](/part-ii/chapter-8/#geospatial-and-other-reference-data) in chapter 8). For SurveyLA, for example, construction or built dates provided information to produce GIS-based “chronology maps” for each community plan area. These maps shaded legal parcels by date of construction to provide field surveyors with a visual representation of periods of development of an area ([fig. 10.6](#fig-10-6)).
 
 -   Review of source material directly related to the history and development of the survey area, to better familiarize the survey team with what they may encounter in the field.
 
@@ -215,7 +215,7 @@ Preliminary research may include the following:
 
 ### Reconnaissance Survey
 
-This section explains how to carry out a reconnaissance using SurveyLA as an example. [Level of Detail and Documentation of the Survey](/part-2/chapter-8/#level-of-detail-and-documentation), in chapter 8, addresses factors for deciding when a reconnaissance survey may be useful.
+This section explains how to carry out a reconnaissance using SurveyLA as an example. [Level of Detail and Documentation of the Survey](/part-ii/chapter-8/#level-of-detail-and-documentation), in chapter 8, addresses factors for deciding when a reconnaissance survey may be useful.
 
 A reconnaissance survey is a first look at a heritage survey area, which is often seen through the windshield of a slowly moving car or, in geographic areas where driving is not possible, on foot or by bicycle. Reconnaissance is essential to familiarizing the survey team with the project area and identifying potential heritage resources for further study and documentation. It is often conducted concurrently with the development of the survey’s thematic or contextual framework, as it provides essential information about development patterns and the presence of potential heritage resources.
 
@@ -245,7 +245,7 @@ To ensure consistent quality of intensive-level survey data, periodic data revie
 
 ### Final Reports
 
-At the culmination of any survey project, the survey team prepares a narrative report that documents and summarizes project objectives, scope, methodology, activities, and outcomes. In most cases, the report will offer valuable documentation of the survey effort and its findings for future use. In the case of SurveyLA, each phase of the survey was documented with a survey report that was published online. (For more information see [chapter 11](/part-2/chapter-11/).)
+At the culmination of any survey project, the survey team prepares a narrative report that documents and summarizes project objectives, scope, methodology, activities, and outcomes. In most cases, the report will offer valuable documentation of the survey effort and its findings for future use. In the case of SurveyLA, each phase of the survey was documented with a survey report that was published online. (For more information see [chapter 11](/part-ii/chapter-11/).)
 
 ### Some Pointers on Field Photography
 
@@ -273,15 +273,59 @@ Because the assessment process is based on the evaluation criteria, and associat
 
 Resource evaluation is a primary responsibility of heritage professionals who have completed the field surveys. In fact, in some cases guidelines require assessments be performed by “persons qualified by education, training, and experienced in applying the relevant criteria in the geographical area under consideration” ({% cite 'National Park Service 1983' '44724' %}). Field professionals will have extensive experience applying assessment criteria and other guidelines for evaluation. They will also have a broad understanding of the type, quality, and distribution of resources in the entire survey area and the contexts and themes they represent. Surveyors will have an informed perspective on relative significance based on comparative analysis and considerations such as how common, rare, or unique typologies may be; integrity and authenticity; and other factors.
 
-Collaborating and consulting with the public throughout the survey process helps ensure that properties that are documented and evaluated represent the values and interests of the entire community. (Various opportunities to involve the public are discussed in chapter 8, in the section [Public Outreach and Engagement](/part-2/chapter-8/#public-outreach-and-engagement).) Input is particularly valuable for resources that have social, ethnic, and cultural meaning that may not be readily apparent from field observations. Community members can bring to light stories about places, people, events, and practices that are not yet well known or documented, provide important research, and identify additional contacts and sources of information.
+Collaborating and consulting with the public throughout the survey process helps ensure that properties that are documented and evaluated represent the values and interests of the entire community. (Various opportunities to involve the public are discussed in chapter 8, in the section [Public Outreach and Engagement](/part-ii/chapter-8/#public-outreach-and-engagement).) Input is particularly valuable for resources that have social, ethnic, and cultural meaning that may not be readily apparent from field observations. Community members can bring to light stories about places, people, events, and practices that are not yet well known or documented, provide important research, and identify additional contacts and sources of information.
 
 ### Role of Peer Review
 
 Public input in heritage assessments of significance can also include a peer review panel or committee that meets at regular intervals, under the direction of the survey project manager, to review survey findings. The frequency of the meetings may be decided based on the phasing or sequencing plan for the surveys. Special meetings may also be called if there are particular issues to work through.
 
-Peer review can provide an important check against consistent bias among field surveyors, and the panel can represent a range of disciplines and perspectives. For details, see the **Peer Review in Heritage Surveys** sidebar.
+Peer review can provide an important check against consistent bias among field surveyors, and the panel can represent a range of disciplines and perspectives. For details, see the [Peer Review in Heritage Surveys](#sidebar) sidebar.
 
-**\[Sidebar: Peer Review in Heritage Surveys placed here with figures 10.8 and 10.9\]** 
+{% accordion '## Peer Review in Heritage Surveys <br /><span class="sidebar-author">Lauren Bricker</span>' 'sidebar' %}
+
+This essay is drawn from the author’s experiences both managing and serving on peer review panels associated with California-based heritage surveys of all sizes, from a single neighborhood in San Francisco to the citywide survey of Los Angeles. These experiences provide some perspective and guidance on organizing and executing a peer review program. Through peer review, the methodology and results of a survey are subject to the scrutiny of subject matter and community experts whose participation will “enhance the quality, objectivity, utility and integrity” of the information generated ({% cite 'Frost 2008' '2' %}).
+
+### Panel Composition
+
+The scope of a survey and the goals and objectives established for peer preview will determine factors to consider when selecting panelists ([fig. 10.8](#fig-10-8)). Participants should have a knowledge of current survey practice, methods, and technologies, including an understanding of thematic frameworks and historic contexts as strategies for resource identification and evaluation (see the [sidebar on this subject](/part-i/chapter-2/#sidebar-1) in chapter 2). The survey scope defines the geographic area and nature of the resource types to be identified. Panelists, therefore, may be experts in the history and development of a city or region or individuals with expertise on particular building typologies, distinctive construction materials and systems, or topics relating to social, ethnic, and cultural histories.
+
+{% figure 'fig-10-8' 'pdf-float-top' %}
+
+Participants may contribute subject matter expertise to inform the development of historic contexts as well as survey findings. Peer review is also benefited by the knowledge of heritage preservation agencies and advocates who are aware of current issues in local or regional heritage management. During review sessions, guest panelists with specialized knowledge of the history of an area or community may also supplement the knowledge base of the panelists. This may be particularly important for large-scale citywide or regional surveys. Guest panelists may also be city planners and others engaged in implementing the survey findings through land use management and environmental review. In sum, peer review panelists provide a number of functions to support quality control of survey findings:
+
+-   Fill gaps in or augment the knowledge of the surveyors
+
+-   Bring new perspectives and suggest different ways to analyze, and consequently assess, the resources identified by the survey teams
+
+-   Confirm the findings of the survey teams, thereby validating and contributing to the credibility to the findings
+
+-   Reinforce and support the importance of using the professional standards set for the survey
+
+-   Provide a final check to assure a level of consistency in the evaluation of significance
+
+An important consideration in managing the survey peer review process is whether the same panelists will participate throughout the life of the survey or if there may be changes in the panelists, for example, when surveys are phased and take many years to complete. Long-term membership on a panel helps assure continuity of judgment, particularly when analyzing a large number of similar resources and is of considerable benefit to the survey.
+
+A second important consideration is the number of participants on the panel. The temptation to add members who cover different areas of expertise must be mitigated by the need to maintain a panel of a reasonable size. Not only does an overly large panel raise the challenge of reaching consensus among many experts but it may impose an undue financial burden on the project – assuming that some type of payment or honorarium is included in the project budget.
+
+### The SurveyLA Peer Review Program
+
+SurveyLA provides an example of a peer review program for a large-scale survey. The review panel consisted of five paid members from varying areas of expertise. In general, the panel remained consistent throughout the life of the project, about eight years. The panel convened approximately four times per year, but rather than following a preset schedule, timing of meetings coincided with the completion of surveys following a phasing plan.
+
+The meetings were organized by the City of Los Angeles Office of Historic Resources, the managing agency for SurveyLA, and were facilitated by survey staff and field survey consultants. Student interns and city planners, as well as local history experts (who were compensated for their time) often attended the meetings. Findings for the geographic areas to be covered in the meeting were submitted to the panelists for their review in advance of meeting.
+
+Typically, the meetings began with a discussion of the geography and topography of the survey area, followed by a presentation of the history and development of the area, a summary of the major categories of property types identified, and a summary of the survey findings. While the peer review panel process looked broadly at the survey findings, panelists also identified specific issues for further discussion and consideration.
+
+Over time, several types of questions surfaced at these meetings. There was considerable discussion by the surveyors and the peer review panel about the assessment of popular and standardized building types. One such example was the significance of the ubiquitous carwash as a typology whose significance derives from its association with the automobile in Los Angeles. Similarly challenging was the city’s post–World War II program to construct standardized fire stations: The panel members asked if the stations were individually significant or if they were important as components of the building program. If the latter, was the prevailing rationale the best way to recognize this program in the findings on a citywide basis?
+
+Another extremely challenging aspect of SurveyLA was the recognition of ethnic identity and changing demographics associated with places in Los Angeles. In the Leimert Park community, for example, initially, the consultants evaluated the area as an important planned residential community whose prevailing historic architectural character was defined by period revival–style residential development and planned commercial spaces ([fig. 10.9](#fig-10-9)). An aspect of this history was that the developer included restrictive covenants that barred minority members from owning property in the area. However, by the 1950s, a number of African American families had moved into the region, and the population grew from 70 to approximately 4,200 within a decade ({% cite 'Kurashige 2008' '252' %}). Based on comments from the panel and further analysis by survey teams, the district evaluation now recognizes the significance of this period through additional themes associated with the African American community and their contributions to the history of the area.
+
+{% figure 'fig-10-9' %}
+
+### The Value of Peer Review
+
+The peer review panel plays an essential role in validating the heritage survey findings. While occasionally the panelists may provide additional information or suggest different ways to analyze a property, more frequently the panel confirms the findings and reinforces the objectivity – and credibility – of the survey process. The inclusion of peer review panelists in the process reaffirms the use of professional standards by the field surveyors. The review panel provides a final check to assure a level of consistency in making evaluations of heritage significance. It also provides a level of quality control that is especially important given that survey results may be used to inform preservation programs and policies.
+
+{% endaccordion %}
 
 ### Considerations for Making Assessment of Heritage Significance
 
@@ -331,13 +375,9 @@ Southeast Los Angeles is mostly flat in terrain and composed of numbered streets
 
 When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11)).
 
-{% figuregroup '2' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' %}
+{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
 
-{% figure 'table-10-11-d'%}
-
-**\[\[This figure is made up of image files 10.11a, 10.11b, 10.11c, 10.11d\]\]**
-
-Using the preloaded reference layers in the mobile survey application (see [Designing Digital Surveys](/part-2/chapter-8/#designing-digital-surveys) in chapter 8), surveyors could see that these houses were all constructed in the same year: 1920. Field observations also noted the houses’ condition and alterations that had been made to them. The survey team members agreed the neighborhood was something to research further, and they noted it on the reconnaissance map for additional study.
+Using the preloaded reference layers in the mobile survey application (see [Designing Digital Surveys](/part-ii/chapter-8/#designing-digital-surveys) in chapter 8), surveyors could see that these houses were all constructed in the same year: 1920. Field observations also noted the houses’ condition and alterations that had been made to them. The survey team members agreed the neighborhood was something to research further, and they noted it on the reconnaissance map for additional study.
 
 ### Research and Outreach 
 
@@ -369,7 +409,7 @@ During intensive-level documentation, each residence was recorded as “contribu
 
 [^1]: In the more than twenty years that the primary author has been conducting field surveys, the countless hours formerly spent on labeling photos, coloring maps by hand with colored pencils, and printing thousands of pages of survey inventory forms have been reduced to mere clicks of a button.
 
-[^2]: Although community outreach is an integral component of a successful field survey, the focus of this section is implementation of the technical aspects of the survey. See [Public Outreach and Engagement](/part-2/chapter-8/#public-outreach-and-engagement) in chapter 8.
+[^2]: Although community outreach is an integral component of a successful field survey, the focus of this section is implementation of the technical aspects of the survey. See [Public Outreach and Engagement](/part-ii/chapter-8/#public-outreach-and-engagement) in chapter 8.
 
 [^3]: Using interns for field surveys is also a low-risk way for consulting firms to test the capabilities of junior staff in a project-specific, time-limited role. Interns who perform highly are often offered permanent employment at the end of the term of the internship, as was the case for many SurveyLA interns.
 

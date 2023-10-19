@@ -1,5 +1,5 @@
 ---
-label: "Chapter 5"
+label: "5"
 title: "SurveyLA and HistoricPlacesLA"
 subtitle: "A Synopsis" 
 layout: essay
@@ -56,7 +56,7 @@ Concurrent with the surveys, the citywide historic context statement was revised
 
 As SurveyLA field surveys continued, the city’s key challenge became managing and making accessible the massive amount of digital data being collected. At the time of SurveyLA, City Planning did not have a heritage inventory per se. Information on designated and eligible heritage resources had been included in Planning’s land use database – a web-based mapping system that provides planning and zoning reference information system on legal parcels citywide. But this system included (and still includes) only a limited set of information on heritage resources; it was not designed to integrate, display, or make searchable the amount and type of information collected for SurveyLA.[^3]
 
-During SurveyLA, the GCI and World Monuments Fund had been separately developing the Arches open-source software platform, which was purpose built for managing and publishing heritage inventories (see [chapter 4](/part-1/chapter-4/)). The GCI and city decided to customize and deploy Arches for Los Angeles as a solution for managing and making searchable online data collected through SurveyLA. This decision created additional challenges regarding the compatibility of SurveyLA and other heritage data with the data structure of Arches and the ongoing need to integrate a subset of this data into the city’s land use database.
+During SurveyLA, the GCI and World Monuments Fund had been separately developing the Arches open-source software platform, which was purpose built for managing and publishing heritage inventories (see [chapter 4](/part-i/chapter-4/)). The GCI and city decided to customize and deploy Arches for Los Angeles as a solution for managing and making searchable online data collected through SurveyLA. This decision created additional challenges regarding the compatibility of SurveyLA and other heritage data with the data structure of Arches and the ongoing need to integrate a subset of this data into the city’s land use database.
 
 ## HistoricPlacesLA
 

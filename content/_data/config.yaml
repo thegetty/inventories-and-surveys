@@ -1,5 +1,5 @@
 accordion:
-  controls: arrow # arrow | plus-minus
+  controls: plus-minus # arrow | plus-minus
   copyButton:
     ariaLabel: Copy page section link to clipboard
     successText: Copied page section link to clipboard
@@ -14,7 +14,7 @@ analytics:
 bylineFormat: name-title # name | name-title | false
 
 bibliography:
-  displayOnPage: true
+  displayOnPage: false
   displayShort: true
   heading: Bibliography
 
@@ -59,3 +59,5 @@ searchEnabled: true
 
 tableOfContents:
   contributorDivider: ' — '
+
+quire_credit_line: "This publication was created using Quire™, a multiformat publishing tool from Getty."

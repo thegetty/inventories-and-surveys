@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added individual title and subtitle elements
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -12,7 +16,7 @@ module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const siteTitle = eleventyConfig.getFilter('siteTitle')
-  const { contributor: publicationContributors, contributor_as_it_appears } = eleventyConfig.globalData.publication
+  const { contributor: publicationContributors, contributor_as_it_appears, title, subtitle } = eleventyConfig.globalData.publication
 
   return function(params) {
     const { currentURL } = params
@@ -20,6 +24,9 @@ module.exports = function(eleventyConfig) {
 
     const homePageLinkOpenTag = isHomePage ? '' : `<a class="quire-menu__header__title-link" href="/">`
     const homePageLinkCloseTag = isHomePage ? '' : `</a>`
+
+    const titleElement = `<span class="">${title}</span>`
+    const subtitleElement = `<span class="quire-menu__header__subtitle">${subtitle}</span>`
 
     const contributorContent = contributor_as_it_appears || contributors({ context: publicationContributors, format: 'string', type: 'primary' })
 
@@ -32,7 +39,8 @@ module.exports = function(eleventyConfig) {
         ${homePageLinkOpenTag}
           <h4 class="quire-menu__header__title">
             <span class="visually-hidden">Site Title: </span>
-            ${siteTitle()}
+            ${titleElement}
+            ${subtitleElement}
           </h4>
         ${homePageLinkCloseTag}
 

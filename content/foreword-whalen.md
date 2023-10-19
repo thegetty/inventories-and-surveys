@@ -1,6 +1,6 @@
 ---
 title: "Foreword"
-layout: essay
+layout: page
 contributor:
   - first_name: "Timothy P." 
     last_name: "Whalen"
@@ -22,4 +22,4 @@ Through the GCI’s involvement over the past two decades in all these endeavors
 
 I am grateful to the lead authors – David Myers and Janet Hansen – who conceived, crafted, and wrote much of the publication, and brought about the participation of its other contributors. I also thank the other contributors, who were so willing to share their practical experience. I hope this publication will help to address the need for improved inventory and survey guidance, and ultimately contribute to the advancement of conservation practice.
 
-{% contributors context=pageContributors format='name-title-block' align='left' %}
+{% contributors context=pageContributors format='name-title-block' align='right' %}

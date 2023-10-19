@@ -1,7 +1,7 @@
 /* Temporary "UNCORRECTED PROOF" Banner */
 @media screen {
-  .quire-page::before,
-  .quire-page::after {
+  .quire::before,
+  .quire::after {
     color: black;
     font-weight: 700;
     position: fixed;
@@ -12,15 +12,781 @@
     text-align: center;
     padding-top: 1rem;
   }
-  .quire-page::before {
+  .quire::before {
     content: "UNCORRECTED";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
-  .quire-page::after {
+  .quire::after {
     content: "PROOF";
     bottom: -130px;
     right: -130px;
   }
 }
+
+:root {
+  --dark-blue: #112e4a;
+  --light-blue: #69dcf8;
+  --pink: #f98d8d;
+  --dark-pink: #e66464;
+  --red: #e23a3a;
+  --black: #000;
+  --gray: #dbdbdb;
+  --light-gray: #f2f2f2;
+  --white: #fff;
+
+  --cover-title-size: 64px;
+  --menu-title-size: 32px;
+
+  --subtitle-multiplier: .9375;
+  --contributor-multiplier: .375;
+  --line-height-multiplier: .875;
+
+  --cover-title-line-height: calc(var(--line-height-multiplier) * var(--cover-title-size));
+  --menu-title-line-height: calc(var(--line-height-multiplier) * var(--menu-title-size));
+}
+
+@media screen and (max-width:560px) {
+  :root {
+    --cover-title-size: 40px;
+  }
+}
+
+/* COVER
+============================================================================= */
+.quire-cover__overlay {
+  height: calc(100vh - 3rem - 2px);
+}
+.hero-body .container.is-fluid {
+  padding: 2rem;
+  bottom: auto;
+  top: 0;
+  background-color: var(--dark-blue);
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+@media screen and (max-width:1010px) {
+  .hero-body .container.is-fluid {
+    display: initial;
+  }
+}
+.quire-cover__hero .title {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: var(--cover-title-size);
+  width: calc(9 * var(--cover-title-size));
+  line-height: var(--cover-title-line-height);
+  margin: 0;
+}
+.quire-cover__hero .subtitle {
+  text-transform: none;
+  font-size: calc(var(--subtitle-multiplier) * var(--cover-title-size));
+  line-height: inherit;
+  color: var(--light-blue);
+  margin-top: 0;
+}
+.quire-cover__hero .contributor {
+  display: flex;
+  align-items: flex-end;
+  font-size: calc(var(--contributor-multiplier) * var(--cover-title-size));
+  font-weight: 600;
+  min-height: var(--cover-title-line-height);
+  margin: 0;
+  line-height: initial;
+}
+@media (max-aspect-ratio: 1/1) {
+  .quire-cover__hero .contributor {
+    margin-top: var(--cover-title-line-height);
+  }
+}
+@media (max-aspect-ratio: 2/3) {
+  .quire-cover__hero .contributor {
+    /* margin-top: 52px; */
+    margin-bottom: var(--cover-title-line-height);
+  }
+}
+
+/* SIDEBAR MENU
+============================================================================= */
+.quire-menu__header {
+  margin-bottom: calc(3 * var(--menu-title-line-height));
+}
+.quire-menu__header__title {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: var(--menu-title-size);
+  line-height: var(--menu-title-line-height);
+}
+.quire-menu__header__subtitle {
+  font-weight: 300;
+  text-transform: none;
+  font-size: calc(var(--subtitle-multiplier) * var(--menu-title-size));
+  line-height: inherit;
+  color: var(--light-blue);
+}
+.quire-menu__header .quire-contributor {
+  font-style: normal !important;
+  font-weight: 600;
+  margin-top: var(--menu-title-line-height);
+  display: block;
+  font-size: .875rem;
+}
+.quire-menu .page-item a.active, 
+.quire-menu .section-item a.active,
+.quire-menu .page-item a.active *, 
+.quire-menu .section-item a.active *,
+.quire-menu__formats h6 {
+  border-color: var(--light-blue);
+  color: var(--light-blue) !important;
+}
+.quire-menu__formats h6 {
+  color: var(--light-blue) !important;
+  font-weight: 900;
+}
+.quire-menu .quire-contributor {
+  font-style: italic;
+}
+
+/* TOC
+============================================================================= */
+.quire-contents-list.list, .quire-contents-list.brief {
+  font-family: 'Noto Sans', sans-serif;
+}
+.quire-contents-list .menu-list a {
+  font-size: 1rem;
+}
+.quire-contents-list .menu-list .section-item ol a {
+  border-bottom-width: 0;
+}
+.quire-contents-list .menu-list .section-item ol {
+  margin-left: 1.5rem;
+}
+/* Part openers */
+.quire-contents.pdf-splash-page .quire-contents-list .menu-list {
+  font-weight: 600;
+  font-family: 'Work Sans', sans-serif;
+}
+.quire-contents.pdf-splash-page .quire-contents-list .menu-list a {
+  font-size: 1.25rem;
+}
+
+
+/* PAGE HEADERS & HEADINGS
+============================================================================= */
+.quire-page h2 {
+  font-weight: 900;
+}
+.quire-page h2:not(:first-child),
+.quire-page .backmatter h2:first-child  {
+  margin-top: 3rem !important;
+}
+.quire-page .accordion-section__heading h2 {
+  margin-top: 0 !important;
+}
+.quire-page h3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.625rem;
+  letter-spacing: -.5px;
+}
+.quire-page h4 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  letter-spacing: -.5px;
+}
+.quire-page h5 {
+  font-size: 1.125rem;
+  font-style: normal;
+}
+.quire-page__header__contributor {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.quire-page__header .hero-body .label {
+  border-width: 0;
+  font-weight: 300;
+  font-size: 3rem;
+  padding: 0;
+  margin: 1rem auto;
+}
+
+/* SIDEBARS
+============================================================================= */
+/* For any accordion shortcode whose `id` value starts with 'sidebar' */
+.accordion-section[id^='sidebar'] {
+  background-color: var(--light-blue);
+  border-bottom: 10px solid var(--dark-blue);
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  float: right;
+  margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+  margin-right: -2.5rem;
+  padding-top: 1rem;
+  width: 400px;
+}
+.accordion-section[id^='sidebar'][open] {
+  margin-left: 0;
+  width: calc(100% + 2.5rem);
+}
+ .quire-page .accordion-section[id^='sidebar'] accordion-section__heading h2,
+ .accordion-section[id^='sidebar'] h2 {
+  color: var(--black);
+  font-size: 1.625rem;
+  font-weight: 600;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  text-transform: none;
+}
+.accordion-section[id^='sidebar'] .accordion-section__controls::after {
+  color: var(--black);
+  font-size: 30px;
+  margin-right: 1rem;
+  display: block;
+}
+.accordion-section[id^='sidebar'] .accordion-section__body {
+  background-color: var(--light-gray);
+  padding: 1rem;
+}
+@media screen and (max-width:590px) {
+  .accordion-section[id^='sidebar'] {
+    float: initial;
+    margin-left: 0;
+    width: calc(100% + 2.5rem);
+  }
+  .accordion-section[id^='sidebar'] .accordion-section__body {
+    padding-right: 2.5rem;
+  }
+}
+@media print {
+  .accordion-section[id^=sidebar] {
+    background-color: var(--light-gray);
+    float: top;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1.5rem;
+    width: 100%;
+    column-span: all;
+    column-count: 2;
+    column-gap: .1875in;
+  }
+  .accordion-section[id^=sidebar] > * {
+    padding: 0;
+  }
+  .accordion-section[id^=sidebar] > figure {
+    padding: 1.5rem 0;
+  }
+  .accordion-section[id^=sidebar] h2 {
+    background-color: var(--light-blue);
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    margin-top: -1.5rem;
+    padding: 1.5rem;
+    column-span: all;
+  }
+}
+/* For the authored sidebar in Chapter 10 */
+.accordion-section[id^='sidebar'] .sidebar-author {
+  font-style: italic;
+  font-size: .75em;
+}
+
+/* ADDITIONAL RESOURCE BOXES
+============================================================================= */
+/* Special <sections> with PDF downloads and/or accordions containing full-test resources */
+.additional-resource {
+  background-color: var(--dark-blue);
+  border-radius: 1rem;
+  color: var(--white);
+  margin-bottom: 1.5rem;
+  border-bottom: 10px solid var(--gray);
+}
+.additional-resource h4 {
+  font-weight: 600;
+  letter-spacing: normal;
+}
+.additional-resource > *:first-child {
+  padding-top: 1.5rem;
+}
+.additional-resource > * {
+  color: var(--white) !important;
+  padding: 0 1.5rem;
+}
+.additional-resource .accordion-section {
+  margin: 0;
+  padding: 0;
+}
+.additional-resource .accordion-section__heading {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+}
+.additional-resource .accordion-section__heading *:not(button) {
+  color: inherit;
+}
+.additional-resource .accordion-section__heading:hover button {
+  color: var(--white) !important;
+}
+.additional-resource .accordion-section__body {
+  background-color: var(--light-gray);
+  color: var(--black);
+  padding: 1.5rem;
+}
+/* For the Download links and icons */
+.quire-page__content .content .additional-resource a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+ color: var(--light-blue);
+}
+.quire-page__content .content .additional-resource a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  color: var(--white) !important;
+}
+.additional-resource a {
+  border-bottom-width: 0px !important;
+}
+.additional-resource a svg {
+  width: 1rem;
+  height: 1rem;
+  fill: currentColor;
+}
+/* For figures, usually the cover of the report in question */
+.additional-resource .q-figure {
+  padding: 0;
+  border-width: 0;
+  margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+.additional-resource .q-figure .q-figure__caption {
+  color: var(--white);
+  margin-top: .25rem;
+  padding-top: 0;
+}
+/* For the full-text TOCs */
+.additional-resource ol,
+.additional-resource ol li {
+  margin-left: .5rem !important;
+}
+.additional-resource ul,
+.additional-resource ul li {
+  margin-left: 0 !important;
+}
+.additional-resource ul li ul,
+.additional-resource ol li ul {
+  margin-left: 1.5rem !important;
+}
+.additional-resource ul li::marker {
+  content: none !important;
+}
+/* Some Resources appear within lists, but the markdown processor wasn't working with them, so this makes them *look* like they're in the list */
+.additional-resource.inside-list {
+  margin-left: 2.5rem;
+}
+@media print {
+  .additional-resource.inside-list {
+    margin-left: 2rem;
+  }
+}
+/* Lone <li> elements in between the Resources noted above, aren't processing into <p> elements and so need some line-height help */
+.content ul li {
+  line-height: 2;
+}
+/* Special form markup for Chapter 7, Resource 1 */
+.form-line {
+  display: flex;
+  flex-wrap: wrap;
+}
+.form-line__group {
+  flex-grow: 1;
+  display: flex;
+}
+.form-line label {
+  margin-bottom: .5rem;
+  margin-right: .5rem;
+}
+.form-line input {
+  flex-grow: 1;
+  background-color: transparent;
+  border-width: 0;
+  border-bottom: 1px solid var(--black);
+  margin-bottom: .5rem;
+}
+.form-checkboxes input:not(:first-child) {
+  margin-top: 1rem;
+}
+.form-box {
+  margin-top: 1rem;
+}
+.form-box input {
+  background-color: transparent;
+  display: block;
+  width: 100%;
+  height: 4rem;
+  border: 1px solid var(--black);
+  margin-top: .5rem;
+}
+@media print {
+  /* Hide the download link */
+  .additional-resource > p > a:after {
+    content: " (" attr(href) ")";
+  }
+  .additional-resource .accordion-section {
+    background-color: var(--light-gray);
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1rem 0;
+    width: 100%;
+    /* This bit is because there was a little show through of the dark-blue around the edges */
+    width: calc(100% + .5pt);
+    margin-left: -.25pt;
+    border-bottom: 10px solid var(--gray);
+  }
+  .additional-resource {
+    border-bottom-width: 0;
+  }
+  .additional-resource .accordion-section > * {
+    color: var(--black);
+    padding: 0 1.5rem;
+    font-size: .75em;
+    line-height: 1.35;
+  }
+  .additional-resource .accordion-section h5 {
+    font-size: 1rem;
+  }  
+  .additional-resource .accordion-section ol li,
+  .additional-resource .accordion-section ul li {
+    margin-bottom: .5rem !important; 
+  }
+  .additional-resource .accordion-section > ul:last-child,
+  .additional-resource .accordion-section > ul:last-child > li:last-child {
+    margin-bottom: 0;
+  }
+  .additional-resource .accordion-section ol li ul {
+    margin-top: .5rem;
+  }
+  .additional-resource .q-figure.q-figure--group.quire-grid--2 .q-figure {
+    width: 47%; 
+  }
+}
+
+/* FIGURES
+============================================================================= */
+/* Figure Groups */
+.q-figure.q-figure--group {
+  display: grid;
+  gap: 0 1rem;
+}
+.q-figure.q-figure--group .q-figure {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+.q-figure.q-figure--group .q-figure__caption {
+  grid-column: 1/-1;
+  padding-top: 0;
+  margin-top: 0;
+}
+.q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption {
+  margin-top: 0;
+}
+.q-figure.q-figure--group.quire-grid--2 {
+  grid-template-columns: 1fr 1fr;
+}
+.q-figure.q-figure--group.quire-grid--3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+@media print {
+  .q-figure.q-figure--group.quire-grid--2 .q-figure {
+    display: inline-block;
+    margin-right: 1rem;
+    width: calc((100% - 2rem) / 2);
+  }
+  .q-figure.q-figure--group.quire-grid--2 .q-figure:nth-child(2n+2) {
+    margin-right: 0;
+  }
+  .q-figure.q-figure--group.quire-grid--3 .q-figure {
+    display: inline-block;
+    margin-right: 1rem;
+    width: calc((100% - 3rem) / 3);
+  }
+  .q-figure.q-figure--group.quire-grid--3 .q-figure:nth-child(3n+3) {
+    margin-right: 0;
+  }
+}
+/* Regular Figures */
+.q-figure:not(.q-figure--group__item) {
+  border-width: 0;
+  padding: 0;
+}
+.content figure .q-figure__caption {
+  font-size: .875rem;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+.content .q-figure.q-figure--group__item .q-figure__caption {
+  margin-top: 0;
+}
+.q-figure__label,
+.q-figure__label--below .q-figure__modal-link {
+  text-transform: uppercase;
+  color: var(--black);
+}
+.q-figure__label .q-figure__label-icon svg {
+  fill: var(--black);
+}
+.q-figure__label .q-figure__label-icon svg {
+  width: 1rem;
+  height: 1rem;
+  margin-left: 1px;
+  margin-right: 2px;
+}
+.q-figure > a:hover img {
+  box-shadow: none;
+}
+/* Table Figures */
+.quire-page__content .container .content table caption {
+  font-size: .875rem;
+}
+.quire-page__content .container .content table caption strong {
+  display: block;
+  text-transform: uppercase;
+}
+.quire-page__content .container .content table thead * {
+  background-color: var(--dark-blue);
+  color: var(--white) !important;
+}
+/* For table that's part of a figure group */
+#table-10-11-d {
+  grid-column: 1/-1;
+}
+#table-10-11-d table {
+  font-size: .5em;
+}
+@media print {
+  .q-figure#table-10-11-d {
+    width: 100%;
+  }
+  #table-10-11-d table {
+    font-size: 0.75em
+  }
+}
+/* For Gantt chart table */
+#table-10-2 table,
+[data-lightbox-slide-id='table-10-2'] table {
+  table-layout: fixed;
+}
+[data-lightbox-slide-id='table-10-2'] table {
+  min-width: 2200px;
+}
+#table-10-2 table thead tr th:first-child,
+[data-lightbox-slide-id='table-10-2'] table thead tr th:first-child {
+  width: 22%;
+}
+#table-10-2 table thead tr th,
+[data-lightbox-slide-id='table-10-2']table thead tr th {
+  width: 6%;
+  text-align: center;
+}
+#table-10-2 table tbody tr td,
+[data-lightbox-slide-id='table-10-2'] table tbody tr td {
+  /* overflow: clip; */
+  white-space: nowrap;
+  vertical-align: middle;
+  height: 1.8rem;
+}
+
+/* BACKMATTER PAGES: GLOSSSARY, REFERENCES, CONTRIBUTORS
+============================================================================= */
+.quire-page.backmatter .quire-page__content {
+  line-height: 2;
+}
+.quire-page.backmatter .quire-page__content dl {
+  margin-left: 0;
+}
+
+@media print {
+  .quire-page.backmatter .quire-page__content {
+    column-count: 2;
+    column-gap: 0.1875in;
+    font-size: 0.75rem !important;
+    line-height: 1.6 !important;
+    margin: 0;
+    max-width: 100%;
+  }
+  #page-glossary.quire-page.backmatter .quire-page__content a {
+    font-weight: bold;
+  }
+  .quire-page.backmatter .quire-page__content dd {
+    break-before: avoid;
+    break-inside: avoid;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+  }
+  /* Hide manually added, link to contribution */
+  .quire-page#page-contributors .quire-contributor#lauren-weiss-bricker ul {
+    display: none;
+  }
+}
+
+/* MISC
+============================================================================= */
+/* Blockquote dingbat */
+@media screen {
+  .quire-page__content .container .content blockquote p:first-child::before {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    left: -3.5rem;
+    color: var(--light-gray);
+  }
+}
+/* Match figcaption line height */
+.quire-page__content .container .content .footnotes * {
+  line-height: 1.5;
+}
+/* Utility Class */
+.no-break-container {
+  break-inside: avoid;
+}
+
+/* FIXES
+============================================================================= */
+/* Fix .is-table-scale utility classes to not change caption size */
+.q-figure.is-table-scale-1 table {
+  font-size: 0.1rem;
+}
+.q-figure.is-table-scale-2 table {
+  font-size: 0.2rem;
+}
+.q-figure.is-table-scale-3 table {
+  font-size: 0.3rem;
+}
+.q-figure.is-table-scale-4 table {
+  font-size: 0.4rem;
+}
+.q-figure.is-table-scale-5 table {
+  font-size: 0.5rem;
+}
+.q-figure.is-table-scale-6 table {
+  font-size: 0.6rem;
+}
+.q-figure.is-table-scale-7 table {
+  font-size: 0.7rem;
+}
+.q-figure.is-table-scale-8 table {
+  font-size: 0.8rem;
+}
+.q-figure.is-table-scale-9 table {
+  font-size: 0.9rem;
+}
+.q-figure.is-table-scale-1,
+.q-figure.is-table-scale-2,
+.q-figure.is-table-scale-3,
+.q-figure.is-table-scale-4,
+.q-figure.is-table-scale-5,
+.q-figure.is-table-scale-6,
+.q-figure.is-table-scale-7,
+.q-figure.is-table-scale-8,
+.q-figure.is-table-scale-9 {
+  font-size: inherit;
+}
+/* Fix table hover behavior to match other figures */
+.quire-page__content .content tbody tr:hover {
+  background-color: transparent;
+}
+.q-figure > a:hover table img {
+  box-shadow: none;
+}
+/* Get better spacing under lists */
+.quire-page__content .container .content ul {
+  margin-bottom: 1.25rem;
+}
+/* Fix li markers appearance on page an in lightbox */
+.content ul {
+  margin-left: 1.5em;
+}
+.quire-page__content .container .content ul li::marker {
+  content: '◆  ';
+}
+.quire-page__content .container .content ul li::before,
+.quire-page__content .container .content ul.quire-contributors-list li::marker {
+  content: none;
+}
+.q-lightbox-slides__element table ul {
+  margin-left: 1.5em;
+}
+.q-lightbox-slides__element table ul li::marker {
+  content: '◆  ';
+  font-size: .875em;
+}
+@media print {
+  .quire-page__content .container .content ul li::marker {
+    font-size: .6em;
+  }
+}
+
+/* PRINT STYLES
+============================================================================= */
+@media print {
+  .half-title-page .half-title {
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 900;
+  }
+  .title-page .title {
+    font-size: 30pt;
+    text-transform: uppercase;
+    line-height: calc(var(--line-height-multiplier) * 30pt);
+  }
+  .title-page .subtitle {
+    font-size: calc(30pt * var(--subtitle-multiplier));
+    font-weight: 300;
+    display: block;
+    text-transform: none;
+  }
+  .title-page .contributor {
+    font-size: calc(var(--contributor-multiplier) * 30pt);
+    font-weight: 600;
+    margin-top: .5in;
+  }
+  .title-page .publisher {
+    font-size: 1.25rem;
+  }
+  .copyright-page .publisher p:first-child,
+  .copyright-page .cip-data p:first-child {
+    margin-bottom: 0;
+  }
+  .copyright-page .project-team ul li::marker,
+  .copyright-page .cip-data ul li::marker {
+    content: none !important;
+  }
+  .copyright-page .cip-data ul li {
+    line-height: 1.5;
+  }
+  .quire-contents .quire-contents-list > nav > ol > li.page-item:nth-child(-n+3) > a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+  }
+  .content ul.quire-contributors-list.name-title-block li {
+    line-height: 1.5;
+  }
+  .pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .pdf-two-column {
+    column-span: all;
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .pdf-splash-page {
+    page: splash;
+  }
+  .pdf-splash-page .quire-page__content {
+    column-count: 1;
+    max-width: 4.725in;
+    margin: 0 auto;
+  }
+  .pdf-splash-page .quire-contents-list {
+    display: none;
+  }
+}
+

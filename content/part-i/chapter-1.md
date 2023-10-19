@@ -1,5 +1,5 @@
 ---
-label: "Chapter 1"
+label: "1"
 title: "Key Inventory Qualities for Effective Heritage Management"
 short_title: 
 layout: essay
@@ -10,7 +10,7 @@ order: 35
 
 For an inventory to be effective in the broad range of uses mentioned in the [introduction](/introduction/) to this volume, information within it will ideally have certain qualities or characteristics that increase its utility. This chapter proposes what some of those desired qualities are, and explains why. Since an inventory is essentially an ongoing information record, the proposed qualities have been informed in part by guidance pertaining to general data quality, rather than qualities specific to the heritage field).[^1] This discussion assumes that inventory users, such as policymakers, public agency staff, emergency responders, property owners, and developers, all seek some degree of certainty when consulting inventory information about the status of places and properties when making decisions.
 
-As will be discussed further in [chapter 2](/part-1/chapter-2/), some jurisdictions have statutory inventories recognized by law as the information source upon which planning decisions regarding heritage are based. Statutory heritage inventories, as well as other official inventories that public agencies rely on to carry out their stewardship mandates, are typically recognized by law as authoritative or definitive records of a particular jurisdiction or organization. Having multiple inventories for a jurisdiction can cause confusion and uncertainty about which inventory is more accurate, and can lead to unnecessary duplication of effort and resource expenditures.
+As will be discussed further in [chapter 2](/part-i/chapter-2/), some jurisdictions have statutory inventories recognized by law as the information source upon which planning decisions regarding heritage are based. Statutory heritage inventories, as well as other official inventories that public agencies rely on to carry out their stewardship mandates, are typically recognized by law as authoritative or definitive records of a particular jurisdiction or organization. Having multiple inventories for a jurisdiction can cause confusion and uncertainty about which inventory is more accurate, and can lead to unnecessary duplication of effort and resource expenditures.
 
 ## Key Qualities
 
@@ -56,7 +56,7 @@ Far too often, information is less accessible than desired due to limitations of
 
 ### Security 
 
-The quality of security focuses on ensuring that inventory information is protected from accidental loss (including from disasters or conflicts), erasure, corruption, or intentional damage. A fine-tuned heritage inventory and survey program can fail if its information assets are insecure. Security also relates to maintaining privacy and confidentiality of personal or sensitive information, which are sometimes dictated by government regulations. Maintaining information security requires the creation and implementation of security policies and procedures to provide proper backup and auditing of information as well as controls to ensure appropriate access. Measures relating to information security are discussed in [chapter 2](/part-1/chapter-2/).
+The quality of security focuses on ensuring that inventory information is protected from accidental loss (including from disasters or conflicts), erasure, corruption, or intentional damage. A fine-tuned heritage inventory and survey program can fail if its information assets are insecure. Security also relates to maintaining privacy and confidentiality of personal or sensitive information, which are sometimes dictated by government regulations. Maintaining information security requires the creation and implementation of security policies and procedures to provide proper backup and auditing of information as well as controls to ensure appropriate access. Measures relating to information security are discussed in [chapter 2](/part-i/chapter-2/).
 
 ### Interoperability
 
@@ -76,7 +76,7 @@ Also of relevance, the CARE Principles for Indigenous Data Governance were creat
 >
 > **Ethics** Indigenous Peoples’ rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem.
 
-An inventory program can create metrics to assess the degree to which inventory information reflects whatever key qualities are deemed most appropriate. Such metrics are addressed further in chapter 2 under [Monitoring and Periodic Evaluation](/part-1/chapter-2/#monitoring-and-evaluation).
+An inventory program can create metrics to assess the degree to which inventory information reflects whatever key qualities are deemed most appropriate. Such metrics are addressed further in chapter 2 under [Monitoring and Periodic Evaluation](/part-i/chapter-2/#monitoring-and-evaluation).
 
 {% backmatter %}
 

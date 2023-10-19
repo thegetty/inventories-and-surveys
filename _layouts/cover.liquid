@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Remove unused reading_line element, and hard-coded <em> tags on contributors
+##
 classes:
  - quire-cover
 description: Quire publication cover page
@@ -25,13 +28,13 @@ layout: base.11ty.js
           <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
         {% endif %}
       </h1>
-      <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
+      {% if publication.reading_line %}<p class="reading-line">{{ publication.reading_line | markdownify }}</p>{% endif %}
       <div class="contributor">
         <span class="visually-hidden">Contributors: </span>
         {% if publication.contributor_as_it_appears %}
-          <em>{{ publication.contributor_as_it_appears }}</em>
+          {{ publication.contributor_as_it_appears }}
         {% else %}
-          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
+          {% contributors context=publicationContributors, format='string', type='primary' %}
         {% endif %}
       </div>
     </div>
