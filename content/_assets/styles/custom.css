@@ -280,7 +280,7 @@
     padding: 1.5rem 0;
   }
   .accordion-section[id^=sidebar] h2 {
-    background-color: var(--dark-pink);
+    background-color: var(--light-blue);
     margin-left: -1.5rem;
     margin-right: -1.5rem;
     margin-top: -1.5rem;
@@ -641,6 +641,10 @@
 .quire-page__content .container .content .footnotes * {
   line-height: 1.5;
 }
+/* Utility Class */
+.no-break-container {
+  break-inside: avoid;
+}
 
 /* FIXES
 ============================================================================= */
@@ -721,6 +725,47 @@
 /* PRINT STYLES
 ============================================================================= */
 @media print {
+  .half-title-page .half-title {
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 900;
+  }
+  .title-page .title {
+    font-size: 30pt;
+    text-transform: uppercase;
+    line-height: calc(var(--line-height-multiplier) * 30pt);
+  }
+  .title-page .subtitle {
+    font-size: calc(30pt * var(--subtitle-multiplier));
+    font-weight: 300;
+    display: block;
+    text-transform: none;
+  }
+  .title-page .contributor {
+    font-size: calc(var(--contributor-multiplier) * 30pt);
+    font-weight: 600;
+    margin-top: .5in;
+  }
+  .title-page .publisher {
+    font-size: 1.25rem;
+  }
+  .copyright-page .publisher p:first-child,
+  .copyright-page .cip-data p:first-child {
+    margin-bottom: 0;
+  }
+  .copyright-page .project-team ul li::marker,
+  .copyright-page .cip-data ul li::marker {
+    content: none !important;
+  }
+  .copyright-page .cip-data ul li {
+    line-height: 1.5;
+  }
+  .quire-contents .quire-contents-list > nav > ol > li.page-item:nth-child(-n+3) > a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+  }
+  .content ul.quire-contributors-list.name-title-block li {
+    line-height: 1.5;
+  }
   .pdf-float-top {
     float: none;
     -prince-float: top;

@@ -49,13 +49,13 @@ publisher:
       [getty.edu/publications/](https://www.getty.edu/publications/)
 
 project_team: 
- - Rachel Barth, *Tevvy Ball*
- - Greg Albers, *Digital Publications Manager*
- - John Grizzle, *Cover Design*
- - Molly McGeehan, *Production*
- - Danielle Brink, *Image and Rights Acquisition*
- - Erin Cecele Dunigan and Jenny Park, *Digital Assistants*
-
+  - Tevvy Ball, *Project Editor*
+  - Leslie Tilley, *Manuscript Editor*
+  - Greg Albers, *Digital Manager*
+  - John Grizzle, *Cover Design*
+  - Molly McGeehan, *Production*
+  - Danielle Brink, *Image and Rights Acquisition*
+  - Erin Cecele Dunigan, Jenny Park, and Kate Justement, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -143,6 +143,11 @@ resource_link:
     media_type: application/epub+zip
     link_relation: alternate
     url: #
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: #
   - type: footer-link
     name: About
     link_relation: about
@@ -162,8 +167,16 @@ resource_link:
 
 subject:
   - type: bisac
-    name: 
-    identifer: 
+    name: POLITICAL SCIENCE / Public Policy / Cultural Policy
+    identifer: POL038000
+  - type: bisac
+    name: POLITICAL SCIENCE / Public Policy / City Planning & Urban Development
+    identifer: POL002000
+  - type: bisac
+    name: ART / Conservation & Preservation
+    identifer: ART056000
+  - type: keyword
+    name: conservation;cultural heritage;user friendly;step by step;identify;record;manage;information;resource;infrastructure;standards;guidelines;comprehensive;advice;guidance;best practices;how to;case studies;government agencies;public policy
 
 library_of_congress_cip: |
   Library of Congress Cataloging-in-Publication Data
@@ -181,13 +194,13 @@ library_of_congress_cip: |
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: 2024-07-30
     summary:
       - First edition
 
 revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/inventories-and-surveys](https://github.com/thegetty/inventories-and-surveys), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 
-repository_url: http://github.com/thegetty/inventories-and-surveys
+repository_url: https://github.com/thegetty/inventories-and-surveys
 
 # ------------------------------------------------------------------------------
 # Promo Image
