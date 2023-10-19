@@ -84,9 +84,11 @@ module.exports = function(eleventyConfig, options) {
     const breakBefore = /([(?<!\/)\/(?!\/)|~|\.|,|_|?|#|%|=|+|&|-])/g // single-slash and others
     const breakCharacter = '​' // zero-width space  
 
-    const linkText = tokens[linkTextIndex].content
+    const linkText = tokens[linkTextIndex].content.includes('http') 
+      ? tokens[linkTextIndex].content
         .replace(breakAfter, '$1' + breakCharacter)
         .replace(breakBefore, breakCharacter + '$1')
+      : tokens[linkTextIndex].content
     
     tokens[linkTextIndex].content = linkText
 
