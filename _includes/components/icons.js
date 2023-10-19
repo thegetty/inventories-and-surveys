@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add custom (bolder) version of full-screen icon to match design customizations
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -52,8 +56,8 @@ module.exports = function(eleventyConfig) {
           <path
             d="M38.5 25H27V14c0-.553-.448-1-1-1s-1 .447-1 1v11H13.5c-.552 0-1 .447-1 1s.448 1 1 1H25v12c0 .553.448 1 1 1s1-.447 1-1V27h11.5c.552 0 1-.447 1-1s-.448-1-1-1z" />
         </symbol>
-        <symbol id="fullscreen-icon" viewBox="0 0 24 24">
-          <path d="M0 0h24v24H0z" fill="none"/><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
+        <symbol id="fullscreen-icon" viewBox="0 -960 960 960">
+          <path d="M154-154v-253h118v135h135v118H154Zm0-399v-253h253v118H272v135H154Zm399 399v-118h135v-135h118v253H553Zm135-399v-135H553v-118h253v253H688Z"/>
         </symbol>
         <symbol id="add-circle-icon" viewBox="0 0 20 20">
           <path d="M9.25 14h1.5v-3.25H14v-1.5h-3.25V6h-1.5v3.25H6v1.5h3.25Zm.75 4q-1.646 0-3.104-.625-1.458-.625-2.552-1.719t-1.719-2.552Q2 11.646 2 10q0-1.667.625-3.115.625-1.447 1.719-2.541Q5.438 3.25 6.896 2.625T10 2q1.667 0 3.115.625 1.447.625 2.541 1.719 1.094 1.094 1.719 2.541Q18 8.333 18 10q0 1.646-.625 3.104-.625 1.458-1.719 2.552t-2.541 1.719Q11.667 18 10 18Zm0-1.5q2.708 0 4.604-1.896T16.5 10q0-2.708-1.896-4.604T10 3.5q-2.708 0-4.604 1.896T3.5 10q0 2.708 1.896 4.604T10 16.5Zm0-6.5Z"/>

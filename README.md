@@ -25,6 +25,9 @@ Generates HTML output for generation of EPUB book using [`EPUB.js`](http://futur
 **_includes/components/icon.js**
 Used `oneLine` instead of `html` so that the include could be used in Markdown files
 
+**_includes/components/icons.js**
+Add custom (bolder) version of full-screen icon to match design customizations
+
 **_includes/components/menu/header.js**
 Added individual title and subtitle elements
 
