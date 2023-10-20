@@ -48,12 +48,13 @@ $print-trim: $print-bleed * 2;
     @bottom-right {
       content: string(sectiontitle);
       text-transform: uppercase;
-      letter-spacing: 1pt;
+      letter-spacing: .5pt;
       font-size: 7.5pt;
     }
 
     @bottom-left {
       content: counter(page);
+      font-weight: 600;
     }
   }
 
@@ -69,11 +70,13 @@ $print-trim: $print-bleed * 2;
 
     @bottom-left {
       content: string(pagetitle);
+      width: 5in;
     }
 
     @bottom-right {
       text-align: right;
       content: counter(page);
+      font-weight: 600;
     }
   }
 

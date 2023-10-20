@@ -52,5 +52,8 @@ Refactor logic to handle oxford commas correctly
 **_plugins/shortcodes/figureGroup.js**
 Simplify markup and enable custom classes and group captions for figure groups
 
+**_plugins/transforms/outputs/pdf/transform.js**
+Remove title truncation from PDF footer
+
 **content/_assets/javascript/application/index.js**
 Added copyURL() function to strip zero-width spaces from URLs on copy, which were added to improve URL line breaks
