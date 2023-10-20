@@ -104,7 +104,7 @@ Estimating the costs associated with a survey will establish budgets for the pro
 
 {% figure 'fig-7-1' %}
 
-[Table 7.1](table-7-1) shows a breakdown of the primary expenses within each category. Note that these expenses may not all be relevant for every survey; for example, small-scale surveys or those highly reliant on community involvement and the use of volunteers can reduce or avoid some costs.
+[Table 7.1](#table-7-1) shows a breakdown of the primary expenses within each category. Note that these expenses may not all be relevant for every survey; for example, small-scale surveys or those highly reliant on community involvement and the use of volunteers can reduce or avoid some costs.
 
 {% figure 'table-7-1' 'is-table-scale-6 pdf-two-column' %}
 

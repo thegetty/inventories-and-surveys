@@ -32,7 +32,7 @@ Based on the SurveyLA experience, when organizing a pilot survey program, consid
 
 The following are general tips and recommendations for managing a pilot survey program.
 
--   An ongoing log is a critical tool for systematically tracking issues experienced during the pilot surveys. The log can be organized by categories relating to survey equipment and software, data collection and editing standards and procedures, research approaches, application of historic contexts, outreach strategies, and so forth ([fig. 9.3](#fig-9-3)). The log can also be used to track aspects of the survey that are particularly successful. Logged information could include date and time of recording, name of survey team member, summary of issue, date resolved, and notes. Use of a log can continue into the official field survey phase of a project, as was the case for SurveyLA.
+-   An ongoing log is a critical tool for systematically tracking issues experienced during the pilot surveys. The log can be organized by categories relating to survey equipment and software, data collection and editing standards and procedures, research approaches, application of historic contexts, outreach strategies, and so forth ([fig. 9.3](#table-9-3)). The log can also be used to track aspects of the survey that are particularly successful. Logged information could include date and time of recording, name of survey team member, summary of issue, date resolved, and notes. Use of a log can continue into the official field survey phase of a project, as was the case for SurveyLA.
 
     {% figure 'table-9-3' 'is-table-scale-5 pdf-two-column' %}
 

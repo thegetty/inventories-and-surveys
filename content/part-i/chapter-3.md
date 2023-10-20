@@ -288,7 +288,7 @@ QA/QC may include activities such as data editors regularly checking the quality
 
 ### How Will the Inventory Program Address External Engagement, Community Outreach, and Public Participation? {#external-engagement-outreach-participation}
 
-As discussed in chapter 2, for inventory programs of public heritage agencies, engagement with external organizations and stakeholders, including the general public, is a key and ongoing activity (see **External Engagement, Community Outreach, and Public Participation**). This is often also the case in certain ways for heritage NGOs. Those working within an inventory program may wish to determine the nature of those engagements, some of which may be determined by the legal or administrative context within which they are operating. The following are related considerations:
+As discussed in chapter 2, for inventory programs of public heritage agencies, engagement with external organizations and stakeholders, including the general public, is a key and ongoing activity (see [External Engagement, Community Outreach, and Public Participation](/part-i/chapter-2/#external-engagement)). This is often also the case in certain ways for heritage NGOs. Those working within an inventory program may wish to determine the nature of those engagements, some of which may be determined by the legal or administrative context within which they are operating. The following are related considerations:
 
 -   For public agency inventory programs, is there a need to exchange information with other public agencies? Do you need to share information with others, obtain it from them, provide them related heritage advice, or interpret inventory information for them?
 

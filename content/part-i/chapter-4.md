@@ -83,7 +83,11 @@ Another method to integrate survey data involves using other applications to col
 
 ## Arches Community and Long-Term Aspirations
 
-The Arches open-source project was established with a strategic aim of helping break the cycle of heritage organizations investing scarce resources in duplicative expenditures to independently create digital inventory and survey systems. The Arches open-source license obligates those who enhance the software to share those improvements for the benefit of the entire community. Related to this obligation, the customization of Arches for the Greater London Historic Environment Record (GLHER) has resulted in the Arches HER software package, which is based on the standards and requirements of England’s more than eighty regional and local agency HERs. It is freely available for any of England’s HERs to deploy.
+The Arches open-source project was established with a strategic aim of helping break the cycle of heritage organizations investing scarce resources in duplicative expenditures to independently create digital inventory and survey systems ([fig. 4.4](#fig-4-4)). The Arches open-source license obligates those who enhance the software to share those improvements for the benefit of the entire community. Related to this obligation, the customization of Arches for the Greater London Historic Environment Record (GLHER) has resulted in the Arches HER software package, which is based on the standards and requirements of England’s more than eighty regional and local agency HERs ([fig. 4.5](#fig-4-5)). It is freely available for any of England’s HERs to deploy.
+
+{% figure 'fig-4-4' %}
+
+{% figure 'fig-4-5' %}
 
 The open-source approach ultimately enables pooling resources to provide both a greater combined investment to create more robust heritage inventory and survey software as well as all-around cost savings. The net result is a state-of-the-art software platform available to all organizations. If necessary, they can make marginal investments to tailor it to meet their particular requirements.
 

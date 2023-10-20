@@ -37,7 +37,7 @@ The major components of a field survey include the following (see [Field Survey 
 
 3.  [Intensive-level survey and recording](#intensive-level-survey-and-recording)
 
-Although all these tasks are essential to a successful field survey, they may be conducted in phases, and some tasks may be conducted concurrently ([fig. 10.2](#fig-10-2)). Once the parameters and goals of the project have been defined, the survey team can predict the level of effort and documentation that will be needed for all tasks within the scope of work to successfully distribute resources and plan for the work.
+Although all these tasks are essential to a successful field survey, they may be conducted in phases, and some tasks may be conducted concurrently ([fig. 10.2](#table-10-2)). Once the parameters and goals of the project have been defined, the survey team can predict the level of effort and documentation that will be needed for all tasks within the scope of work to successfully distribute resources and plan for the work.
 
 {% figure 'table-10-2' 'is-table-scale-4 pdf-two-column' %}
 

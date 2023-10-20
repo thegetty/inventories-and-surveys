@@ -3,14 +3,14 @@ figure_list:
   - id: "fig-i-1"
     label: "Figure i.1"
     src: "figures/fig-i-1.jpg"
-    caption: "The Burra Charter Process (%%Australia ICOMOS 2013a%%)."
+    caption: "The Burra Charter Process (Australia ICOMOS 2013a)."
     credit: "Australia ICOMOS Incorporated"
     alt: 
 
   - id: "fig-i-2"
     label: "Figure i.2"
     src: "figures/fig-i-2.png"
-    caption: "The English Heritage virtuous circle of understanding, valuing, caring for, and enjoying the historic environment (%%English Heritage 2005%%)."
+    caption: "The English Heritage virtuous circle of understanding, valuing, caring for, and enjoying the historic environment (English Heritage 2005)."
     credit: "English Heritage"
     alt: 
   
