@@ -1,11 +1,11 @@
 ---
 label: "4"
 title: "The Arches Open-Source Platform"
-subtitle: "Purpose-Built Software for Heritage Inventories and Surveys" 
+subtitle: "Purpose-Built Software for Heritage Inventories and Surveys"
 layout: essay
 contributor:
-  - id: dmyers
   - id: aenriquez
+  - id: dmyers
 order: 50
 ---
 
@@ -23,7 +23,7 @@ Adding to the challenges described, when viewed collectively, heritage organizat
 
 Recognizing the necessity of effective inventories for heritage protection, in 2012 the Getty Conservation Institute (GCI) and World Monuments Fund (WMF) partnered to address these challenges through the development of the Arches Heritage Data Management Platform as open-source software. The partners viewed the development of Arches as a strategic investment in helping heritage agencies around the world modernize information infrastructure that they need to more effectively protect heritage under their jurisdiction.
 
-## Arches Design 
+## Arches Design
 
 Arches is an enterprise-level software platform designed to be independently deployed at an organizational or project level. It has been designed to address the challenges described above while taking into account the needs of heritage organizations internationally. To this end, Arches has been developed according to the following key principles:
 
@@ -129,7 +129,7 @@ Its design is also intended to enable data to be used, updated, shared, and avai
 
 {% backmatter %}
 
-## Notes 
+## Notes
 
 {% endbackmatter %}
 

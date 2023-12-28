@@ -5,6 +5,8 @@ layout: essay
 classes:
   - page-one
 contributor:
+  - id: dmyers
+  - id: jhansen
 order: 25
 ---
 
@@ -104,7 +106,7 @@ Inventories and related surveys are also critical to heritage protection with re
 
 In pursuing the multifaceted aims of sustainable development, inventories and surveys employed deftly through modern information technologies have the potential to be among heritage organizations’ most essential tools. They can provide for proactively responding to transformational forces with the aim of enabling the continued existence and use of significant heritage to be the patrimony of future generations. Without robust inventories and surveys, the effectiveness of government agencies tasked with protecting heritage would be substantially weakened, leaving heritage at risk due to a lack of essential information.
 
-## Current Trends and Approaches Relating to Inventories and Surveys 
+## Current Trends and Approaches Relating to Inventories and Surveys
 
 In recent decades, the authors have observed that public agencies responsible for heritage stewardship have shown growing interest in heritage inventories and surveys. We believe this interest has arisen as a result of a few different factors, in combination with the fundamental and wide-ranging utility of information provided through inventories and surveys to heritage management.
 
