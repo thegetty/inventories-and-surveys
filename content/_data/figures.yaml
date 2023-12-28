@@ -5,15 +5,15 @@ figure_list:
     src: "figures/fig-i-1.jpg"
     caption: "The Burra Charter Process (Australia ICOMOS 2013a)."
     credit: "Australia ICOMOS Incorporated"
-    alt: 
+    alt:
 
   - id: "fig-i-2"
     label: "Figure i.2"
     src: "figures/fig-i-2.png"
     caption: "The English Heritage virtuous circle of understanding, valuing, caring for, and enjoying the historic environment (English Heritage 2005)."
     credit: "English Heritage"
-    alt: 
-  
+    alt:
+
   - id: "fig-i-3"
     label: "Figure i.3"
     src: "figures/fig-i-3.png"
@@ -24,14 +24,14 @@ figure_list:
   - id: "fig-i-4"
     label: "Figure i.4"
     src: "figures/fig-i-4.png"
-    caption: "The inventory lifecycle. A heritage inventory is an ongoing record (bottom) that is created and (ideally) updated and improved over time through a range of information collection and assessment activities (top), including surveys. Note: The types of activity shown are merely examples. Aside from the initial inventory creation activity, the other activity types may occur in any sequence."
+    caption: "The inventory lifecycle. A heritage inventory is an ongoing record that is created and (ideally) updated and improved over time through a range of information collection and assessment activities, including surveys. The types of activity shown are merely examples. Aside from the initial inventory creation activity, the other activity types may occur in any sequence."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-i-5"
     label: "Figure i.5"
     src: "figures/fig-i-5.png"
-    caption: "Roles of inventories and surveys. Surveys and inventories can serve a variety of purposes that can be divided broadly between understanding heritage and providing a basis for making decisions and taking actions regarding that heritage."
+    caption: "Roles of inventories and surveys. Inventories and surveys can serve a variety of purposes that can be divided broadly between understanding heritage and providing a basis for making decisions and taking actions regarding that heritage. Bold items indicate the most common roles."
     credit: "David Myers, GCI"
     alt:
 
@@ -217,11 +217,11 @@ figure_list:
   - id: "ch-8-resource-2-b"
     src: "figures/ch-8-resource-2-b.jpg"
     alt: ""
-  
+
   - id: "ch-8-resource-3"
     src: "figures/ch-8-resource-3.jpg"
     alt: ""
-  
+
   - id: "ch-8-resource-4"
     src: "figures/ch-8-resource-4.png"
     alt: ""
@@ -355,7 +355,7 @@ figure_list:
     caption: "Survey-to-inventory data integration process. Survey data not collected directly into an inventory system requires careful review and revision of the data itself or the inventory system to which it will be introduced."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
-  
+
   - id: "ch-11-resource-1"
     src: "figures/ch-11-resource-1.jpg"
     alt: ""
