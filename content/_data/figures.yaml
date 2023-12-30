@@ -122,7 +122,7 @@ figure_list:
   - id: "fig-6-1"
     label: "Figure 6.1"
     src: "figures/fig-6-1.png"
-    caption: "The design approach for a heritage survey may focus on a geographical area, theme, chronological period, or a combination of these."
+    caption: "The design approach for a heritage survey may focus on a geographic area, theme, chronological period, or a combination of these."
     credit: "Janet Hansen"
     alt:
 
