@@ -94,14 +94,14 @@ figure_list:
   - id: "fig-4-5"
     label: "Figure 4.5"
     src: "figures/fig-4-5.jpg"
-    caption: "The Greater London Historic Environment Record (GLHER) Online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
+    caption: "The Greater London Historic Environment Record (GLHER) online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
     credit:
     alt:
 
   - id: "fig-ii-1"
     label: "Figure ii.1"
     src: "figures/fig-ii-1.png"
-    caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and consultation are integrated into each step."
+    caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and participation are integrated into each step."
     credit: "Janet Hansen"
     alt:
 

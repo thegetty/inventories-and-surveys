@@ -43,7 +43,7 @@ Choosing an open-source software approach enables the work of the project to inc
 
 ## Arches Capabilities
 
-The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}).[^1]
+The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. See the [Arches in Use sidebar](#sidebar) for example implementations. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}).[^1]
 
 ### Data Management {#data-management}
 
@@ -55,7 +55,7 @@ The data structure of Arches provides the ability to produce semantically enhanc
 
 ### Data Visualization and Discovery {#data-visualization-and-discovery}
 
-In addition to providing for data management, Arches features robust visualization and discovery tools. The most prominent means of visualization in Arches is its geospatial features, such as navigation via the map interface, search using map filters, and the inclusion of historic map layers and satellite imagery ([fig. 4.1](#fig-4-1)).
+In addition to enabling data management, Arches features robust visualization and discovery tools. The most prominent means of visualization in Arches is its geospatial features, such as navigation via the map interface, search using map filters, and the inclusion of historic map layers and satellite imagery ([fig. 4.1](#fig-4-1)).
 
 {% figure 'fig-4-1' %}
 
@@ -63,7 +63,7 @@ End users can also visually explore the relationships among resources in Arches 
 
 {% figure 'fig-4-2' %}
 
-Another visually oriented tool is the Time Wheel, which represents all time data in any particular implementation in a circular histogram. This feature allows users to filter and search the distribution of temporal attributes with all resources in their Arches implementation ([fig. 4.3](#fig-4-3)).
+Another visually oriented tool is the Time Wheel, which represents all time data in any particular implementation in a circular histogram. This feature allows users to filter and search the distribution of temporal attributes of all resources in their Arches implementation ([fig. 4.3](#fig-4-3)).
 
 {% figure 'fig-4-3' %}
 
@@ -121,7 +121,7 @@ Arches is also being used to manage site-level heritage inventories. The Armed F
 
 ## Arches Community and Long-Term Aspirations
 
-The Arches open-source project was established with a strategic aim of helping break the cycle of heritage organizations investing scarce resources in duplicative expenditures to independently create digital inventory and survey systems. The Arches open-source license obligates those who enhance the software to share those improvements for the benefit of the entire community. Related to this obligation, the customization of Arches for the Greater London Historic Environment Record (GLHER) has resulted in the Arches HER software package, which is based on the standards and requirements of England’s more than eighty regional and local agency HERs. It is freely available for any of England’s HERs to deploy.
+The Arches open-source project was established with a strategic aim of helping break the cycle of heritage organizations investing scarce resources in duplicative expenditures to independently create digital inventory and survey systems. The Arches open-source license obligates those who enhance the software to share those improvements for the benefit of the entire community. Related to this obligation, the customization of Arches for the Greater London Historic Environment Record (GLHER) has resulted in the Arches for HERs software package, which is based on the standards and requirements of England’s more than eighty regional and local agency HERs. It is freely available for any of England’s HERs to deploy.
 
 The open-source approach ultimately enables pooling resources to provide both a greater combined investment to create more robust heritage inventory and survey software as well as all-around cost savings. The net result is a state-of-the-art software platform available to all organizations. If necessary, they can make marginal investments to tailor it to meet their particular requirements.
 
