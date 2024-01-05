@@ -155,21 +155,21 @@ figure_list:
   - id: "fig-8-1"
     label: "Figure 8.1"
     src: "figures/fig-8-1.png"
-    caption: "SurveyLA Field Survey Phasing Plan map. Field surveys were organized and sequenced to coincide with the update program for the city’s thirty-five community plans."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "SurveyLA Field Survey Phasing Plan map. Field surveys were organized and sequenced to coincide with the update program for the City’s thirty-five community plans."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-2"
     label: "Figure 8.2"
     src: "figures/fig-8-2.png"
-    caption: "The multiple property documentation structure and content can be designed and adapted for heritage surveys and integrated into a digital data collection system."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "The multiple property documentation (MPD) structure and content can be designed and adapted for heritage surveys and integrated into a digital data collection system."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-3-a"
     label: "a"
     src: "figures/fig-8-3-a.png"
-    # caption: "The citywide historic contexts developed for SurveyLA."
+    # caption: "The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-3-b"
@@ -181,22 +181,22 @@ figure_list:
     label: "Figure 8.4"
     src: "tables/table-8-4.html"
     media_type: table
-    caption: "The figure illustrates the multiple property documentation template developed for SurveyLA populated for the resource type Single-Family Residential Hill Houses."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "The multiple property documentation template developed for SurveyLA populated for the resource type Single-Family Residential Hill Houses."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-5"
     label: "Figure 8.5"
     src: "figures/fig-8-5.png"
-    caption: "The historic context-based approach for digital data collection enables mapping of resources by context, theme, resource type, and geography as illustrated in the HistoricPlacesLA map showing the citywide dispersion of heritage resources recorded under the Entertainment Industry context."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "The historic context–based approach for digital data collection enables mapping of resources by context, theme, resource type, and geography as illustrated in the HistoricPlacesLA map showing the citywide dispersion of heritage resources recorded under the Entertainment Industry context."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-6"
     label: "Figure 8.6"
     src: "figures/fig-8-6.jpg"
     caption: "The media can be an ally to promote and support the project. Location shooting for a *PBS NewsHour* story on SurveyLA. The special report, titled “Preserving the LA Story, One Block at a Time,” aired in May 2014."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-7"
@@ -237,7 +237,7 @@ figure_list:
     label: "Figure 9.2"
     src: "figures/fig-9-2.png"
     caption: "SurveyLA pilot surveys helped develop and test the recording process for post–World War II residential suburbs in the city’s vast San Fernando Valley."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "table-9-3"
@@ -245,7 +245,7 @@ figure_list:
     src: "tables/table-9-3.html"
     media_type: table
     caption: "During SurveyLA pilot surveys, a log was created to record issues encountered by survey team members during field recording."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-1"
@@ -260,28 +260,28 @@ figure_list:
     src: "tables/table-10-2.html"
     media_type: table
     caption: "Sample SurveyLA field survey schedule illustrating the sequencing of tasks and estimated times for completion."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-3"
     label: "Figure 10.3"
     src: "figures/fig-10-3.png"
     caption: "Field survey staffing model showing key positions and participants in the field survey process."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-4"
     label: "Figure 10.4"
     src: "figures/fig-10-4.jpg"
     caption: "Classroom training conducted for SurveyLA. Surveyors received classroom training on recording methods and procedures, field photography, and use of the citywide historic context."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-5"
     label: "Figure 10.5"
     src: "figures/fig-10-5.jpg"
     caption: "Field training conducted for SurveyLA. During hands-on field training, surveyors practiced using the mobile digital data collection system to record various resource types in geographic areas selected for the pilot surveys."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-6"
