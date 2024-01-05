@@ -30,7 +30,7 @@ The following are questions to consider when completing a baseline analysis with
 
 -   What geographic areas, temporal periods, heritage themes, and resource typologies are represented?
 
--   Conversely, what are the information gaps with regard to geographic areas, temporal periods, heritage themes, and resource typologies – those that are not represented or are underrepresented?
+-   Conversely, what are the information gaps with regard to geographic areas, temporal periods, heritage themes, and resource typologies—those that are not represented or are underrepresented?
 
 -   What designated or listed resources are represented?
 

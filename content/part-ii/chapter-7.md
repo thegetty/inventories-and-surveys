@@ -1,7 +1,7 @@
 ---
 label: "7"
 title: "Create a Survey Plan"
-short_title: 
+short_title:
 layout: essay
 contributor:
   - id: jhansen
@@ -10,11 +10,11 @@ order: 70
 
 The process of survey planning expands on the findings of the needs assessment to provide a blueprint for how the survey will be resourced, managed, designed, and carried out. While there is no single approach to survey planning that fits all agencies and organizations, there are commonalities in the topics and issues to consider, and those are the focus of this chapter. Project administration is discussed in detail first, followed by an introduction to specific components of a survey to consider when developing a survey methodology; those elements are explored in further detail in the next two chapters.
 
-## The Plan 
+## The Plan
 
-Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the [Sample Heritage Survey Plan Outline](#sidebar-1) (see also {% cite 'City of Toronto 2019' %}).
+Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the [resource 7.1](#sidebar-1), Sample Survey Plan Outline (see also {% cite 'City of Toronto 2019' %}).
 
-{% accordion '## Sample Survey Plan Outline' 'sidebar-1' %}
+{% accordion '## Resource 7.1: Sample Survey Plan Outline' 'sidebar-1' %}
 
 <ol type="I">
   <li>Introduction and Purpose of the Survey Plan
@@ -82,11 +82,11 @@ Survey planning culminates in a written survey plan. While survey plans may vary
 
 {% endaccordion %}
 
-A primary audience for a plan may be decision-makers, such as a city or town council responsible for officially endorsing a survey and allocating or securing resources for its completion. The plan can also be used to introduce the survey to stakeholders and the general public, to encourage broad-based interest in the project and to initiate community outreach efforts. Finally, the plan can serve as the starting point for a more detailed strategy to guide day-to-day survey project management.
+A primary audience for a plan may be decision-makers, such as a city or town council responsible for officially endorsing a survey and allocating or securing resources for its completion. The plan can also be used to introduce the survey to stakeholders and the general public, to encourage broad-based interest in the project, and to initiate community outreach efforts. Finally, the plan can serve as the starting point for a more detailed strategy to guide day-to-day survey project management.
 
 ## Participants in Survey Planning
 
-Recommended participants in survey planning include a project manager, interns, consultants, and survey stakeholders, some of whom may have been involved in the phase one needs assessment. The manager may be internal to a lead agency or organization or may be part of a planning consultant team working with a lead agency or organization. A consultant team with contemporary experience and expertise in heritage surveys, inventories, and community outreach can provide information and make recommendations relating to project staffing, costs, and schedule, as well as for tools, methods, and technologies.
+Recommended participants in survey planning include a project manager, interns, consultants, and survey stakeholders, some of whom may have been involved in the phase-one needs assessment. The manager may be internal to a lead agency or organization or may be part of a planning consultant team working with a lead agency or organization. A consultant team with contemporary experience and expertise in heritage surveys, inventories, and community outreach can provide information and make recommendations relating to project staffing, costs, and schedule, as well as for tools, methods, and technologies.
 
 Organizations, groups, and individuals representing a range of interests in the survey can help shape decisions about what will be surveyed, how the community can be involved, and what public engagement strategies will be explored; they can also identify opportunities for potential collaborations and partnerships. Activities may include public events and more targeted workshops, meetings, and interviews. Finally, information sharing with heritage organizations and agencies that have recently completed surveys or have one in process can also provide direct, practical advice for survey planning.
 
@@ -138,37 +138,47 @@ Survey elements or components are identified during survey planning to drive the
 
 Survey planning is the time to develop a strategy to fully explore technology options and approaches for data collection and management. Surveys are ideally designed for compatibility between the field data collection system and the associated inventory information system: these systems should be in accord with respect to data structures and standards. While this is the ideal, in reality, many agencies that initiate new surveys have no existing digital inventory or have inventory systems that need to be updated or made more robust.
 
-Creating or modernizing and improving a digital inventory system, including building a compatible data collection system, needs to happen in advance of or concurrent with a survey project. This effort can require a substantial commitment of time and funds to cover the costs associated with hardware, software, and personnel, including specialized IT consultants. Sometimes resources are made available to do this; sometimes resources are limited and only half measures are taken. These issues need to be seriously considered when making decisions about survey technology. If only half (or even more partial) measures are taken to address deficiencies in the inventory system, it will likely result in later problems. While new technologies present opportunities for improving how and what data can be captured, they should ultimately serve the survey requirements and methodologies –not drive them. (See [part I](/part-i/) for detailed information on building and modernizing heritage inventories.)
+Creating or modernizing and improving a digital inventory system, including building a compatible data collection system, needs to happen in advance of or concurrent with a survey project. This effort can require a substantial commitment of time and funds to cover the costs associated with hardware, software, and personnel, including specialized IT consultants. Sometimes resources are made available to do this; sometimes resources are limited and only half measures are taken. These issues need to be seriously considered when making decisions about survey technology. If only half (or even more partial) measures are taken to address deficiencies in the inventory system, it will likely result in later problems. While new technologies present opportunities for improving how and what data can be captured, they should ultimately serve the survey requirements and methodologies—not drive them. (See [part I](/part-i/) for detailed information on building and modernizing heritage inventories.)
 
 ### Survey Standards and Guidelines
 
 Official survey standards and guidelines have been developed and published by national agencies worldwide and are commonly used (or adapted for use) to develop regional and local guidelines. Applicable standards for a jurisdictional area should be identified and considered as the foundational element for a survey to provide technical assistance for survey planning and developing survey tools and methods.[^1] Adopting such standards will help ensure consistency in survey practices and that the survey follows accepted professional practices, meets applicable legal requirements for heritage preservation, and is credible and defensible.[^2] The use of standards is particularly important in instances where survey findings are officially approved, adopted, and incorporated into an authoritative inventory. [Chapter 8](/part-ii/chapter-8/) discusses the application of standards and guidelines to developing survey recording and documentation tools and methods.
 
-It is important to acknowledge that in many cases existing standards and guidelines are outdated. For example, data fields required for old paper survey forms may refer to specific ways to record spatial information that are no longer pertinent for digital data collection. As well, standards and guidelines may not apply to documenting the range of themes and heritage typologies that characterize modern surveys, such as intangible heritage. The planning phase is a critical time to assess and address the relevancy of these survey standards for a modern survey.
+It is important to acknowledge that in many cases, existing standards and guidelines are outdated. For example, data fields required for old paper survey forms may refer to specific ways to record spatial information that are no longer pertinent for digital data collection. As well, standards and guidelines may not apply to documenting the range of themes and heritage typologies that characterize modern surveys, such as intangible heritage. The planning phase is a critical time to assess and address the relevancy of these survey standards for a modern survey.
 
 {% accordion '## Historic Preservation Practice in the United States' 'sidebar-2' %}
 
 Following passage of the National Historic Preservation Act of 1966 (NHPA), the U.S. Department of the Interior and the National Park Service (NPS) prepared extensive standards and guidelines concerning historic preservation activities carried out under federal programs, state and local level governments, and private parties ({% cite 'National Park Service 1983' %}). This guidance serves as nationally accepted professional standards for his­toric preservation practice and ensures a uniform and consistent process for documenting and evaluating historic properties through surveys or property designations. The concepts and terms discussed here comprise the basic elements of these national professional standards.[^1]
 
-### Historic Property 
+### Historic Property
 
 The terms *historic property* and *historic resource* are used interchangeably in the United States to refer to buildings, structures, objects, sites, and districts that have been evaluated as significant ({% cite 'National Park Service 1997b' '15' %}):
 
--   **Building.** A building is created principally to shelter any form of human activity; examples are residences, schools, churches, factories, theaters, and stores.
+> **Building.** A building . . . is created principally to shelter any form of human activity.
 
--   **Structure.** The term *structure* is used to distinguish from buildings those functional constructions made usually for purposes other than human shelter, such as bridges, roadway systems, dams, and tunnels.
+Examples are residences, schools, churches, factories, theaters, and stores.
 
--   **Object.** The term *object* is used to distinguish from buildings and structures those constructions that are primarily artistic in nature or that are relatively small in scale and simply constructed. An object is associated with a specific setting or environment, although it may be movable. Examples include sculpture, statuary, and fountains.
+> **Site.** A site is the location of a significant event, a prehistoric or historic occupation or activity, or a building or structure, whether standing, ruined, or vanished, where the location itself possesses historic, cultural, or archaeological value regardless of the value of an existing structure.
 
--   **Site.** A site is the location of a significant event, a prehistoric or historic occupation or activity, or a building or structure, whether standing, ruined, or vanished, where the location itself possesses historic, cultural, or archaeological value regardless of the value of an existing structure. Sites include cemeteries, designed landscapes, cultural landscapes, and natural features.
+Sites include cemeteries, designed landscapes, cultural landscapes, and natural features.
 
--   **District.** A district possesses a significant concentration, linkage, or continuity of sites, buildings, structures, or objects united historically or aesthetically by plan or physical development. Districts include residential neighborhoods, commercial areas, civic centers, industrial complexes, and institutional campuses such as hospitals and universities.
+> **Structure.** The term “structure” is used to distinguish from buildings those functional constructions made usually for purposes other than creating human shelter.
+
+Examples include bridges, roadway systems, dams, and tunnels.
+
+> **Object.** The term “object” is used to distinguish from buildings and structures those constructions that are primarily artistic in nature or that are relatively small in scale and simply constructed.
+
+An object is associated with a specific setting or environment, although it may be movable. Examples include sculpture, statuary, and fountains.
+
+> **District.** A district possesses a significant concentration, linkage, or continuity of sites, buildings, structures, or objects united historically or aesthetically by plan or physical development.
+
+Districts include residential neighborhoods, commercial areas, civic centers, industrial complexes, and institutional campuses such as hospitals and universities.
 
 ### National Register of Historic Places
 
 The National Register of Historic Places is the United States’ official inventory of historic places worthy of preservation. The NPS established the National Register to identify properties of architec­tural, historical, engineering, or archaeological signifi­cance at the local, state, or national level.[^2] The National Register provides standardized criteria for evaluating properties for significance ({% cite 'National Park Service 1997a' %}). These criteria have been adapted for use by most state and local governments in developing their own designation programs and are also applied to properties during survey work.[^3]
 
-To be listed in the National Register, a property must meet at least one of the criteria set forth in *How to Apply the National Register Criteria for Evaluation* ({% cite 'National Park Service 1997a' '2' %}; see below) and retain integrity of those features necessary to convey its significance.
+To be listed in the National Register, a property must meet at least one of the criteria set forth in *How to Apply the National Register Criteria for Evaluation* ({% cite 'National Park Service 1997a' '2' %}; see below) and retain integrity of those features necessary to convey its significance.[^4]
 
 > The quality of significance in American history, architecture, archaeology, and culture is present in districts, sites, buildings, structures, and objects that possess integrity of location, design, setting, materials, workmanship, feeling, and association, and:
 >
@@ -180,11 +190,11 @@ To be listed in the National Register, a property must meet at least one of the 
 >
 > D. that have yielded, or may be likely to yield, information important in prehistory or history
 
-### Historic Context Statements and the Multiple Property Documentation Approach 
+### Historic Context Statements and the Multiple Property Documentation Approach
 
 A historic context statement is a narrative, technical document specific to the field of historic preservation. Contexts organize information about important trends, patterns, and topics significant to the development history of a defined geographic area into themes, and then relate those themes to property types that share common physical and associative attributes.
 
-Historic context-based surveys are the foundation of preservation planning in the United States. They provide a framework for establishing preservation goals and priorities and ensure consistency in resource identification and evaluation. Contexts can address a single theme and property type, such as Midcentury Modern residential architecture, or can provide a comprehensive summary of all aspects of history of an area.
+Historic context–based surveys are the foundation of preservation planning in the United States. They provide a framework for establishing preservation goals and priorities and ensure consistency in resource identification and evaluation. Contexts can address a single theme and property type, such as Midcentury Modern residential architecture, or can provide a comprehensive summary of all aspects of history of an area.
 
 The multiple property documentation (MPD) approach developed by the NPS is the format most used for context-based surveys in the United States ({% cite 'National Park Service 1999' %}). Although designed to streamline the nomination of properties related by theme to the National Register, the MPD approach is also highly effective in conducting heritage surveys, particularly at a large scale. This approach provides a narrative discussion of themes; identifies and describes property types that represent the themes; and, importantly, provides specific guidance and comparative analysis regarding the physical characteristics, associative qualities, and aspects of integrity a property must have to be an important example of a property type and eligible for designation.
 
@@ -194,21 +204,23 @@ The multiple property documentation (MPD) approach developed by the NPS is the f
 
 [^3]: The City of Los Angeles Historic-Cultural Monument program, for example, has four criteria that parallel National Register criteria.
 
+[^4]: The National Register recognizes properties that achieved significance within the past 50 years, although there is a criteria consideration for properties less than 50 years old and of exceptional importance. How to Apply the National Register Criteria for Evaluation also provides detailed guidance on applying integrity aspects to a property as part of the evaluation process; see {% cite 'National Park Service 1997a' '44–47' %}.
+
 {% endaccordion %}
 
-The sidebar [Historic Preservation Practice in the U.S.](#sidebar-2) summarizes national survey standards used in the United States, which formed the basis for the SurveyLA methodology.
+The sidebar [Historic Preservation Practice in the United States](#sidebar-2) summarizes national survey standards used in the United States, which formed the basis for the SurveyLA methodology.
 
-### Survey Evaluation Standards 
+### Survey Evaluation Standards
 
-Evaluations or assessments of resource significance are typically made using official criteria established by laws, regulations, and other legislative actions that govern heritage practice in a particular jurisdiction. These criteria have been developed to guide processes for nominating and designating or listing resources in official local, regional, national, or world heritage registers, but they are also commonly used for survey evaluations. Applying established criteria, and their associated thresholds for significance and other guidelines, can result in consistent classification or identification of resources and provide important information for heritage management, even though resources evaluated in a survey may not ultimately be listed or designated.
+Evaluations or assessments of resource significance are typically made using official criteria established by laws, regulations, and other legislative actions that govern heritage practice in a particular jurisdiction. These criteria have been developed to guide processes for nominating and designating or listing resources in local, regional, national, or world heritage registers, but they are also commonly used for survey evaluations. Applying established criteria, and their associated thresholds for significance and other guidelines, can result in consistent classification or identification of resources and provide important information for heritage management, even though resources evaluated in a survey may not ultimately be listed or designated.
 
 Like survey standards and guidelines, evaluation criteria may need to be enhanced or updated to align with current survey practices, such as to address newly recognized heritage types. See [chapter 8](/part-ii/chapter-8/) for more information on using evaluation criteria for surveys and [chapter 10](/part-ii/chapter-10/) for more on making assessments of significance.
 
-### Historic Context and Thematically Based Surveys
+### Historic Context– and Theme-Based Surveys
 
-The concepts of historic contexts and thematic frameworks, as defined in the [sidebar in chapter 2](/part-i/chapter-2/#sidebar-2), can be applied to heritage surveys to consistently identify, categorize, and evaluate resources that reflect important aspects of the history and development of an area. The planning phase is the time to consider if a context and/or theme-based approach will be used for the survey and how the approach will be developed and implemented. Taking such an approach can be a substantial undertaking, depending on the scope and size of a survey, and it can impact survey budget, schedule, and personnel needs. [Chapter 8](/part-ii/chapter-8/) draws on the example of SurveyLA to provide useful information for designing historic context and theme-based surveys.
+The concepts of historic contexts and thematic frameworks, as defined in the [sidebar in chapter 2](/part-i/chapter-2/#sidebar-2), can be applied to heritage surveys to consistently identify, categorize, and evaluate resources that reflect important aspects of the history and development of an area. The planning phase is the time to consider if a context- and/or theme-based approach will be used for the survey and how the approach will be developed and implemented. Taking such an approach can be a substantial undertaking, depending on the scope and size of a survey, and it can impact survey budget, schedule, and personnel needs. [Chapter 8](/part-ii/chapter-8/) draws on the example of SurveyLA to provide useful information for designing historic context– and theme-based surveys.
 
-### The Role of Community Outreach and Engagement 
+### The Role of Community Outreach and Engagement
 
 The public can be engaged in heritage surveys in many ways. The extent and type of outreach approaches considered will reflect the overall goals of the survey as well as available funding and staffing. Survey planning may engage key stakeholders and others with a clear understanding of the scope and content of the survey and expertise in developing and implementing a range of community outreach strategies for heritage work. See [Public Outreach and Engagement](/part-ii/chapter-8/#public-outreach-and-engagement) in chapter 8.
 
@@ -218,11 +230,11 @@ A pilot survey program serves as a test run to assess and refine tools, methods,
 
 ## Considerations and Recommendations for Assembling a Survey Project Team {#assembling-a-survey-project-team}
 
-Considerations for putting together a project team may include the survey scope and approach, in-house staffing capacity, the need for specialized knowledge, skills, and expertise, and project budget and funding. Multilingual needs and relevant professional qualification standards are also considerations when selecting project participants.[^3]
+Considerations for putting together a project team may include the survey scope and approach; internal staffing capacity; the need for specialized knowledge, skills, and expertise; and project budget and funding. Multilingual needs and relevant professional qualification standards are also considerations when selecting project participants.[^3]
 
 In some instances, a survey may be wholly completed by agency or organization personnel. In other instances, it may be necessary to bring on temporary personnel for the duration of the project, or to use external consultants. A request for qualifications (RFQ) process can be an effective way to create a prequalified list of consultants who best meet the skills and competencies needed for a survey. Consultants on the list can form a range of collaborations and partnerships to build strong and diverse teams whose members’ skills supplement and complement the others’.
 
-### Key Survey Team Positions and Responsibilities 
+### Key Survey Team Positions and Responsibilities
 
 Key survey team positions and responsibilities, including volunteers and interns, are illustrated in the survey team model in [figure 7.2](#fig-7-2).
 
@@ -232,19 +244,19 @@ The model can be applied or adapted to a range of survey types, as not every sur
 
 -   **Survey project manager** is the lead position for the survey project and is responsible for implementing the survey plan, overseeing the day-to-day activities of the survey, supervising project personnel, and keeping the survey on schedule and within budget. The project manager may also be responsible for securing project funding, acquiring and managing grants, and serving as the main point of contact for the public. In some cases, project management responsibilities may be shared by agency or organization staff and consultants, particularly in cases where allocating full-time staff is not feasible or practical or where the management skills needed for the project are better fulfilled by qualified consultants.
 
--   **The field survey manager** plays a lead role in planning, designing, developing, and implementing survey tools and methods. The survey manager supervises and directs the work of field surveyors and is responsible for their safety and well-being. Ultimately, the survey manager ensures data is high quality and consistent and that surveys are completed on time and on budget. A large-scale survey may have one or more file survey managers.
+-   **The field survey manager** plays a lead role in planning, designing, developing, and implementing survey tools and methods. The survey manager supervises and directs the work of field surveyors and is responsible for their safety and well-being. Ultimately, the survey manager ensures data is high quality and consistent and that surveys are completed on time and on budget. A large-scale survey may have one or more field survey managers.
 
 -   **Field surveyors** complete field surveys under the direction of the field survey manager. The number and profile of field surveyors needed may depend on factors including technology used, size of the survey, level of detail required, experience needed, and the survey budget and schedule.
 
--   **A historic context specialist** is recommended for surveys that implement a historic context–based approach. This role may be a function of the field survey manager or other heritage professionals who have extensive experience designing thematic frameworks and writing historic-context statements or thematic studies.
+-   **A historic context specialist** is recommended for surveys that implement a historic context–based approach. This role may be a function of the field survey manager or other heritage professionals who have extensive experience designing thematic frameworks and writing historic context statements or thematic studies.
 
--   **The outreach manager** is responsible for leading the development of a community outreach and participation plan for the survey and implementing it. The amount and extent of time dedicated to outreach can depend on the size and scope of the survey, as well as the overall role of outreach defined in the goals and objectives of the survey. For surveys that are large scale (e.g., citywide), community-based, and/or focus on underrepresented communities, a full-time outreach manager is recommended.
+-   **The outreach manager** is responsible for leading the development of a community outreach and participation plan for the survey and implementing it. The amount of time dedicated to outreach can depend on the size and scope of the survey, as well as the overall role of outreach defined in the goals and objectives of the survey. For surveys that are large scale (e.g., citywide), community-based, and/or focus on underrecognized communities, a full-time outreach manager is recommended.
 
 -   **The volunteer coordinator** is responsible for developing and managing a volunteer program for the survey. This position may dovetail with outreach activities. For surveys that are highly reliant on volunteer participation and require a broad-based volunteer program, a full-time coordinator may be needed.
 
 -   **The information technology systems manager** provides support for the data collection system used by the field surveyors. The IT systems manager may assist with developing, enhancing, and customizing data collection tools to meet the needs of the survey. The position may also assist with integrating heritage data from the inventory (and potentially other systems) into the survey data collection system, and vice versa. The position will be most effective if established during the early stages of the survey associated with developing data collection methods and standards. IT systems manager may be the role of personnel managing an existing inventory system; for example, the database administrator role discussed in [part I](/part-i/).
 
--   **The data coordinator** is responsible for processing survey data, assuring data quality, and integrating final data into the related, or newly developed, inventory. Data coordination may be the role of personnel managing an existing inventory system; for example, the data editor role discussed in [chapter 2](/part-i/chapter-2/).
+-   **The data coordinator** is responsible for processing survey data, assuring data quality, and integrating final data into the related, or newly developed, inventory. Data coordination may be the role of personnel managing an existing inventory system—for example, the data editor role discussed in [chapter 2](/part-i/chapter-2/).
 
 -   **Administrative support** includes part-time agency or organization staff that assist the project manager with various aspects of project administration, such as grant management and consultant contracting.
 
@@ -264,13 +276,13 @@ Volunteers can play a critical role in supplementing the work of project staff, 
 
 Although volunteers may have a variety of skill sets, they will have in common a desire to feel a part of and contribute meaningfully to the survey. A well-designed volunteer program identifies and describes specific opportunities that account for a range of skills and also establishes qualifications, work programs (including expected time commitments), and relevant training needed for each activity. In this way, potential volunteers have a clear understanding of what activities may or may not be available to them. The roles of volunteers in various aspects of a survey are discussed in subsequent chapters where relevant.
 
-Volunteers, like interns, are not recommended for tasks that require specialized professional training, experience, and qualifications or that may have implications for credible and defensible survey results. A volunteer intake questionnaire, such as the one used for SurveyLA [shown here](#resource-1), can aid in the process of engaging community members with a range of skills and matching them with tasks that align with individual interests and skills.
+Volunteers, like interns, are not recommended for tasks that require specialized professional training, experience, and qualifications or that may have implications for credible and defensible survey results. A volunteer intake questionnaire, such as the one used for SurveyLA shown in [resource 7.2](#resource-1), can aid in the process of engaging community members with a range of skills and matching them with tasks that align with individual interests and skills.
 
 <section class="additional-resource" id="resource-1">
 
 #### SurveyLA: Volunteer Registration Form
 
-{% figuregroup '2' 'ch-7-resource-1' '' 'Source: Los Angeles City Planning, Office of Historic Resources' %}
+{% figuregroup '2' 'ch-7-resource-1' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
 {% accordion '##### Full Text' %}
 
@@ -286,7 +298,7 @@ The Office of Historic Resources is seeking qualified volunteers to help with Su
 <div class="form-line">
   <label for="name">Address:</label>
   <input type="text" id="name" name="name">
-</div> 
+</div>
 
 <div class="form-line">
   <div class="form-line__group">
@@ -297,7 +309,7 @@ The Office of Historic Resources is seeking qualified volunteers to help with Su
   <label for="zip">Zip:</label>
   <input type="text" id="zip" name="zip">
   </div>
-</div> 
+</div>
 
 <div class="form-line">
   <div class="form-line__group">
@@ -308,14 +320,14 @@ The Office of Historic Resources is seeking qualified volunteers to help with Su
   <label for="email">Email:</label>
   <input type="text" id="email" name="email">
   </div>
-</div> 
+</div>
 
 <div class="form-line">
   <label for="date">Date:</label>
   <input type="text" id="date" name="date">
-</div> 
+</div>
 
-Let us know when you are available, and hours per week during that time frame. (8 hours minimum per week preferred): 
+Let us know when you are available, and hours per week during that time frame (8 hours minimum per week preferred):
 
 <div class="form-line">
   <div class="form-line__group">
@@ -330,9 +342,9 @@ Let us know when you are available, and hours per week during that time frame. (
   <label for="hours">Hours Per Week:</label>
   <input type="text" id="hours" name="hours">
   </div>
-</div> 
+</div>
 
-Our current volunteer needs are listed below. Indicate your interest by checking the appropriate box(es): 
+Our current volunteer needs are listed below. Indicate your interest by checking the appropriate box(es):
 
 <div class="form-checkboxes">
   <input type="checkbox" id="interest-1" name="interest-1" value="Research">
@@ -354,7 +366,7 @@ Our current volunteer needs are listed below. Indicate your interest by checking
 <div class="form-box">
   <label for="experience">Tell us about your experience/qualifications:</label>
   <input type="text" id="experience" name="experience">
-</div> 
+</div>
 
 </form>
 
@@ -364,7 +376,7 @@ Our current volunteer needs are listed below. Indicate your interest by checking
 
 {% backmatter %}
 
-## Notes 
+## Notes
 
 {% endbackmatter %}
 
