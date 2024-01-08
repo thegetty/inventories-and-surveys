@@ -112,7 +112,10 @@ entries:
     full: "English Heritage. 2012. *MIDAS Heritage – The UK Historic Environment Data Standard,* version 1.1. London: English Heritage. <https://historicengland.org.uk/images-books/publications/midas-heritage/>"
 
   - id: "ERDM 2016"
-    full: "ERDM. 2016. *ERDM Glossary*. <https://www.edrm.net/wp-content/uploads/2017/03/20160422-EDRM-Glossary-2.pdf> Evans, Emilie. 2014. “Smartphone Survey Contributes to Detroit’s Rightsizing Conversation.” National Trust for Historic Preservation, Preservation Leadership Forum website. <https://forum.savingplaces.org/blogs/special-contributor/2014/03/11/smartphone-survey-contributes-to-detroits-rightsizing-conversation>"
+    full: "ERDM. 2016. *ERDM Glossary*. <https://www.edrm.net/wp-content/uploads/2017/03/20160422-EDRM-Glossary-2.pdf>"
+
+  - id: "Evans 2014"
+    full: "Evans, Emilie. 2014. “Smartphone Survey Contributes to Detroit’s Rightsizing Conversation.” National Trust for Historic Preservation, Preservation Leadership Forum website. <https://forum.savingplaces.org/blogs/special-contributor/2014/03/11/smartphone-survey-contributes-to-detroits-rightsizing-conversation>"
 
   - id: "Federal Enterprise Data Resources n.d."
     full: "Federal Enterprise Data Resources. n.d. “Data Standards: Data Standard,” resources.data.gov. Accessed August 18, 2023. <https://resources.data.gov/standards/concepts/#data-standard>"
@@ -201,7 +204,7 @@ entries:
   - id: "Historic England 2023b"
     full: "Historic England. 2023b. *Historic Environment Records (HER) Audit Programme: HER Audit Specification based on HER Service Areas, Outcomes and Indicators,* version 2.7. UK: Historic England. <https://historicengland.org.uk/content/docs/her/audit-specification-pdf/>"
 
-  - id: "Historic England. n.d."
+  - id: "Historic England n.d."
     full: "Historic England. n.d. “Greater London Archaeological Priority Areas.” Historic England. Accessed January 8, 2022. <https://historicengland.org.uk/services-skills/our-planning-services/greater-london-archaeology-advisory-service/greater-london-archaeological-priority-areas/>"
 
   - id: "Howe 2001"
