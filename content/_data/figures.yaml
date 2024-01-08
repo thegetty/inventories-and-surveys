@@ -353,7 +353,7 @@ figure_list:
     label: "Figure 11.1"
     src: "figures/fig-11-1.png"
     caption: "Survey-to-inventory data integration process. Survey data not collected directly into an inventory system requires careful review and revision of the data itself or the inventory system to which it will be introduced."
-    credit: "Los Angeles City Planning Office of Historic Resources"
+    credit: "Sara Delgadillo"
     alt:
 
   - id: "ch-11-resource-1"
