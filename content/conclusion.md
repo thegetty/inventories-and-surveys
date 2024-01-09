@@ -31,9 +31,9 @@ The following summarizes noteworthy points regarding heritage inventories and re
 
 -   **Inventory and survey practices are increasingly embracing inclusive approaches.** The increasing democratization of heritage processes in many parts of the world has been reflected in shifts in inventory and survey work. In the past, such work primarily reflected professional perspectives. Now, increasingly, we see broad-ranging and inclusive participation, including from community members.
 
--   **Inventory and survey practices are increasingly accounting for traditionally marginalized communities.** Interest is growing in much of the world in identifying and documenting the heritage of underrecognized cultural and ethnic groups and fully representing associated resources within inventories and related surveys.
+-   **Inventory and survey practices are increasingly accounting for traditionally marginalized communities.** There is growing recognition in much of the world of the need to comprehensively identify and document the heritage of underrecognized cultural and ethnic groups and fully representing associated resources within inventories and related surveys.
 
--   **The scope of inventories and surveys should expand as definitions of heritage broaden.** As more types of heritage are formally recognized as being significant, the breadth of inventories and surveys should expand accordingly.
+-   **The scope of inventories and surveys should expand as definitions of heritage broaden.** As public agencies officially recognize more types of heritage the breadth of inventories and surveys should expand accordingly.
 
 -   **Unified inventories can be more effective than separate topical inventories for heritage management.** Inventories can potentially be more effectively and efficiently used as tools for heritage management when they are unified for all immovable heritage types, rather than having separate inventories for different heritage types (e.g., separate inventories for architectural and archaeological heritage).
 
@@ -127,7 +127,7 @@ Potential remedies include:
 
 ### Developing Inclusive Approaches to Inventory and Survey Work
 
-As discussed throughout the book, interest is increasing in many parts of the world in identifying and documenting resources associated with ethnic and cultural histories that are currently underrepresented in inventories and surveys. A vital part of such an effort is engaging community stakeholders to work alongside heritage professionals as partners. This approach is a departure from previous surveys and inventories that relied solely on heritage experts for the most part, so new strategies are needed.
+As discussed throughout the book, in many parts of the world there is increased recognition of the need to identify and document resources associated with ethnic and cultural histories and to represent diverse populations and multiple narratives more fully in inventories and surveys. A vital part of such an effort is engaging community stakeholders to work alongside heritage professionals as partners. This approach is a departure from previous surveys and inventories that relied solely on heritage professional for the most part, so new strategies are needed.
 
 Potential remedies include:
 
@@ -151,7 +151,7 @@ Potential remedies include:
 
     -   Take an interdisciplinary approach to the work
 
-    -   Engage community and topical experts as project advisors
+    -   Engage community, cultural, and topic experts as project advisors and peer reviewers whose time is considered in the project budget
 
 ## Recommendations
 
