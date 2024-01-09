@@ -131,7 +131,7 @@ Before starting surveys, it is important to develop standard procedures and prot
 
 -   **Require that field surveyors submit data for review** at regular intervals, as part of the survey work scope, to help ensure quality control and consistency. Routine communication and review of survey data enables the survey manager and data coordinator to regularly evaluate data entry and editing procedures and protocols and revise or adjust them as needed.
 
--   **Limit the number of project personnel who can review and edit data** ({% cite 'Van Daele et al. 2016' '326' %}). This relates to in-process editing by field surveyors as well as final editing prior to publishing results.
+-   **Limit the number of project personnel who can review and edit data** ({% cite 'Van Daele et al. 2018' '326' %}). This relates to in-process editing by field surveyors as well as final editing prior to publishing results.
 
 ## Historic Context– and Theme-Based Surveys {#historic-context-and-theme-based-surveys}
 
