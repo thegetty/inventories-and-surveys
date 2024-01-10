@@ -22,7 +22,7 @@ entries:
     full: "Australian Heritage Council. 2021. “Thematic Studies.” Australian Government, Department of Agriculture, Water and the Environment website. <http://www.environment.gov.au/heritage/organisations/australian-heritage-council/thematic-studies>"
 
   - id: "Avrami 2021"
-    full: "Avrami, Erica. 2021. “Preservation’s Reckoning.” In *Preservation and Social Inclusion*, edited by Erica Avrami, 9–19. New York: Columbia University Press. [https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion#reader-anchor-0](https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0)"
+    full: "Avrami, Erica. 2021. “Preservation’s Reckoning.” In *Preservation and Social Inclusion*. Vol. 2 of *Issues in Preservation Policy*, edited by Erica Avrami, 9–19. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-0>"
 
   - id: "Barbados Ministry of Creative Economy, Culture and Sports n.d."
     full: "Barbados Ministry of Creative Economy, Culture and Sports. n.d. Barbados National Registry of Historic Places. Accessed June 20, 2023. <https://heritagebarbados.gov.bb>."
@@ -88,7 +88,7 @@ entries:
     full: "Crawhall, Roger. 2009. “The Role of Participatory Cultural Mapping in Promoting Intercultural Dialogue: ‘We Are Not Hyenas’: A Reflection Paper.” Paris: UNESCO. <http://www.iapad.org/wp-content/uploads/2015/07/nigel.crawhall.190753e.pdf>"
 
   - id: "Cunliffe 2020"
-    full: "Cunliffe, Emma. 2020. “No Strike Lists – From Use to Abuse?” Heritage in War. <https://www.heritageinwar.com/single-post/2020/01/24/trump-and-iranian-cultural-property-heritage-destruction-war-crimes-and-the-implications>"
+    full: "Cunliffe, Emma. 2020. “No Strike Lists—From Use to Abuse?” Heritage in War. <https://www.heritageinwar.com/single-post/2020/01/24/trump-and-iranian-cultural-property-heritage-destruction-war-crimes-and-the-implications>"
 
   - id: "DAMA UK Working Group 2013"
     full: "DAMA UK Working Group on Data Quality Dimensions. 2013. *The Six Primary Dimensions for Data Quality Assessment: Defining Data Quality Dimensions*. Bristol: DAMA UK. <https://www.sbctc.edu/resources/documents/colleges-staff/commissions-councils/dgc/data-quality-deminsions.pdf>"
@@ -112,7 +112,7 @@ entries:
     full: "English Heritage. 2005. *English Heritage Strategy 2005–2010: Making the Past Part of Our Future.* Swindon, UK: English Heritage. <https://historicengland.org.uk/images-books/publications/eh-strategy-2005-2010/making-past-part-of-our-future/>"
 
   - id: "English Heritage 2012"
-    full: "English Heritage. 2012. *MIDAS Heritage – The UK Historic Environment Data Standard,* version 1.1. London: English Heritage. <https://historicengland.org.uk/images-books/publications/midas-heritage/>"
+    full: "English Heritage. 2012. *MIDAS Heritage—The UK Historic Environment Data Standard,* version 1.1. London: English Heritage. <https://historicengland.org.uk/images-books/publications/midas-heritage/>"
 
   - id: "EDRM 2016"
     full: "EDRM. 2016. *EDRM Glossary*. <https://www.edrm.net/wp-content/uploads/2017/03/20160422-EDRM-Glossary-2.pdf>"
@@ -160,7 +160,7 @@ entries:
     full: "Hansen, Janet, and Sara Delgadillo Cruz. 2019. “Big City, Big Data: Los Angeles’s Historic Resources.” In *Preservation and the New Data Landscape*, edited by Erica Avrami. New York: Columbia University Press, 21–36. <https://www.arch.columbia.edu/books/reader/370-preservation-and-the-new-data-landscape#reader-anchor-2>"
 
   - id: "Hansen and Delgadillo Cruz 2020"
-    full: "Hansen, Janet, and Sara Delgadillo Cruz. 2020. “Los Angeles’s Historic Contexts: Pathways to Inclusion in Preservation.” In *Preservation and Social Inclusion*, edited by Erica Avrami. New York: Columbia University Press, 71–83. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion#reader-anchor-8>"
+    full: "Hansen, Janet, and Sara Delgadillo Cruz. 2020. “Los Angeles’s Historic Contexts: Pathways to Inclusion in Preservation.” In *Preservation and Social Inclusion*. Vol. 2 of *Issues in Preservation Policy*, edited by Erica Avrami. New York: Columbia University Press, 71–83. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion#reader-anchor-8>"
 
   - id: "Harpring 2010"
     full: "Harpring, Patricia. 2010. *Introduction to Controlled Vocabularies: Terminology for Art, Architecture, and Other Cultural Works*. Los Angeles: Getty Research Institute. <http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/>"
@@ -229,7 +229,7 @@ entries:
     full: "ICOMOS, International Scientific Committee on Cultural Routes (CIIC). 2008. *The ICOMOS* *Charter on Cultural Routes*. Paris: ICOMOS. <https://www.icomos.org/images/DOCUMENTS/Charters/culturalroutes_e.pdf>"
 
   - id: "ICOMOS ICAHM 1990"
-    full: "ICOMOS, International Committee on Archaeological Heritage Management (ICAHM). 1990. *ICOMOS Charter for the Protection and Management of the Archaeological Heritage*. [https://www.icomos.org/images/DOCUMENTS/Charters/arch_e.pdf](https://www.icomos.org/images/DOCUMENTS/Charters/arch_e.pdf%20)"
+    full: "ICOMOS, International Committee on Archaeological Heritage Management (ICAHM). 1990. *ICOMOS Charter for the Protection and Management of the Archaeological Heritage*. <https://www.icomos.org/images/DOCUMENTS/Charters/arch_e.pdf>"
 
   - id: "ICOMOS and IFLA 2017"
     full: "ICOMOS and International Federation of Landscape Architects (IFLA). 2017. *ICOMOS-IFLA Principles Concerning Rural Landscapes as Heritage.* Paris: ICOMOS. <https://www.icomos.org/images/DOCUMENTS/Charters/GA2017_6-3-1_RuralLandscapesPrinciples_EN_adopted-15122017.pdf>"
@@ -244,10 +244,10 @@ entries:
     full: "ICOMOS and The International Committee for the Conservation of Industrial Heritage (TICCIH). 2011. *Joint ICOMOS-TICCIH Principles for the Conservation of Industrial Heritage Sites, Structures, Areas and Landscapes*. Paris: ICOMOS. <https://www.icomos.org/images/DOCUMENTS/Charters/GA2011_ICOMOS_TICCIH_joint_principles_EN_FR_final_20120110.pdf>"
 
   - id: "Informing the Future of the Past n.d."
-    full: "Informing the Future of the Past: Guidelines for Historic Environment Records. n.d. “Home Page.” Accessed April 26, 2020. [https://archaeologydataservice.ac.uk/ifp/Wiki.jsp](https://archaeologydataservice.ac.uk/ifp/Wiki.jsp?page=Main)"
+    full: "Informing the Future of the Past: Guidelines for Historic Environment Records. n.d. “Home Page.” Accessed April 26, 2020. <https://archaeologydataservice.ac.uk/ifp/>"
 
   - id: "ISO 2014"
-    full: "International Organization for Standardization (ISO). 2014. *Information and Documentation – A Reference Ontology for the Interchange of Cultural Heritage Information.* ISO 21127:2014. Geneva: International Organization for Standardization. <https://www.iso.org/standard/57832.html>"
+    full: "International Organization for Standardization (ISO). 2014. *Information and Documentation—A Reference Ontology for the Interchange of Cultural Heritage Information.* ISO 21127:2014. Geneva: International Organization for Standardization. <https://www.iso.org/standard/57832.html>"
 
   - id: "Jamaica National Heritage Trust n.d"
     full: "Jamaica National Heritage Trust. n.d. Jamaica National Inventory of Historic Places. Accessed June 20, 2023. <https://siteinventory.jnht.com/>"
@@ -265,7 +265,7 @@ entries:
     full: "Los Angeles City Planning Department. 2010. *MyHistoricLA: Guide to Public Participation in SurveyLA*. Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.org/odocument/26a71b43-c31e-40da-9291-5d065e042d52/MyHistoricLA_Guide2010_with_cover.pdf>"
 
   - id: "Los Angeles City Planning 2012"
-    full: "Los Angeles City Planning Department. 2012. *Citywide Historic Context Statement: Resource Guide*. Los Angeles: City of Los Angeles, Department of City Planning. [https://planning.lacity.org/odocument/2afd953e-09b5-4463-a5db-2eba81a52bea/Historic_Context_Statement_Resource_Guide.pdf](https://planning.lacity.org/odocument/2afd953e-09b5-4463-a5db-2eba81a52bea/Historic_Context_Statement_Resource_Guide.pdf%20)"
+    full: "Los Angeles City Planning Department. 2012. *Citywide Historic Context Statement: Resource Guide*. Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.org/odocument/2afd953e-09b5-4463-a5db-2eba81a52bea/Historic_Context_Statement_Resource_Guide.pdf>"
 
   - id: "Los Angeles City Planning 2016a"
     full: "Los Angeles City Planning Department. 2016a. *Los Angeles Citywide Historic Context Statement: Context: Other.* Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.org/odocument/5f2eb3ee-23c2-498b-84b8-a2eb473f2990/Other%20Context.pdf>"
@@ -286,7 +286,7 @@ entries:
     full: "Los Angeles City Planning Department. n.d.d. “SurveyLA FAQs.” Accessed August 15, 2023. <https://planning.lacity.org/odocument/fe3186ea-cc35-4bce-94dd-4611f28e74ca/Info%20Brief%20SurveyLA%20FAQs.pdf>"
 
   - id: "Magalong 2020"
-    full: "Magalong, Michelle G. 2020. “Equity and Social Inclusion from the Ground Up: Historic Preservation in Asian American and Pacific Islander Communities.” In *Preservation and Social Inclusion*, edited by Erica Avrami, 147–156. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-15>"
+    full: "Magalong, Michelle G. 2020. “Equity and Social Inclusion from the Ground Up: Historic Preservation in Asian American and Pacific Islander Communities.” In *Preservation and Social Inclusion*. Vol. 2 of *Issues in Preservation Policy*, edited by Erica Avrami, 147–156. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-15>"
 
   - id: "Manx National Heritage n.d."
     full: "Manx National Heritage. n.d. Isle of Man Historic Environment Record. Accessed June 20, 2023. <https://isleofmanher.im/>"
@@ -322,7 +322,7 @@ entries:
     full: "Myers, David, and Alison Dalgity. 2012. “The Middle Eastern Geodatabase for Antiquities (MEGA): An Open Source GIS-Based Heritage Site Inventory and Management System.” *Change Over Time* 2, no. 1: 32–57. <https://www.getty.edu/conservation/our_projects/field_projects/jordan/mega_jordan_cot_article.pdf>"
 
   - id: "National Heritage Board 2018"
-    full: "National Heritage Board. 2018. *Our SG Heritage Plan.* Singapore: National Heritage Board. [https://www.nhb.gov.sg/-/media/nhb/images/nhb2017/heritage-plan/our-sg-heritage-plan-publication_2.pdf](https://www.nhb.gov.sg/-/media/nhb/images/nhb2017/heritage-plan/our-sg-heritage-plan-publication_2.pdf%20%20)"
+    full: "National Heritage Board. 2018. *Our SG Heritage Plan.* Singapore: National Heritage Board. <https://www.nhb.gov.sg/-/media/nhb/images/nhb2017/heritage-plan/our-sg-heritage-plan-publication_2.pdf>"
 
   - id: "National Heritage Board 2023a"
     full: "National Heritage Board. 2023a. Our SG Heritage Plan 2.0. <https://www.nhb.gov.sg/heritage-plan-2/>"
@@ -400,7 +400,7 @@ entries:
     full: "Schafer, Stephen. 2008. *SurveyLA: Photo Tutorial*. <https://habsphoto.com/Artists/14047/SurveyLA_Schaf_tutorial.pdf>"
 
   - id: "SENSE 2016"
-    full: "SENSE Transitional Justice Center. 2016. Targeting History and Memory: The ICTY and the Investigation, Reconstruction and Prosecution of the Crimes against Cultural and Religious Heritage. <http://heritage.sensecentar.org/>"
+    full: "SENSE Transitional Justice Center. 2016. *Targeting History and Memory: The ICTY and the Investigation, Reconstruction and Prosecution of the Crimes against Cultural and Religious Heritage*. <http://heritage.sensecentar.org/>"
 
   - id: "Souphavanh and Karoonboonyanan 2005"
     full: "Souphavanh, Anousak, and Theppitak Karoonboonyanan. 2005. *FOSS Localization.* New Delhi: United Nations Development Programme, Asia-Pacific Development Information Programme. <https://en.wikibooks.org/wiki/FOSS_Localization>"
@@ -460,10 +460,10 @@ entries:
     full: "UNESCO. 2011b. “UNESCO Recommendation on the Historic Urban Landscape.” UNESCO World Heritage Convention. <https://whc.unesco.org/en/hul/>"
 
   - id: "UNESCO 2019"
-    full: "UNESCO. 2019. *Guidelines for the Implementation of the 1999 Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict*. Paris: UNESCO. [https://en.unesco.org/sites/default/files/1999_Protocol_Guidelines_EN_2020.pdf](https://en.unesco.org/sites/default/files/1999_Protocol_Guidelines_EN_2020.pdf%20)"
+    full: "UNESCO. 2019. *Guidelines for the Implementation of the 1999 Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict*. Paris: UNESCO. <https://en.unesco.org/sites/default/files/1999_Protocol_Guidelines_EN_2020.pdf>"
 
   - id: "UNESCO 2021"
-    full: "UNESCO. 2021. *Guidance Note on Inventorying Intangible Cultural Heritage.* Paris: UNESCO. [https://ich.unesco.org/doc/src/50279-EN.pdf](https://ich.unesco.org/doc/src/50279-EN.pdf%20)"
+    full: "UNESCO. 2021. *Guidance Note on Inventorying Intangible Cultural Heritage.* Paris: UNESCO. <https://ich.unesco.org/doc/src/50279-EN.pdf>"
 
   - id: "UNESCO 2022"
     full: "UNESCO. 2022. *Results-Based Programming, Budgeting, Management, Monitoring and Reporting (RBM) Approach as Applied at UNESCO: Guiding Principles*. Paris: UNESCO. <https://unesdoc.unesco.org/ark:/48223/pf0000177568>"
