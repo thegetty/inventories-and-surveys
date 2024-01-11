@@ -18,9 +18,6 @@ entries:
   - id: "Australian Heritage Commission 2001"
     full: "Australian Heritage Commission. 2001. *Australian Historic Themes: A Framework for Use in Heritage Assessment and Management*. Canberra: Australian Heritage Commission. <https://repository.up.ac.za/bitstream/handle/2263/27059/Appendix%2016.pdf?sequence=25>"
 
-  - id: "Australian Heritage Council 2021"
-    full: "Australian Heritage Council. 2021. “Thematic Studies.” Australian Government, Department of Agriculture, Water and the Environment website. <http://www.environment.gov.au/heritage/organisations/australian-heritage-council/thematic-studies>"
-
   - id: "Avrami 2021"
     full: "Avrami, Erica. 2021. “Preservation’s Reckoning.” In *Preservation and Social Inclusion*. Vol. 2 of *Issues in Preservation Policy*, edited by Erica Avrami, 9–19. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-0>"
 
@@ -55,7 +52,7 @@ entries:
     full: "Carroll, S. R., I. Garba, O. L. Figueroa-Rodríguez, J. Holbrook, R. Lovett, S. Materechera, M. Parsons, et al. 2020. “The CARE Principles for Indigenous Data Governance.” *Data Science Journal* 19, no. 1: 43. <http://doi.org/10.5334/dsj-2020-043>"
 
   - id: "CIAM 1946"
-    full: "Congress Internationaux d'Architecture Moderne (CIAM). 1946. *La Charte d'Athenes or The Athens Charter*, *1933.* Translated by J. Tyrwhitt. Paris: Library of the Graduate School of Design, Harvard University. <https://www.getty.edu/conservation/publications_resources/research_resources/charters/charter04.html>"
+    full: "Congress Internationaux d'Architecture Moderne (CIAM). 1946. *La Charte d'Athenes or The Athens Charter*, *1933.* Translated by J. Tyrwhitt. Paris: Library of the Graduate School of Design, Harvard University. <https://web.archive.org/web/20230206153753/http://www.getty.edu/conservation/publications_resources/research_resources/charters/charter04.html>"
 
   - id: "CIO Wiki n.d."
     full: "CIO Wiki. n.d. “Organizational Infrastructure.” Accessed August 12, 2023. <https://cio-wiki.org/wiki/Organizational_Infrastructure>"
@@ -118,7 +115,7 @@ entries:
     full: "EDRM. 2016. *EDRM Glossary*. <https://www.edrm.net/wp-content/uploads/2017/03/20160422-EDRM-Glossary-2.pdf>"
 
   - id: "Evans 2014"
-    full: "Evans, Emilie. 2014. “Smartphone Survey Contributes to Detroit’s Rightsizing Conversation.” National Trust for Historic Preservation, Preservation Leadership Forum. <https://forum.savingplaces.org/blogs/special-contributor/2014/03/11/smartphone-survey-contributes-to-detroits-rightsizing-conversation>"
+    full: "Evans, Emilie. 2014. “Smartphone Survey Contributes to Detroit’s Rightsizing Conversation.” National Trust for Historic Preservation, Preservation Leadership Forum."
 
   - id: "Federal Enterprise Data Resources n.d."
     full: "Federal Enterprise Data Resources. n.d. “Data Standards: Concepts and Definitions: Data Standard,” resources.data.gov. Accessed December 7, 2023. <https://resources.data.gov/standards/concepts/#data-standard>"
@@ -172,7 +169,7 @@ entries:
     full: "Heritage Branch, Department of Environment and Heritage Protection. 2015. *Carrying Out a Heritage Surve*y. Brisbane: State of Queensland. <https://www.qld.gov.au/__data/assets/pdf_file/0033/66768/gl-heritage-survey.pdf>"
 
   - id: "Heritage Council of New South Wales 2013"
-    full: "Heritage Council of New South Wales. 2013. *Community-Based Heritage Studies: A Guide*. Sydney: Office of Environment and Heritage on Behalf of the Heritage Council of New South Wales. <https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/community-based-heritage-studies-guide-130215.pdf>"
+    full: "Heritage Council of New South Wales. 2013. *Community-Based Heritage Studies: A Guide*. Sydney: Office of Environment and Heritage on Behalf of the Heritage Council of New South Wales. <https://webarchive.nla.gov.au/awa/20070413013512/http://pandora.nla.gov.au/pan/70190/20070413-0000/www.heritage.nsw.gov.au/docs/info_community2007.pdf>"
 
   - id: "Heritage Council of New South Wales 2021"
     full: "Heritage Council of New South Wales. 2021. *Investigating Heritage Significance: A Guide to Identifying and Examining Heritage Items in NSW.* <https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/investigating-heritage-significance-2021.PDF>"
@@ -211,7 +208,7 @@ entries:
     full: "Howe, Kathryn Welch. 2001. *Los Angeles Historic Resource Survey Assessment Project: Summary Report*. Los Angeles: Getty Conservation Institute. <https://www.getty.edu/conservation/publications_resources/pdf_publications/lahrs_summary_report.html>"
 
   - id: "Howe 2008"
-    full: "Howe, Kathryn Welch. 2008. *The Los Angeles Historic Resource Survey Report: A Framework for a Citywide Historic Resource Survey*. Los Angeles: Getty Conservation Institute. <http://hdl.handle.net/10020/gci_pubs_lahrs_summary_report>"
+    full: "Howe, Kathryn Welch. 2008. *The Los Angeles Historic Resource Survey Report: A Framework for a Citywide Historic Resource Survey*. Los Angeles: Getty Conservation Institute. <https://www.getty.edu/conservation/publications_resources/pdf_publications/la_historic_resource_survey_full.html>"
 
   - id: "ICOMOS 1996"
     full: "ICOMOS. 1996. *Principles for the Recording of Monuments, Groups of Buildings and Sites*. Paris: ICOMOS. <https://www.icomos.org/en/charters-and-texts/179-articles-en-francais/ressources/charters-and-standards/387-principles-for-the-recording-of-monuments-groups-of-buildings-and-sites-1996>"
@@ -301,7 +298,10 @@ entries:
     full: "Mayor’s Fund for Philadelphia. 2021. “Request for Qualifications: A Plan for a City-Wide Cultural Resources Survey Delivered to the City of Philadelphia Department of Planning and Development.” <http://philacityfund.org/wp-content/uploads/2021/05/RFQ-Final-Draft5.14.pdf>"
 
   - id: "McCarthy 2013"
-    full: "McCarthy, Deidre. 2013. “Facing Disaster: The Importance of Heritage Inventories in Preparation and Response.” *Conservation Perspectives: The GCI Newsletter* 28, no. 2 (Fall): 16–17. <https://www.getty.edu/conservation/publications_resources/newsletters/28_2/facing_disaster.html>"
+    full: "McCarthy, Deidre. 2013. “Facing Disaster: The Importance of Heritage Inventories in Preparation and Response.” *Conservation Perspectives: The GCI Newsletter* 28, no. 2 (Fall): 16–17. <https://www.getty.edu/conservation/publications_resources/newsletters/pdf/v28n2.pdf>"
+
+  - id: "McDonald and Clayton 2016"
+    full: "McDonald, Jo, and Lucia Clayton. 2016. *Rock Art Thematic Study: Report to the Department of the Environment and the Australian Heritage Council*. Centre for Rock Art Research and Management, University of Western Australia. <https://www.dcceew.gov.au/sites/default/files/documents/rock-art-thematic-study.pdf>"
 
   - id: "Milde, Lückerath, and Ullrich 2020"
     full: "Milde, Katharina, Daniel Lückerath, and Oliver Ullrich. 2020. *ARCH Disaster Risk Management Framework.* Germany: ARCH. <https://savingculturalheritage.eu/fileadmin/user_upload/Deliverables/ARCH_D7.3_Disaster_Risk_Management_Framework_v20201130-FINAL.pdf>"
@@ -412,7 +412,7 @@ entries:
     full: "State of New South Wales and Department of Planning and Environment. 2023. *Assessing Heritage Significance: Guidelines for Assessing Places and Objects Against the Heritage Council of NSW Criteria*. Parramatta: Environment and Heritage Group, Department of Planning and Environment. <https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/assessing-heritage-significance-guidelines-assessing-places-objects-against-criteria-230167.pdf>"
 
   - id: "Stone 2013"
-    full: "Stone, Peter. 2013. “War and Heritage: Using Inventories to Protect Cultural Property.” *Conservation Perspectives: The GCI Newsletter* 28, no. 2 (Fall): 13–15. <http://www.getty.edu/conservation/publications_resources/newsletters/28_2/war_heritage.html>"
+    full: "Stone, Peter. 2013. “War and Heritage: Using Inventories to Protect Cultural Property.” *Conservation Perspectives: The GCI Newsletter* 28, no. 2 (Fall): 13–15. <https://www.getty.edu/conservation/publications_resources/newsletters/pdf/v28n2.pdf>"
 
   - id: "Stovel 1998"
     full: "Stovel, Herb. 1998. *Risk Preparedness: A Management Manual for World Cultural Heritage*. Rome: ICCROM. <https://www.iccrom.org/publication/risk-preparedness-management-manual-world-cultural-heritage>"
