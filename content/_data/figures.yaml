@@ -5,15 +5,15 @@ figure_list:
     src: "figures/fig-i-1.jpg"
     caption: "The Burra Charter Process (Australia ICOMOS 2013a)."
     credit: "Australia ICOMOS Incorporated"
-    alt: 
+    alt:
 
   - id: "fig-i-2"
     label: "Figure i.2"
     src: "figures/fig-i-2.png"
     caption: "The English Heritage virtuous circle of understanding, valuing, caring for, and enjoying the historic environment (English Heritage 2005)."
     credit: "English Heritage"
-    alt: 
-  
+    alt:
+
   - id: "fig-i-3"
     label: "Figure i.3"
     src: "figures/fig-i-3.png"
@@ -24,14 +24,14 @@ figure_list:
   - id: "fig-i-4"
     label: "Figure i.4"
     src: "figures/fig-i-4.png"
-    caption: "The inventory lifecycle. A heritage inventory is an ongoing record (bottom) that is created and (ideally) updated and improved over time through a range of information collection and assessment activities (top), including surveys. Note: The types of activity shown are merely examples. Aside from the initial inventory creation activity, the other activity types may occur in any sequence."
+    caption: "The inventory lifecycle. A heritage inventory is an ongoing record that is created and (ideally) updated and improved over time through a range of information collection and assessment activities, including surveys. The types of activity shown are merely examples. Aside from the initial inventory creation activity, the other activity types may occur in any sequence."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-i-5"
     label: "Figure i.5"
     src: "figures/fig-i-5.png"
-    caption: "Roles of inventories and surveys. Surveys and inventories can serve a variety of purposes that can be divided broadly between understanding heritage and providing a basis for making decisions and taking actions regarding that heritage."
+    caption: "Roles of inventories and surveys. Inventories and surveys can serve a variety of purposes that can be divided broadly between understanding heritage and providing a basis for making decisions and taking actions regarding that heritage. Bold items indicate the most common roles."
     credit: "David Myers, GCI"
     alt:
 
@@ -94,14 +94,14 @@ figure_list:
   - id: "fig-4-5"
     label: "Figure 4.5"
     src: "figures/fig-4-5.jpg"
-    caption: "The Greater London Historic Environment Record (GLHER) Online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
+    caption: "The Greater London Historic Environment Record (GLHER) online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
     credit:
     alt:
 
   - id: "fig-ii-1"
     label: "Figure ii.1"
     src: "figures/fig-ii-1.png"
-    caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and consultation are integrated into each step."
+    caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and participation are integrated into each step."
     credit: "Janet Hansen"
     alt:
 
@@ -122,7 +122,7 @@ figure_list:
   - id: "fig-6-1"
     label: "Figure 6.1"
     src: "figures/fig-6-1.png"
-    caption: "The design approach for a heritage survey may focus on a geographical area, theme, chronological period, or a combination of these."
+    caption: "The design approach for a heritage survey may focus on a geographic area, theme, chronological period, or a combination of these."
     credit: "Janet Hansen"
     alt:
 
@@ -155,21 +155,21 @@ figure_list:
   - id: "fig-8-1"
     label: "Figure 8.1"
     src: "figures/fig-8-1.png"
-    caption: "SurveyLA Field Survey Phasing Plan map. Field surveys were organized and sequenced to coincide with the update program for the city’s thirty-five community plans."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "SurveyLA Field Survey Phasing Plan map. Field surveys were organized and sequenced to coincide with the update program for the City’s thirty-five community plans."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-2"
     label: "Figure 8.2"
     src: "figures/fig-8-2.png"
-    caption: "The multiple property documentation structure and content can be designed and adapted for heritage surveys and integrated into a digital data collection system."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "The multiple property documentation (MPD) structure and content can be designed and adapted for heritage surveys and integrated into a digital data collection system."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-3-a"
     label: "a"
     src: "figures/fig-8-3-a.png"
-    # caption: "The citywide historic contexts developed for SurveyLA."
+    # caption: "The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-3-b"
@@ -181,22 +181,22 @@ figure_list:
     label: "Figure 8.4"
     src: "tables/table-8-4.html"
     media_type: table
-    caption: "The figure illustrates the multiple property documentation template developed for SurveyLA populated for the resource type Single-Family Residential Hill Houses."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "The multiple property documentation template developed for SurveyLA populated for the resource type Single-Family Residential Hill Houses."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-5"
     label: "Figure 8.5"
     src: "figures/fig-8-5.png"
-    caption: "The historic context-based approach for digital data collection enables mapping of resources by context, theme, resource type, and geography as illustrated in the HistoricPlacesLA map showing the citywide dispersion of heritage resources recorded under the Entertainment Industry context."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    caption: "The historic context–based approach for digital data collection enables mapping of resources by context, theme, resource type, and geography as illustrated in the HistoricPlacesLA map showing the citywide dispersion of heritage resources recorded under the Entertainment Industry context."
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-6"
     label: "Figure 8.6"
     src: "figures/fig-8-6.jpg"
     caption: "The media can be an ally to promote and support the project. Location shooting for a *PBS NewsHour* story on SurveyLA. The special report, titled “Preserving the LA Story, One Block at a Time,” aired in May 2014."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-7"
@@ -217,11 +217,11 @@ figure_list:
   - id: "ch-8-resource-2-b"
     src: "figures/ch-8-resource-2-b.jpg"
     alt: ""
-  
+
   - id: "ch-8-resource-3"
     src: "figures/ch-8-resource-3.jpg"
     alt: ""
-  
+
   - id: "ch-8-resource-4"
     src: "figures/ch-8-resource-4.png"
     alt: ""
@@ -237,7 +237,7 @@ figure_list:
     label: "Figure 9.2"
     src: "figures/fig-9-2.png"
     caption: "SurveyLA pilot surveys helped develop and test the recording process for post–World War II residential suburbs in the city’s vast San Fernando Valley."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "table-9-3"
@@ -245,7 +245,7 @@ figure_list:
     src: "tables/table-9-3.html"
     media_type: table
     caption: "During SurveyLA pilot surveys, a log was created to record issues encountered by survey team members during field recording."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-1"
@@ -260,28 +260,28 @@ figure_list:
     src: "tables/table-10-2.html"
     media_type: table
     caption: "Sample SurveyLA field survey schedule illustrating the sequencing of tasks and estimated times for completion."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-3"
     label: "Figure 10.3"
     src: "figures/fig-10-3.png"
     caption: "Field survey staffing model showing key positions and participants in the field survey process."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-4"
     label: "Figure 10.4"
     src: "figures/fig-10-4.jpg"
     caption: "Classroom training conducted for SurveyLA. Surveyors received classroom training on recording methods and procedures, field photography, and use of the citywide historic context."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-5"
     label: "Figure 10.5"
     src: "figures/fig-10-5.jpg"
     caption: "Field training conducted for SurveyLA. During hands-on field training, surveyors practiced using the mobile digital data collection system to record various resource types in geographic areas selected for the pilot surveys."
-    credit: "Los Angeles City Planning, Office of Historic Resources"
+    credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-6"
@@ -322,7 +322,7 @@ figure_list:
   - id: "fig-10-11-a"
     label: "a"
     src: "figures/fig-10-11-a.jpg"
-    # caption: "Representative houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles."
+    # caption: "Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles."
     # credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
@@ -353,9 +353,9 @@ figure_list:
     label: "Figure 11.1"
     src: "figures/fig-11-1.png"
     caption: "Survey-to-inventory data integration process. Survey data not collected directly into an inventory system requires careful review and revision of the data itself or the inventory system to which it will be introduced."
-    credit: "Los Angeles City Planning Office of Historic Resources"
+    credit: "Sara Delgadillo"
     alt:
-  
+
   - id: "ch-11-resource-1"
     src: "figures/ch-11-resource-1.jpg"
     alt: ""
@@ -434,13 +434,13 @@ figure_list:
   - id: "fig-14-2"
     label: "Figure 14.2"
     src: "figures/fig-14-2.jpg"
-    caption: "To help raise awareness and understanding of Thaipusam, an ICH practice carried out by Hindus in Singapore, NHB produced a campaign titled A Journey of Devotion – Celebrating Thaipusam in Singapore, which involved using digital media to document the procession route. Devotees carry spiked metal structures known as *kavadis* as a form of devotion to the deity, Lord Murugan."
+    caption: "To help raise awareness and understanding of Thaipusam, an ICH practice carried out by Hindus in Singapore, NHB produced a campaign titled A Journey of Devotion—Celebrating Thaipusam in Singapore, which involved using digital media to document the procession route. Devotees carry spiked metal structures known as *kavadis* as a form of devotion to the deity Lord Murugan."
     credit: "National Heritage Board, Singapore"
     alt:
 
   - id: "fig-14-3"
     label: "Figure 14.3"
     src: "figures/fig-14-3.jpg"
-    caption: "As part of the Heritage Research Grant administered by the National Heritage Board, a team of researchers and students from the Nanyang Technological University conducted an in-depth study on the Nine Emperor Gods Festival in Singapore. Such research projects have encouraged the involvement of young Singaporeans cultural researchers."
+    caption: "As part of the Heritage Research Grant administered by the National Heritage Board, a team of researchers and students from the Nanyang Technological University conducted an in-depth study on the Nine Emperor Gods Festival in Singapore. Such research projects have encouraged the involvement of young Singaporean cultural researchers."
     credit: "National Heritage Board, Singapore"
     alt:

@@ -21,7 +21,7 @@ short_title:
 description:
   one_line:
   full: |
-    A critical first step in the conservation of cultural heritage is to identify and understand the places we want to protect. Inventories and related data-collection activities such as surveys are essential tools in this effort, and heritage-related legislation across the globe now universally mandates their use. However, despite wide understanding of the importance and critical role of inventories and surveys in documenting heritage places, practical, up-to-date guidance on how these instruments should be created, implemented, and maintained has been sorely lacking—until now.
+    A critical first step in the conservation of cultural heritage is to identify and understand the places we want to protect. Inventories and related data collection activities such as surveys are essential tools in this effort, and heritage-related legislation across the globe now universally mandates their use. However, despite wide understanding of the importance and critical role of inventories and surveys in documenting heritage places, practical, up-to-date guidance on how these instruments should be created, implemented, and maintained has been sorely lacking—until now.
 
     This publication provides a step-by-step guide to identifying, recording, and managing information on heritage resources as a basis for their conservation and management. It is drawn from the Getty Conservation Institute’s two decades of experience and research in this topical area, including ongoing work related to its open-source Arches Cultural Heritage Data Management Platform and, previously, the creation of the Middle Eastern Geodatabase for Antiquities (MEGA)-Jordan. It is also drawn from SurveyLA, a multiyear undertaking that was a joint project of the City of Los Angeles and Getty and is considered the largest American urban historic resource survey to date.
 
@@ -35,20 +35,20 @@ pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn: "978-1-60606-884-7"
-  url: "https://www.getty.edu/publications/inventories-and-surveys/" 
+  url: "https://www.getty.edu/publications/inventories-and-surveys/"
 
 publisher:
   - name: Getty Conservation Institute
     location: Los Angeles
     url: https://www.getty.edu/publications/
     logo: logo-getty.png
-    address: | 
+    address: |
       Getty Publications
       1200 Getty Center Drive, Suite 500
       Los Angeles, California 90049-1682
       [getty.edu/publications/](https://www.getty.edu/publications/)
 
-project_team: 
+project_team:
   - Tevvy Ball, *Project Editor*
   - Leslie Tilley, *Manuscript Editor*
   - Greg Albers, *Digital Manager*
@@ -69,7 +69,7 @@ contributor:
     first_name: David
     last_name: Myers
     bio: |
-      David Myers is a senior project specialist at the Getty Conservation Institute. He manages the GCI’s Inventories for Heritage Management project, and is a member of the GCI’s Arches project team, having worked on building the Arches open-source community and on the implementation of the Arches Heritage Data Management Platform with the City of Los Angeles and with national and local government authorities in England. He also managed the GCI’s Heritage Values, Stakeholders and Consensus Building project. Other past contributions include work on the GCI’s Los Angeles Historic Resource Survey project, on a project to develop and implement the Middle Eastern Geodatabase for Antiquities (MEGA) – Jordan, and on GCI projects in Egypt, Southern Africa, Myanmar, and for Iraq. He also previously served as a legislative assistant to a member of the U.S. House of Representatives.
+      David Myers is a senior project specialist at the Getty Conservation Institute. He manages the GCI’s Inventories for Heritage Management project, and is a member of the GCI’s Arches project team, having worked on building the Arches open-source community and on the implementation of the Arches Heritage Data Management Platform with the City of Los Angeles and with national and local government authorities in England. He also managed the GCI’s Heritage Values, Stakeholders, and Consensus Building project. Other past contributions include work on the GCI’s Los Angeles Historic Resource Survey project, on a project to develop and implement the Middle Eastern Geodatabase for Antiquities (MEGA) – Jordan, and on GCI projects in Egypt, in southern Africa, in Myanmar, and for Iraq. He also previously served as a legislative assistant to a member of the U.S. House of Representatives.
   - id: jhansen
     type: primary
     first_name: Janet
@@ -81,7 +81,7 @@ contributor:
     first_name: Lauren Weiss
     last_name: Bricker
     bio: |
-      Lauren Weiss Bricker, PhD, recently retired as a professor of Architecture at California State Polytechnic University, Pomona, where she co-coordinated the historic preservation program and was director of the ENV Archives–Special Collections. She served as a chair of the National Council for Preservation Education and chair of California’s State Historical Resources Commission. Lauren was the Clarkson Chair in Urban Planning for 2019, University at Buffalo. She writes on American architecture and historic preservation and has curated several architectural exhibitions. She is the author of the *Mediterranean House in America* (2008) and is currently completing the book *Designing the Modern American House*.
+      Lauren Weiss Bricker recently retired as a professor of architecture at California State Polytechnic University, Pomona, where she co-coordinated the historic preservation program and was director of the ENV Archives–Special Collections. She served as a chair of the National Council for Preservation Education and chair of California’s State Historical Resources Commission. Lauren was the Clarkson Chair in Urban Planning for 2019, University at Buffalo. She writes on American architecture and historic preservation and has curated several architectural exhibitions. She is the author of the *Mediterranean House in America* (2008) and is currently completing the book *Designing the Modern American House*.
 
       - [Sidebar: Peer Review in Heritage Surveys](/part-ii/chapter-10/#peer-review-in-heritage-surveys)
 
@@ -90,7 +90,7 @@ contributor:
     first_name: Sara
     last_name: Delgadillo
     bio: |
-      Sara Delgadillo is an associate city planner for Los Angeles City Planning’s Office of Historic Resources. As staff for the City’s municipal historic preservation programs, she supports the development and administration of HistoricPlacesLA, Los Angeles’s historic resource inventory system, a customization of the Arches open source data management platform, and ancillary projects that feature historic places reflective of the City’s ethnic and cultural diversity. Sara is a founding member of Latinos in Heritage Conservation, a national organization building a movement that affirms Latinx heritage through education, conservation, and leadership development.
+      Sara Delgadillo is an associate city planner for Los Angeles City Planning’s Office of Historic Resources. As staff for the City’s municipal historic preservation programs, she supports the development and administration of HistoricPlacesLA, Los Angeles’s historic resource inventory system, a customization of the Arches open-source data management platform, and ancillary projects that feature historic places reflective of the City’s ethnic and cultural diversity. Sara is a founding member of Latinos in Heritage Conservation, a national organization building a movement that affirms Latinx heritage through education, conservation, and leadership development.
   - id: khorak
     type: secondary
     first_name: Katie
@@ -100,7 +100,7 @@ contributor:
   - id: amacintosh
     type: secondary
     first_name: Alastair
-    last_name: Macintosh
+    last_name: MacIntosh
     bio: |
       Alastair MacIntosh is the city archaeologist for Lincoln, England. His role is to advise the city’s council on the impacts of new buildings and to maintain its Arches-powered heritage inventory, Arcade. Alastair started his career working as a field archaeologist on projects throughout the English Midlands, before taking on a four-year government-funded project to analyze the historic landscapes of Lincolnshire. Alastair subsequently cofounded a small heritage consultancy and went on to undertake further research projects into the management of historic church buildings, the reuse of historic farm complexes, and the ways in which local communities use heritage information to manage their local environment. As Lincoln’s city archaeologist, Alastair has worked to develop ways of enabling sustainable economic development in archaeologically sensitive areas, especially by means of more appropriate construction methods.
   - id: nyeo
@@ -108,13 +108,13 @@ contributor:
     first_name: Nicholas
     last_name: Yeo
     bio: |
-      Nicholas Yeo is currently the senior manager of the Heritage Policy & Research department of the National Heritage Board, Singapore. He is involved in developing programs, content, and campaigns to raise awareness of Singapore’s intangible cultural heritage, alongside initiatives to support the sustainability of heritage businesses. Nicholas has more than twelve years of experience in the cultural heritage sector and has worked in various fields, including marketing and communications and digital engagement. He also enjoys documenting both the built heritage and food heritage of Singapore through photos.
+      Nicholas Yeo is currently the senior manager of the Heritage Policy and Research department of the National Heritage Board, Singapore. He is involved in developing programs, content, and campaigns to raise awareness of Singapore’s intangible cultural heritage, alongside initiatives to support the sustainability of heritage businesses. Nicholas has more than twelve years of experience in the cultural heritage sector and has worked in various fields, including marketing and communications and digital engagement. He also enjoys documenting both the built heritage and food heritage of Singapore through photos.
   - id: aenriquez
     type: secondary
     first_name: Annabel Lee
     last_name: Enriquez
     bio: |
-      TK
+      Annabel Lee Enriquez is a project specialist at the Getty Conservation Institute (GCI), where she has specialized in cultural heritage data, documentation, and technology projects since 2013. In particular, she works to enable effective conservation and research through the Arches project, an open-source semantic software platform for cultural heritage data management, focusing her efforts on data modeling and strategy, knowledge organization, and project implementation for heritage inventories and science. Prior to her work at the GCI, her research interests revolved around geospatial survey techniques and 3D documentation of monuments and sites. Annabel received a BS in urban and regional studies from Cornell University, and an MS in geographic information science and technology and a graduate certificate in heritage conservation from the University of Southern California.
 
 # ------------------------------------------------------------------------------
 # Copright & License
@@ -180,14 +180,14 @@ subject:
 
 library_of_congress_cip: |
   Library of Congress Cataloging-in-Publication Data
-  - Names: 
-  - Title: 
-  - Description: 
-  - Identifiers:   
-  - Subjects: 
-  - Classification: 
-  - LC record available at 
-  - LC ebook record available at 
+  - Names:
+  - Title:
+  - Description:
+  - Identifiers:
+  - Subjects:
+  - Classification:
+  - LC record available at
+  - LC ebook record available at
 
 # ------------------------------------------------------------------------------
 # Revision History
