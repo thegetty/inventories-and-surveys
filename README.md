@@ -37,6 +37,9 @@ Add subtitles, and Foreword contributors to sidebar menu
 **_layouts/cover.liquid**
 Remove unused reading_line element, and hard-coded <em> tags on contributors
 
+**_plugins/filters/fullname.js**
+Joined contributor names with a non-breaking space
+
 **_plugins/filters/getContributor.js**
 Add the page-level sort_as value if included with a contributor id
 
