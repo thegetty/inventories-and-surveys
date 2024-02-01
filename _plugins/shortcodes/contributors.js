@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
-// refactored logic to handle oxford commas correctly, lines 118–125
+// refactored logic to handle oxford commas correctly, lines 125–131
+// also added 'foreword' format to add affiliations to Foreword authors, lines 42, 78–82
 //
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
@@ -38,7 +39,7 @@ module.exports = function (eleventyConfig) {
       type='all'
     } = params
 
-    const formats = ['bio', 'initials', 'name', 'name-title', 'name-title-block', 'string']
+    const formats = ['bio', 'foreword', 'initials', 'name', 'name-title', 'name-title-block', 'string']
 
     if (!formats.includes(format)) {
       logger.error(
@@ -73,6 +74,11 @@ module.exports = function (eleventyConfig) {
             ${contributorList.map((contributor) => contributorBio(contributor)).join('')}
           </ul>
         `
+        break
+      case 'foreword': 
+        contributorsElement = contributorList.map((contributor) =>  
+            `${fullname(contributor)}, ${ contributor.affiliation }` 
+          )
         break
       case 'initials': {
         const contributorInitials = contributorList.map(initials)

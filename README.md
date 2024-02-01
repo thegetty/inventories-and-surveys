@@ -32,7 +32,10 @@ Add custom (bolder) version of full-screen icon to match design customizations
 Added individual title and subtitle elements
 
 **_includes/components/menu/item.js**
-Add subtitles, and Foreword contributors to sidebar menu
+Add subtitles, and Foreword contributors with affiliations to sidebar menu
+
+**_includes/components/table-of-contents/item/list.js**
+Added affiliations for Foreword authors
 
 **_layouts/cover.liquid**
 Remove unused reading_line element, and hard-coded <em> tags on contributors
@@ -50,7 +53,7 @@ Create better line breaks for URLs, per Chicago Manual of Style
 Return plain cite id if no match is found in references.yaml
 
 **_plugins/shortcodes/contributors.js**
-Refactor logic to handle oxford commas correctly
+Refactor logic to handle oxford commas correctly, and add affiliations to Foreword authors
 
 **_plugins/shortcodes/figureGroup.js**
 Simplify markup and enable custom classes and group captions for figure groups

@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// added 'foreword' format to add affiliations to Foreword authors, lines 51-53
+//
 const { html, oneLine } = require('~lib/common-tags')
 
 /**
@@ -44,7 +48,9 @@ module.exports = function (eleventyConfig) {
      */
     const isPage = !!layout
 
-    const pageContributorsElement = pageContributors
+    const pageContributorsElement = pageContributors && (title == 'Foreword')
+      ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'foreword' })}</span>`
+      : pageContributors
       ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
       : ''
 
