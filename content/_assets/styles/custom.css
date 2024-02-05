@@ -176,7 +176,8 @@
 /* PAGE HEADERS & HEADINGS
 ============================================================================= */
 .quire-page h2 {
-  font-weight: 900;
+  text-transform: none;
+  font-weight: 600;
 }
 .quire-page h3 {
   font-style: normal;
