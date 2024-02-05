@@ -197,6 +197,13 @@
   margin: 1rem auto;
 }
 
+/* CREDITS
+============================================================================= */
+.q-figure__credit {
+  font-style: italic;
+}
+
+
 /* SIDEBARS
 ============================================================================= */
 /* For any accordion shortcode whose `id` value starts with 'sidebar' */
