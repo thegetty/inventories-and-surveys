@@ -197,6 +197,10 @@
   margin: 1rem auto;
 }
 
+.quire-page__header__contributor {
+  font-size: 2em;
+}
+
 /* CREDITS
 ============================================================================= */
 .q-figure__credit {
