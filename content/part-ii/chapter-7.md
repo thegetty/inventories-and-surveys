@@ -148,7 +148,7 @@ It is important to acknowledge that in many cases, existing standards and guidel
 
 {% accordion '## Historic Preservation Practice in the United States' 'sidebar-2' %}
 
-Following passage of the National Historic Preservation Act of 1966 (NHPA), the U.S. Department of the Interior and the National Park Service (NPS) prepared extensive standards and guidelines concerning historic preservation activities carried out under federal programs, state and local level governments, and private parties ({% cite 'National Park Service 1983' %}). This guidance serves as nationally accepted professional standards for his­toric preservation practice and ensures a uniform and consistent process for documenting and evaluating historic properties through surveys or property designations. The concepts and terms discussed here comprise the basic elements of these national professional standards.[^1]
+Following passage of the National Historic Preservation Act of 1966 (NHPA), the U.S. Department of the Interior and the National Park Service (NPS) prepared extensive standards and guidelines concerning historic preservation activities carried out under federal programs, state and local level governments, and private parties ({% cite 'National Park Service 1983' %}). This guidance serves as nationally accepted professional standards for his­toric preservation practice and ensures a uniform and consistent process for documenting and evaluating historic properties through surveys or property designations. The concepts and terms discussed here comprise the basic elements of these national professional standards.<sup class="footnote-ref"><a href="#fn-s1" id="fnref-s1" class="footnote-ref-anchor">*</a></sup>
 
 ### Historic Property
 
@@ -176,9 +176,9 @@ Districts include residential neighborhoods, commercial areas, civic centers, in
 
 ### National Register of Historic Places
 
-The National Register of Historic Places is the United States’ official inventory of historic places worthy of preservation. The NPS established the National Register to identify properties of architec­tural, historical, engineering, or archaeological signifi­cance at the local, state, or national level.[^2] The National Register provides standardized criteria for evaluating properties for significance ({% cite 'National Park Service 1997a' %}). These criteria have been adapted for use by most state and local governments in developing their own designation programs and are also applied to properties during survey work.[^3]
+The National Register of Historic Places is the United States’ official inventory of historic places worthy of preservation. The NPS established the National Register to identify properties of architec­tural, historical, engineering, or archaeological signifi­cance at the local, state, or national level.<sup class="footnote-ref"><a href="#fn-s2" id="fnref-s2" class="footnote-ref-anchor">†</a></sup> The National Register provides standardized criteria for evaluating properties for significance ({% cite 'National Park Service 1997a' %}). These criteria have been adapted for use by most state and local governments in developing their own designation programs and are also applied to properties during survey work.<sup class="footnote-ref"><a href="#fn-s3" id="fnref-s3" class="footnote-ref-anchor">‡</a></sup>
 
-To be listed in the National Register, a property must meet at least one of the criteria set forth in *How to Apply the National Register Criteria for Evaluation* ({% cite 'National Park Service 1997a' '2' %}; see below) and retain integrity of those features necessary to convey its significance.[^4]
+To be listed in the National Register, a property must meet at least one of the criteria set forth in *How to Apply the National Register Criteria for Evaluation* ({% cite 'National Park Service 1997a' '2' %}; see below) and retain integrity of those features necessary to convey its significance.<sup class="footnote-ref"><a href="#fn-s4" id="fnref-s4" class="footnote-ref-anchor">§</a></sup>
 
 > The quality of significance in American history, architecture, archaeology, and culture is present in districts, sites, buildings, structures, and objects that possess integrity of location, design, setting, materials, workmanship, feeling, and association, and:
 >
@@ -198,13 +198,30 @@ Historic context–based surveys are the foundation of preservation planning in 
 
 The multiple property documentation (MPD) approach developed by the NPS is the format most used for context-based surveys in the United States ({% cite 'National Park Service 1999' %}). Although designed to streamline the nomination of properties related by theme to the National Register, the MPD approach is also highly effective in conducting heritage surveys, particularly at a large scale. This approach provides a narrative discussion of themes; identifies and describes property types that represent the themes; and, importantly, provides specific guidance and comparative analysis regarding the physical characteristics, associative qualities, and aspects of integrity a property must have to be an important example of a property type and eligible for designation.
 
-[^1]: Other terms used throughout this publication are defined in the [glossary](/glossary/).
-
-[^2]: The National Register Program was authorized as part of the NHPA. The associated National Historic Landmarks Program recognizes properties of exceptional significance to the nation.
-
-[^3]: The City of Los Angeles Historic-Cultural Monument program, for example, has four criteria that parallel National Register criteria.
-
-[^4]: The National Register recognizes properties that achieved significance within the past 50 years, although there is a criteria consideration for properties less than 50 years old and of exceptional importance. How to Apply the National Register Criteria for Evaluation also provides detailed guidance on applying integrity aspects to a property as part of the evaluation process; see {% cite 'National Park Service 1997a' '44–47' %}.
+<section class="footnotes">
+<ol class="footnotes-list--sidebar">
+<li id="fn-s1" class="footnote-item">
+  <p>
+    Other terms used throughout this publication are defined in the <a href="/glossary/">glossary</a>. <a href="#fnref-s1" class="footnote-backref">↩︎</a>
+  </p>
+</li>
+<li id="fn-s2" class="footnote-item">
+  <p>
+    The National Register Program was authorized as part of the NHPA. The associated National Historic Landmarks Program recognizes properties of exceptional significance to the nation. <a href="#fnref-s2" class="footnote-backref">↩︎</a>
+  </p>
+</li>
+<li id="fn-s3" class="footnote-item">
+  <p>
+    The City of Los Angeles Historic-Cultural Monument program, for example, has four criteria that parallel National Register criteria. <a href="#fnref-s3" class="footnote-backref">↩︎</a>
+  </p>
+</li>
+<li id="fn-s4" class="footnote-item">
+  <p>
+    The National Register recognizes properties that achieved significance within the past 50 years, although there is a criteria consideration for properties less than 50 years old and of exceptional importance. How to Apply the National Register Criteria for Evaluation also provides detailed guidance on applying integrity aspects to a property as part of the evaluation process; see <cite class="quire-citation expandable"><span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">National Park Service 1997a, 44–47</span><span class="quire-citation__content" hidden="hidden">National Park Service. 1997a. <em>How to Apply the National Register Criteria for Evaluation</em>. Washington, DC: U.S. Department of the Interior. <a href="https://www.nps.gov/subjects/nationalregister/upload/NRB-15_web508.pdf">https:​/​/​www​.nps​.gov​/subjects​/nationalregister​/upload​/NRB​-15​_web508​.pdf</a></span></cite>. <a href="#fnref-s4" class="footnote-backref">↩︎</a>
+  </p>
+</li>
+</ol>
+</section>
 
 {% endaccordion %}
 

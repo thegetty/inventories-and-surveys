@@ -658,6 +658,39 @@
   break-inside: avoid;
 }
 
+/* Use symbol markers on hand-coded footnotes inside sidebars 
+  Note: trying do do this with @counter-style or ::marker didn't work in Safari
+  and the browser solution didn't work in PrinceXML */
+.footnotes-list--sidebar li {
+  padding-left: .5rem !important;
+}
+.footnotes-list--sidebar li:nth-child(1) {
+  list-style-type: '*';
+}
+.footnotes-list--sidebar li:nth-child(2) {
+  list-style-type: '†';
+}
+.footnotes-list--sidebar li:nth-child(3) {
+  list-style-type: '‡';
+}
+.footnotes-list--sidebar li:nth-child(4) {
+  list-style-type: '§';
+}
+@media print {
+  .footnotes-list--sidebar li:nth-child(1)::marker {
+    content: '*';
+  }
+  .footnotes-list--sidebar li:nth-child(2)::marker {
+    content: '†';
+  }
+  .footnotes-list--sidebar li:nth-child(3)::marker {
+    content: '‡';
+  }
+  .footnotes-list--sidebar li:nth-child(4)::marker {
+    content: '§';
+  }
+}
+
 /* FIXES
 ============================================================================= */
 /* Fix .is-table-scale utility classes to not change caption size */

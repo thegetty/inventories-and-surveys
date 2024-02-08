@@ -136,9 +136,9 @@ For purposes of this book, the thematic framework is considered the overarching 
 
 This framework is designed to guide the identification and evaluation of significance of resources for listing in the U.S. National Register of Historic Places, for designation as National Historic Landmarks, and for potential addition of sites of cultural significance to the National Park System.
 
-In addition to their application in the United States, thematic frameworks are formally utilized and applied in heritage inventory and survey work as well as designation or listing in Canada ({% cite 'Parks Canada 2000' %}; {% cite 'Parks Canada 2019' '' '2019' %}) and Australia ({% cite 'Australian Heritage Commission 2001' %}; {% cite 'Heritage Council of Victoria 2010' %}). They have also been applied within world heritage listing processes by UNESCO, ICOMOS, and others involved in world heritage deliberations ({% cite 'UNESCO 2005' %}), as well as to international heritage practice more generally ({% cite 'Marsden and Spearritt 2021' %}).[^1]
+In addition to their application in the United States, thematic frameworks are formally utilized and applied in heritage inventory and survey work as well as designation or listing in Canada ({% cite 'Parks Canada 2000' %}; {% cite 'Parks Canada 2019' '' '2019' %}) and Australia ({% cite 'Australian Heritage Commission 2001' %}; {% cite 'Heritage Council of Victoria 2010' %}). They have also been applied within world heritage listing processes by UNESCO, ICOMOS, and others involved in world heritage deliberations ({% cite 'UNESCO 2005' %}), as well as to international heritage practice more generally ({% cite 'Marsden and Spearritt 2021' %}).<sup class="footnote-ref"><a href="#fn-s1" id="fnref-s1" class="footnote-ref-anchor">*</a></sup>
 
-### Thematic Studies
+### Thematic Studis
 
 Thematic frameworks are sometimes elaborated through thematic studies or [historic context statements](#historic-contexts). The latter two concepts are quite similar, and in some cases, they are difficult to distinguish. A thematic study (sometimes in the United States referred to as a *theme study*) is a narrative document that presents in-depth research and/or a synthesis of existing research on one or more themes, often those identified through a thematic framework. The studies help justify the significance of themes and associated heritage types and may include evaluation standards to help assess heritage significance.
 
@@ -150,8 +150,16 @@ Historic contexts are used to organize information about related heritage resour
 
 Thematic frameworks, as well as theme or thematic studies and historic context statements, periodically need to be expanded and revised. Interpretations of history change over time—sometimes through new research, new survey findings, and public engagement—and through new methods of information analysis. Inevitably, at times new priorities or topics emerge that are deemed to be significant but that in the past had gone unrecognized.
 
-[^1]: For an overview of the use of thematic frameworks within national and international contexts, see {% cite 'Clayworth 2008' %}.
-
+<section class="footnotes">
+<ol class="footnotes-list--sidebar">
+<li id="fn-s1" class="footnote-item">
+  <p>
+    For an overview of the use of thematic frameworks within national and international contexts, see <cite class="quire-citation expandable"><span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">Clayworth 2008</span><span class="quire-citation__content" hidden="hidden">Clayworth, Peter. 2008. <em>Historic Heritage Thematic Frameworks: Their Use as Tools for Management and Interpretation</em>. Wellington: New Zealand Department of Conservation. <a href="https://www.doc.govt.nz/globalassets/documents/science-and-technical/sfc285entire.pdf">https:​/​/​www​.doc​.govt​.nz​/globalassets​/documents​/science​-and​-technical​/sfc285entire​.pdf</a></span></cite>.
+    <a href="#fnref-s1" class="footnote-backref">↩︎</a>
+  </p>
+</li>
+</ol>
+</section>
 
 {% endaccordion %}
 
