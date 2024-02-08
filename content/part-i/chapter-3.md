@@ -260,7 +260,7 @@ After valuable legacy data sets have been identified, steps may be taken to secu
 
 A later step with legacy data is to prepare the data to be imported into a target heritage database. If legacy data resides in other databases, it will need to be transferred through a multistep ETL (extract-transform-load) process. Preparing legacy data for import inevitably involves an extensive investment of time in data cleanup (e.g., addressing errors or inconsistencies), formatting, and mapping data fields from the legacy database to the target database structure. Once that legacy data is cleaned and mapped to a target database, the import process is typically an iterative one, with data errors or inconsistencies being revealed with each import attempt. Further legacy data corrections are needed after each step, until an import succeeds without errors.
 
-### How Will Inventory Information Be Managed Over Time? {#inventory-information-over-time}
+### How Will Inventory Information Be Managed Over&#160;Time?{#inventory-information-over-time}
 
 For your inventory program, what measures should be implemented to create, collect, update, add to, and improve information over time? Improving the inventory record is a continuous process that is usually best achieved through a variety of means. As discussed in chapter 2, in the section [Information Collection, Creation, and Editing](/part-i/chapter-2/#information-collection-creation-and-editing), common related activities include:
 

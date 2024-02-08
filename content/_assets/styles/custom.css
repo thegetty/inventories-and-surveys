@@ -176,7 +176,8 @@
 /* PAGE HEADERS & HEADINGS
 ============================================================================= */
 .quire-page h2 {
-  font-weight: 900;
+  text-transform: none;
+  font-weight: 600;
 }
 .quire-page h2:not(:first-child),
 .quire-page .backmatter h2:first-child  {
@@ -212,6 +213,17 @@
   padding: 0;
   margin: 1rem auto;
 }
+
+.quire-page__header__contributor {
+  font-size: 2em;
+}
+
+/* CREDITS
+============================================================================= */
+.q-figure__credit {
+  font-style: italic;
+}
+
 
 /* SIDEBARS
 ============================================================================= */
