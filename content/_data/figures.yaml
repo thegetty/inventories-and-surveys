@@ -1,133 +1,133 @@
 figure_list:
 
   - id: "fig-i-1"
-    label: "Figure i.1"
+    label: "FIGURE i.1"
     src: "figures/fig-i-1.jpg"
     caption: "The Burra Charter Process (Australia ICOMOS 2013a)."
     credit: "Australia ICOMOS Incorporated"
     alt:
 
   - id: "fig-i-2"
-    label: "Figure i.2"
+    label: "FIGURE i.2"
     src: "figures/fig-i-2.png"
     caption: "The English Heritage virtuous circle of understanding, valuing, caring for, and enjoying the historic environment (English Heritage 2005)."
     credit: "English Heritage"
     alt:
 
   - id: "fig-i-3"
-    label: "Figure i.3"
+    label: "FIGURE i.3"
     src: "figures/fig-i-3.png"
     caption: "The heritage items included in an inventory typically represent that subset of places evaluated that are deemed significant or potentially significant. A further subset of heritage items in an inventory is typically designated or listed."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-i-4"
-    label: "Figure i.4"
+    label: "FIGURE i.4"
     src: "figures/fig-i-4.png"
     caption: "The inventory lifecycle. A heritage inventory is an ongoing record that is created and (ideally) updated and improved over time through a range of information collection and assessment activities, including surveys. The types of activity shown are merely examples. Aside from the initial inventory creation activity, the other activity types may occur in any sequence."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-i-5"
-    label: "Figure i.5"
+    label: "FIGURE i.5"
     src: "figures/fig-i-5.png"
     caption: "Roles of inventories and surveys. Inventories and surveys can serve a variety of purposes that can be divided broadly between understanding heritage and providing a basis for making decisions and taking actions regarding that heritage. Bold items indicate the most common roles."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-1"
-    label: "Figure 2.1"
+    label: "FIGURE 2.1"
     src: "figures/fig-2-1.png"
     caption: "Types of infrastructure, resources, and activities an inventory program may require. The program’s legal and policy framework is the foundation of the other elements."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-2a"
-    label: "Figure 2.2a"
+    label: "FIGURE 2.2a"
     src: "figures/fig-2-2-a.png"
     caption: "Example inventory information record types."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-2b"
-    label: "Figure 2.2b"
+    label: "FIGURE 2.2b"
     src: "figures/fig-2-2-b.png"
     caption: "Example attributes of a heritage resource record type."
     credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-3"
-    label: "Figure 2.3"
+    label: "FIGURE 2.3"
     src: "figures/fig-2-3.jpg"
     caption: "A generic website analytics dashboard. Periodically assessing website analytics can provide a range of useful information about the characteristics of visitors to inventory-related webpages."
     credit: "Lindsey Gant, GCI"
     alt:
 
   - id: "fig-4-1"
-    label: "Figure 4.1"
+    label: "FIGURE 4.1"
     src: "figures/fig-4-1.jpg"
     caption: "Using the Location filter in Arches, heritage resources that would be impacted by a proposed development project can be quickly identified."
     credit: "HistoricPlacesLA"
     alt:
 
   - id: "fig-4-2"
-    label: "Figure 4.2"
+    label: "FIGURE 4.2"
     src: "figures/fig-4-2.png"
     caption: "The Related Resources graph displays relationships between Arches resources, in this instance between an architect and the buildings he designed as well as other persons related to those buildings, such as owners and occupants."
     credit: "Annabel Lee Enriquez, GCI, ©J. Paul Getty Trust"
     alt:
 
   - id: "fig-4-3"
-    label: "Figure 4.3"
+    label: "FIGURE 4.3"
     src: "figures/fig-4-3.png"
     caption: "The Time Wheel allows users to filter and search the distribution of temporal attributes of all resources in their Arches implementation. This example shows the number of heritage resources constructed in the fifteenth century BCE and from 1470 to 1460 BCE."
     credit: "Annabel Lee Enriquez, GCI, ©J. Paul Getty Trust"
     alt:
 
   - id: "fig-4-4"
-    label: "Figure 4.4"
+    label: "FIGURE 4.4"
     src: "figures/fig-4-4.jpg"
     caption: "Satellite map view of heritage resources in the Kingston, Jamaica, area from the Jamaica National Inventory of Historic Places, an Arches implementation that emphasizes community engagement through public nominations of significant sites."
     credit: "Jamaica National Inventory of Historic Places"
     alt:
 
   - id: "fig-4-5"
-    label: "Figure 4.5"
+    label: "FIGURE 4.5"
     src: "figures/fig-4-5.jpg"
     caption: "The Greater London Historic Environment Record (GLHER) online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
     credit:
     alt:
 
   - id: "fig-ii-1"
-    label: "Figure ii.1"
+    label: "FIGURE ii.1"
     src: "figures/fig-ii-1.png"
     caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and participation are integrated into each step."
     credit: "Janet Hansen"
     alt:
 
   - id: "fig-5-1"
-    label: "Figure 5.1"
+    label: "FIGURE 5.1"
     src: "figures/fig-5-1.png"
     caption: "Seven U.S. cities and the New York City borough of Manhattan could fit within the boundaries of the City of Los Angeles."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-5-2"
-    label: "Figure 5.2"
+    label: "FIGURE 5.2"
     src: "figures/fig-5-2.png"
     caption: "HistoricPlacesLA maps the location of designated heritage resources in the City of Los Angeles as well as those recorded as significant through SurveyLA and other resource evaluations."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-6-1"
-    label: "Figure 6.1"
+    label: "FIGURE 6.1"
     src: "figures/fig-6-1.png"
     caption: "The design approach for a heritage survey may focus on a geographic area, theme, chronological period, or a combination of these."
     credit: "Janet Hansen"
     alt:
 
   - id: "fig-7-1"
-    label: "Figure 7.1"
+    label: "FIGURE 7.1"
     src: "figures/fig-7-1.png"
     caption: "Heritage survey budget model."
     credit: "Janet Hansen"
@@ -142,7 +142,7 @@ figure_list:
     alt:
 
   - id: "fig-7-2"
-    label: "Figure 7.2"
+    label: "FIGURE 7.2"
     src: "figures/fig-7-2.png"
     caption: "Heritage survey team model showing key positions for managing a survey."
     credit: "Janet Hansen"
@@ -153,14 +153,14 @@ figure_list:
     alt: ""
 
   - id: "fig-8-1"
-    label: "Figure 8.1"
+    label: "FIGURE 8.1"
     src: "figures/fig-8-1.png"
     caption: "SurveyLA Field Survey Phasing Plan map. Field surveys were organized and sequenced to coincide with the update program for the City’s thirty-five community plans."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-2"
-    label: "Figure 8.2"
+    label: "FIGURE 8.2"
     src: "figures/fig-8-2.png"
     caption: "The multiple property documentation (MPD) structure and content can be designed and adapted for heritage surveys and integrated into a digital data collection system."
     credit: "Los Angeles City Planning Office of Historic Resources"
@@ -178,7 +178,7 @@ figure_list:
     alt:
 
   - id: "table-8-4"
-    label: "Figure 8.4"
+    label: "FIGURE 8.4"
     src: "tables/table-8-4.html"
     media_type: table
     caption: "The multiple property documentation template developed for SurveyLA populated for the resource type Single-Family Residential Hill Houses."
@@ -186,21 +186,21 @@ figure_list:
     alt:
 
   - id: "fig-8-5"
-    label: "Figure 8.5"
+    label: "FIGURE 8.5"
     src: "figures/fig-8-5.png"
     caption: "The historic context–based approach for digital data collection enables mapping of resources by context, theme, resource type, and geography as illustrated in the HistoricPlacesLA map showing the citywide dispersion of heritage resources recorded under the Entertainment Industry context."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-6"
-    label: "Figure 8.6"
+    label: "FIGURE 8.6"
     src: "figures/fig-8-6.jpg"
     caption: "The media can be an ally to promote and support the project. Location shooting for a *PBS NewsHour* story on SurveyLA. The special report, titled “Preserving the LA Story, One Block at a Time,” aired in May 2014."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-7"
-    label: "Figure 8.7"
+    label: "FIGURE 8.7"
     src: "figures/fig-8-7.png"
     caption: "Heritage Survey Outreach Management Model illustrating key participants in developing and implementing a heritage outreach program."
     credit: "Janet Hansen"
@@ -227,21 +227,21 @@ figure_list:
     alt: ""
 
   - id: "fig-9-1"
-    label: "Figure 9.1"
+    label: "FIGURE 9.1"
     src: "figures/fig-9-1.png"
     caption: "Pilot survey model. Pilot surveys are most effective when they are designed to represent a microcosm and subset of the larger survey project and they include one or more geographic areas, themes, and resource typologies to fully test all aspects of survey methods and procedures."
     credit: "Janet Hansen"
     alt:
 
   - id: "fig-9-2"
-    label: "Figure 9.2"
+    label: "FIGURE 9.2"
     src: "figures/fig-9-2.png"
     caption: "SurveyLA pilot surveys helped develop and test the recording process for post–World War II residential suburbs in the city’s vast San Fernando Valley."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "table-9-3"
-    label: "Figure 9.3"
+    label: "FIGURE 9.3"
     src: "tables/table-9-3.html"
     media_type: table
     caption: "During SurveyLA pilot surveys, a log was created to record issues encountered by survey team members during field recording."
@@ -249,14 +249,14 @@ figure_list:
     alt:
 
   - id: "fig-10-1"
-    label: "Figure 10.1"
+    label: "FIGURE 10.1"
     src: "figures/fig-10-1.png"
     caption: "SurveyLA heritage field surveyor at work."
     credit: "Architectural Resources Group, Los Angeles"
     alt:
 
   - id: "table-10-2"
-    label: "Figure 10.2"
+    label: "FIGURE 10.2"
     src: "tables/table-10-2.html"
     media_type: table
     caption: "Sample SurveyLA field survey schedule illustrating the sequencing of tasks and estimated times for completion."
@@ -264,56 +264,56 @@ figure_list:
     alt:
 
   - id: "fig-10-3"
-    label: "Figure 10.3"
+    label: "FIGURE 10.3"
     src: "figures/fig-10-3.png"
     caption: "Field survey staffing model showing key positions and participants in the field survey process."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-4"
-    label: "Figure 10.4"
+    label: "FIGURE 10.4"
     src: "figures/fig-10-4.jpg"
     caption: "Classroom training conducted for SurveyLA. Surveyors received classroom training on recording methods and procedures, field photography, and use of the citywide historic context."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-5"
-    label: "Figure 10.5"
+    label: "FIGURE 10.5"
     src: "figures/fig-10-5.jpg"
     caption: "Field training conducted for SurveyLA. During hands-on field training, surveyors practiced using the mobile digital data collection system to record various resource types in geographic areas selected for the pilot surveys."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-6"
-    label: "Figure 10.6"
+    label: "FIGURE 10.6"
     src: "figures/fig-10-6.png"
     caption: "Chronology map for the Westchester–Playa Del Rey community plan area illustrating a primarily post–World War II period of development."
     credit: "Architectural Resources Group, Los Angeles"
     alt:
 
   - id: "fig-10-7"
-    label: "Figure 10.7"
+    label: "FIGURE 10.7"
     src: "figures/fig-10-7.jpg"
     caption: "Map developed for conducting a reconnaissance survey in the city of Tustin, California."
     credit: "Architectural Resources Group, Los Angeles"
     alt:
 
   - id: "fig-10-8"
-    label: "Figure 10.8"
+    label: "FIGURE 10.8"
     src: "figures/fig-10-8.png"
     caption: "Sample structure for organizing a heritage survey peer review panel."
     credit: "Janet Hansen"
     alt:
 
   - id: "fig-10-9"
-    label: "Figure 10.9"
+    label: "FIGURE 10.9"
     src: "figures/fig-10-9.png"
     caption: "SurveyLA’s peer review committee provided input to identify the multiple layers of significance relating to Los Angeles’s Leimert Park neighborhood."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-10"
-    label: "Figure 10.10"
+    label: "FIGURE 10.10"
     src: "figures/fig-10-10.png"
     caption: "Evaluation process for heritage surveys. Resource evaluation is the culmination of field surveys, research, and community outreach and collaboration."
     credit: "Janet Hansen"
@@ -343,14 +343,14 @@ figure_list:
     alt:
 
   - id: "fig-10-12"
-    label: "Figure 10.12"
+    label: "FIGURE 10.12"
     src: "figures/fig-10-12.jpg"
     caption: "Multiple property documentation approach applied to the evaluation of Goodyear Gardens tract in Los Angeles."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-11-1"
-    label: "Figure 11.1"
+    label: "FIGURE 11.1"
     src: "figures/fig-11-1.png"
     caption: "Survey-to-inventory data integration process. Survey data not collected directly into an inventory system requires careful review and revision of the data itself or the inventory system to which it will be introduced."
     credit: "Sara Delgadillo"
@@ -361,21 +361,21 @@ figure_list:
     alt: ""
 
   - id: "fig-12-1"
-    label: "Figure 12.1"
+    label: "FIGURE 12.1"
     src: "figures/fig-12-1.jpg"
     caption: "Street view of North Stanley Avenue, Beverly Fairfax National Register Historic District."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-12-2"
-    label: "Figure 12.2"
+    label: "FIGURE 12.2"
     src: "figures/fig-12-2.jpg"
     caption: "City planners in Los Angeles attended workshops to discuss the findings of SurveyLA and how they can inform community plan updates."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "table-12-3"
-    label: "Figure 12.3"
+    label: "FIGURE 12.3"
     src: "tables/table-12-3.html"
     media_type: table
     caption: "The Greater London Archaeological Priority Areas assign all land within the jurisdiction to one of four tiers denoting different levels of sensitivity to development indicated by an archaeological risk model."
@@ -383,63 +383,63 @@ figure_list:
     alt:
 
   - id: "fig-12-4"
-    label: "Figure 12.4"
+    label: "FIGURE 12.4"
     src: "figures/fig-12-4.png"
     caption: "The disaster risk management framework of the ARCH project for Advancing Resilience of Historic Areas against Climate-Related and Other Hazards."
     credit: "ARCH Project"
     alt:
 
   - id: "fig-12-5"
-    label: "Figure 12.5"
+    label: "FIGURE 12.5"
     src: "figures/fig-12-5.png"
     caption: "Known cultural resources in Florida potentially affected by sea level rise according to differing future projections."
     credit: "Florida Division of Historical Resources, Florida Master Site File"
     alt:
 
   - id: "fig-12-6"
-    label: "Figure 12.6"
+    label: "FIGURE 12.6"
     src: "figures/fig-12-6.jpg"
     caption: "Sites of reported damage in the Palmyra area during the Syrian conflict from 2014 to early 2016. Events are color coded by cause of damage. Larger circles indicate more recent events."
     credit: "American Schools of Oriental Research; satellite image © Digital Globe"
     alt:
 
   - id: "fig-13-1"
-    label: "Figure 13.1"
+    label: "FIGURE 13.1"
     src: "figures/fig-13-1.jpg"
     caption: "Lincoln Cathedral from the walls of Lincoln Castle. These high-profile historic buildings are set in the most archaeologically rich area of the city, which would make their management very difficult without access to an effective and up-to-date inventory."
     credit: "Alastair MacIntosh, reproduced courtesy of City of Lincoln Council"
     alt:
 
   - id: "fig-13-2"
-    label: "Figure 13.2"
+    label: "FIGURE 13.2"
     src: "figures/fig-13-2.png"
     caption: "A typical commercial search of the Arcade system. An applicant has identified an area of possible impact due to development and used the map filter function to generate a tailored search of known heritage assets in the surrounding area."
     credit: "Arcade, reproduced courtesy of City of Lincoln Council"
     alt:
 
   - id: "fig-13-3"
-    label: "Figure 13.3"
+    label: "FIGURE 13.3"
     src: "figures/fig-13-3.jpg"
     caption: "The information provided by Arcade makes it possible for developments to avoid impacts to known archaeological sites or, as shown in this picture, helps archaeologists design appropriate mitigation strategies that enable development to proceed."
     credit: "Alastair MacIntosh, reproduced courtesy of City of Lincoln Council"
     alt:
 
   - id: "fig-14-1"
-    label: "Figure 14.1"
+    label: "FIGURE 14.1"
     src: "figures/fig-14-1.jpg"
     caption: "A Malay-Muslim family gathers in traditional Malay attire to celebrate Hari Raya Puasa, a day that marks the end of the fasting month of Ramadan."
     credit: "National Heritage Board, Singapore"
     alt:
 
   - id: "fig-14-2"
-    label: "Figure 14.2"
+    label: "FIGURE 14.2"
     src: "figures/fig-14-2.jpg"
     caption: "To help raise awareness and understanding of Thaipusam, an ICH practice carried out by Hindus in Singapore, NHB produced a campaign titled A Journey of Devotion—Celebrating Thaipusam in Singapore, which involved using digital media to document the procession route. Devotees carry spiked metal structures known as *kavadis* as a form of devotion to the deity Lord Murugan."
     credit: "National Heritage Board, Singapore"
     alt:
 
   - id: "fig-14-3"
-    label: "Figure 14.3"
+    label: "FIGURE 14.3"
     src: "figures/fig-14-3.jpg"
     caption: "As part of the Heritage Research Grant administered by the National Heritage Board, a team of researchers and students from the Nanyang Technological University conducted an in-depth study on the Nine Emperor Gods Festival in Singapore. Such research projects have encouraged the involvement of young Singaporean cultural researchers."
     credit: "National Heritage Board, Singapore"
