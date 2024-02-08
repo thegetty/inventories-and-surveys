@@ -24,4 +24,4 @@ In addressing these questions, and many more, this publication represents an imp
 
 *Inventories and Surveys for Heritage Management: Lessons for the Digital Age* provides heritage professionals with an essential roadmap of how to implement a survey and inventory – allowing heritage conservation to play a more central role in urban planning by ensuring that a richer understanding of our past will shape our communities’ future.
 
-{% contributors context=pageContributors format='name-title-block' align='left' %}
+{% contributors context=pageContributors format='name-title-block' align='right' %}

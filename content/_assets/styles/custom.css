@@ -179,10 +179,27 @@
   text-transform: none;
   font-weight: 600;
 }
+.quire-page h2:not(:first-child),
+.quire-page .backmatter h2:first-child  {
+  margin-top: 3rem !important;
+}
+.quire-page .accordion-section__heading h2 {
+  margin-top: 0 !important;
+}
 .quire-page h3 {
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 1.625rem;
+  letter-spacing: -.5px;
+}
+.quire-page h4 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  letter-spacing: -.5px;
+}
+.quire-page h5 {
+  font-size: 1.125rem;
+  font-style: normal;
 }
 .quire-page__header__contributor {
   font-family: 'Work Sans', sans-serif;
@@ -212,8 +229,10 @@
 ============================================================================= */
 /* For any accordion shortcode whose `id` value starts with 'sidebar' */
 .accordion-section[id^='sidebar'] {
-  background-color: var(--pink);
-  border-bottom: 10px solid var(--gray);
+  background-color: var(--light-blue);
+  border-bottom: 10px solid var(--dark-blue);
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
   float: right;
   margin-bottom: 1.5rem;
   margin-left: 1.5rem;
@@ -227,16 +246,18 @@
 }
  .quire-page .accordion-section[id^='sidebar'] accordion-section__heading h2,
  .accordion-section[id^='sidebar'] h2 {
-  color: var(--light-gray);
-  font-weight: 400;
+  color: var(--black);
+  font-size: 1.625rem;
+  font-weight: 600;
   padding-bottom: 1rem;
   padding-left: 1rem;
   text-transform: none;
 }
 .accordion-section[id^='sidebar'] .accordion-section__controls::after {
-  color: var(--light-gray);
+  color: var(--black);
   font-size: 30px;
   margin-right: 1rem;
+  display: block;
 }
 .accordion-section[id^='sidebar'] .accordion-section__body {
   background-color: var(--light-gray);
@@ -271,7 +292,7 @@
     padding: 1.5rem 0;
   }
   .accordion-section[id^=sidebar] h2 {
-    background-color: var(--dark-pink);
+    background-color: var(--light-blue);
     margin-left: -1.5rem;
     margin-right: -1.5rem;
     margin-top: -1.5rem;
@@ -290,9 +311,14 @@
 /* Special <sections> with PDF downloads and/or accordions containing full-test resources */
 .additional-resource {
   background-color: var(--dark-blue);
+  border-radius: 1rem;
   color: var(--white);
   margin-bottom: 1.5rem;
   border-bottom: 10px solid var(--gray);
+}
+.additional-resource h4 {
+  font-weight: 600;
+  letter-spacing: normal;
 }
 .additional-resource > *:first-child {
   padding-top: 1.5rem;
@@ -454,17 +480,21 @@
   }
 }
 
-/* GROUP FIGURES
+/* FIGURES
 ============================================================================= */
+/* Figure Groups */
 .q-figure.q-figure--group {
   display: grid;
   gap: 0 1rem;
 }
 .q-figure.q-figure--group .q-figure {
   margin: 0;
+  margin-bottom: 1rem;
 }
 .q-figure.q-figure--group .q-figure__caption {
   grid-column: 1/-1;
+  padding-top: 0;
+  margin-top: 0;
 }
 .q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption {
   margin-top: 0;
@@ -493,7 +523,48 @@
     margin-right: 0;
   }
 }
-
+/* Regular Figures */
+.q-figure:not(.q-figure--group__item) {
+  border-width: 0;
+  padding: 0;
+}
+.content figure .q-figure__caption {
+  font-size: .875rem;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+.content .q-figure.q-figure--group__item .q-figure__caption {
+  margin-top: 0;
+}
+.q-figure__label,
+.q-figure__label--below .q-figure__modal-link {
+  text-transform: uppercase;
+  color: var(--black);
+}
+.q-figure__label .q-figure__label-icon svg {
+  fill: var(--black);
+}
+.q-figure__label .q-figure__label-icon svg {
+  width: 1rem;
+  height: 1rem;
+  margin-left: 1px;
+  margin-right: 2px;
+}
+.q-figure > a:hover img {
+  box-shadow: none;
+}
+/* Table Figures */
+.quire-page__content .container .content table caption {
+  font-size: .875rem;
+}
+.quire-page__content .container .content table caption strong {
+  display: block;
+  text-transform: uppercase;
+}
+.quire-page__content .container .content table thead * {
+  background-color: var(--dark-blue);
+  color: var(--white) !important;
+}
 /* For table that's part of a figure group */
 #table-10-11-d {
   grid-column: 1/-1;
@@ -507,8 +578,31 @@
   }
   #table-10-11-d table {
     font-size: 0.75em
-
   }
+}
+/* For Gantt chart table */
+#table-10-2 table,
+[data-lightbox-slide-id='table-10-2'] table {
+  table-layout: fixed;
+}
+[data-lightbox-slide-id='table-10-2'] table {
+  min-width: 2200px;
+}
+#table-10-2 table thead tr th:first-child,
+[data-lightbox-slide-id='table-10-2'] table thead tr th:first-child {
+  width: 22%;
+}
+#table-10-2 table thead tr th,
+[data-lightbox-slide-id='table-10-2']table thead tr th {
+  width: 6%;
+  text-align: center;
+}
+#table-10-2 table tbody tr td,
+[data-lightbox-slide-id='table-10-2'] table tbody tr td {
+  /* overflow: clip; */
+  white-space: nowrap;
+  vertical-align: middle;
+  height: 1.8rem;
 }
 
 /* BACKMATTER PAGES: GLOSSSARY, REFERENCES, CONTRIBUTORS
@@ -555,6 +649,14 @@
     color: var(--light-gray);
   }
 }
+/* Match figcaption line height */
+.quire-page__content .container .content .footnotes * {
+  line-height: 1.5;
+}
+/* Utility Class */
+.no-break-container {
+  break-inside: avoid;
+}
 
 /* FIXES
 ============================================================================= */
@@ -597,7 +699,17 @@
 .q-figure.is-table-scale-9 {
   font-size: inherit;
 }
-
+/* Fix table hover behavior to match other figures */
+.quire-page__content .content tbody tr:hover {
+  background-color: transparent;
+}
+.q-figure > a:hover table img {
+  box-shadow: none;
+}
+/* Get better spacing under lists */
+.quire-page__content .container .content ul {
+  margin-bottom: 1.25rem;
+}
 /* Fix li markers appearance on page an in lightbox */
 .content ul {
   margin-left: 1.5em;
@@ -625,6 +737,47 @@
 /* PRINT STYLES
 ============================================================================= */
 @media print {
+  .half-title-page .half-title {
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 900;
+  }
+  .title-page .title {
+    font-size: 30pt;
+    text-transform: uppercase;
+    line-height: calc(var(--line-height-multiplier) * 30pt);
+  }
+  .title-page .subtitle {
+    font-size: calc(30pt * var(--subtitle-multiplier));
+    font-weight: 300;
+    display: block;
+    text-transform: none;
+  }
+  .title-page .contributor {
+    font-size: calc(var(--contributor-multiplier) * 30pt);
+    font-weight: 600;
+    margin-top: .5in;
+  }
+  .title-page .publisher {
+    font-size: 1.25rem;
+  }
+  .copyright-page .publisher p:first-child,
+  .copyright-page .cip-data p:first-child {
+    margin-bottom: 0;
+  }
+  .copyright-page .project-team ul li::marker,
+  .copyright-page .cip-data ul li::marker {
+    content: none !important;
+  }
+  .copyright-page .cip-data ul li {
+    line-height: 1.5;
+  }
+  .quire-contents .quire-contents-list > nav > ol > li.page-item:nth-child(-n+3) > a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+  }
+  .content ul.quire-contributors-list.name-title-block li {
+    line-height: 1.5;
+  }
   .pdf-float-top {
     float: none;
     -prince-float: top;

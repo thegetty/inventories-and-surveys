@@ -1,7 +1,7 @@
 ---
 label: "13"
 title: "Archaeology and Local Heritage Inventories in England: The View from Lincoln"
-short_title: 
+short_title:
 layout: essay
 contributor:
   - id: amacintosh
@@ -18,7 +18,7 @@ Many resources are available to guide the operators and users of England’s HER
 
 -   MIDAS Heritage, the U.K. Historic Environment Data Standard, defines what information should be included on HERs when recording heritage information ({% cite 'English Heritage 2012' %}).
 
--   The U.K.’s Forum on Information Standards in Heritage (FISH) maintains standard vocabularies used by all HERs ({% cite 'FISH n.d.' %}).
+-   The United Kingdom's Forum on Information Standards in Heritage (FISH) maintains standard vocabularies used by all HERs ({% cite 'FISH n.d.' %}).
 
 -   Working guidelines for HERs have been published as an online wiki ({% cite 'Informing the Future of the Past n.d.' %}).
 
@@ -66,7 +66,7 @@ Where data is restricted, such as that relating to ongoing planning applications
 
 For trusted users outside the organization, including members of local heritage societies or university staff, Arcade provides for data entry and upload. This capability has sparked new crowdsourcing initiatives, including providing a volunteer group with the ability to make provisional additions to Arcade (subject to verification) to identify and help protect particular historic buildings and enhance existing records. Such tasks would traditionally have been undertaken solely by council officers, who are now free to spend more time on casework, such as reviewing development proposals.
 
-## Lessons and Considerations 
+## Lessons and Considerations
 
 The experience of the English HER sector suggests the following key principles for incorporating archaeological data into heritage inventories:
 

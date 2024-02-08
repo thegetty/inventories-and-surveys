@@ -1,7 +1,7 @@
 ---
 label: "5"
 title: "SurveyLA and HistoricPlacesLA"
-subtitle: "A Synopsis" 
+subtitle: "A Synopsis"
 layout: essay
 contributor:
   - id: jhansen
@@ -28,15 +28,15 @@ Following the assessment project, the GCI began preparing a series of research p
 
 ## Survey Effort
 
-In 2005, the City of Los Angeles entered into a multiyear grant agreement with the Getty Foundation to complete the survey, with Getty funding underwriting a portion of project and the GCI providing advisory support to plan the survey process. Within a year, SurveyLA officially launched, when the Los Angeles City Planning department established and staffed the new Office of Historic Resources (OHR) as the managing agency for both the survey and the city’s preservation program. The GCI worked with the OHR to get SurveyLA off the ground and continued to provide research, technical, and advisory assistance throughout the project’s duration.
+In 2005 the City of Los Angeles entered into a multiyear grant agreement with the Getty Foundation to complete the survey, with Getty funding underwriting a portion of the project and the GCI providing advisory support to plan the survey process. Within a year, SurveyLA launched, when the Los Angeles City Planning department established and staffed the new Office of Historic Resources (OHR) as the managing agency for both the survey and the city’s preservation program. The GCI worked with the OHR to get SurveyLA off the ground and continued to provide research, technical, and advisory assistance throughout the project’s duration.
 
-The GCI survey report provided the blueprint for the OHR to develop a comprehensive plan for a massive survey effort that would be designed to meet California and U.S. federal professional standards and guidelines for survey work; engage and involve the public; cover a wide range of architectural, historic, ethnic, and cultural themes; record various heritage resource typologies; and generate data that was usable and accessible.
+The GCI survey report became the blueprint the OHR used to develop a comprehensive plan for a massive survey effort that would be designed to meet California and U.S. federal professional standards and guidelines for survey work; engage and involve the public; cover a wide range of architectural, historic, ethnic, and cultural themes; record various heritage resource typologies; and generate data that was usable and accessible.
 
 ## Initiation Phase
 
 The two-part plan included an initiation phase, during which survey tools and methods would be developed and tested, and an implementation phase, when the field surveys would be completed.
 
-During the initiation phase the OHR brought on a team of preservation consultants to assist planning staff with developing tools and methods to meet survey goals and objectives while creating efficiencies of scale to stay on schedule and within budget. When SurveyLA started, no off-the-shelf software designed for heritage resources data collection existed. To meet the goal of an all-digital survey as recommended by the Getty report, the project team developed an in-house customized geographic information system (GIS) survey application loaded on portable tablet computers for use in the field.[^2]
+During the initiation phase, the OHR brought on a team of preservation consultants to assist planning staff with developing tools and methods to meet survey goals and objectives while creating efficiencies of scale to stay on schedule and within budget. When SurveyLA started, no off-the-shelf software designed for heritage resources data collection existed. To meet the goal of an all-digital survey as recommended by the Getty report, the project team developed an in-house customized geographic information system (GIS) survey application loaded on portable tablet computers for use in the field.[^2]
 
 The GCI augmented the survey budget to assist with unanticipated costs associated with developing and testing the survey system throughout the initiation phase. Other survey tools included a citywide historic context statement designed to provide a consistent framework to identify, record, and evaluate resources during the survey, and an extensive public outreach program to engage a wide and diverse audience in all aspects of the project.
 
@@ -54,15 +54,15 @@ Concurrent with the surveys, the citywide historic context statement was revised
 
 ## Data Management and Access
 
-As SurveyLA field surveys continued, the city’s key challenge became managing and making accessible the massive amount of digital data being collected. At the time of SurveyLA, City Planning did not have a heritage inventory per se. Information on designated and eligible heritage resources had been included in Planning’s land use database – a web-based mapping system that provides planning and zoning reference information system on legal parcels citywide. But this system included (and still includes) only a limited set of information on heritage resources; it was not designed to integrate, display, or make searchable the amount and type of information collected for SurveyLA.[^3]
+As SurveyLA field surveys continued, the city’s key challenge became managing and making accessible the massive amount of digital data being collected. At the time of SurveyLA, City Planning did not have a heritage inventory per se. Information on designated and eligible heritage resources had been included in Planning’s land use database—a web-based mapping system that provides planning and zoning reference information system on legal parcels citywide. But this system included (and still includes) only a limited set of information on heritage resources; it was not designed to integrate, display, or make searchable the amount and type of information collected for SurveyLA.[^3]
 
 During SurveyLA, the GCI and World Monuments Fund had been separately developing the Arches open-source software platform, which was purpose built for managing and publishing heritage inventories (see [chapter 4](/part-i/chapter-4/)). The GCI and city decided to customize and deploy Arches for Los Angeles as a solution for managing and making searchable online data collected through SurveyLA. This decision created additional challenges regarding the compatibility of SurveyLA and other heritage data with the data structure of Arches and the ongoing need to integrate a subset of this data into the city’s land use database.
 
 ## HistoricPlacesLA
 
-HistoricPlacesLA, the city’s heritage resource inventory and management system, launched in 2015 with a partial set of SurveyLA data (see {% cite 'City of Los Angeles n.d.' %}). In 2016, the OHR brought on a full-time data manager, and by 2019, integration of SurveyLA data within HistoricPlacesLA was complete.
+HistoricPlacesLA, the city’s heritage resource inventory and management system, launched in 2015 with a partial set of SurveyLA data (see {% cite 'City of Los Angeles n.d.' %}). In 2016 the OHR brought on a full-time data manager, and by 2019 integration of SurveyLA data within HistoricPlacesLA was complete.
 
-At this writing, HistoricPlacesLA includes records on over fifty-seven thousand heritage resources ([fig. 5.2](#fig-5-2)). Integration of other heritage data not derived from SurveyLA continues, including work to complete and enhance records on newly designated and identified resources and districts.
+At this writing, HistoricPlacesLA includes records on over fifty-seven thousand heritage resources ([fig. 5.2](#fig-5-2)). Integration of other heritage data not derived from SurveyLA continues, including work to enhance and keep up to date records on designated and newly identified resources and districts.
 
 The system support, hosting, and maintenance has now been fully and permanently transitioned from the GCI to City Planning, attesting to the city’s long-term commitment to manage, update, and expand its heritage inventory.
 
@@ -70,7 +70,7 @@ The system support, hosting, and maintenance has now been fully and permanently 
 
 {% backmatter %}
 
-## Notes 
+## Notes
 
 {% endbackmatter %}
 

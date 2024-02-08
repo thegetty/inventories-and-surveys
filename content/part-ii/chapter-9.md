@@ -1,14 +1,14 @@
 ---
 label: "9"
 title: "Complete a Pilot Survey Program"
-short_title: 
+short_title:
 layout: essay
 contributor:
   - id: jhansen
 order: 80
 ---
 
-Before the official start of field surveys, a pilot survey program is critical to test and refine survey tools, methods, and procedures and to provide training for field surveyors. Ultimately, pilots fine-tune the field recording process, help ensure data integrity, and provide more precise estimates of the number of field surveyors needed, associated survey equipment required, and recording times for a variety of heritage resources. Survey budget, schedule, and staffing can then be adjusted accordingly. Pilots also help shape public participation and outreach strategies and inform writing historic contexts. The pilot program may result in a revised or supplemental survey plan to address additions, revisions, or adjustments to the survey process.
+Before the official start of field surveys, a pilot survey program is critical to test and refine survey tools, methods, and procedures and to provide training for field surveyors. Ultimately, pilots fine-tune the field recording process, help ensure data integrity, and provide more precise estimates of the number of field surveyors needed, associated survey equipment required, and recording times for a variety of heritage resources. Survey budget, schedule, and staffing can then be adjusted accordingly. Pilots also help shape public participation and outreach strategies and inform the writing of historic context statements. The pilot program may result in a revised or supplemental survey plan to address additions, revisions, or adjustments to the survey process.
 
 ## Organizing Pilot Surveys
 
@@ -18,9 +18,9 @@ The pilot program will represent a microcosm or subset of the larger survey effo
 
 Based on the SurveyLA experience, when organizing a pilot survey program, consider surveys that test:
 
--   **Themes that have an expected high yield of significant resources.** SurveyLA included a pilot for a subset of the city’s expansive post–World War II residential neighborhoods ([fig. 9.2](#fig-9-2)). This pilot helped establish field and research strategies for surveying postwar historic districts and assessing integrity and significance thresholds for postwar housing as a whole. The pilots also helped focus the approach for writing the post–World War II Suburbanization historic context statement.
+-   **Themes that have an expected high yield of significant resources.** SurveyLA included a pilot for a subset of the city’s expansive post–World War II residential neighborhoods ([fig. 9.2](#fig-9-2)). This pilot helped establish field and research strategies for surveying postwar historic districts and assessing integrity and significance thresholds for postwar housing as a whole. The pilots also helped focus the approach for writing the Post–World War II Suburbanization historic context statement.
 
-{% figure 'fig-9-2' %}
+    {% figure 'fig-9-2' %}
 
 -   **Geographic areas that have a high density of historic sites and an expected high yield of significant resources.** These pilot areas may require more surveyors, time, and other resources than less dense areas.
 
@@ -28,13 +28,13 @@ Based on the SurveyLA experience, when organizing a pilot survey program, consid
 
 -   **Themes, geographic areas, or resource types that focus on identification and evaluation of resources relating to ethnic and cultural histories.** This type of testing will assess the effectiveness of the associated outreach strategies for public participation and engagement, the success of which may vary considerably from community to community.
 
-## Managing Pilot Surveys 
+## Managing Pilot Surveys
 
-The following are general tips and recommendations for managing a pilot survey program.
+The following are general tips and recommendations for managing a pilot survey program:
 
--   An ongoing log is a critical tool for systematically tracking issues experienced during the pilot surveys. The log can be organized by categories relating to survey equipment and software, data collection and editing standards and procedures, research approaches, application of historic contexts, outreach strategies, and so forth ([fig. 9.3](#fig-9-3)). The log can also be used to track aspects of the survey that are particularly successful. Logged information could include date and time of recording, name of survey team member, summary of issue, date resolved, and notes. Use of a log can continue into the official field survey phase of a project, as was the case for SurveyLA.
+-   An ongoing log is a critical tool for systematically tracking issues experienced during the pilot survey. The log can be organized by categories relating to survey equipment and software, data collection and editing standards and procedures, research approaches, application of historic contexts, outreach strategies, and so forth ([fig. 9.3](#table-9-3)). The log can also be used to track aspects of the survey that are particularly successful. Logged information could include date and time of recording, name of survey team member, summary of issue, date resolved, and notes. Use of a log can continue into the official field survey phase of a project, as was the case for SurveyLA.
 
-{% figure 'table-9-3' 'is-table-scale-6 pdf-two-column' %}
+    {% figure 'table-9-3' 'is-table-scale-5 pdf-two-column' %}
 
 -   Regular survey team meetings are advised to discuss issues encountered during the pilot survey, such as those recorded in the log referenced above. The resolution of issues can then be prioritized and assigned to team members as needed.
 

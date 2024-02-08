@@ -81,7 +81,7 @@ $print-entry-image-display: all; // first | all
 // Declare theme variables
 $quire-primary-font: null; // body and menu text
 $quire-headings-font: $work-sans; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
+$quire-footnotes-font: $noto-sans; // footnotes and page backmatter
 $quire-navigation-font: null; // navbar and next/prev buttons
 
 @if $theme == classic {

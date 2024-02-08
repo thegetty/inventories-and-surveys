@@ -25,6 +25,9 @@ Generates HTML output for generation of EPUB book using [`EPUB.js`](http://futur
 **_includes/components/icon.js**
 Used `oneLine` instead of `html` so that the include could be used in Markdown files
 
+**_includes/components/icons.js**
+Add custom (bolder) version of full-screen icon to match design customizations
+
 **_includes/components/menu/header.js**
 Added individual title and subtitle elements
 
@@ -40,11 +43,17 @@ Add the page-level sort_as value if included with a contributor id
 **_plugins/markdown/index.js**
 Create better line breaks for URLs, per Chicago Manual of Style
 
+**_plugins/shortcodes/cite.js**
+Return plain cite id if no match is found in references.yaml
+
 **_plugins/shortcodes/contributors.js**
 Refactor logic to handle oxford commas correctly
 
 **_plugins/shortcodes/figureGroup.js**
 Simplify markup and enable custom classes and group captions for figure groups
+
+**_plugins/transforms/outputs/pdf/transform.js**
+Remove title truncation from PDF footer
 
 **content/_assets/javascript/application/index.js**
 Added copyURL() function to strip zero-width spaces from URLs on copy, which were added to improve URL line breaks
