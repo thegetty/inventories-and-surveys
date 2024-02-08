@@ -5,7 +5,9 @@ subtitle: "Purpose-Built Software for Heritage Inventories and Surveys"
 layout: essay
 contributor:
   - id: aenriquez
+    sort_as: "1"
   - id: dmyers
+    sort_as: "2"
 order: 50
 ---
 

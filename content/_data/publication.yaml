@@ -68,12 +68,14 @@ contributor:
     type: primary
     first_name: David
     last_name: Myers
+    sort_as: "1"
     bio: |
       David Myers is a senior project specialist at the Getty Conservation Institute. He manages the GCI’s Inventories for Heritage Management project, and is a member of the GCI’s Arches project team, having worked on building the Arches open-source community and on the implementation of the Arches Heritage Data Management Platform with the City of Los Angeles and with national and local government authorities in England. He also managed the GCI’s Heritage Values, Stakeholders, and Consensus Building project. Other past contributions include work on the GCI’s Los Angeles Historic Resource Survey project, on a project to develop and implement the Middle Eastern Geodatabase for Antiquities (MEGA) – Jordan, and on GCI projects in Egypt, in southern Africa, in Myanmar, and for Iraq. He also previously served as a legislative assistant to a member of the U.S. House of Representatives.
   - id: jhansen
     type: primary
     first_name: Janet
     last_name: Hansen
+    sort_as: "2"
     bio: |
       Janet Hansen has more than thirty years of experience in the field of heritage preservation, with particular expertise in developing and implementing heritage surveys to inform preservation policy and practice in local government environments. As the deputy manager of the Los Angeles Office of Historic Resources, she managed the precedent-setting SurveyLA project from inception to completion. Janet serves as an advisor to other municipalities planning heritage surveys, has lectured on the topic at conferences and universities throughout the United States and in Canada, and has published numerous papers and articles on various aspects of SurveyLA.
   - id: lwbricker
