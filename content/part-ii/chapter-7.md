@@ -12,9 +12,14 @@ The process of survey planning expands on the findings of the needs assessment t
 
 ## The Plan
 
-Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the [resource 7.1](#sidebar-1), Sample Survey Plan Outline (see also {% cite 'City of Toronto 2019' %}).
+Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the [resource 7.1](#resource-7-1), Sample Survey Plan Outline (see also {% cite 'City of Toronto 2019' %}).
 
-{% accordion '## Resource 7.1: Sample Survey Plan Outline' 'sidebar-1' %}
+
+<section class="additional-resource pdf-two-column" id="resource-7-1">
+
+#### <span class="label">Resource 7.1</span> Sample Survey Plan Outline
+
+{% accordion 'Full Text' %}
 
 <ol type="I">
   <li>Introduction and Purpose of the Survey Plan
@@ -81,6 +86,8 @@ Survey planning culminates in a written survey plan. While survey plans may vary
 </ol>
 
 {% endaccordion %}
+
+</section >
 
 A primary audience for a plan may be decision-makers, such as a city or town council responsible for officially endorsing a survey and allocating or securing resources for its completion. The plan can also be used to introduce the survey to stakeholders and the general public, to encourage broad-based interest in the project, and to initiate community outreach efforts. Finally, the plan can serve as the starting point for a more detailed strategy to guide day-to-day survey project management.
 
@@ -293,15 +300,15 @@ Volunteers can play a critical role in supplementing the work of project staff, 
 
 Although volunteers may have a variety of skill sets, they will have in common a desire to feel a part of and contribute meaningfully to the survey. A well-designed volunteer program identifies and describes specific opportunities that account for a range of skills and also establishes qualifications, work programs (including expected time commitments), and relevant training needed for each activity. In this way, potential volunteers have a clear understanding of what activities may or may not be available to them. The roles of volunteers in various aspects of a survey are discussed in subsequent chapters where relevant.
 
-Volunteers, like interns, are not recommended for tasks that require specialized professional training, experience, and qualifications or that may have implications for credible and defensible survey results. A volunteer intake questionnaire, such as the one used for SurveyLA shown in [resource 7.2](#resource-1), can aid in the process of engaging community members with a range of skills and matching them with tasks that align with individual interests and skills.
+Volunteers, like interns, are not recommended for tasks that require specialized professional training, experience, and qualifications or that may have implications for credible and defensible survey results. A volunteer intake questionnaire, such as the one used for SurveyLA shown in [resource 7.2](#resource-7-2), can aid in the process of engaging community members with a range of skills and matching them with tasks that align with individual interests and skills.
 
-<section class="additional-resource" id="resource-1">
+<section class="additional-resource" id="resource-7-2">
 
-#### SurveyLA: Volunteer Registration Form
+#### <span class="label">Resource 7.2</span> SurveyLA: Volunteer Registration Form
 
 {% figuregroup '2' 'ch-7-resource-1' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
-{% accordion '##### Full Text' %}
+{% accordion 'Full Text' %}
 
 <form disabled="disabled">
 

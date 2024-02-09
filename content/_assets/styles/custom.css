@@ -311,10 +311,17 @@
 /* Special <sections> with PDF downloads and/or accordions containing full-test resources */
 .additional-resource {
   background-color: var(--dark-blue);
-  border-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
   color: var(--white);
   margin-bottom: 1.5rem;
   border-bottom: 10px solid var(--gray);
+}
+.additional-resource .label {
+  color: var(--white);
+  margin-bottom: .25rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 .additional-resource h4 {
   font-weight: 600;
@@ -359,6 +366,7 @@
   width: 1rem;
   height: 1rem;
   fill: currentColor;
+  margin-left: .25rem;
 }
 /* For figures, usually the cover of the report in question */
 .additional-resource .q-figure {
@@ -376,7 +384,8 @@
 /* For the full-text TOCs */
 .additional-resource ol,
 .additional-resource ol li {
-  margin-left: .5rem !important;
+  margin-left: 1rem !important;
+  margin-top: 0;
 }
 .additional-resource ul,
 .additional-resource ul li {
@@ -385,10 +394,17 @@
 .additional-resource ul li ul,
 .additional-resource ol li ul {
   margin-left: 1.5rem !important;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
 }
 .additional-resource ul li::marker {
   content: none !important;
 }
+.quire-page__content .container .content .additional-resource li {
+  margin-bottom: 0 !important;
+  line-height: 2;
+}
+
 /* Some Resources appear within lists, but the markdown processor wasn't working with them, so this makes them *look* like they're in the list */
 .additional-resource.inside-list {
   margin-left: 2.5rem;
@@ -437,9 +453,9 @@
   margin-top: .5rem;
 }
 @media print {
-  /* Hide the download link */
-  .additional-resource > p > a:after {
-    content: " (" attr(href) ")";
+  /* Print the URL instead of "download" and icon */
+  .additional-resource > p > a {
+    content: attr(href);
   }
   .additional-resource .accordion-section {
     background-color: var(--light-gray);
@@ -454,6 +470,9 @@
   }
   .additional-resource {
     border-bottom-width: 0;
+  }
+  .additional-resource.no-accordion {
+    border-bottom-width: 10px;
   }
   .additional-resource .accordion-section > * {
     color: var(--black);
@@ -477,6 +496,14 @@
   }
   .additional-resource .q-figure.q-figure--group.quire-grid--2 .q-figure {
     width: 47%; 
+  }
+  #resource-7-1 .accordion-section > p:first-child,
+  #resource-7-2 .accordion-section > p:first-child {
+    display: none;
+  }
+  #resource-7-1 .accordion-section > ol {
+    column-count: 2;
+    column-gap: 0.1875in;
   }
 }
 

@@ -193,16 +193,15 @@ The following tips may also relate to narrative thematic (or theme) studies (see
 
 -   Interns can support the work of writers and complete secondary tasks such as research, fact-checking, photography, and document formatting.
 
--   A writer’s guide like the one shown in [resource 8.1](#resource-1), the *Citywide Historic Context Statement: Resource Guide*, created for SurveyLA, can be an important tool to provide direction to writers and to help ensure quality and consistent final products ({% cite 'Los Angeles City Planning 2012' %}). The SurveyLA guide is both a useful prototype and a particularly relevant source for developing historic contexts using the MPD approach.
+-   A writer’s guide like the one shown in [resource 8.1](#resource-8-1), the *Citywide Historic Context Statement: Resource Guide*, created for SurveyLA, can be an important tool to provide direction to writers and to help ensure quality and consistent final products ({% cite 'Los Angeles City Planning 2012' %}). The SurveyLA guide is both a useful prototype and a particularly relevant source for developing historic contexts using the MPD approach.
 
 -   Training workshops are an efficient way to introduce and discuss the writer’s guide and to help ensure that writers have a common understanding of the writing process and the expected product. Workshops are also a good way for writers to meet, share their experiences, and have their questions addressed in a collaborative group setting.
 
+<section class="additional-resource" id="resource-8-1">
 
-<section class="additional-resource inside-list" id="resource-1">
+#### <span class="label">Resource 8.1</span> Citywide Historic Context Statement: Resource Guide
 
-#### Resource 8.1: Citywide Historic Context Statement: <br />Resource Guide
-
-[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/Historic_Context_Statement_Resource_Guide.pdf){target=_blank}
+[Download Guide {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-1.pdf){target=_blank}
 
 {% figuregroup '2' 'ch-8-resource-1' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
@@ -228,18 +227,16 @@ The following tips may also relate to narrative thematic (or theme) studies (see
     - 5.1 Context, Theme, and Property Type
     - 5.2 Eligibility Standards: 1 of 2
     - 5.3 Eligibility Standards: 2 of 2 (Integrity)
-
-APPENDICES:
-
-- APPENDIX A: Criteria for Evaluation
-    - A1: National Register of Historic Places (NR)
-    - A2: California Register of Historical Resources (CR)
-    - A3: City of Los Angeles Historic-Cultural Monument (HCM)
-    - A4: Historic Preservation Overlay Zone (HPOZ)
-- APPENDIX B: Areas of Significance
-- APPENDIX C: CHR Status Codes
-- APPENDIX D: Historic Property Definitions
-- APPENDIX E: Additional Sources of Information
+- APPENDICES
+  - APPENDIX A: Criteria for Evaluation
+      - A1: National Register of Historic Places (NR)
+      - A2: California Register of Historical Resources (CR)
+      - A3: City of Los Angeles Historic-Cultural Monument (HCM)
+      - A4: Historic Preservation Overlay Zone (HPOZ)
+  - APPENDIX B: Areas of Significance
+  - APPENDIX C: CHR Status Codes
+  - APPENDIX D: Historic Property Definitions
+  - APPENDIX E: Additional Sources of Information
 
 {% endaccordion %}
 
@@ -322,15 +319,15 @@ A range of tools, materials, and activities may be considered to support outreac
 
     -   Flyers to advertise public meetings, workshops, and other survey events[^9]
 
--   **Questionnaires.** A questionnaire like that in [resource 8.2](#resource-2) can be designed to solicit ideas and information from the public about heritage resources that may be included in the survey. It can be produced in hard copy for distribution at public meetings and other venues and as an online form available on the project website, where it can be completed and submitted.
+-   **Questionnaires.** A questionnaire like that in [resource 8.2](#resource-8-2) can be designed to solicit ideas and information from the public about heritage resources that may be included in the survey. It can be produced in hard copy for distribution at public meetings and other venues and as an online form available on the project website, where it can be completed and submitted.
 
-<section class="additional-resource inside-list" id="resource-2">
+<section class="additional-resource inside-list no-accordion" id="resource-8-2">
 
-#### Resource 8.2: MyHistoricLA Historic Resources Identification Form developed for SurveyLA
+#### <span class="label">Resource 8.2</span> MyHistoricLA Historic Resources Identification Form developed for SurveyLA
 
-[Download Form {% icon type='download' description='Download the PDF' %}](/_assets/downloads/MyHistoricLA_Historic_Resources_Identification_Form.pdf){target=_blank}
+[Download Form {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-2.pdf){target=_blank}
 
-{% figuregroup '2' 'ch-8-resource-2-a, ch-8-resource-2-b' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '2' 'ch-8-resource-2-a' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
 </section>
 
@@ -338,16 +335,15 @@ A range of tools, materials, and activities may be considered to support outreac
 
 -   **Social media and crowdsourcing.** Social media platforms and online crowdsourcing activities can both be effective tools for survey outreach to reach widespread and varied audiences, promote interest and awareness, and provide opportunities for direct input and involvement. These tools can also provide a method to track online engagement ({% cite 'Hansen and Delgadillo Cruz 2019' '30' %}). With the necessary metrics to evaluate outreach strategies, a managing agency or organization can bolster successful campaigns and adjust those that are less effective. (See {% cite 'Minner et al. 2015' %} for a case study of the use of crowdsourcing to inform heritage surveys in Austin, Texas.)
 
--   **Community training guides and workshops.** Training guides and related workshops are an effective means of giving community leaders and members the information and skills they need to contribute to survey initiatives. *MyHistoricLA: Guide to Public Participation in SurveyLA* (see [resource 8.3](#resource-3)) provided a range of activities to enable individuals, neighborhoods, and organizations to take ownership of and manage their own contributions to SurveyLA ({% cite 'Los Angeles City Planning 2010' %}).
+-   **Community training guides and workshops.** Training guides and related workshops are an effective means of giving community leaders and members the information and skills they need to contribute to survey initiatives. *MyHistoricLA: Guide to Public Participation in SurveyLA* (see [resource 8.3](#resource-8-3)) provided a range of activities to enable individuals, neighborhoods, and organizations to take ownership of and manage their own contributions to SurveyLA ({% cite 'Los Angeles City Planning 2010' %}).
 
--   **Speakers bureau.** A speakers bureau is a group of speakers, usually volunteers, who can educate and inform the public about a survey. In many ways, they are ambassadors for a survey project. The SurveyLA speakers bureau participants were enlisted through the project’s volunteer program. SurveyLA staff and consultants developed a training guide (see [resource 8.4](#resource-4) for contents) and trained volunteers over three consecutive weekends.[^10] Speakers primarily presented in their own communities and in a number of venues such as community meetings and heritage-related events throughout Los Angeles. Managing and training a speakers bureau is time consuming but can be particularly important for large-scale surveys and those with a limited budget for outreach staff.
+-   **Speakers bureau.** A speakers bureau is a group of speakers, usually volunteers, who can educate and inform the public about a survey. In many ways, they are ambassadors for a survey project. The SurveyLA speakers bureau participants were enlisted through the project’s volunteer program. SurveyLA staff and consultants developed a training guide (see [resource 8.4](#resource-8-4) for contents) and trained volunteers over three consecutive weekends.[^10] Speakers primarily presented in their own communities and in a number of venues such as community meetings and heritage-related events throughout Los Angeles. Managing and training a speakers bureau is time consuming but can be particularly important for large-scale surveys and those with a limited budget for outreach staff.
 
+<section class="additional-resource pdf-float-top" id="resource-8-3">
 
-<section class="additional-resource inside-list" id="resource-3">
+#### <span class="label">Resource 8.3</span> MyHistoricLA: Guide to Public Participation in SurveyLA
 
-#### Resource 8.3: MyHistoricLA: Guide to Public Participation in SurveyLA
-
-[Download Guide {% icon type='download' description='Download the PDF' %}](/_assets/downloads/MyHistoricLA_Guide_to_Public_Participation_in_SurveyLA.pdf){target=_blank}
+[Download Guide {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-3.pdf){target=_blank}
 
 {% figuregroup '2' 'ch-8-resource-3' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
@@ -383,10 +379,9 @@ A range of tools, materials, and activities may be considered to support outreac
 
 </section>
 
+<section class="additional-resource" id="resource-8-4">
 
-<section class="additional-resource inside-list" id="resource-4">
-
-#### Resource 8.4: SurveyLA Speakers Bureau Training Guide
+#### <span class="label">Resource 8.4</span> SurveyLA Speakers Bureau Training Guide
 
 {% figuregroup '2' 'ch-8-resource-4' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
