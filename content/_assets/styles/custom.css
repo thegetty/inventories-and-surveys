@@ -607,24 +607,29 @@
 
 /* BACKMATTER PAGES: GLOSSSARY, REFERENCES, CONTRIBUTORS
 ============================================================================= */
-.quire-page.backmatter .quire-page__content {
+.quire-page.backmatter .quire-page__content,
+.quire-page.glossary .quire-page__content {
   line-height: 2;
 }
-.quire-page.backmatter .quire-page__content dl {
+.quire-page.backmatter .quire-page__content dl,
+.quire-page.glossary .quire-page__content dl {
   margin-left: 0;
 }
 
 @media print {
-  .quire-page.backmatter .quire-page__content {
+  .quire-page.backmatter .quire-page__content,
+  .quire-page.glossary .quire-page__content {
     column-count: 2;
     column-gap: 0.1875in;
-    font-size: 0.75rem !important;
     line-height: 1.6 !important;
     margin: 0;
     max-width: 100%;
   }
-  #page-glossary.quire-page.backmatter .quire-page__content a {
+  .quire-page.glossary .quire-page__content a {
     font-weight: bold;
+  }
+  .quire-page.backmatter .quire-page__content {
+    font-size: 0.75rem !important;
   }
   .quire-page.backmatter .quire-page__content dd {
     break-before: avoid;

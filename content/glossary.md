@@ -2,7 +2,7 @@
 title: "Glossary"
 layout: page
 classes:
-  - backmatter
+  - glossary
 order: 125
 ---
 
