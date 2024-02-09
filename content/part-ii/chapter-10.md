@@ -375,7 +375,7 @@ Southeast Los Angeles is mostly flat in terrain and composed of numbered streets
 
 When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11)).
 
-{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
 
 Using the preloaded reference layers in the mobile survey application (see [Designing Digital Surveys](/part-ii/chapter-8/#designing-digital-surveys) in chapter 8), surveyors could see that these houses were all constructed in the same year: 1920. Field observations also noted the houses’ condition and alterations that had been made to them. The survey team members agreed the neighborhood was something to research further, and they noted it on the reconnaissance map for additional study.
 
@@ -387,7 +387,7 @@ Upon review of research materials, including subdivision maps, historic building
 
 Based on the reconnaissance survey and research, surveyors identified the housing tract as a potential residential historic district associated with three contexts and associated themes of the citywide historic context: residential architecture, residential development, and industrial development/labor history in Los Angeles. Based on analysis of the potential district within the eligibility criteria and standards for each theme, surveyors determined that the district met only those associated with labor history. It is a significant example of an early housing subdivision constructed by an important industrial manufacturer, Goodyear Tire & Rubber Company, for its workers ([fig. 10.12](#fig-10-12)). This type of housing development, planned and constructed by an industrial employer, was extremely rare in Los Angeles in the early twentieth century. Under comparative analysis, no other examples of company-built single-family worker housing have been recorded for SurveyLA, making this district the only known survivor of the heritage resource type.
 
-{% figure 'fig-10-12' %}
+{% figure 'table-10-12' 'pdf-two-column' %}
 
 ### Intensive Field Survey, Documentation, and Final Assessment
 

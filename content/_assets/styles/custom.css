@@ -27,7 +27,9 @@
 
 :root {
   --dark-blue: #112e4a;
-  --light-blue: #69dcf8;
+  --mid-blue: #007fb7;
+  --light-blue: #5ebad1;
+  --lighter-blue: #c5e1ea;
   --pink: #f98d8d;
   --dark-pink: #e66464;
   --red: #e23a3a;
@@ -231,7 +233,6 @@
 .accordion-section[id^='sidebar'] {
   background-color: var(--light-blue);
   border-bottom: 10px solid var(--dark-blue);
-  border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
   float: right;
   margin-bottom: 1.5rem;
@@ -311,8 +312,7 @@
 /* Special <sections> with PDF downloads and/or accordions containing full-test resources */
 .additional-resource {
   background-color: var(--dark-blue);
-  border-top-right-radius: 1rem;
-  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
   color: var(--white);
   margin-bottom: 1.5rem;
   border-bottom: 10px solid var(--gray);
@@ -467,6 +467,7 @@
     width: calc(100% + .5pt);
     margin-left: -.25pt;
     border-bottom: 10px solid var(--gray);
+    border-bottom-left-radius: 1rem;
   }
   .additional-resource {
     border-bottom-width: 0;
@@ -581,16 +582,51 @@
   box-shadow: none;
 }
 /* Table Figures */
+.quire-page__content .container .content table {
+  background-color: var(--light-gray);
+  border-bottom: 10px solid var(--gray);
+  border-bottom-left-radius: 1rem;
+  border-collapse: initial;
+}
 .quire-page__content .container .content table caption {
   font-size: .875rem;
+  background-color: var(--dark-blue);
+  color: var(--white) !important;
+  margin: 0;
+  padding: 1rem;
 }
 .quire-page__content .container .content table caption strong {
   display: block;
-  text-transform: uppercase;
+  color: var(--white) !important;
 }
 .quire-page__content .container .content table thead * {
-  background-color: var(--dark-blue);
-  color: var(--white) !important;
+  background-color: var(--light-blue);
+}
+.quire-page__content .container .content table ul,
+.quire-page__content .container .content table ul li {
+  margin-bottom: 0;
+}
+.content table td, 
+.content table th {
+  border-color: var(--white);
+}
+table .table-subhead {
+  background-color: var(--lighter-blue);
+}
+.quire-page__content .container .content ul.table-notes {
+  list-style-type: none;
+  width: 100%;
+  text-align: left;
+}
+.quire-page__content .container .content ul.table-notes li {
+  margin-bottom: 0;
+  line-height: 1.3;
+  font-size: .875rem;
+  width: 100%;
+  text-align: left;
+}
+.quire-page__content .container .content ul.table-notes li::marker {
+  content: '';
 }
 /* For table that's part of a figure group */
 #table-10-11-d {
@@ -620,7 +656,7 @@
   width: 22%;
 }
 #table-10-2 table thead tr th,
-[data-lightbox-slide-id='table-10-2']table thead tr th {
+[data-lightbox-slide-id='table-10-2'] table thead tr th {
   width: 6%;
   text-align: center;
 }
@@ -630,6 +666,16 @@
   white-space: nowrap;
   vertical-align: middle;
   height: 1.8rem;
+} 
+@media print {
+  #table-10-2 table thead tr th:first-child {
+    width: 1.5in;
+  }
+  #table-10-2 table tbody tr {
+    height: 2.5rem;
+    max-height: 2.5rem;
+    line-height: 1.3;
+  }
 }
 
 /* BACKMATTER PAGES: GLOSSSARY, REFERENCES, CONTRIBUTORS
@@ -764,6 +810,20 @@
 .q-figure.is-table-scale-9 {
   font-size: inherit;
 }
+@media print {
+  .q-figure.is-table-scale-6#table-7-1 table {
+    font-size: 0.875rem;
+  }
+  .q-figure.is-table-scale-5#table-9-3 table {
+    font-size: 0.7rem;
+    line-height: 1.3;
+  }
+  .q-figure.is-table-scale-4#table-10-2 table {
+    font-size: 0.6rem;
+    line-height: 1.3;
+  }
+}
+
 /* Fix table hover behavior to match other figures */
 .quire-page__content .content tbody tr:hover {
   background-color: transparent;
