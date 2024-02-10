@@ -6,13 +6,16 @@ layout: essay
 contributor:
   - id: dmyers
 order: 45
+sidebar:
+  - id: sidebar-1
+    title: Resources
 ---
 
 Given the information presented in the preceding chapters, what might heritage organizations consider in their particular cases when approaching the establishment, modernization, or invigoration of heritage inventories or increasing their effectiveness? In this chapter, a series of considerations is presented for an organization to use in examining what is needed in its particular case given its own circumstances.
 
 The considerations that follow are based on a checklist created by the Getty Conservation Institute, which was informed by its research as well as collective experiences over a number of years dealing with heritage inventories in a variety of contexts and stages of development. Many of these considerations relate to the potential types of infrastructure, resources, and activities to support inventories described in [chapter 2](/part-i/chapter-2/).
 
-The considerations are presented with the most fundamental first followed by others that build upon them. (Note that not all considerations will be relevant to every heritage organization.) A [Resources sidebar](#sidebar) provides descriptions and directions to further guidance, related standards, or relevant examples of inventory practice.
+The considerations are presented with the most fundamental first followed by others that build upon them. (Note that not all considerations will be relevant to every heritage organization.) A [Resources sidebar](#sidebar-1) provides descriptions and directions to further guidance, related standards, or relevant examples of inventory practice.
 
 ## Legal and Organizational Considerations
 
@@ -92,11 +95,11 @@ Following from identifying the heritage resource types and other record types to
 
 ### Are Controlled Vocabularies Needed for the Inventory? {#controlled-vocabularies}
 
-As discussed in the [Controlled Vocabularies sidebar](/part-i/chapter-2/#sidebar-1) in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
+As discussed in the [Controlled Vocabularies sidebar](/part-i/chapter-2/#sidebar-2) in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
 
 The task of defining controlled vocabularies may require the involvement of a group of professionals with expertise in the range of topics covered, as well as familiarity with knowledge-organization practices. An organization may also wish to identify specific staff that will have ongoing responsibility for the management of controlled vocabularies, and perhaps also a standing reference group to consult as questions or issues arise. See [Controlled Vocabularies](#controlled-vocabularies-in-sidebar) in the sidebar for several resources on this topic.
 
-{% accordion '## Resources' 'sidebar' %}
+{% accordion '## Resources' 'sidebar-1' %}
 
 The resources listed below are particularly useful references, standards, and examples of practice related to the topics covered in part I.
 
@@ -282,7 +285,7 @@ For your inventory program, what measures should be implemented to create, colle
 
 Consider which of those activities are needed and feasible in the case of your inventory.
 
-An important part of improving inventory information is determining a regular schedule for proactively assessing its status to identify gaps and particular areas in need of updating. When relevant, thematic frameworks and thematic studies or historic context statements can aid in this process (see the [Overview sidebar](/part-i/chapter-2/#sidebar-2) on this topic in chapter 2 for more on these tools). Through this sort of assessment, a heritage organization might recognize the need to carry out new surveys or other data collection activities or determine topical areas in need of new research to help address inventory gaps. Once needs for new data collection or research are identified, steps can be taken to determine when and how they should be undertaken.
+An important part of improving inventory information is determining a regular schedule for proactively assessing its status to identify gaps and particular areas in need of updating. When relevant, thematic frameworks and thematic studies or historic context statements can aid in this process (see the [Overview sidebar](/part-i/chapter-2/#sidebar-1) on this topic in chapter 2 for more on these tools). Through this sort of assessment, a heritage organization might recognize the need to carry out new surveys or other data collection activities or determine topical areas in need of new research to help address inventory gaps. Once needs for new data collection or research are identified, steps can be taken to determine when and how they should be undertaken.
 
 Finally, as mentioned previously, it is important that heritage organizations strive for accuracy of inventory information to provide a sound basis for heritage management decisions. Therefore, it is recommended that heritage inventory programs put in place measures for data validation through information quality assurance (QA) and quality control (QC). The U.S. Geological Survey defines the two concepts as follows: “QA refers to defect prevention, whereas QC refers to defect detection. Generally, QA is applied before and during data acquisition, whereas QC is applied after data are in hand” ({% cite 'USGS n.d.' %}).
 

@@ -35,7 +35,7 @@ Added individual title and subtitle elements
 Add subtitles, and Foreword contributors with affiliations to sidebar menu
 
 **_includes/components/table-of-contents/item/list.js**
-Added affiliations for Foreword authors
+Added affiliations for Foreword authors, and added listing of any sidebars in the chapter
 
 **_layouts/cover.liquid**
 Remove unused reading_line element, and hard-coded <em> tags on contributors
@@ -63,3 +63,6 @@ Remove title truncation from PDF footer
 
 **content/_assets/javascript/application/index.js**
 Added copyURL() function to strip zero-width spaces from URLs on copy, which were added to improve URL line breaks
+
+**content/_computed/eleventyComputed.js**
+Added `sidebar` to global page data, for listing sidebars in TOC in `_includes/components/table-of-contents/item/list.js`

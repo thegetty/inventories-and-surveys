@@ -9,6 +9,9 @@ contributor:
   - id: dmyers
     sort_as: "2"
 order: 50
+sidebar:
+  - id: sidebar-1
+    title: Arches in Use
 ---
 
 Inventories are an integral component for organizations seeking to implement their mandates for cultural heritage conservation and management. Web-based inventories harnessing the capabilities of modern information technologies facilitate proactive, timely, and informed decisions that mitigate a range of threats to heritage places and apply heritage-related laws and policies. However, a number of challenges continue to put developing and maintaining effective digital inventories beyond the reach of many heritage organizations. These include:
@@ -45,7 +48,7 @@ Choosing an open-source software approach enables the work of the project to inc
 
 ## Arches Capabilities
 
-The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. See the [Arches in Use sidebar](#sidebar) for example implementations. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}).[^1]
+The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. See the [Arches in Use sidebar](#sidebar-1) for example implementations. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}).[^1]
 
 ### Data Management {#data-management}
 
@@ -81,7 +84,7 @@ Surveys are an important data pipeline for heritage inventories, and Arches-powe
 
 Another method to integrate survey data involves using other applications to collect survey data and importing the data via a separate process into Arches. Arches can bulk import large amounts of data via common file formats, such as CSV, JSON, and Shapefile, via a synchronous link to other systems using custom programming via an application programming interface (API), and via interaction with the underlying PostgreSQL database.
 
-{% accordion '## Arches in Use' 'sidebar' %}
+{% accordion '## Arches in Use' 'sidebar-1' %}
 
 Arches is currently being used independently by heritage organizations worldwide to serve their individual heritage inventory and survey goals. Because the software is powerful and flexible, it can be customized to manage heritage inventory data on a national, regional, and site-specific scale and to fit the implementor’s methodology and practice. Given that Arches is open-source software that can be downloaded and installed anonymously, it is not possible to know of everyone who is using it and how. As of this writing, the GCI knows of nearly one hundred implementations of Arches (already launched or in preparation), with many more in the planning stage. The known implementations collectively record heritage spanning five continents and nearly sixty countries. See “Who Is Using Arches?” at https://www.archesproject.org/implementations-of-arches/ for further information on deployments of Arches.
 

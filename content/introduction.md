@@ -8,6 +8,9 @@ contributor:
   - id: dmyers
   - id: jhansen
 order: 25
+sidebar:
+  - id: sidebar-1
+    title: How to Use This Book
 ---
 
 An enduring principle in the practice of cultural heritage management is that, to be effective in protecting and managing heritage, knowing what heritage you have is essential to safeguarding it. This principle holds for any organization or individual professional. The more thoroughly the heritage is understood, the better it can be managed. This makes inventories and related surveys, as well as other data collection activities, fundamental to effective heritage management.
@@ -30,11 +33,11 @@ In recent years, an increasing number of heritage agencies—from both North Ame
 
 Through these initiatives, the GCI has been involved with establishing new inventory systems in the United States, United Kingdom, Middle East, and China, and has engaged with professionals from across the world involved in heritage inventories and related standards and information technologies. These experiences have revealed renewed and growing interest in heritage inventories and surveys that employ contemporary approaches and effective practices in the field of heritage place management. Perhaps more importantly, these interactions have underscored the urgent need for new and updated guidance on inventories and surveys reflecting technological advancements in data collection and management and shifting mindsets in the heritage field that broaden the types of heritage resources and the reasons they should be identified and recorded, while also providing for greater public input and engagement.
 
-Despite the foundational role of inventories and surveys in heritage management, related guidance that exists on how they should be created, implemented, and maintained is inconsistent and in many instances outdated. The two primary international standards relating to heritage inventories—both of which aim to identify core items of information that should form a part of any cultural heritage inventory—date from the mid-1990s, a relatively early point in the development of digital information systems and before the widespread adoption of geographic information systems.[^2] In the United States, national professional standards and guidelines for heritage surveys date from the mid-1980s, reflecting a predigital era.[^3] Today, the body of literature in the United States on survey and inventory methods and practice is scant, other than these arguably outdated technical publications, which still serve as go-to resources for conducting heritage surveys.
+Despite the foundational role of inventories and surveys in heritage management, related guidance that exists on how they should be created, implemented, and maintained is inconsistent and in many instances outdated. The two primary international standards relating to heritage inventories—both of which aim to identify core items of information that should form a part of any cultural heritage inventory—date from the mid-1990s, a relatively early point in the development of digital information systems and before the widespread adoption of geographic information systems.[^2] In the United States, national professional standards and guidelines for heritage surveys date from the mid-1980s, reflecting a predigital era.[^3] Today, the body of literature in the United States on survey and inventory methods and practice is scant, other than these arguably outdated technical publications, which still serve as go-toar resources for conducting heritage surveys.
 
 Although some jurisdictions do have more current guidance, in our experience interacting with colleagues from a broad range of heritage agencies around the world, more often than not, available guidance on inventories is not only dated but also limited. The impetus for this publication, therefore, is to draw on the authors’ and others’ experiences to fill information gaps by providing practical technical advice, guidance, and lessons learned for creating functional, usable inventories and conducting modern surveys based on current practices in heritage management.
 
-{% accordion '## How to Use This Book' 'sidebar' %}
+{% accordion '## How to Use This Book' 'sidebar-1' %}
 
 This book is organized as follows:
 

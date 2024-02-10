@@ -6,6 +6,9 @@ layout: essay
 contributor:
   - id: jhansen
 order: 70
+sidebar: 
+  - id: sidebar-1
+    title: Historic Preservation Practice in the United States
 ---
 
 The process of survey planning expands on the findings of the needs assessment to provide a blueprint for how the survey will be resourced, managed, designed, and carried out. While there is no single approach to survey planning that fits all agencies and organizations, there are commonalities in the topics and issues to consider, and those are the focus of this chapter. Project administration is discussed in detail first, followed by an introduction to specific components of a survey to consider when developing a survey methodology; those elements are explored in further detail in the next two chapters.
@@ -153,7 +156,7 @@ Official survey standards and guidelines have been developed and published by na
 
 It is important to acknowledge that in many cases, existing standards and guidelines are outdated. For example, data fields required for old paper survey forms may refer to specific ways to record spatial information that are no longer pertinent for digital data collection. As well, standards and guidelines may not apply to documenting the range of themes and heritage typologies that characterize modern surveys, such as intangible heritage. The planning phase is a critical time to assess and address the relevancy of these survey standards for a modern survey.
 
-{% accordion '## Historic Preservation Practice in the United States' 'sidebar-2' %}
+{% accordion '## Historic Preservation Practice in the United States' 'sidebar-1' %}
 
 Following passage of the National Historic Preservation Act of 1966 (NHPA), the U.S. Department of the Interior and the National Park Service (NPS) prepared extensive standards and guidelines concerning historic preservation activities carried out under federal programs, state and local level governments, and private parties ({% cite 'National Park Service 1983' %}). This guidance serves as nationally accepted professional standards for his­toric preservation practice and ensures a uniform and consistent process for documenting and evaluating historic properties through surveys or property designations. The concepts and terms discussed here comprise the basic elements of these national professional standards.<sup class="footnote-ref"><a href="#fn-s1" id="fnref-s1" class="footnote-ref-anchor">*</a></sup>
 
@@ -232,7 +235,7 @@ The multiple property documentation (MPD) approach developed by the NPS is the f
 
 {% endaccordion %}
 
-The sidebar [Historic Preservation Practice in the United States](#sidebar-2) summarizes national survey standards used in the United States, which formed the basis for the SurveyLA methodology.
+The sidebar [Historic Preservation Practice in the United States](#sidebar-1) summarizes national survey standards used in the United States, which formed the basis for the SurveyLA methodology.
 
 ### Survey Evaluation Standards
 
@@ -242,7 +245,7 @@ Like survey standards and guidelines, evaluation criteria may need to be enhance
 
 ### Historic Context– and Theme-Based Surveys
 
-The concepts of historic contexts and thematic frameworks, as defined in the [sidebar in chapter 2](/part-i/chapter-2/#sidebar-2), can be applied to heritage surveys to consistently identify, categorize, and evaluate resources that reflect important aspects of the history and development of an area. The planning phase is the time to consider if a context- and/or theme-based approach will be used for the survey and how the approach will be developed and implemented. Taking such an approach can be a substantial undertaking, depending on the scope and size of a survey, and it can impact survey budget, schedule, and personnel needs. [Chapter 8](/part-ii/chapter-8/) draws on the example of SurveyLA to provide useful information for designing historic context– and theme-based surveys.
+The concepts of historic contexts and thematic frameworks, as defined in the [sidebar in chapter 2](/part-i/chapter-2/#sidebar-1), can be applied to heritage surveys to consistently identify, categorize, and evaluate resources that reflect important aspects of the history and development of an area. The planning phase is the time to consider if a context- and/or theme-based approach will be used for the survey and how the approach will be developed and implemented. Taking such an approach can be a substantial undertaking, depending on the scope and size of a survey, and it can impact survey budget, schedule, and personnel needs. [Chapter 8](/part-ii/chapter-8/) draws on the example of SurveyLA to provide useful information for designing historic context– and theme-based surveys.
 
 ### The Role of Community Outreach and Engagement
 

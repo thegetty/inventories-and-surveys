@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added `sidebar` to global page data, for listing sidebars in TOC in `_includes/components/table-of-contents/item/list.js`
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 
@@ -28,6 +32,7 @@ module.exports = {
         object: data.object,
         order: data.order,
         short_title: data.short_title,
+        sidebar: data.sidebar,
         subtitle: data.subtitle,
         summary: data.summary,
         title: data.title

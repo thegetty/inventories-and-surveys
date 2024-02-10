@@ -9,6 +9,10 @@ contributor:
   - id: jhansen
     sort_as: "2"
 order: 85
+sidebar:
+  - id: sidebar-1
+    title: Peer Review in Heritage Surveys
+    contributor: Lauren Weiss Bricker
 ---
 
 Conducting a heritage field survey is a process of discovery, collaboration, and constant refinement. For many heritage professionals, a field survey is the favorite aspect of their work. It allows them to immerse entirely in the vernacular of a particular place and read the way the built fabric and cultural practices change and evolve in response to their environment, including climate and terrain, local land use policies, economy, culture, and ethnicity. There is no match for the experience of conducting fieldwork in person and, even if for only a little while, being conversant in the unique language of a particular place.
@@ -279,9 +283,9 @@ Collaborating and consulting with the public throughout the survey process helps
 
 Public input in heritage assessments of significance can also include a peer review panel or committee that meets at regular intervals, under the direction of the survey project manager, to review survey findings. The frequency of the meetings may be decided based on the phasing or sequencing plan for the surveys. Special meetings may also be called if there are particular issues to work through.
 
-Peer review can provide an important check against consistent bias among field surveyors, and the panel can represent a range of disciplines and perspectives. For details, see the [Peer Review in Heritage Surveys](#sidebar) sidebar.
+Peer review can provide an important check against consistent bias among field surveyors, and the panel can represent a range of disciplines and perspectives. For details, see the [Peer Review in Heritage Surveys](#sidebar-1) sidebar.
 
-{% accordion '## Peer Review in Heritage Surveys <br /><span class="sidebar-author">Lauren Weiss Bricker</span>' 'sidebar' %}
+{% accordion '## Peer Review in Heritage Surveys <br /><span class="sidebar-author">Lauren Weiss Bricker</span>' 'sidebar-1' %}
 
 The following is drawn from the author’s experiences both managing and serving on peer review panels associated with California-based heritage surveys of all sizes, from a single neighborhood in San Francisco to the citywide survey of Los Angeles. These experiences provide some perspective and guidance on organizing and executing a peer review program. Through peer review, the methodology and results of a survey are subject to the scrutiny of subject matter and community experts whose participation will “enhance the quality, objectivity, utility and integrity” of the information generated ({% cite 'Frost 2008' '2' %}).
 
