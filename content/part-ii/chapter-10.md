@@ -157,9 +157,9 @@ Every heritage survey brings its own unique set of challenges and conditions, an
 
 Classroom and field training are effective ways for survey team members to get acquainted with one another and with survey tools and procedures. Training should take place before fieldwork proceeds in earnest, and all members of the survey team should attend. The nature of the training will be determined by the structure and makeup of the overall project team (see [Assembling Field Survey Teams](#assembling-field-survey-teams)). Training, for example, may be the role of one or more survey project personnel, such as the project manager, field survey manager, and team members who specialize in survey technology and data management. Training by a professional photographer with expertise in photo-documenting heritage resources is also recommended, to provide tips and guidance about taking photographs that capture meaningful information that will meet the survey’s goals ([figs. 10.4](#fig-10-4) and [10.5](#fig-10-5)); see also ({% cite 'Schafer 2008' %}).
 
-{% figure 'fig-10-4' %}
+{% figure 'fig-10-4' 'pdf-float-top' %}
 
-{% figure 'fig-10-5' %}
+{% figure 'fig-10-5' 'pdf-float-top' %}
 
 Topics covered in classroom and field training may include (and are not limited to):
 
@@ -211,7 +211,7 @@ Preliminary research may include the following:
 
 -   Review of source material directly related to the history and development of the survey area, to better familiarize the survey team with what they may encounter in the field.
 
-{% figure 'fig-10-6' %}
+{% figure 'fig-10-6' 'pdf-two-column' %}
 
 ### Reconnaissance Survey {#reconnaissance-survey}
 
@@ -223,7 +223,7 @@ It is also important that information about potential heritage resources provide
 
 In the case of SurveyLA, the reconnaissance survey team included several (three or four) senior-level team members working together in a single vehicle, with one member navigating using a printed GIS map and color-coding areas as they were driven to ensure no physical element was missed ([fig. 10.7](#fig-10-7)). Identified potential heritage resources were also marked on the map and included in a written list, with notes. Surveyors were guided by visual observations as well as the geospatial reference layers preloaded in the digital data collection system (e.g., construction dates, previous survey data, community input).
 
-{% figure 'fig-10-7' %}
+{% figure 'fig-10-7' 'pdf-float-top' %}
 
 By the end of the reconnaissance survey, the team had produced a list of potentially significant heritage resources in the survey area, which would be further considered for resource-specific research—and recording, if identified as potentially significant. Having several team members in a car at once assures that the reconnaissance work is comprehensive and that there is dialogue about what was surveyed among experienced surveyors. This customized approach to reconnaissance work was developed by the consultant team during the early phases of SurveyLA and has since been successfully used in heritage surveys of numerous diverse geographic areas in the United States.
 

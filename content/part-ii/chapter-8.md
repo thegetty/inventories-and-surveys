@@ -83,7 +83,7 @@ Survey methodology will include how field surveys will be organized, ordered, an
 
 For SurveyLA, field surveys were organized into thirty-five geographic areas based on the long-established boundaries of Los Angeles’s community plan areas ([fig. 8.1](#fig-8-1)). These survey areas were further organized into ten groups, which were prioritized, sequenced, and phased to inform and coordinate with the city’s Community Plan Update program. (See also the [SurveyLA Case Study](/part-ii/chapter-10/#surveyla-case-study) section in chapter 10 to learn how this structure informed the community planning process.)
 
-{% figure 'fig-8-1' %}
+{% figure 'fig-8-1' 'pdf-two-column pdf-75-percent-width' %}
 
 ## Designing Digital Surveys {#designing-digital-surveys}
 
@@ -141,9 +141,9 @@ Consideration for a historic context–based approach for SurveyLA originated wi
 
 ([Figure 8.2](#fig-8-2)) illustrates the structure and content of the MPD format that was adapted for use for SurveyLA. Following this structure, SurveyLA’s citywide historic context was organized into eight overarching contexts as well as a number of contexts covering ethnic and cultural histories ([fig. 8.3](#fig-8-3-a)). Each context was then further organized into a framework of themes with associated resource types (note that in some cases subcontexts and subthemes are used). The citywide context now features over two hundred themes and subthemes.[^5]
 
-{% figure 'fig-8-2' %}
+{% figure 'fig-8-2' 'pdf-float-top' %}
 
-{% figuregroup '2' 'fig-8-3-a, fig-8-3-b' 'pdf-two-column' '<span class="q-figure__label">Figure 8.3</span> The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '1' 'fig-8-3-a, fig-8-3-b' 'pdf-float-top' '<span class="q-figure__label">Figure 8.3</span> The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources' %}
 
 Each context, theme, and resource type combination is unique and has its own set of eligibility standards, character-defining and associative features, and integrity considerations. A template designed for SurveyLA to record these unique combinations guided the creation of data fields and related controlled vocabularies and drop-down lists for standardizing digital data collection ([fig. 8.4](#table-8-4)). This approach enabled surveyors to consistently identify, classify, and evaluate resources by context, theme, and type as they were identified in the field or through research and outreach. Importantly, it also allowed surveyors to associate resources with one or more contexts and themes to fully represent multiple layers of significance.
 
@@ -153,7 +153,7 @@ Designing historic contexts for digital data collection enables their use as ana
 
 When incorporated into a digital inventory, historic contexts can be managed and expanded over time to add new themes and resource types and to guide future survey work ([fig. 8.5](#fig-8-5)). This approach is increasingly being used in the United States and is a replicable model for digital surveys and inventories.
 
-{% figure 'fig-8-5' %}
+{% figure 'fig-8-5' 'pdf-float-top' %}
 
 ### General Recommendations for Designing Historic Context– and Theme-Based Surveys {#general-recommendations-designing-historic-surveys}
 

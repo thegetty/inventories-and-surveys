@@ -58,7 +58,7 @@ Any resulting information is submitted to the HER, where it is recorded to infor
 
 In Lincoln, the information system used to perform all these tasks is called Arcade ({% cite 'City of Lincoln Council n.d.' %}); it is an Arches-powered heritage inventory launched in 2018 (see [chapter 4](/part-i/chapter-4/)). The system enables real-time online access to the city’s HER and is used by academic and commercial researchers to gain a better understanding of the city’s heritage ([fig. 13.2](#fig-13-2)).
 
-{% figure 'fig-13-2' %}
+{% figure 'fig-13-2' 'pdf-two-column' %}
 
 Where data is restricted, such as that relating to ongoing planning applications or the detailed locations of sensitive archaeological sites, it is maintained in a protected area of the system. All other information in Lincoln’s HER is publicly accessible on the Arcade system ([fig. 13.3](#fig-13-3)).
 

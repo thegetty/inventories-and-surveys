@@ -59,15 +59,13 @@ The data structure of Arches provides the ability to produce semantically enhanc
 
 In addition to enabling data management, Arches features robust visualization and discovery tools. The most prominent means of visualization in Arches is its geospatial features, such as navigation via the map interface, search using map filters, and the inclusion of historic map layers and satellite imagery ([fig. 4.1](#fig-4-1)).
 
-{% figure 'fig-4-1' %}
+{% figure 'fig-4-1' 'pdf-two-column' %}
 
 End users can also visually explore the relationships among resources in Arches and find new connections via the Related Resources network visualization. This capability allows relationships to be established among people, places, and things, including historical events and activities ([fig. 4.2](#fig-4-2)).
 
-{% figure 'fig-4-2' %}
-
 Another visually oriented tool is the Time Wheel, which represents all time data in any particular implementation in a circular histogram. This feature allows users to filter and search the distribution of temporal attributes of all resources in their Arches implementation ([fig. 4.3](#fig-4-3)).
 
-{% figure 'fig-4-3' %}
+{% figuregroup '1' 'fig-4-2, fig-4-3' 'pdf-two-column pdf-85-percent-width' %}
 
 Arches includes discovery tools that allow for in-depth interrogation of data. In addition to the geospatial and time filters mentioned above, the ability to conduct semantic searches based on the underlying data structure and controlled vocabularies provides an important way to find data in Arches. Users also have access to an advanced search capability that allows them to query any specific data field.
 
@@ -101,7 +99,9 @@ To highlight a few examples, Arches has been implemented to manage the following
 
 - **Jamaica National Inventory of Historic Places.** The Jamaica Ministry of Culture, Gender, Entertainment and Sport, with support from the Organization of American States and funding from the U.S. Mission to the OAS, implemented Arches for the Jamaica National Inventory of Historic Places ([fig. 4.4](#fig-4-4)). It is maintained and updated by staff of the Jamaica National Heritage Trust. See https://siteinventory.jnht.com/.
 
-    {% figure 'fig-4-4' %}
+{% figure 'fig-4-4' 'pdf-two-column pdf-85-percent-width' %}
+
+{% figure 'fig-4-5' 'pdf-two-column pdf-85-percent-width' %}
 
 Additionally, several public agencies have implemented Arches to manage their heritage inventories for cities or urban areas, including:
 
@@ -114,8 +114,6 @@ Additionally, several public agencies have implemented Arches to manage their he
 - **City and County of San Francisco.** The City and County of San Francisco has deployed Arches as the city’s heritage inventory and as a tool to carry out a citywide survey.
 
 - **Te Kaunihera o Tāmaki Makaurau / Auckland Council.** In Aotearoa / New Zealand, Arches has been deployed to manage and publicly share information about heritage places in Tāmaki Makaurau / Auckland.
-
-    {% figure 'fig-4-5' %}
 
 Arches is also being used to manage site-level heritage inventories. The Armed Forces Retirement Home (AFRH) is a U.S. federal agency that manages a 272-acre historic campus in Washington, D.C., that was established in 1851 for military veterans. The agency has deployed Arches as the AFRH Information and Resource Inventory System (AFRH-IRIS). Staff use IRIS to carry out campus planning and federal environmental compliance activities, and it is available for public research as well. See http://www.afrh-iris.com/.
 

@@ -26,9 +26,9 @@ Using the experience of SurveyLA, part II presents the heritage survey process a
 
 5.  **Conduct field surveys** to identify, evaluate, and document heritage resources that reflect the goals, objectives, and scope of the survey (see [chapter 10](/part-ii/chapter-10/)).
 
-6.  **Publish survey results** through an associated heritage inventory system and other means (e.g., reports) that are accessible to a range of users (see [chapter 11](/part-ii/chapter-11/)).
+6.  **Publish survey results** through an associated heritage inventory system and other means (e.g., reports) that are accessible to a range of users (see [chapter&#160;11](/part-ii/chapter-11/)).
 
-{% figure 'fig-ii-1' %}
+{% figure 'fig-ii-1' 'pdf-75-percent-width' %}
 
 While the Los Angeles survey focused on a large-scale urban environment, the authors of this publication have sought to generalize the guidance to be applicable to surveys in varying environments, cover a range of heritage typologies, and to encompass geographic areas of differing sizes and complexities.[^1]
 

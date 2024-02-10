@@ -12,7 +12,7 @@ A primary impetus for this publication is to share the experiences and lessons l
 
 SurveyLA is considered a groundbreaking project for several reasons. It covered all of Los Angeles, about five hundred square miles (eight hundred square kilometers) and 880,000 legal property parcels, making it undoubtedly the largest single urban heritage resources survey ever conducted in the United States, and perhaps internationally ([fig. 5.1](#fig-5-1)). The massive scale of the survey posed particular challenges with respect to its design and implementation, including how to consistently evaluate and document a large number of heritage resources.
 
-{% figure 'fig-5-1' %}
+{% figure 'fig-5-1' 'pdf-float-top' %}
 
 SurveyLA was also the first all-digital citywide survey of such scale in the country, which presented substantial data collection and management challenges. And SurveyLA achieved success through a public-private partnership between the J. Paul Getty Trust, a private philanthropic organization, and the City of Los Angeles. The Getty’s involvement was motivated by a desire to provide support to its local community of Los Angeles and to undertake the project as a demonstration that would serve as a model to be followed by other cities.
 
@@ -66,7 +66,7 @@ At this writing, HistoricPlacesLA includes records on over fifty-seven thousand 
 
 The system support, hosting, and maintenance has now been fully and permanently transitioned from the GCI to City Planning, attesting to the city’s long-term commitment to manage, update, and expand its heritage inventory.
 
-{% figure 'fig-5-2' %}
+{% figure 'fig-5-2' 'pdf-two-column' %}
 
 {% backmatter %}
 

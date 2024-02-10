@@ -167,13 +167,13 @@ figure_list:
     alt:
 
   - id: "fig-8-3-a"
-    label: "a"
+    label: ""
     src: "figures/fig-8-3-a.png"
     # caption: "The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-3-b"
-    label: "b"
+    label: ""
     src: "figures/fig-8-3-b.png"
     alt:
 
