@@ -17,12 +17,11 @@ The process of survey planning expands on the findings of the needs assessment t
 
 Survey planning culminates in a written survey plan. While survey plans may vary in format, content, and detail, certain general categories of information are recommended for inclusion, depending on the intended audience and the needs of the agency or organization supporting the plan. See the [resource 7.1](#resource-7-1), Sample Survey Plan Outline (see also {% cite 'City of Toronto 2019' %}).
 
-
 <section class="additional-resource pdf-two-column" id="resource-7-1">
 
 #### <span class="label">Resource 7.1</span> Sample Survey Plan Outline
 
-{% accordion 'Full Text' %}
+{% accordion 'Full Text' 'resource-7-1-full-text' %}
 
 <ol type="I">
   <li>Introduction and Purpose of the Survey Plan
@@ -287,7 +286,7 @@ The model can be applied or adapted to a range of survey types, as not every sur
 
 -   **Administrative support** includes part-time agency or organization staff that assist the project manager with various aspects of project administration, such as grant management and consultant contracting.
 
--   **Peer review experts** are engaged to review and vet survey findings and may be organized as a committee or panel. The [Peer Review in Heritage Surveys](/part-ii/chapter-10/#sidebar) sidebar in chapter 10 provides more information on the role and process of peer review. Peer reviewers may be volunteers or paid project personnel whose time is considered in the project budget. The five members of SurveyLA’s peer review committee were each paid a stipend to prepare for and attend each meeting.
+-   **Peer review experts** are engaged to review and vet survey findings and may be organized as a committee or panel. The [Peer Review in Heritage Surveys](/part-ii/chapter-10/#sidebar-1) sidebar in chapter 10 provides more information on the role and process of peer review. Peer reviewers may be volunteers or paid project personnel whose time is considered in the project budget. The five members of SurveyLA’s peer review committee were each paid a stipend to prepare for and attend each meeting.
 
 -   **Project advisors** provide expert advice on various aspects of the project, as well as overall support for the survey. Although advisors may be individuals, a project advisory committee is recommended to bring a range of stakeholders to the table and provide consensus on important topics. The makeup of an advisory committee will vary based on the scope and focus of the survey and the goals and objectives established for the committee. Participants may be internal or external to the managing agency or organization and may be volunteers or paid project personnel whose time is considered in the project budget. SurveyLA’s volunteer advisory committee was composed primarily of community-based stakeholders; they met on a quarterly basis while survey tools and methods were in development and less often as the field surveys were in progress. The committee provided advice on topics ranging from naming the survey to ensuring inclusive participation in the project.
 
@@ -313,9 +312,9 @@ Volunteers, like interns, are not recommended for tasks that require specialized
 
 {% figuregroup '2' 'ch-7-resource-1' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
-{% accordion 'Full Text' %}
+{% accordion 'Full Text' 'resource-7-2-full-text' %}
 
-<form disabled="disabled">
+<form disabled="disabled" data-outputs-exclude="epub">
 
 The Office of Historic Resources is seeking qualified volunteers to help with SurveyLA, the citywide historic resources survey project. If you are interested in the opportunities available, please provide the following information:
 

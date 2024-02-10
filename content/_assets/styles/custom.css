@@ -174,17 +174,26 @@
   font-size: 1.25rem;
 }
 /* Style listings of chapter sidebars added to TOC */
-.quire-contents-list .sidebar-list {
+ 
+.quire-contents-list .menu-list .section-item ol.sidebar-list,
+.quire-contents-list .menu-list .page-item ol.sidebar-list {
   border-left-width: 0;
-  margin-top: .37rem;
+  margin-top: .375rem;
   font-style: italic;
-  margin-left: 1rem;
+  margin-left: 1.25rem;
 }
-.quire-contents-list .sidebar-list li {
+.quire-contents-list .menu-list .section-item ol.sidebar-list li,
+.quire-contents-list .menu-list .page-item ol.sidebar-list li {
   margin-bottom: .25rem;
 }
 .quire-contents-list .menu-list .section-item ol a:hover {
   border-bottom-width: 0;
+}
+@media print {
+  .quire-contents-list .section-item .sidebar-list a::after,
+  .quire-contents-list .page-item .sidebar-list a::after {
+    content: none;
+  }
 }
 
 /* PAGE HEADERS & HEADINGS

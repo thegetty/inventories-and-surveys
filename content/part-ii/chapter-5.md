@@ -78,4 +78,4 @@ The system support, hosting, and maintenance has now been fully and permanently 
 
 [^2]: The customized application was not designed for longevity; the software is now outdated and there are no plans to upgrade.
 
-[^3]: The system is known as ZIMAS (Zone Information and Map Access System); see [http://zimas.lacity.org/](%20http://zimas.lacity.org/).
+[^3]: The system is known as ZIMAS (Zone Information and Map Access System); see [http://zimas.lacity.org/](http://zimas.lacity.org/).

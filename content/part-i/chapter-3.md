@@ -401,7 +401,7 @@ Given that inventory information needs to be improved and updated on an ongoing 
 
 See [Fiscal Support](#fiscal-support) in the sidebar for examples of the latter two approaches.
 
-### What Measures Are Needed to Monitor and Evaluate How Well-Defined Inventory Outcomes Are Being Achieved? {##what-measures-are}
+### What Measures Are Needed to Monitor and Evaluate How Well-Defined Inventory Outcomes Are Being Achieved? {#what-measures-are}
 
 It is recommended that heritage organizations consider establishing systems to monitor and periodically evaluate aspects of their inventory program. By delineating specific outcomes and related indicators over defined time periods, organizations can assess the extent to which those outcomes are achieved. Topical areas for assessment might include currency and comprehensiveness of inventory information, compliance with data standards, data security, levels of access and external engagement, delivery of services, and assessing the appropriateness of infrastructure, resources, and management.
 
