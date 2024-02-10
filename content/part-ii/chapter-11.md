@@ -59,13 +59,13 @@ It is also recommended that reports describe aspects of a survey project with re
 
 For SurveyLA, thirty-five separate reports were prepared by survey consultant teams, corresponding with the thirty-five community plan areas surveyed ({% cite 'Los Angeles City Planning n.d.b' %}). The report for each area included appendices summarizing survey findings by resource category used for SurveyLA (e.g., individual properties, historic districts, etc.), and they were published sequentially as the surveys were completed. The *Field Survey Results Master Report* was also developed to function as a cover document for the plan area reports ({% cite 'Los Angeles City Planning 2016b' %}). It explains the survey data collection tools and methods, introduces the citywide historic context statement, and outlines the resource evaluation and documentation process.
 
-The report formats developed for SurveyLA may serve as useful references or templates. A sample report is shown in [resource 11.1](#resource-1).
+The report formats developed for SurveyLA may serve as useful references or templates. A sample report is shown in [resource 11.1](#resource-11-1).
 
-<section class="additional-resource" id="resource-1">
+<section class="additional-resource pdf-float-top" id="resource-11-1">
 
-#### Resource 11.1: SurveyLA Historic Resources Survey Report: Northeast Los Angeles Community Plan Area
+#### <span class="label">Resource 11.1</span> SurveyLA Historic Resources Survey Report: Northeast Los Angeles Community Plan Area
 
-[Download Report {% icon type='download' description='Download the PDF' %}](/_assets/downloads/SurveyLA_SurveyReport_Northeast_LosAngeles.pdf)
+[Download Report {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-11-1.pdf)
 
 {% figuregroup '2' 'ch-11-resource-1' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 

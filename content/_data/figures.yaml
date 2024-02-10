@@ -167,13 +167,13 @@ figure_list:
     alt:
 
   - id: "fig-8-3-a"
-    label: "a"
+    label: ""
     src: "figures/fig-8-3-a.png"
     # caption: "The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-3-b"
-    label: "b"
+    label: ""
     src: "figures/fig-8-3-b.png"
     alt:
 
@@ -223,7 +223,7 @@ figure_list:
     alt: ""
 
   - id: "ch-8-resource-4"
-    src: "figures/ch-8-resource-4.png"
+    src: "figures/ch-8-resource-4.jpg"
     alt: ""
 
   - id: "fig-9-1"
@@ -320,31 +320,26 @@ figure_list:
     alt:
 
   - id: "fig-10-11-a"
-    label: "a"
+    label: ""
     src: "figures/fig-10-11-a.jpg"
     # caption: "Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles."
     # credit: "Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-10-11-b"
-    label: "b"
+    label: ""
     src: "figures/fig-10-11-b.jpg"
     alt:
 
   - id: "fig-10-11-c"
-    label: "c"
+    label: ""
     src: "figures/fig-10-11-c.jpg"
     alt:
 
-  - id: "table-10-11-d"
-    label: "d"
-    src: "tables/table-10-11-d.html"
-    media_type: table
-    alt:
-
-  - id: "fig-10-12"
+  - id: "table-10-12"
     label: "FIGURE 10.12"
-    src: "figures/fig-10-12.jpg"
+    src: "tables/table-10-12.html"
+    media_type: table
     caption: "Multiple property documentation approach applied to the evaluation of Goodyear Gardens tract in Los Angeles."
     credit: "Los Angeles City Planning Office of Historic Resources"
     alt:

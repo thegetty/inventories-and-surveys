@@ -77,7 +77,7 @@ The most fundamental requirement for safeguarding heritage when facing natural d
 
 The practice of cultural heritage disaster preparedness and response has been extensively studied, with various methodologies proposed. The disaster risk management framework of the ARCH project ([fig. 12.4](#fig-12-4)) conveys one such approach ({% cite 'Milde, Lückerath, and Ullrich 2020' '31' %}).[^1] While details of different methodologies vary, they generally approach natural disasters in three phases: [predisaster preparation](#predisaster-preparation), [responding during a disaster](#responding-during-a-disaster), and [postdisaster activities](#postdisaster-activities), as discussed in the following sections in terms of considerations specific to inventories and surveys (see {% cite 'Stovel 1998' %}).
 
-{% figure 'fig-12-4' %}
+{% figure 'fig-12-4' 'pdf-two-column' %}
 
 ### Predisaster Preparation {#predisaster-preparation}
 
@@ -139,7 +139,7 @@ Cooperation and consultation between militaries and heritage organizations, such
 
 Inventories and related condition surveys are also key tools for systematically determining intervention priorities to rehabilitate heritage places damaged during armed conflicts. Using remote sensing technologies, such as satellite imagery, in conjunction with inventories, it is possible to carry out ongoing damage assessments during conflicts to help prepare postconflict intervention priorities and plans ([fig. 12.6](#fig-12-6)) ({% cite 'Fiol and Tabet 2018' %}; {% cite 'Danti, Branting, and Penacho 2017' %}). These remote activities can be supplemented by on-the-ground surveys when feasible.
 
-{% figure 'fig-12-6' %}
+{% figure 'fig-12-6' 'pdf-two-column' %}
 
 Inventories and surveys also have contributed to the legal prosecution of those involved in intentional destruction of cultural heritage during armed conflicts. During the Balkan wars of the 1990s, amid the collapse of the nation of Yugoslavia, military forces intentionally targeted, damaged, and destroyed sites of cultural significance, including places of worship, archives, and libraries. In response, heritage specialists carried out extensive surveys of hundreds of cultural sites to document the extent and nature of damages. Evidence gathered, in addition to comparison with prior heritage inventory records, documented systematic intentional destruction of numerous culturally significant sites ({% cite 'Riedlmayer 2002' %}, {% cite 'Riedlmayer 2007' '' '2007' %}). This evidence contributed to the indictment and eventual conviction of several individuals for crimes against humanity at the International Criminal Tribunal for the Former Yugoslavia at the Hague ({% cite 'SENSE 2016' %}).
 

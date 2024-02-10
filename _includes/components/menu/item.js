@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Display subtitles and Foreword contributors in sidebar menu
+// Display subtitles and Foreword contributors, with affiliations, in sidebar menu
 //
 /**
  * Renders a menu item
@@ -24,7 +24,7 @@ module.exports = function(eleventyConfig) {
     const titleText = pageTitle({ label, subtitle, title })
 
     const contributorText = pageContributors && (title == 'Foreword')
-      ? `${contributorDivider}${contributors({ context: pageContributors, format: 'string' })}` 
+      ? `${contributorDivider}${contributors({ context: pageContributors, format: 'foreword' })}` 
       : ''
 
     /**

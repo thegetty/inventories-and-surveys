@@ -27,7 +27,9 @@
 
 :root {
   --dark-blue: #112e4a;
-  --light-blue: #69dcf8;
+  --mid-blue: #007fb7;
+  --light-blue: #5ebad1;
+  --lighter-blue: #c5e1ea;
   --pink: #f98d8d;
   --dark-pink: #e66464;
   --red: #e23a3a;
@@ -171,7 +173,28 @@
 .quire-contents.pdf-splash-page .quire-contents-list .menu-list a {
   font-size: 1.25rem;
 }
-
+/* Style listings of chapter sidebars added to TOC */
+ 
+.quire-contents-list .menu-list .section-item ol.sidebar-list,
+.quire-contents-list .menu-list .page-item ol.sidebar-list {
+  border-left-width: 0;
+  margin-top: .375rem;
+  font-style: italic;
+  margin-left: 1.25rem;
+}
+.quire-contents-list .menu-list .section-item ol.sidebar-list li,
+.quire-contents-list .menu-list .page-item ol.sidebar-list li {
+  margin-bottom: .25rem;
+}
+.quire-contents-list .menu-list .section-item ol a:hover {
+  border-bottom-width: 0;
+}
+@media print {
+  .quire-contents-list .section-item .sidebar-list a::after,
+  .quire-contents-list .page-item .sidebar-list a::after {
+    content: none;
+  }
+}
 
 /* PAGE HEADERS & HEADINGS
 ============================================================================= */
@@ -189,8 +212,13 @@
 .quire-page h3 {
   font-style: normal;
   font-weight: 400;
-  font-size: 1.625rem;
+  font-size: 1.5rem;
   letter-spacing: -.5px;
+}
+.quire-page__content .content h3 {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 .quire-page h4 {
   font-weight: 400;
@@ -231,7 +259,6 @@
 .accordion-section[id^='sidebar'] {
   background-color: var(--light-blue);
   border-bottom: 10px solid var(--dark-blue);
-  border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
   float: right;
   margin-bottom: 1.5rem;
@@ -311,10 +338,16 @@
 /* Special <sections> with PDF downloads and/or accordions containing full-test resources */
 .additional-resource {
   background-color: var(--dark-blue);
-  border-radius: 1rem;
+  border-bottom-left-radius: 1rem;
   color: var(--white);
   margin-bottom: 1.5rem;
   border-bottom: 10px solid var(--gray);
+}
+.additional-resource .label {
+  color: var(--white);
+  margin-bottom: .25rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 .additional-resource h4 {
   font-weight: 600;
@@ -359,6 +392,7 @@
   width: 1rem;
   height: 1rem;
   fill: currentColor;
+  margin-left: .25rem;
 }
 /* For figures, usually the cover of the report in question */
 .additional-resource .q-figure {
@@ -376,7 +410,8 @@
 /* For the full-text TOCs */
 .additional-resource ol,
 .additional-resource ol li {
-  margin-left: .5rem !important;
+  margin-left: 1rem !important;
+  margin-top: 0;
 }
 .additional-resource ul,
 .additional-resource ul li {
@@ -385,10 +420,17 @@
 .additional-resource ul li ul,
 .additional-resource ol li ul {
   margin-left: 1.5rem !important;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
 }
 .additional-resource ul li::marker {
   content: none !important;
 }
+.quire-page__content .container .content .additional-resource li {
+  margin-bottom: 0 !important;
+  line-height: 2;
+}
+
 /* Some Resources appear within lists, but the markdown processor wasn't working with them, so this makes them *look* like they're in the list */
 .additional-resource.inside-list {
   margin-left: 2.5rem;
@@ -437,36 +479,50 @@
   margin-top: .5rem;
 }
 @media print {
-  /* Hide the download link */
-  .additional-resource > p > a:after {
-    content: " (" attr(href) ")";
+  /* Print the URL instead of "download" and icon */
+  .additional-resource > p > a {
+    content: attr(href);
   }
   .additional-resource .accordion-section {
     background-color: var(--light-gray);
     margin-left: 0;
     margin-right: 0;
-    padding: 1rem 0;
+    padding-top: 1rem;
+    padding-bottom: .25rem;
     width: 100%;
     /* This bit is because there was a little show through of the dark-blue around the edges */
-    width: calc(100% + .5pt);
-    margin-left: -.25pt;
+    width: calc(100% + 0.5pt);
+    margin-left: -0.25pt;
     border-bottom: 10px solid var(--gray);
+    border-bottom-left-radius: 1rem;
   }
   .additional-resource {
     border-bottom-width: 0;
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .additional-resource.no-accordion {
+    border-bottom-width: 10px;
   }
   .additional-resource .accordion-section > * {
     color: var(--black);
     padding: 0 1.5rem;
-    font-size: .75em;
+    font-size: 0.75em;
     line-height: 1.35;
   }
   .additional-resource .accordion-section h5 {
     font-size: 1rem;
-  }  
+  }
+  .additional-resource .q-figure__caption-content {
+    font-size: .627rem;
+  }
+  .additional-resource .accordion-section ol {
+    margin-bottom: 1.25rem;
+  }
   .additional-resource .accordion-section ol li,
   .additional-resource .accordion-section ul li {
-    margin-bottom: .5rem !important; 
+    margin-bottom: .5rem !important;
   }
   .additional-resource .accordion-section > ul:last-child,
   .additional-resource .accordion-section > ul:last-child > li:last-child {
@@ -476,7 +532,30 @@
     margin-top: .5rem;
   }
   .additional-resource .q-figure.q-figure--group.quire-grid--2 .q-figure {
-    width: 47%; 
+    width: 47%;
+    margin-bottom: .25rem;
+  }
+  .additional-resource .q-figure.q-figure--group.quire-grid--2 .q-figure figcaption {
+    display: none;
+  }
+  .content .additional-resource .q-figure:not(:first-child) {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+  }
+  .additional-resource h4 {
+    margin-bottom: 0;
+  }
+  #resource-7-1 .accordion-section > p:first-child,
+  #resource-7-2 .accordion-section > p:first-child {
+    display: none;
+  }
+  #resource-7-1 .accordion-section > ol {
+    column-count: 2;
+    column-gap: 0.1875in;
+  }
+  #resource-7-2 .form-box input {
+    height: 1.5rem;
+    margin-bottom: .5rem;
   }
 }
 
@@ -538,7 +617,6 @@
 }
 .q-figure__label,
 .q-figure__label--below .q-figure__modal-link {
-  text-transform: uppercase;
   color: var(--black);
 }
 .q-figure__label .q-figure__label-icon svg {
@@ -554,17 +632,84 @@
   box-shadow: none;
 }
 /* Table Figures */
-.quire-page__content .container .content table caption {
+.quire-page__content .container .content table,
+.q-lightbox-slides__slide table {
+  background-color: var(--light-gray);
+  border-bottom: 10px solid var(--gray);
+  border-bottom-left-radius: 1rem;
+  border-collapse: initial;
+}
+.quire-page__content .container .content table caption,
+.q-lightbox-slides__slide table caption {
   font-size: .875rem;
-}
-.quire-page__content .container .content table caption strong {
-  display: block;
-  text-transform: uppercase;
-}
-.quire-page__content .container .content table thead * {
   background-color: var(--dark-blue);
   color: var(--white) !important;
+  margin: 0;
+  padding: 1rem;
 }
+.q-lightbox-slides__slide table caption {
+  font-size: 1rem;
+}
+.quire-page__content .container .content table caption strong,
+.q-lightbox-slides__slide table caption strong {
+  display: block;
+  color: var(--white) !important;
+}
+.quire-page__content .container .content table thead *,
+.q-lightbox-slides__slide table thead * {
+  background-color: var(--light-blue);
+}
+.quire-page__content .container .content table ul,
+.quire-page__content .container .content table ul li,
+.q-lightbox-slides__slide table ul,
+.q-lightbox-slides__slide table ul li {
+  margin-bottom: 0;
+}
+.content table td, 
+.content table th,
+.q-lightbox-slides__slide table td,
+.q-lightbox-slides__slide table th {
+  border-bottom-color: var(--white);
+  border-top-color: var(--white);
+  border-left-width: 0;
+  border-right-width: 0;
+}
+table .table-subhead,
+.q-lightbox-slides__slide table .table-subhead {
+  background-color: var(--lighter-blue);
+}
+.quire-page__content .container .content ul.table-notes,
+.q-lightbox-slides__slide ul.table-notes {
+  list-style-type: none;
+  width: 100%;
+  text-align: left;
+}
+.q-lightbox-slides__slide ul.table-notes {
+  color: var(--light-gray);
+  margin-left: 1rem;
+  margin-top: 4px;
+}
+.quire-page__content .container .content ul.table-notes li,
+.q-lightbox-slides__slide ul.table-notes li {
+  margin-bottom: 0;
+  line-height: 1.3;
+  font-size: .875rem;
+  width: 100%;
+  text-align: left;
+}
+.quire-page__content .container .content ul.table-notes li::marker,
+.q-lightbox-slides__slide ul.table-notes li::marker {
+  content: '';
+}
+
+.q-lightbox-slides__element--table .overflow-container {
+  background-color: transparent;
+}
+.q-lightbox-slides__slide table {
+  font-size: 1rem;
+  font-family: 'Noto Sans', sans-serif;
+}
+
 /* For table that's part of a figure group */
 #table-10-11-d {
   grid-column: 1/-1;
@@ -593,7 +738,7 @@
   width: 22%;
 }
 #table-10-2 table thead tr th,
-[data-lightbox-slide-id='table-10-2']table thead tr th {
+[data-lightbox-slide-id='table-10-2'] table thead tr th {
   width: 6%;
   text-align: center;
 }
@@ -603,28 +748,43 @@
   white-space: nowrap;
   vertical-align: middle;
   height: 1.8rem;
+} 
+@media print {
+  #table-10-2 table thead tr th:first-child {
+    width: 1.5in;
+  }
+  #table-10-2 table tbody tr {
+    height: 2.5rem;
+    max-height: 2.5rem;
+    line-height: 1.3;
+  }
 }
 
 /* BACKMATTER PAGES: GLOSSSARY, REFERENCES, CONTRIBUTORS
 ============================================================================= */
-.quire-page.backmatter .quire-page__content {
+.quire-page.backmatter .quire-page__content,
+.quire-page.glossary .quire-page__content {
   line-height: 2;
 }
-.quire-page.backmatter .quire-page__content dl {
+.quire-page.backmatter .quire-page__content dl,
+.quire-page.glossary .quire-page__content dl {
   margin-left: 0;
 }
 
 @media print {
-  .quire-page.backmatter .quire-page__content {
+  .quire-page.backmatter .quire-page__content,
+  .quire-page.glossary .quire-page__content {
     column-count: 2;
     column-gap: 0.1875in;
-    font-size: 0.75rem !important;
     line-height: 1.6 !important;
     margin: 0;
     max-width: 100%;
   }
-  #page-glossary.quire-page.backmatter .quire-page__content a {
+  .quire-page.glossary .quire-page__content a {
     font-weight: bold;
+  }
+  .quire-page.backmatter .quire-page__content {
+    font-size: 0.75rem !important;
   }
   .quire-page.backmatter .quire-page__content dd {
     break-before: avoid;
@@ -656,6 +816,39 @@
 /* Utility Class */
 .no-break-container {
   break-inside: avoid;
+}
+
+/* Use symbol markers on hand-coded footnotes inside sidebars 
+  Note: trying do do this with @counter-style or ::marker didn't work in Safari
+  and the browser solution didn't work in PrinceXML */
+.footnotes-list--sidebar li {
+  padding-left: .5rem !important;
+}
+.footnotes-list--sidebar li:nth-child(1) {
+  list-style-type: '*';
+}
+.footnotes-list--sidebar li:nth-child(2) {
+  list-style-type: '†';
+}
+.footnotes-list--sidebar li:nth-child(3) {
+  list-style-type: '‡';
+}
+.footnotes-list--sidebar li:nth-child(4) {
+  list-style-type: '§';
+}
+@media print {
+  .footnotes-list--sidebar li:nth-child(1)::marker {
+    content: '*';
+  }
+  .footnotes-list--sidebar li:nth-child(2)::marker {
+    content: '†';
+  }
+  .footnotes-list--sidebar li:nth-child(3)::marker {
+    content: '‡';
+  }
+  .footnotes-list--sidebar li:nth-child(4)::marker {
+    content: '§';
+  }
 }
 
 /* FIXES
@@ -699,6 +892,20 @@
 .q-figure.is-table-scale-9 {
   font-size: inherit;
 }
+@media print {
+  .q-figure.is-table-scale-6#table-7-1 table {
+    font-size: 0.875rem;
+  }
+  .q-figure.is-table-scale-5#table-9-3 table {
+    font-size: 0.7rem;
+    line-height: 1.3;
+  }
+  .q-figure.is-table-scale-4#table-10-2 table {
+    font-size: 0.6rem;
+    line-height: 1.3;
+  }
+}
+
 /* Fix table hover behavior to match other figures */
 .quire-page__content .content tbody tr:hover {
   background-color: transparent;
@@ -788,6 +995,18 @@
     float: none;
     -prince-float: top;
     margin-top: 0 !important;
+  }
+  .q-figure.pdf-85-percent-width img,
+  .q-figure.pdf-85-percent-width figcaption {
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .q-figure.pdf-75-percent-width img,
+  .q-figure.pdf-75-percent-width figcaption {
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .pdf-splash-page {
     page: splash;

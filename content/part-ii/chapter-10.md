@@ -9,6 +9,10 @@ contributor:
   - id: jhansen
     sort_as: "2"
 order: 85
+sidebar:
+  - id: sidebar-1
+    title: Peer Review in Heritage Surveys
+    contributor: Lauren Weiss Bricker
 ---
 
 Conducting a heritage field survey is a process of discovery, collaboration, and constant refinement. For many heritage professionals, a field survey is the favorite aspect of their work. It allows them to immerse entirely in the vernacular of a particular place and read the way the built fabric and cultural practices change and evolve in response to their environment, including climate and terrain, local land use policies, economy, culture, and ethnicity. There is no match for the experience of conducting fieldwork in person and, even if for only a little while, being conversant in the unique language of a particular place.
@@ -157,9 +161,9 @@ Every heritage survey brings its own unique set of challenges and conditions, an
 
 Classroom and field training are effective ways for survey team members to get acquainted with one another and with survey tools and procedures. Training should take place before fieldwork proceeds in earnest, and all members of the survey team should attend. The nature of the training will be determined by the structure and makeup of the overall project team (see [Assembling Field Survey Teams](#assembling-field-survey-teams)). Training, for example, may be the role of one or more survey project personnel, such as the project manager, field survey manager, and team members who specialize in survey technology and data management. Training by a professional photographer with expertise in photo-documenting heritage resources is also recommended, to provide tips and guidance about taking photographs that capture meaningful information that will meet the survey’s goals ([figs. 10.4](#fig-10-4) and [10.5](#fig-10-5)); see also ({% cite 'Schafer 2008' %}).
 
-{% figure 'fig-10-4' %}
+{% figure 'fig-10-4' 'pdf-float-top' %}
 
-{% figure 'fig-10-5' %}
+{% figure 'fig-10-5' 'pdf-float-top' %}
 
 Topics covered in classroom and field training may include (and are not limited to):
 
@@ -211,7 +215,7 @@ Preliminary research may include the following:
 
 -   Review of source material directly related to the history and development of the survey area, to better familiarize the survey team with what they may encounter in the field.
 
-{% figure 'fig-10-6' %}
+{% figure 'fig-10-6' 'pdf-two-column' %}
 
 ### Reconnaissance Survey {#reconnaissance-survey}
 
@@ -223,7 +227,7 @@ It is also important that information about potential heritage resources provide
 
 In the case of SurveyLA, the reconnaissance survey team included several (three or four) senior-level team members working together in a single vehicle, with one member navigating using a printed GIS map and color-coding areas as they were driven to ensure no physical element was missed ([fig. 10.7](#fig-10-7)). Identified potential heritage resources were also marked on the map and included in a written list, with notes. Surveyors were guided by visual observations as well as the geospatial reference layers preloaded in the digital data collection system (e.g., construction dates, previous survey data, community input).
 
-{% figure 'fig-10-7' %}
+{% figure 'fig-10-7' 'pdf-float-top' %}
 
 By the end of the reconnaissance survey, the team had produced a list of potentially significant heritage resources in the survey area, which would be further considered for resource-specific research—and recording, if identified as potentially significant. Having several team members in a car at once assures that the reconnaissance work is comprehensive and that there is dialogue about what was surveyed among experienced surveyors. This customized approach to reconnaissance work was developed by the consultant team during the early phases of SurveyLA and has since been successfully used in heritage surveys of numerous diverse geographic areas in the United States.
 
@@ -279,9 +283,9 @@ Collaborating and consulting with the public throughout the survey process helps
 
 Public input in heritage assessments of significance can also include a peer review panel or committee that meets at regular intervals, under the direction of the survey project manager, to review survey findings. The frequency of the meetings may be decided based on the phasing or sequencing plan for the surveys. Special meetings may also be called if there are particular issues to work through.
 
-Peer review can provide an important check against consistent bias among field surveyors, and the panel can represent a range of disciplines and perspectives. For details, see the [Peer Review in Heritage Surveys](#sidebar) sidebar.
+Peer review can provide an important check against consistent bias among field surveyors, and the panel can represent a range of disciplines and perspectives. For details, see the [Peer Review in Heritage Surveys](#sidebar-1) sidebar.
 
-{% accordion '## Peer Review in Heritage Surveys <br /><span class="sidebar-author">Lauren Weiss Bricker</span>' 'sidebar' %}
+{% accordion '## Peer Review in Heritage Surveys <br /><span class="sidebar-author">Lauren Weiss Bricker</span>' 'sidebar-1' %}
 
 The following is drawn from the author’s experiences both managing and serving on peer review panels associated with California-based heritage surveys of all sizes, from a single neighborhood in San Francisco to the citywide survey of Los Angeles. These experiences provide some perspective and guidance on organizing and executing a peer review program. Through peer review, the methodology and results of a survey are subject to the scrutiny of subject matter and community experts whose participation will “enhance the quality, objectivity, utility and integrity” of the information generated ({% cite 'Frost 2008' '2' %}).
 
@@ -373,9 +377,9 @@ During the reconnaissance survey, the survey team methodically drove every stree
 
 Southeast Los Angeles is mostly flat in terrain and composed of numbered streets laid out in an expansive rectilinear grid plan. The area was historically developed with early twentieth-century single-family neighborhoods, linear commercial corridors, and some industrial development, and was well serviced by streetcars. To surveyors, the visual character appeared very consistent: street after street of modest cottages and Craftsman bungalows.
 
-When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11)).
+When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11-a)).
 
-{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c, table-10-11-d' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
 
 Using the preloaded reference layers in the mobile survey application (see [Designing Digital Surveys](/part-ii/chapter-8/#designing-digital-surveys) in chapter 8), surveyors could see that these houses were all constructed in the same year: 1920. Field observations also noted the houses’ condition and alterations that had been made to them. The survey team members agreed the neighborhood was something to research further, and they noted it on the reconnaissance map for additional study.
 
@@ -385,9 +389,9 @@ Upon review of research materials, including subdivision maps, historic building
 
 ### Application of the Citywide Historic Context Statement
 
-Based on the reconnaissance survey and research, surveyors identified the housing tract as a potential residential historic district associated with three contexts and associated themes of the citywide historic context: residential architecture, residential development, and industrial development/labor history in Los Angeles. Based on analysis of the potential district within the eligibility criteria and standards for each theme, surveyors determined that the district met only those associated with labor history. It is a significant example of an early housing subdivision constructed by an important industrial manufacturer, Goodyear Tire & Rubber Company, for its workers ([fig. 10.12](#fig-10-12)). This type of housing development, planned and constructed by an industrial employer, was extremely rare in Los Angeles in the early twentieth century. Under comparative analysis, no other examples of company-built single-family worker housing have been recorded for SurveyLA, making this district the only known survivor of the heritage resource type.
+Based on the reconnaissance survey and research, surveyors identified the housing tract as a potential residential historic district associated with three contexts and associated themes of the citywide historic context: residential architecture, residential development, and industrial development/labor history in Los Angeles. Based on analysis of the potential district within the eligibility criteria and standards for each theme, surveyors determined that the district met only those associated with labor history. It is a significant example of an early housing subdivision constructed by an important industrial manufacturer, Goodyear Tire & Rubber Company, for its workers ([fig. 10.12](#table-10-12)). This type of housing development, planned and constructed by an industrial employer, was extremely rare in Los Angeles in the early twentieth century. Under comparative analysis, no other examples of company-built single-family worker housing have been recorded for SurveyLA, making this district the only known survivor of the heritage resource type.
 
-{% figure 'fig-10-12' %}
+{% figure 'table-10-12' 'pdf-two-column' %}
 
 ### Intensive Field Survey, Documentation, and Final Assessment
 
