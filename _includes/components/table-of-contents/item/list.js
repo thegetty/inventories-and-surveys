@@ -79,7 +79,7 @@ module.exports = function (eleventyConfig) {
         const titleElement = item.title ? `Sidebar: ${item.title}` : ''
         sidebarItems += `<li><a href="${sidebarLink}">${titleElement}${contributorElement}</a></li>`
       }
-      sidebarList = `<ul class="sidebar-list">${sidebarItems}</ul>`
+      sidebarList = `<ol class="sidebar-list">${sidebarItems}</ol>`
     }
 
     let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
