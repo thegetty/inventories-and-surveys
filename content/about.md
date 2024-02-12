@@ -1,6 +1,8 @@
 ---
 title: About
 layout: page
+classes:
+  - copyright-page
 order: 180
 outputs:
   - html
@@ -24,7 +26,7 @@ outputs:
 
 ### Permanent URL
 
-{{ config.baseURL }}
+{{ publication.url }}
 
 </div>
 <div class="revision-history">
@@ -35,7 +37,7 @@ outputs:
 
 {% for revision in publication.revision_history %}
 
-### {{ revision.date }}
+### {{ revision.date | date: "%B %d, %Y" }}
 
 {% for item in revision.summary %}
 - {{ item | markdownify }}
@@ -86,7 +88,7 @@ outputs:
 </div>
 <div class="cover-image-credits">
 
-Front cover:
+Front cover: TK
 
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 

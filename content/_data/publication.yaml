@@ -182,14 +182,14 @@ subject:
 
 library_of_congress_cip: |
   Library of Congress Cataloging-in-Publication Data
-  - Names:
-  - Title:
-  - Description:
-  - Identifiers:
-  - Subjects:
-  - Classification:
-  - LC record available at
-  - LC ebook record available at
+  - Names: Hansen, Janet (Writer on heritage management), author. | Myers, David, 1967 February 5- author. | Getty Conservation Institute, issuing body.  
+  - Title: Inventories and surveys for heritage management : lessons for the digital age / Janet Hansen and David Myers.  
+  - Description: First edition. | Los Angeles : Getty Conservation Institute, 2024. | With contributions by Lauren Weiss Bricker, Sara Delgadillo, Annabel Lee Enriquez, Katie Horak, Alastair Macintosh, and Nicholas Yeo. | Includes bibliographical references. | Summary: "This publication provides technical advice and guidance for using inventories and surveys as tools for heritage conservation and management"— Provided by publisher.  
+  - Identifiers: LCCN 2023052837 (print) | LCCN 2023052838 (ebook) | ISBN 9781606068816 (paperback) | ISBN 9781606068830 (epub) | ISBN 9781606068823 (adobe pdf) | ISBN 9781606068847  
+  - Subjects: LCSH: Cultural property—Inventories. | Archaeological surveying. | Cultural property—Protection. | Historic preservation. 
+  - Classification: LCC CC135 .H365 2024  (print) | LCC CC135  (ebook) | DDC 363.6/9—dc23/eng/20240212 
+  - LC record available at https://lccn.loc.gov/2023052837
+  - LC ebook record available at https://lccn.loc.gov/2023052838
 
 # ------------------------------------------------------------------------------
 # Revision History

@@ -925,7 +925,8 @@ table .table-subhead,
   content: '◆  ';
 }
 .quire-page__content .container .content ul li::before,
-.quire-page__content .container .content ul.quire-contributors-list li::marker {
+.quire-page__content .container .content ul.quire-contributors-list li::marker,
+.copyright-page .quire-page__content .container .content ul li::marker {
   content: none;
 }
 .q-lightbox-slides__element table ul {
@@ -967,17 +968,6 @@ table .table-subhead,
   }
   .title-page .publisher {
     font-size: 1.25rem;
-  }
-  .copyright-page .publisher p:first-child,
-  .copyright-page .cip-data p:first-child {
-    margin-bottom: 0;
-  }
-  .copyright-page .project-team ul li::marker,
-  .copyright-page .cip-data ul li::marker {
-    content: none !important;
-  }
-  .copyright-page .cip-data ul li {
-    line-height: 1.5;
   }
   .quire-contents .quire-contents-list > nav > ol > li.page-item:nth-child(-n+3) > a::after {
     content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
@@ -1021,3 +1011,47 @@ table .table-subhead,
   }
 }
 
+.copyright-page .publisher p:first-child,
+.copyright-page .cip-data p:first-child {
+  margin-bottom: 0 !important;
+}
+.copyright-page .project-team ul {
+  margin-left: 0;
+}
+.copyright-page .cip-data ul {
+  margin-top: 0;
+  margin-left: 1.5rem !important;
+}
+.copyright-page .project-team ul li,
+.copyright-page .cip-data ul li {
+  margin-bottom: 0 !important;
+  margin-left: 0 !important;
+}
+.copyright-page .cip-data ul li {
+  text-indent: -1.5rem;
+}
+.copyright-page .project-team ul li::marker,
+.copyright-page .cip-data ul li::marker {
+  content: none !important;
+}
+.copyright-page .cip-data ul li {
+  line-height: 1.5;
+}
+.copyright-page .copyright__publisher-logo {
+  display: none;
+}
+.quire-page__content .content a.quire-copyright__icon__link,
+.quire-page__content .content a.quire-copyright__icon__link:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  border-bottom-width: 0 !important;
+}
+@media print {
+  .copyright-page .cip-data {
+    column-break-before: always;
+  }
+}
+.quire-page__content .container .content .backmatter h2 {
+  font-weight: 600;
+}
+.quire-page__content .container .content .backmatter h3 {
+  font-weight: 400;
+}
