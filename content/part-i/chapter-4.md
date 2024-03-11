@@ -56,7 +56,7 @@ A fundamental aspect of Arches is that the platform is designed to enable implem
 
 Additionally, Arches is built to support the ongoing work of heritage inventories and surveys to create, edit, update, and share data over the long term. This includes robust capabilities to create and edit geospatial data that describes locations. For those using ArcGIS Pro, the Arches Esri Add-In module facilitates a bidirectional link between ArcGIS Pro and Arches such that the creation or editing of spatial features and attributes in either software will be reflected in the other.
 
-The data structure of Arches provides the ability to produce semantically enhanced, self-describing data according to internationally recognized standards, such as ISO 21127:2014—more commonly referred to as the CIDOC Conceptual Reference Model, or CIDOC CRM ({% cite 'ISO 2014' %}). This capability creates machine-readable data that is interoperable and portable. Because Arches uses common nonproprietary file formats, the structured data stored in Arches is software-platform independent and can be exported and migrated to other systems as necessary.
+The data structure of Arches provides the ability to produce semantically enhanced, self-describing data according to internationally recognized standards, such as ISO 21127:2023—more commonly referred to as the CIDOC Conceptual Reference Model, or CIDOC CRM ({% cite 'ISO 2023' %}). This capability creates machine-readable data that is interoperable and portable. Because Arches uses common nonproprietary file formats, the structured data stored in Arches is software-platform independent and can be exported and migrated to other systems as necessary.
 
 ### Data Visualization and Discovery {#data-visualization-and-discovery}
 
@@ -96,11 +96,11 @@ To highlight a few examples, Arches has been implemented to manage the following
 
 - **England’s National Record of the Historic Environment.** Historic England has deployed Arches (branded as Warden) to manage England’s National Record of the Historic Environment, consisting of over 550,000 records on archaeological, architectural, and maritime sites and investigations.
 
-- **England's National Marine Heritage Record.** Historic England has also deployed Arches (branded as Mariner) to manage England's National Marine Heritage Record.
+- **England's National Marine Heritage Record.** Historic England is also deploying Arches (branded as Mariner) to manage England's National Marine Heritage Record.
 
 - **Isle of Man Historic Environment Record.** Manx National Heritage, the charity responsible for the care and promotion of Isle of Man’s natural and cultural heritage, launched the Arches-based Isle of Man Historic Environment Record (IOMHER) to improve management of and enable access to the island’s rich historic environment. See https://isleofmanher.im/.
 
-- **Jamaica National Inventory of Historic Places.** The Jamaica Ministry of Culture, Gender, Entertainment and Sport, with support from the Organization of American States and funding from the U.S. Mission to the OAS, implemented Arches for the Jamaica National Inventory of Historic Places ([fig. 4.4](#fig-4-4)). It is maintained and updated by staff of the Jamaica National Heritage Trust. See https://siteinventory.jnht.com/.
+- **Jamaica National Inventory of Historic Places.** The Jamaica Ministry of Culture, Gender, Entertainment and Sport, with support from the Organization of American States, implemented Arches for the Jamaica National Inventory of Historic Places ([fig. 4.4](#fig-4-4)). It is maintained and updated by staff of the Jamaica National Heritage Trust. See https://siteinventory.jnht.com/.
 
 {% figure 'fig-4-4' 'pdf-two-column pdf-85-percent-width' %}
 
@@ -108,13 +108,13 @@ To highlight a few examples, Arches has been implemented to manage the following
 
 Additionally, several public agencies have implemented Arches to manage their heritage inventories for cities or urban areas, including:
 
-- **Los Angeles Historic Resources Inventory.** As mentioned above, the City of Los Angeles has deployed Arches as HistoricPlacesLA. It currently includes records of more than fifty thousand historic resources and districts. See <http://historicplacesla.org/>.
+- **Los Angeles Historic Resources Inventory.** As mentioned above, the City of Los Angeles has deployed Arches as HistoricPlacesLA. It currently includes records of more than fifty thousand historic resources and districts. See <https://hpla.lacity.org/>.
 
 - **Greater London Historic Environment Record.** Historic England has deployed Arches as the Greater London Historic Environment Record (GLHER) which is used to manage a heritage impact assessment consultation process ([fig. 4.5](#fig-4-5)).
 
 - **Lincoln Historic Environment Record.** As discussed in [chapter 13](/part-iv/chapter-13/), the City of Lincoln, U.K., has deployed Arches as its HER, branded Arcade, to manage the city’s archaeological and architectural heritage. See https://arcade.lincoln.gov.uk/.
 
-- **City and County of San Francisco.** The City and County of San Francisco has deployed Arches as the city’s heritage inventory and as a tool to carry out a citywide survey.
+- **City and County of San Francisco.** The City and County of San Francisco has deployed Arches, known as SF Survey, as the city’s heritage inventory and as a tool to carry out a citywide survey. See https://sfculturalheritage.org.
 
 - **Te Kaunihera o Tāmaki Makaurau / Auckland Council.** In Aotearoa / New Zealand, Arches has been deployed to manage and publicly share information about heritage places in Tāmaki Makaurau / Auckland.
 
@@ -136,4 +136,4 @@ Its design is also intended to enable data to be used, updated, shared, and avai
 
 {% endbackmatter %}
 
-[^1]: For more information on Arches, visit the project website (<http://archesproject.org/>). There, along with participating in the community forum, you can interact with an online demonstration version, download the software code, access documentation, view the project roadmap, and sign up for project updates.
+[^1]: For more information on Arches, visit the project website (<https://archesproject.org/>). There, along with participating in the community forum, you can interact with an online demonstration version, download the software code, access documentation, view the project roadmap, and sign up for project updates.
