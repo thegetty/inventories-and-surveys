@@ -1,6 +1,6 @@
 ---
 label: "11"
-title: "Publish Survey Results"
+title: "Publishing Survey Results"
 short_title:
 layout: essay
 contributor:

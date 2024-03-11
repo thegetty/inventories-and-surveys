@@ -1,6 +1,6 @@
 ---
 label: "7"
-title: "Create a Survey Plan"
+title: "Creating a Survey Plan"
 short_title:
 layout: essay
 contributor:

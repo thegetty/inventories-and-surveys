@@ -1,6 +1,6 @@
 ---
 label: "10"
-title: "Conduct Field Surveys"
+title: "Conducting Field Surveys"
 short_title:
 layout: essay
 contributor:
