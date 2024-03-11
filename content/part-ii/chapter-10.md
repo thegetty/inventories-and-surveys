@@ -229,7 +229,7 @@ In the case of SurveyLA, the reconnaissance survey team included several (three 
 
 {% figure 'fig-10-7' 'pdf-float-top' %}
 
-By the end of the reconnaissance survey, the team had produced a list of potentially significant heritage resources in the survey area, which would be further considered for resource-specific research—and recording, if identified as potentially significant. Having several team members in a car at once assures that the reconnaissance work is comprehensive and that there is dialogue about what was surveyed among experienced surveyors. This customized approach to reconnaissance work was developed by the consultant team during the early phases of SurveyLA and has since been successfully used in heritage surveys of numerous diverse geographic areas in the United States.
+By the end of the reconnaissance survey, the team had produced a list of potentially significant heritage resources in the survey area, which would be further considered for resource-specific research—and for recording, if identified as potentially significant. Having several team members in a car at once assures that the reconnaissance work is comprehensive and that there is dialogue about what was surveyed among experienced surveyors. This customized approach to reconnaissance work was developed by the consultant team during the early phases of SurveyLA and has since been successfully used in heritage surveys of numerous diverse geographic areas in the United States.
 
 ### Intensive-Level Survey and Recording {#intensive-level-survey-and-recording}
 
@@ -343,9 +343,9 @@ The process for assessing heritage significance can be designed to align with th
 
 -   Anticipate that some resource types may need to be reevaluated after a survey is complete and final data has been compiled. At that time, the entire pool of a resource type will be known, and a more complete comparative analysis will be possible to best understand significance thresholds.
 
--   It is recommended that the field data collection system and process include a mechanism to flag resource types that may be important but that have not been identified in a context or theme represented in the survey. This information can help revise and augment thematic frameworks and narrative historic contexts over time.[^4]
+-   It is recommended that the field data collection system and process include a mechanism to flag resource types that may be important but that have not been identified in a context or theme developed for the survey. This information can help revise and augment thematic frameworks and narrative historic contexts over time.[^4]
 
--   For surveys using a context- or theme-based approach, provide training to surveyors in the application of contexts, themes, and eligibility standards to both categorize and evaluate resources.
+-   When using a context- or theme-based approach, provide training to surveyors in the application of contexts, themes, and eligibility standards to both categorize and evaluate resources.
 
 ### Evaluation as Part of the Survey Process
 
@@ -369,7 +369,7 @@ Heritage resource analysis and evaluation is a sequential process that is guided
 
 ## SurveyLA Case Study in Heritage Resource Assessment: Goodyear Gardens Historic District {#surveyla-case-study}
 
-The survey and evaluation of the Goodyear Gardens Historic District in Los Angeles illustrates the steps discussed above. The potential historic district was documented by SurveyLA field surveyors as part of the Southeast Los Angeles community plan area, which comprises roughly fifty-four thousand legal parcels and is located directly south of downtown Los Angeles. Goodyear Gardens is an example of a heritage resource that was not identified as part of any prefield research or community outreach. Rather, it was newly discovered during the field survey process. The sections below describe the assessment steps followed for the potential district based on the model presented in this chapter.
+The survey and evaluation of the Goodyear Gardens Historic District in Los Angeles illustrates the assessment model presented above. The potential historic district was documented by SurveyLA field surveyors as part of the Southeast Los Angeles community plan area, which comprises roughly fifty-four thousand legal parcels and is located directly south of downtown Los Angeles. Goodyear Gardens is an example of a heritage resource that was not identified as part of any prefield research or community outreach. Rather, it was newly discovered during the field survey process. The sections below describe the assessment steps followed for the potential district.
 
 ### Reconnaissance Survey
 
@@ -377,7 +377,7 @@ During the reconnaissance survey, the survey team methodically drove every stree
 
 Southeast Los Angeles is mostly flat in terrain and composed of numbered streets laid out in an expansive rectilinear grid plan. The area was historically developed with early twentieth-century single-family neighborhoods, linear commercial corridors, and some industrial development, and was well serviced by streetcars. To surveyors, the visual character appeared very consistent: street after street of modest cottages and Craftsman bungalows.
 
-When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is very uncommon in Los Angeles ([fig. 10.11](#fig-10-11-a)).
+When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is uncommon in Los Angeles ([fig. 10.11](#fig-10-11-a)).
 
 {% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
 

@@ -119,23 +119,23 @@ Estimating the costs associated with a survey will establish budgets for the pro
 
 While it is necessary to develop at least a preliminary project budget to secure a commitment to complete a survey, it is important to expect that the budget may need to be revised once the project is initiated and survey tools and methods are tested and further defined. Pilot surveys are central to estimating the time and budget needed to complete the field surveys, as discussed in [chapter 9](/part-ii/chapter-9/).
 
-## Survey Funding {#survey-funding}
+### Survey Funding {#survey-funding}
 
 The planning phase will identify potential funding sources and opportunities for the survey, which may include [lead agency/organization resources](#agencyorganization-resources), [grants](#grants), and [partnerships](#partnerships), as described below.
 
-### Agency/Organization Resources {#agencyorganization-resources}
+#### Agency/Organization Resources {#agencyorganization-resources}
 
 The lead agency or organization for the survey must commit sufficient funds and/or identify sufficient supplemental funding sources to complete the survey. A long lead time may be required to allocate funds for a survey into annual budgets, and a phased survey approach or methodology may be necessary as a result. Creative approaches to funding could include leveraging financial resources from existing programs that overlap with the goals of the survey. For example, within a municipal planning department, a survey might dovetail with already-funded community planning activities and programs that rely on up-to-date and comprehensive heritage data, so surveys could be incorporated into those efforts. Interagency funding opportunities could result from collaborations with museums, libraries, universities, and associated cultural heritage programs.
 
-### Grants {#grants}
+#### Grants {#grants}
 
 Grants can be an important source of supplemental funding for heritage surveys; however, they take time to administer, and in many cases require matching funds. Grant opportunities can be explored during the planning process and throughout the project, such that available funds and funding cycles can be accounted for in the overall project budget and schedule over the life of a survey.
 
-### Partnerships {#partnerships}
+#### Partnerships {#partnerships}
 
 Budget planning can include examining the opportunity to establish partnerships with universities and other research institutions, the private sector, and charitable foundations to help support the costs of the survey. Like grants, partnerships may provide funding for the project in whole or in part. As mentioned in [chapter 5](/part-ii/chapter-5/), the work of the Getty Conservation Institute to establish a blueprint for a citywide survey in Los Angeles resulted in the multiyear partnership and associated grant agreement between the J. Paul Getty Trust and the City of Los Angeles to complete SurveyLA. After the official launch of SurveyLA, the GCI funded work associated with the citywide historic context and project technology and also helped to implement Arches as the city’s heritage inventory system.
 
-## Survey Schedule and Timeline {#survey-schedule-and-timeline}
+### Survey Schedule and Timeline {#survey-schedule-and-timeline}
 
 Developing a realistic schedule for a survey is important to managing the expectations of the lead agency or organization, stakeholders, and the public regarding how the project will unfold over time. The overall project schedule may be based on variables such as the size and scope of the survey, available resources for its completion, and the urgency of data needs. The schedule guides the work plan for the survey and typically incorporates a timeline for the project as a whole, as well as for each individual activity of the survey: when each will start and end, and areas of overlap.
 
@@ -153,7 +153,7 @@ Creating or modernizing and improving a digital inventory system, including buil
 
 Official survey standards and guidelines have been developed and published by national agencies worldwide and are commonly used (or adapted for use) to develop regional and local guidelines. Applicable standards for a jurisdictional area should be identified and considered as the foundational element for a survey to provide technical assistance for survey planning and developing survey tools and methods.[^1] Adopting such standards will help ensure consistency in survey practices and that the survey follows accepted professional practices, meets applicable legal requirements for heritage preservation, and is credible and defensible.[^2] The use of standards is particularly important in instances where survey findings are officially approved, adopted, and incorporated into an authoritative inventory. [Chapter 8](/part-ii/chapter-8/) discusses the application of standards and guidelines to developing survey recording and documentation tools and methods.
 
-It is important to acknowledge that in many cases, existing standards and guidelines are outdated. For example, data fields required for old paper survey forms may refer to specific ways to record spatial information that are no longer pertinent for digital data collection. As well, standards and guidelines may not apply to documenting the range of themes and heritage typologies that characterize modern surveys, such as intangible heritage. The planning phase is a critical time to assess and address the relevancy of these survey standards for a modern survey.
+It is important to acknowledge that, in many cases, existing standards and guidelines are outdated. For example, data fields required for old paper survey forms may refer to specific ways to record spatial information that are no longer pertinent for digital data collection. As well, standards and guidelines may not apply to documenting the range of themes and heritage typologies that characterize modern surveys, such as intangible heritage. The planning phase is a critical time to assess and address the relevancy of these survey standards for a modern survey.
 
 {% accordion '## Historic Preservation Practice in the United States' 'sidebar-1' %}
 
@@ -250,7 +250,7 @@ The concepts of historic contexts and thematic frameworks, as defined in the [si
 
 The public can be engaged in heritage surveys in many ways. The extent and type of outreach approaches considered will reflect the overall goals of the survey as well as available funding and staffing. Survey planning may engage key stakeholders and others with a clear understanding of the scope and content of the survey and expertise in developing and implementing a range of community outreach strategies for heritage work. See [Public Outreach and Engagement](/part-ii/chapter-8/#public-outreach-and-engagement) in chapter 8.
 
-## Pilot Surveys
+### Pilot Surveys
 
 A pilot survey program serves as a test run to assess and refine tools, methods, and procedures in advance of the official launch of field surveys. The pilot may include one or more geographic areas, themes, and resource types. See [chapter 9](/part-ii/chapter-9/) for details on completing pilot surveys.
 
@@ -272,7 +272,7 @@ The model can be applied or adapted to a range of survey types, as not every sur
 
 -   **The field survey manager** plays a lead role in planning, designing, developing, and implementing survey tools and methods. The survey manager supervises and directs the work of field surveyors and is responsible for their safety and well-being. Ultimately, the survey manager ensures data is high quality and consistent and that surveys are completed on time and on budget. A large-scale survey may have one or more field survey managers.
 
--   **Field surveyors** complete field surveys under the direction of the field survey manager. The number and profile of field surveyors needed may depend on factors including technology used, size of the survey, level of detail required, experience needed, and the survey budget and schedule.
+-   **Field surveyors** complete surveys under the direction of the field survey manager. The number and profile of field surveyors needed may depend on factors including technology used, size of the survey, level of detail required, experience needed, and the survey budget and schedule.
 
 -   **A historic context specialist** is recommended for surveys that implement a historic context–based approach. This role may be a function of the field survey manager or other heritage professionals who have extensive experience designing thematic frameworks and writing historic context statements or thematic studies.
 
@@ -286,7 +286,7 @@ The model can be applied or adapted to a range of survey types, as not every sur
 
 -   **Administrative support** includes part-time agency or organization staff that assist the project manager with various aspects of project administration, such as grant management and consultant contracting.
 
--   **Peer review experts** are engaged to review and vet survey findings and may be organized as a committee or panel. The [Peer Review in Heritage Surveys](/part-ii/chapter-10/#sidebar-1) sidebar in chapter 10 provides more information on the role and process of peer review. Peer reviewers may be volunteers or paid project personnel whose time is considered in the project budget. The five members of SurveyLA’s peer review committee were each paid a stipend to prepare for and attend each meeting.
+-   **Peer review experts** are engaged to review and vet survey findings and may be organized as a committee or panel. The [Peer Review in Heritage Surveys](/part-ii/chapter-10/#sidebar-1) sidebar in chapter 10 provides more information on the role and process of peer review. Peer reviewers may be paid project personnel whose time is considered in the project budget. The five members of SurveyLA’s peer review committee were paid a stipend to prepare for and attend each meeting.
 
 -   **Project advisors** provide expert advice on various aspects of the project, as well as overall support for the survey. Although advisors may be individuals, a project advisory committee is recommended to bring a range of stakeholders to the table and provide consensus on important topics. The makeup of an advisory committee will vary based on the scope and focus of the survey and the goals and objectives established for the committee. Participants may be internal or external to the managing agency or organization and may be volunteers or paid project personnel whose time is considered in the project budget. SurveyLA’s volunteer advisory committee was composed primarily of community-based stakeholders; they met on a quarterly basis while survey tools and methods were in development and less often as the field surveys were in progress. The committee provided advice on topics ranging from naming the survey to ensuring inclusive participation in the project.
 
