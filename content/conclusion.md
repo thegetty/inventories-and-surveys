@@ -9,7 +9,7 @@ contributor:
     sort_as: "1"
 ---
 
-In closing, we offer the following thoughts based on the authors’ collective experiences, those shared with us by others, as well as research. They summarize salient points, common challenges and potential remedies to them, and strategic recommendations relating to heritage inventory and survey practice. Much of what follows has been discussed earlier in this volume and is simply consolidated here for the benefit of readers.
+In closing, we offer the following thoughts based on our collective experiences, those shared with us by others, as well as research. They summarize salient points, common challenges and potential remedies to them, and strategic recommendations relating to heritage inventory and survey practice. Much of what follows has been discussed earlier in this volume and is consolidated here for the benefit of readers.
 
 ## Key Considerations
 
@@ -31,9 +31,9 @@ The following summarizes noteworthy points regarding heritage inventories and re
 
 -   **Inventory and survey practices are increasingly embracing inclusive approaches.** The increasing democratization of heritage processes in many parts of the world has been reflected in shifts in inventory and survey work. In the past, such work primarily reflected professional perspectives. Now, increasingly, we see broad-ranging and inclusive participation, including from community members.
 
--   **Inventory and survey practices are increasingly accounting for traditionally marginalized communities.** There is growing recognition in much of the world of the need to comprehensively identify and document the heritage of underrecognized cultural and ethnic groups and fully representing associated resources within inventories and related surveys.
+-   **Inventory and survey practices are increasingly accounting for traditionally marginalized communities.** There is growing recognition in much of the world of the need to comprehensively identify and document the heritage of underrecognized cultural and ethnic groups and to fully represent associated resources within inventories and related surveys.
 
--   **The scope of inventories and surveys should expand as definitions of heritage broaden.** As public agencies officially recognize more types of heritage the breadth of inventories and surveys should expand accordingly.
+-   **The scope of inventories and surveys should expand as definitions of heritage broaden.** As public agencies officially recognize more types of heritage, the breadth of inventories and surveys should expand accordingly.
 
 -   **Unified inventories can be more effective than separate topical inventories for heritage management.** Inventories can potentially be more effectively and efficiently used as tools for heritage management when they are unified for all immovable heritage types, rather than having separate inventories for different heritage types (e.g., separate inventories for architectural and archaeological heritage).
 
@@ -119,7 +119,7 @@ Keeping up with rapid information technology developments can be a significant c
 
 Potential remedies include:
 
--   Heritage organizations may seek to pool resources, rather than making scattered small-scale investments, to be better positioned to invest in keeping pace with rapid advancements and to gain access to IT specialists who stay abreast of and adept at implementing new technologies. This type of approach could include multiple organizations jointly investing in shared, purpose-built IT applications. One way to enable pooling of resources is to adopt open-source software, such as the Arches Heritage Data Management Platform described in [chapter 4](/part-i/chapter-4/). The Arches for HERs software package is an example of one such solution. It was created based on the standards and requirements of England’s more than eighty regional and local agency historic environment records.
+-   Heritage organizations may seek to pool resources, rather than making scattered small-scale investments, to be better positioned to invest in keeping pace with rapid advancements and to gain access to IT specialists who stay abreast of and are adept at implementing new technologies. This type of approach could include multiple organizations jointly investing in shared, purpose-built IT applications. One way to enable pooling of resources is to adopt open-source software, such as the Arches Heritage Data Management Platform described in [chapter 4](/part-i/chapter-4/). The Arches for HERs software package is an example of one such solution. It was created based on the standards and requirements of England’s more than eighty regional and local agency historic environment records.
 
 -   Heritage organizations may wish to, whenever possible, create inventory and survey data in nonproprietary formats so that data can be read in the future without relying on particular software.
 
@@ -127,7 +127,7 @@ Potential remedies include:
 
 ### Developing Inclusive Approaches to Inventory and Survey Work
 
-As discussed throughout the book, in many parts of the world there is increased recognition of the need to identify and document resources associated with ethnic and cultural histories and to represent diverse populations and multiple narratives more fully in inventories and surveys. A vital part of such an effort is engaging community stakeholders to work alongside heritage professionals as partners. This approach is a departure from previous surveys and inventories that relied solely on heritage professional for the most part, so new strategies are needed.
+As discussed throughout the book, in many parts of the world there is increased recognition of the need to identify and document resources associated with ethnic and cultural histories and to represent diverse populations and multiple narratives more fully in inventories and surveys. A vital part of such an effort is engaging community stakeholders to work alongside heritage professionals as partners. This approach is a departure from previous surveys and inventories that relied solely on heritage professionals for the most part, so new strategies are needed.
 
 Potential remedies include:
 

@@ -19,7 +19,7 @@ entries:
     full: "Australian Heritage Commission. 2001. *Australian Historic Themes: A Framework for Use in Heritage Assessment and Management*. Canberra: Australian Heritage Commission. <https://repository.up.ac.za/bitstream/handle/2263/27059/Appendix%2016.pdf?sequence=25>"
 
   - id: "Avrami 2021"
-    full: "Avrami, Erica. 2021. “Preservation’s Reckoning.” In *Preservation and Social Inclusion*. Vol. 2 of *Issues in Preservation Policy*, edited by Erica Avrami, 9–19. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-0>"
+    full: "Avrami, Erica. 2021. “Preservation’s Reckoning.” In *Preservation and Social Inclusion*, edited by Erica Avrami, 9–19. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-0>"
 
   - id: "Barbados Ministry of Creative Economy, Culture and Sports n.d."
     full: "Barbados Ministry of Creative Economy, Culture and Sports. n.d. Barbados National Registry of Historic Places. Accessed June 20, 2023. <https://heritagebarbados.gov.bb>."
@@ -61,7 +61,7 @@ entries:
     full: "City of Lincoln Council. n.d. Arcade. Accessed June 20, 2023. <https://arcade.lincoln.gov.uk/>"
 
   - id: "City of Los Angeles n.d."
-    full: "City of Los Angeles, Office of Historic Resources. n.d. HistoricPlacesLA. Accessed June 20, 2023. http://historicplacesla.org/"
+    full: "City of Los Angeles, Office of Historic Resources. n.d. HistoricPlacesLA. Accessed June 20, 2023. https://hpla.lacity.org/"
 
   - id: "City of Toronto 2019"
     full: "City of Toronto, City Planning Division. 2019. *City-Wide Heritage Survey Feasibility Study*. Toronto: City Planning Division. <https://www.toronto.ca/legdocs/mmis/2019/ph/bgrd/backgroundfile-135182.pdf>"
@@ -100,7 +100,7 @@ entries:
     full: "Department of Natural Resources and Environment Tasmania. 2021. *Assessing Historic Heritage Significance*, version 6. <https://heritage.tas.gov.au/Documents/Assessing%20Historic%20Heritage%20Significance.pdf>"
 
   - id: "Derry et al. 1985"
-    full: "Derry, Anne, H. Ward Jandl, Carol D. Shull, and Jan Thorman. 1985. *Guidelines for Local Surveys: A Basis for Preservation Planning.* Revised by Patricia L. Parker. Washington, DC: National Register of Historic Places. <https://www.nps.gov/subjects/nationalregister/upload/NRB24-Complete_Part1t.pdf>"
+    full: "Derry, Anne, H. Ward Jandl, Carol D. Shull, and Jan Thorman. 1985. *National Register Bulletin 24: Guidelines for Local Surveys: A Basis for Preservation Planning.* Revised by Patricia L. Parker. Washington, DC: National Register of Historic Places. <https://www.nps.gov/subjects/nationalregister/upload/NRB24-Complete_Part1t.pdf>; <https://www.nps.gov/subjects/nationalregister/upload/NRB24-Complete_Part2.pdf>"
 
   - id: "Duxbury, Garrett-Petts, and MacLennan 2015"
     full: "Duxbury, Nancy, W. F. Garrett-Petts, and David MacLennan. 2015. “Cultural Mapping as Cultural Inquiry: Introduction to an Emerging Field of Practice.” In *Cultural Mapping as Cultural Inquiry*, edited by Nancy Duxbury, W. F. Garrett-Petts, and David MacLennan, 1–42. New York: Routledge."
@@ -157,7 +157,7 @@ entries:
     full: "Hansen, Janet, and Sara Delgadillo Cruz. 2019. “Big City, Big Data: Los Angeles’s Historic Resources.” In *Preservation and the New Data Landscape*, edited by Erica Avrami. New York: Columbia University Press, 21–36. <https://www.arch.columbia.edu/books/reader/370-preservation-and-the-new-data-landscape#reader-anchor-2>"
 
   - id: "Hansen and Delgadillo Cruz 2020"
-    full: "Hansen, Janet, and Sara Delgadillo Cruz. 2020. “Los Angeles’s Historic Contexts: Pathways to Inclusion in Preservation.” In *Preservation and Social Inclusion*. Vol. 2 of *Issues in Preservation Policy*, edited by Erica Avrami. New York: Columbia University Press, 71–83. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion#reader-anchor-8>"
+    full: "Hansen, Janet, and Sara Delgadillo Cruz. 2020. “Los Angeles’s Historic Contexts: Pathways to Inclusion in Preservation.” In *Preservation and Social Inclusion*, edited by Erica Avrami. New York: Columbia University Press, 71–83. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion#reader-anchor-8>"
 
   - id: "Harpring 2010"
     full: "Harpring, Patricia. 2010. *Introduction to Controlled Vocabularies: Terminology for Art, Architecture, and Other Cultural Works*. Los Angeles: Getty Research Institute. <http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/>"
@@ -172,7 +172,7 @@ entries:
     full: "Heritage Council of New South Wales. 2013. *Community-Based Heritage Studies: A Guide*. Sydney: Office of Environment and Heritage on Behalf of the Heritage Council of New South Wales. <https://webarchive.nla.gov.au/awa/20070413013512/http://pandora.nla.gov.au/pan/70190/20070413-0000/www.heritage.nsw.gov.au/docs/info_community2007.pdf>"
 
   - id: "Heritage Council of New South Wales 2021"
-    full: "Heritage Council of New South Wales. 2021. *Investigating Heritage Significance: A Guide to Identifying and Examining Heritage Items in NSW.* <https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/investigating-heritage-significance-2021.PDF>"
+    full: "Heritage Council of New South Wales. 2021. *Investigating Heritage Significance: A Guide to Identifying and Examining Heritage Items in NSW.*"
 
   - id: "Heritage Council of Victoria 2010"
     full: "Heritage Council of Victoria. 2010. *Victoria’s Framework of Historical Themes*. Melbourne: Heritage Council of Victoria. <https://www.heritage.vic.gov.au/__data/assets/pdf_file/0022/512275/Victorias-framework-of-historical-themes-Heritage-Council-of-Victoria,-Victorian-Aboriginal-Heritage-Council-2009.pdf>"
@@ -232,7 +232,7 @@ entries:
     full: "ICOMOS and International Federation of Landscape Architects (IFLA). 2017. *ICOMOS-IFLA Principles Concerning Rural Landscapes as Heritage.* Paris: ICOMOS. <https://www.icomos.org/images/DOCUMENTS/Charters/GA2017_6-3-1_RuralLandscapesPrinciples_EN_adopted-15122017.pdf>"
 
   - id: "ICOMOS ISC20C 2017"
-    full: "ICOMOS, International Committee on Twentieth Century Heritage (ISC20C). 2017. *Madrid-New Delhi Document (Approaches for the Conservation of Twentieth-Century Cultural Heritage)*. Paris: ICOMOS. <https://isc20c.icomos.org/resources/mndd/mndd-full-document-translations/>"
+    full: "ICOMOS, International Committee on Twentieth Century Heritage (ISC20C). 2017. *Madrid-New Delhi Document (Approaches to the Conservation of Twentieth-Century Cultural Heritage)*. Paris: ICOMOS. <https://isc20c.icomos.org/resources/mndd/mndd-full-document-translations/>"
 
   - id: "ICOMOS Nepal 2015"
     full: "ICOMOS Nepal. 2015. *Traditional Building Inventory: Nepal. An Initiative to Document Traditional Buildings to Facilitate Culturally Sensitive Rebuilding Process in Post-Earthquake Recovery Process in Nepal*. Kathmandu: UNESCO Office in Kathmandu. <https://openarchive.icomos.org/id/eprint/2274/1/259811eng.pdf>"
@@ -241,10 +241,10 @@ entries:
     full: "ICOMOS and The International Committee for the Conservation of Industrial Heritage (TICCIH). 2011. *Joint ICOMOS-TICCIH Principles for the Conservation of Industrial Heritage Sites, Structures, Areas and Landscapes*. Paris: ICOMOS. <https://www.icomos.org/images/DOCUMENTS/Charters/GA2011_ICOMOS_TICCIH_joint_principles_EN_FR_final_20120110.pdf>"
 
   - id: "Informing the Future of the Past n.d."
-    full: "Informing the Future of the Past: Guidelines for Historic Environment Records. n.d. “Home Page.” Accessed April 26, 2020. <https://archaeologydataservice.ac.uk/ifp/>"
+    full: "Informing the Future of the Past: Guidelines for Historic Environment Records. n.d. Accessed April 26, 2020. <https://archaeologydataservice.ac.uk/ifp/>"
 
-  - id: "ISO 2014"
-    full: "International Organization for Standardization (ISO). 2014. *Information and Documentation—A Reference Ontology for the Interchange of Cultural Heritage Information.* ISO 21127:2014. Geneva: International Organization for Standardization. <https://www.iso.org/standard/57832.html>"
+  - id: "ISO 2023"
+    full: "International Organization for Standardization (ISO). 2023. *Information and Documentation—A Reference Ontology for the Interchange of Cultural Heritage Information.* ISO 21127:2023. Geneva: International Organization for Standardization. <https://www.iso.org/standard/8500.html>"
 
   - id: "Jamaica National Heritage Trust n.d"
     full: "Jamaica National Heritage Trust. n.d. Jamaica National Inventory of Historic Places. Accessed June 20, 2023. <https://siteinventory.jnht.com/>"
@@ -256,34 +256,34 @@ entries:
     full: "Kurashige, Scott. 2008. *The Shifting Grounds of Race: Black and Japanese American in the Making of Multiethnic Los Angeles.* Princeton: Princeton University Press."
 
   - id: "Los Angeles City Planning 2008"
-    full: "Los Angeles City Planning Department. 2008. *SurveyLA: Preserving Los Angeles* (video). <https://planning.lacity.org/surveyla-preserving-los-angeles-videos>"
+    full: "Los Angeles City Planning Department. 2008. *SurveyLA: Preserving Los Angeles* (video). <https://planning.lacity.gov/surveyla-preserving-los-angeles-videos>"
 
   - id: "Los Angeles City Planning 2010"
-    full: "Los Angeles City Planning Department. 2010. *MyHistoricLA: Guide to Public Participation in SurveyLA*. Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.org/odocument/26a71b43-c31e-40da-9291-5d065e042d52/MyHistoricLA_Guide2010_with_cover.pdf>"
+    full: "Los Angeles City Planning Department. 2010. *MyHistoricLA: Guide to Public Participation in SurveyLA*. Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.gov/odocument/26a71b43-c31e-40da-9291-5d065e042d52/MyHistoricLA_Guide2010_with_cover.pdf>"
 
   - id: "Los Angeles City Planning 2012"
-    full: "Los Angeles City Planning Department. 2012. *Citywide Historic Context Statement: Resource Guide*. Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.org/odocument/2afd953e-09b5-4463-a5db-2eba81a52bea/Historic_Context_Statement_Resource_Guide.pdf>"
+    full: "Los Angeles City Planning Department. 2012. *Citywide Historic Context Statement: Resource Guide*. Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.gov/odocument/2afd953e-09b5-4463-a5db-2eba81a52bea/Historic_Context_Statement_Resource_Guide.pdf>"
 
   - id: "Los Angeles City Planning 2016a"
-    full: "Los Angeles City Planning Department. 2016a. *Los Angeles Citywide Historic Context Statement: Context: Other.* Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.org/odocument/5f2eb3ee-23c2-498b-84b8-a2eb473f2990/Other%20Context.pdf>"
+    full: "Los Angeles City Planning Department. 2016a. *Los Angeles Citywide Historic Context Statement: Context: Other.* Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.gov/odocument/5f2eb3ee-23c2-498b-84b8-a2eb473f2990/Other%20Context.pdf>"
 
   - id: "Los Angeles City Planning 2016b"
-    full: "Los Angeles City Planning Department. 2016b. *SurveyLA Field Survey Results Master Report.* Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.org/odocument/c118f301-cc39-4ede-af5a-3e5ec901e7be/SurveyLA_Master_Report.pdf>"
+    full: "Los Angeles City Planning Department. 2016b. *SurveyLA Field Survey Results Master Report.* Los Angeles: City of Los Angeles, Department of City Planning. <https://planning.lacity.gov/odocument/c118f301-cc39-4ede-af5a-3e5ec901e7be/SurveyLA_Master_Report.pdf>"
 
   - id: "Los Angeles City Planning n.d.a"
-    full: "Los Angeles City Planning Department. n.d.a. “Community Plan Updates.” Accessed August 3, 2023. <https://planning.lacity.org/plans-policies/community-plan-updates>"
+    full: "Los Angeles City Planning Department. n.d.a. “Community Plan Updates.” Accessed August 3, 2023. <https://planning.lacity.gov/plans-policies/community-plan-updates>"
 
   - id: "Los Angeles City Planning n.d.b"
-    full: "Los Angeles City Planning Department. n.d.b. “Historic Resources Surveys: SurveyLA Findings by Community Plan Area” (interactive map). Accessed August 3, 2023. <https://planning.lacity.org/preservation-design/historic-resources-survey>"
+    full: "Los Angeles City Planning Department. n.d.b. “Historic Resources Surveys: SurveyLA Findings by Community Plan Area” (interactive map). Accessed August 3, 2023. <https://planning.lacity.gov/preservation-design/historic-resources-survey>"
 
   - id: "Los Angeles City Planning n.d.c"
-    full: "Los Angeles City Planning Department. n.d.c. “Historic Themes.” Accessed February 11, 2022. <https://planning.lacity.org/preservation-design/historic-resources/historic-themes>"
+    full: "Los Angeles City Planning Department. n.d.c. “Historic Themes.” Accessed February 11, 2022. <https://planning.lacity.gov/preservation-design/historic-resources/historic-themes>"
 
   - id: "Los Angeles City Planning n.d.d"
-    full: "Los Angeles City Planning Department. n.d.d. “SurveyLA FAQs.” Accessed August 15, 2023. <https://planning.lacity.org/odocument/fe3186ea-cc35-4bce-94dd-4611f28e74ca/Info%20Brief%20SurveyLA%20FAQs.pdf>"
+    full: "Los Angeles City Planning Department. n.d.d. “SurveyLA FAQs.” Accessed August 15, 2023. <https://planning.lacity.gov/odocument/fe3186ea-cc35-4bce-94dd-4611f28e74ca/Info%20Brief%20SurveyLA%20FAQs.pdf>"
 
   - id: "Magalong 2020"
-    full: "Magalong, Michelle G. 2020. “Equity and Social Inclusion from the Ground Up: Historic Preservation in Asian American and Pacific Islander Communities.” In *Preservation and Social Inclusion*. Vol. 2 of *Issues in Preservation Policy*, edited by Erica Avrami, 147–156. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-15>"
+    full: "Magalong, Michelle G. 2020. “Equity and Social Inclusion from the Ground Up: Historic Preservation in Asian American and Pacific Islander Communities.” In *Preservation and Social Inclusion*, edited by Erica Avrami, 147–156. New York: Columbia University Press. <https://www.arch.columbia.edu/books/reader/503-preservation-and-social-inclusion%23reader-anchor-0#reader-anchor-15>"
 
   - id: "Manx National Heritage n.d."
     full: "Manx National Heritage. n.d. Isle of Man Historic Environment Record. Accessed June 20, 2023. <https://isleofmanher.im/>"
@@ -355,7 +355,7 @@ entries:
     full: "National Park Service. 2023. “Underrepresented Community Grants.” Historic Preservation Fund. <https://www.nps.gov/subjects/historicpreservationfund/underrepresented-community-grants.htm>"
 
   - id: "Nelson n.d."
-    full: "Nelson, Marie. n.d. “Writing Historic Contexts.” Sacramento: California Office of Historic Preservation. Accessed November 17, 2020. <https://ohp.parks.ca.gov/pages/1054/files/WritingHistoricContexts.pdf>"
+    full: "Nelson, Marie. n.d. “Writing Historic Contexts.” Sacramento: California Office of Historic Preservation. Accessed March 5, 2024. <https://ohp.parks.ca.gov/pages/1054/files/WritingHistoricContexts.pdf>"
 
   - id: "Nixon et al. 2002"
     full: "Nixon, Taryn, Ellen McAdam, Roberta Tomber, and Hedley Swain, eds. 2002. *A Research Framework for London Archaeology 2002*. London: Museum of London Archaeology Service. <https://archaeologyinlondon.files.wordpress.com/2016/04/research-framework-for-london-archaeology-mola-2002.pdf>"
@@ -399,8 +399,8 @@ entries:
   - id: "Schafer 2008"
     full: "Schafer, Stephen. 2008. *SurveyLA: Photo Tutorial*. <https://habsphoto.com/Artists/14047/SurveyLA_Schaf_tutorial.pdf>"
 
-  - id: "SENSE 2016"
-    full: "SENSE Transitional Justice Center. 2016. *Targeting History and Memory: The ICTY and the Investigation, Reconstruction and Prosecution of the Crimes against Cultural and Religious Heritage*. <http://heritage.sensecentar.org/>"
+  - id: "SENSE 2024"
+    full: "SENSE Transitional Justice Center. 2024. “Completion of the Project Targeting History and Memory.” <https://sensecentar.org/activities/completion-project-targeting-history-and-memory>"
 
   - id: "Souphavanh and Karoonboonyanan 2005"
     full: "Souphavanh, Anousak, and Theppitak Karoonboonyanan. 2005. *FOSS Localization.* New Delhi: United Nations Development Programme, Asia-Pacific Development Information Programme. <https://en.wikibooks.org/wiki/FOSS_Localization>"

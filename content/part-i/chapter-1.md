@@ -76,7 +76,7 @@ Also of relevance, the CARE Principles for Indigenous Data Governance were creat
 >
 > **Ethics** Indigenous Peoples’ rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem.
 
-An inventory program can create metrics to assess the degree to which inventory information reflects whatever key qualities are deemed most appropriate. Such metrics are addressed further in chapter 2 under [Monitoring and Periodic Evaluation](/part-i/chapter-2/#monitoring-and-evaluation).
+An inventory program can create metrics to assess the degree to which inventory information reflects whatever key qualities are deemed most appropriate. Such metrics are addressed further in chapter 2 under [Monitoring and Evaluation](/part-i/chapter-2/#monitoring-and-evaluation).
 
 {% backmatter %}
 

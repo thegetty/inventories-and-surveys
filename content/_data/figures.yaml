@@ -109,11 +109,11 @@ figure_list:
     src: "figures/fig-4-5.jpg"
     zoom: true
     caption: "The Greater London Historic Environment Record (GLHER) online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
-    credit:
+    credit: "Historic England"
     alt:
 
   - id: "fig-ii-1"
-    label: "FIGURE ii.1"
+    label: "FIGURE II.1"
     src: "figures/fig-ii-1.png"
     zoom: true
     caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and participation are integrated into each step."
@@ -193,7 +193,8 @@ figure_list:
     label: ""
     src: "figures/fig-8-3-a.png"
     zoom: true
-    # caption: "The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources"
+    # caption: "The citywide historic contexts developed for SurveyLA. 
+    # credit: Los Angeles City Planning Office of Historic Resources"
     alt:
 
   - id: "fig-8-3-b"
@@ -433,7 +434,7 @@ figure_list:
     src: "figures/fig-12-4.png"
     zoom: true
     caption: "The disaster risk management framework of the ARCH project for Advancing Resilience of Historic Areas against Climate-Related and Other Hazards."
-    credit: "ARCH Project"
+    credit: "ARCH"
     alt:
 
   - id: "fig-12-5"

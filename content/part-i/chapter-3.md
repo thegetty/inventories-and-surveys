@@ -97,7 +97,7 @@ Following from identifying the heritage resource types and other record types to
 
 As discussed in the [Controlled Vocabularies sidebar](/part-i/chapter-2/#sidebar-2) in chapter 2, if some data fields within an inventory database are to have drop-down values, an important related task is to define specific vocabularies for each field, as appropriate for a given jurisdiction. This effort may entail defining, for example, valid cultural periods, architectural styles, site or building types, categories of heritage designation, and so forth. Certain vocabularies function best when organized in hierarchies, such as the Neolithic period being a subtype of the Prehistoric period, or mineral extraction sites and furnaces being subtypes of industrial sites.
 
-The task of defining controlled vocabularies may require the involvement of a group of professionals with expertise in the range of topics covered, as well as familiarity with knowledge-organization practices. An organization may also wish to identify specific staff that will have ongoing responsibility for the management of controlled vocabularies, and perhaps also a standing reference group to consult as questions or issues arise. See [Controlled Vocabularies](#controlled-vocabularies-in-sidebar) in the sidebar for several resources on this topic.
+The task of defining controlled vocabularies may require the involvement of a group of professionals with expertise in the range of topics covered, as well as familiarity with knowledge-organization practices. An organization may also wish to identify specific staff that will have ongoing responsibility for the management of controlled vocabularies, and perhaps also a standing reference group to consult as questions or issues arise. See [Controlled Vocabularies](#controlled-vocabularies-in-sidebar) in the Resources sidebar for several useful tools.
 
 {% accordion '## Resources' 'sidebar-1' %}
 
@@ -145,7 +145,7 @@ Heritage organizations or practitioners considering which record types to includ
 
 For the task of identifying and defining specific categories of information, or data fields, for an inventory, the work undertaken to establish international standards for the inventory of heritage places may be helpful. In the early 1990s, two such standards were developed to identify the essential items of information that should form a part of any cultural heritage inventory: the Core Data Index to Historic Buildings and Monuments of the Architectural Heritage adopted by the Council of Europe in 1995 ({% cite 'Council of Europe 1995' %}), and the International Core Data Standard for Archaeological Sites and Monuments adopted by the International Committee for Documentation (CIDOC) of the International Council of Museums (ICOM) and the Council of Europe, also in 1995 ({% cite 'Council of Europe 1999' %}).
 
-In the late 2000s, the CIDOC Archaeological Sites Working Group made the decision to revise the Core Data Standard to bring it up to date, given that it had been developed before the introduction of mass computing, the Internet, and the development and widespread adoption of geographic information systems. The working group decided to combine the two standards mentioned here, because they were so closely linked. The CIDOC working group, with input from CIPA Heritage Documentation, the Heritage Documentation Committee of the International Council on Monuments and Sites (ICOMOS), prepared a draft International Core Data Standard for Archaeological and Architectural Heritage, which was intended for use in the creation of inventories for both built and archaeological heritage. As of this writing, this newer standard has not yet been finalized; however, working drafts can be downloaded from the URL shown above.
+In the late 2000s, the CIDOC Archaeological Sites Working Group made the decision to revise the Core Data Standard to bring it up to date, given that it had been developed before the introduction of mass computing, the Internet, and the development and widespread adoption of geographic information systems. The working group decided to combine the two standards mentioned here, because they were so closely linked. The CIDOC working group, with input from CIPA Heritage Documentation, a committee of the International Council on Monuments and Sites (ICOMOS), prepared a draft International Core Data Standard for Archaeological and Architectural Heritage, which was intended for use in the creation of inventories for both built and archaeological heritage. As of this writing, this newer standard has not yet been finalized; however, working drafts can be downloaded from the URL shown above.
 
 Also see [FISH](#fish), in this sidebar.
 
@@ -153,11 +153,11 @@ Also see [FISH](#fish), in this sidebar.
 
 #### AZSITE
 
-<https://statemuseum.arizona.edu/crm/azsite>
+<https://azsiteapp.rc.asu.edu/Azsite>
 
-The U.S. state of Arizona has created an interesting combination of mechanisms to support its statewide heritage inventory database, known as AZSITE (<https://azsiteapp.rc.asu.edu/Azsite/index.html>). First, the governor of Arizona issued an executive order directing the AZSITE Consortium—composed of the Arizona State Historic Preservation Office, the Arizona State Museum, Arizona State University, and the Museum of Northern Arizona—to “cooperatively share data, provide shared staffing resources, seek grant funding, and develop and implement a single statewide historic property (archaeological and historical period properties) inventory database and geographic information system (GIS)” ({% cite 'State of Arizona 2006' %}).
+The U.S. state of Arizona has created an interesting combination of mechanisms to support its statewide heritage inventory database, known as AZSITE. First, the governor of Arizona issued an executive order directing the AZSITE Consortium—composed of the Arizona State Historic Preservation Office, the Arizona State Museum, Arizona State University, and the Museum of Northern Arizona—to “cooperatively share data, provide shared staffing resources, seek grant funding, and develop and implement a single statewide historic property (archaeological and historical period properties) inventory database and geographic information system (GIS)” ({% cite 'State of Arizona 2006' %}).
 
-The executive order provides that the consortium shall continue to participate in the management, maintenance, and updating of the AZSITE database, and that it will cooperatively seek grant funding for database improvements. It also states that “all state agencies owning, managing, funding or causing action upon historical or archaeological properties shall help to update the AZSITE system by submitting survey and property location information to the system.” Although a subset of data within the AZSITE database is freely available to the public, the consortium provides access to other secured data to individuals with certain qualifications, who must pay annual user fees that vary depending on types of information sought and user profile (see <https://azsiteapp.rc.asu.edu/Azsite/forms.html>). AZSITE does not have an annual budget from state funds. It receives its support through grants and user fees.
+The executive order provides that the consortium shall continue to participate in the management, maintenance, and updating of the AZSITE database, and that it will cooperatively seek grant funding for database improvements. It also states that “all state agencies owning, managing, funding or causing action upon historical or archaeological properties shall help to update the AZSITE system by submitting survey and property location information to the system.” Although a subset of data within the AZSITE database is freely available to the public, the consortium provides access to other secured data to individuals with certain qualifications, who must pay annual user fees that vary depending on types of information sought and user profile (see <https://azsiteapp.rc.asu.edu/Azsite/forms.html>). AZSITE does not have an annual budget from state funds. It receives its fiscal support through grants and user fees.
 
 #### Historic England HER access and charging policy guidance
 
@@ -329,7 +329,7 @@ The following are considerations regarding inventory-related information technol
 
 ### What Database Technology Will Best Fit the Inventory?
 
-One of the most important decisions to be made for a heritage inventory program is choosing the type of database technology to manage and publish inventory information. Investments in inventory information systems can be substantial, whether you procure software off the shelf or develop a new system. Once chosen and implemented, an inventory system is typically in place for a number of years and requires ongoing software upgrades and maintenance. It should also be anticipated that an inventory database will eventually need to be replaced by a newer technology once it becomes obsolete, which will require exporting and migrating data.
+One of the most important decisions to be made for a heritage inventory program is choosing the type of database technology to manage and publish inventory information. Investments in inventory information systems can be substantial, whether you procure existing software or develop a new system. Once chosen and implemented, an inventory system is typically in place for a number of years and requires ongoing software upgrades and maintenance. It should also be anticipated that an inventory database will eventually need to be replaced by a newer technology once it becomes obsolete, which will require exporting and migrating data.
 
 Although a full review of criteria for software selection is beyond the scope of this book, the following are a few essential considerations based on the author’s experience, including interactions with IT specialists:
 
@@ -361,13 +361,13 @@ If the desirability of such linkages or integrations is established, a next step
 
 ## Guidance Materials
 
-This section discusses the types of guidance materials that might be needed to educate a range of participants and users about the processes and tools used in an inventory program.
+This section discusses considerations regarding the types of guidance materials that might be needed to educate a range of participants and users about the processes and tools used in an inventory program.
 
 ### Are New or Revised Guidance Materials Needed?
 
 It is recommended that an inventory program have a set of guidance materials for key activities and infrastructure. Such guidance is particularly helpful to new staff members, interns, and volunteers, and to those learning how to use an inventory database. Does your inventory program need to create new guidance materials or enhance an existing set? The following are some of the topics that such guidance might address:
 
--   **Field recording and assessment of heritage resources**, including how to compile inventory forms, photography, and field recording of geographic locations (see [chapter 10](/part-ii/chapter-10/) for further discussion of these topics)
+-   **Field recording and assessment of heritage resources**, including how to compile inventory forms, photography, and field recording of geographic locations (see [chapter 10](/part-ii/chapter-10/) for further discussion of some of these topics)
 
 -   **Guidance on use of digital applications** on mobile devices (tablet computers or phones) to create digital data in the field (recommended in [chapter 8](/part-ii/chapter-8/))
 
@@ -375,7 +375,7 @@ It is recommended that an inventory program have a set of guidance materials for
 
 -   **Access by external or public users**, which might focus on searching for and visualizing inventory data, and potentially downloading data
 
-Guidance for IT typically refers to relevant data standards, including [controlled vocabularies](#controlled-vocabularies), as discussed in this chapter. Guidance can take the form of written and illustrated documents or webpages, which might include screenshots from the inventory database and mobile apps, and potentially also video tutorials.
+Guidance for IT typically refers to relevant data standards, including [controlled vocabularies](#controlled-vocabularies), as discussed earlier in this chapter. Guidance can take the form of written and illustrated documents or webpages, which might include screenshots from the inventory database and mobile apps, and potentially also video tutorials.
 
 Depending on the [number of official languages](#official-language) of the inventory, guidance might need to be prepared in multiple languages. It is recommended that attention be given to keeping guidance up to date as changes occur, for example, when the database software is replaced, field recording technologies are updated, methods are improved, or if organizational roles and responsibilities change. See [Guidance Materials](#guidance-materials) in the sidebar for useful examples.
 

@@ -1,6 +1,6 @@
 ---
 label: "6"
-title: "Establish the Need for a Survey"
+title: "Establishing the Need for a Survey"
 short_title:
 layout: essay
 contributor:
