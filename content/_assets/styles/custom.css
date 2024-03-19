@@ -267,6 +267,10 @@
   padding-top: 1rem;
   width: 400px;
 }
+.accordion-section[id^='sidebar-1-resources'] {
+  width: calc(100% + 2.5rem);
+  margin-bottom: 2.5rem;
+}
 .accordion-section[id^='sidebar'][open] {
   margin-left: 0;
   width: calc(100% + 2.5rem);
@@ -557,6 +561,19 @@
     height: 1.5rem;
     margin-bottom: .5rem;
   }
+  .additional-resource#resource-7-1 .accordion-section {
+    padding-bottom: 1rem;
+  }
+  .additional-resource#resource-7-1 .accordion-section > ol > li {
+    margin-bottom: .75rem !important;
+  }
+  .additional-resource#resource-7-1 .accordion-section ol,
+  .additional-resource#resource-7-1 .accordion-section ol li ol li {
+    margin-bottom: 0;
+  }
+  .additional-resource#resource-7-1 h4 {
+    margin-bottom: 1rem;
+  }
 }
 
 /* FIGURES
@@ -837,6 +854,9 @@ table .table-subhead,
   list-style-type: '§';
 }
 @media print {
+  .footnotes-list--sidebar li::marker {
+    margin-right: -9px;
+  }
   .footnotes-list--sidebar li:nth-child(1)::marker {
     content: '*';
   }
@@ -975,6 +995,14 @@ table .table-subhead,
   .content ul.quire-contributors-list.name-title-block li {
     line-height: 1.5;
   }
+  .pdf-break-after {
+    page-break-after: always;
+    break-after: always;
+  }
+  .pdf-break-before {
+    page-break-before: always;
+    break-before: always;
+  }
   .pdf-float-top {
     float: none;
     -prince-float: top;
@@ -985,6 +1013,12 @@ table .table-subhead,
     float: none;
     -prince-float: top;
     margin-top: 0 !important;
+  }
+  .q-figure.pdf-90-percent-width img,
+  .q-figure.q-figure.pdf-90-percent-width figcaption {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .q-figure.pdf-85-percent-width img,
   .q-figure.pdf-85-percent-width figcaption {

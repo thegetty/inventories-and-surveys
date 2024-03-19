@@ -75,7 +75,7 @@ Instructions and guidelines for assessing heritage significance have been publis
 
 -   A new or revised evaluation system should be open to public input and consideration and will need to be in place before any fieldwork commences. This process can take considerable time and effort, which should be accounted for in the overall project timeline and budget.
 
-Further discussion of and recommendations for applying evaluation standards for surveys can be found in [Making Assessments of Heritage Resource Significance](/part-ii/chapter-10/#making-assessments) in chapter 10.
+Further discussion of and recommendations for applying evaluation standards for surveys can be found in [Making Assessments of Heritage Resource Significance](/part-ii/chapter-10/#making-assessments) in chapter 10.
 
 ## Structuring Field Surveys {#structuring-field-surveys}
 
@@ -143,7 +143,7 @@ Consideration for a historic context–based approach for SurveyLA originated wi
 
 {% figure 'fig-8-2' 'pdf-float-top' %}
 
-{% figuregroup '1' 'fig-8-3-a, fig-8-3-b' 'pdf-float-top' '<span class="q-figure__label">Figure 8.3</span> The citywide historic contexts developed for SurveyLA. Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '1' 'fig-8-3-a, fig-8-3-b' 'pdf-float-top' '<span class="q-figure__label">Figure 8.3</span> The citywide historic contexts developed for SurveyLA. <em>Los Angeles City Planning Office of Historic Resources</em>' %}
 
 Each context, theme, and resource type combination is unique and has its own set of eligibility standards, character-defining and associative features, and integrity considerations. A template designed for SurveyLA to record these unique combinations guided the creation of data fields and related controlled vocabularies and drop-down lists for standardizing digital data collection ([fig. 8.4](#table-8-4)). This approach enabled surveyors to consistently identify, classify, and evaluate resources by context, theme, and type as they were identified in the field or through research and outreach. Importantly, it also allowed surveyors to associate resources with one or more contexts and themes to fully represent multiple layers of significance.
 
@@ -323,7 +323,7 @@ A range of tools, materials, and activities may be considered to support outreac
 
 [Download Form {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-2.pdf){target=_blank}
 
-{% figuregroup '2' 'ch-8-resource-2-a' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '2' 'ch-8-resource-2-a, ch-8-resource-2-b' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
 </section>
 

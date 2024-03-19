@@ -1,7 +1,7 @@
 ---
 label: "5"
 title: "SurveyLA and HistoricPlacesLA"
-subtitle: "A Synopsis"
+subtitle: "A Synopsis"
 layout: essay
 contributor:
   - id: jhansen
