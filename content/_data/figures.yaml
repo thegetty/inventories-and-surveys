@@ -21,7 +21,7 @@ figure_list:
     src: "figures/fig-i-3.png"
     zoom: true
     caption: "The heritage items included in an inventory typically represent that subset of places evaluated that are deemed significant or potentially significant. A further subset of heritage items in an inventory is typically designated or listed."
-    credit: "David Myers, GCI"
+    credit: "David Myers, GCI"
     alt:
 
   - id: "fig-i-4"
@@ -29,7 +29,7 @@ figure_list:
     src: "figures/fig-i-4.png"
     zoom: true
     caption: "The inventory lifecycle. A heritage inventory is an ongoing record that is created and (ideally) updated and improved over time through a range of information collection and assessment activities, including surveys. The types of activity shown are merely examples. Aside from the initial inventory creation activity, the other activity types may occur in any sequence."
-    credit: "David Myers, GCI"
+    credit: "David Myers, GCI"
     alt:
 
   - id: "fig-i-5"
@@ -37,7 +37,7 @@ figure_list:
     src: "figures/fig-i-5.png"
     zoom: true
     caption: "Roles of inventories and surveys. Inventories and surveys can serve a variety of purposes that can be divided broadly between understanding heritage and providing a basis for making decisions and taking actions regarding that heritage. Bold items indicate the most common roles."
-    credit: "David Myers, GCI"
+    credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-1"
@@ -45,7 +45,7 @@ figure_list:
     src: "figures/fig-2-1.png"
     zoom: true
     caption: "Types of infrastructure, resources, and activities an inventory program may require. The program’s legal and policy framework is the foundation of the other elements."
-    credit: "David Myers, GCI"
+    credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-2a"
@@ -53,7 +53,7 @@ figure_list:
     src: "figures/fig-2-2-a.png"
     zoom: true
     caption: "Example inventory information record types."
-    credit: "David Myers, GCI"
+    credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-2b"
@@ -61,7 +61,7 @@ figure_list:
     src: "figures/fig-2-2-b.png"
     zoom: true
     caption: "Example attributes of a heritage resource record type."
-    credit: "David Myers, GCI"
+    credit: "David Myers, GCI"
     alt:
 
   - id: "fig-2-3"
@@ -117,7 +117,7 @@ figure_list:
     src: "figures/fig-ii-1.png"
     zoom: true
     caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and participation are integrated into each step."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "fig-5-1"
@@ -141,7 +141,7 @@ figure_list:
     src: "figures/fig-6-1.png"
     zoom: true
     caption: "The design approach for a heritage survey may focus on a geographic area, theme, chronological period, or a combination of these."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "fig-7-1"
@@ -149,7 +149,7 @@ figure_list:
     src: "figures/fig-7-1.png"
     zoom: true
     caption: "Heritage survey budget model."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "table-7-1"
@@ -165,7 +165,7 @@ figure_list:
     src: "figures/fig-7-2.png"
     zoom: true
     caption: "Heritage survey team model showing key positions for managing a survey."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "ch-7-resource-1"
@@ -232,7 +232,7 @@ figure_list:
     src: "figures/fig-8-7.png"
     zoom: true
     caption: "Heritage Survey Outreach Management Model illustrating key participants in developing and implementing a heritage outreach program."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "ch-8-resource-1"
@@ -265,7 +265,7 @@ figure_list:
     src: "figures/fig-9-1.png"
     zoom: true
     caption: "Pilot survey model. Pilot surveys are most effective when they are designed to represent a microcosm and subset of the larger survey project and they include one or more geographic areas, themes, and resource typologies to fully test all aspects of survey methods and procedures."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "fig-9-2"
@@ -345,7 +345,7 @@ figure_list:
     src: "figures/fig-10-8.png"
     zoom: true
     caption: "Sample structure for organizing a heritage survey peer review panel."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "fig-10-9"
@@ -361,7 +361,7 @@ figure_list:
     src: "figures/fig-10-10.png"
     zoom: true
     caption: "Evaluation process for heritage surveys. Resource evaluation is the culmination of field surveys, research, and community outreach and collaboration."
-    credit: "Janet Hansen"
+    credit: "Janet Hansen"
     alt:
 
   - id: "fig-10-11-a"
