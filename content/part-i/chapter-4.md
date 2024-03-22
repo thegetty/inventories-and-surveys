@@ -50,40 +50,6 @@ Choosing an open-source software approach enables the work of the project to inc
 
 The Arches platform gives cultural heritage organizations access to powerful, modern, robust software. See the [Arches in Use sidebar](#sidebar-1) for example implementations. The following sections describe the platform’s capabilities in three broad categories: [data management](#data-management), [data visualization and discovery](#data-visualization-and-discovery), and [task/process management](#task-and-project-management). More detailed information may be found on the Arches project website (see {% cite 'GCI and WMF n.d.' %}).[^1]
 
-### Data Management {#data-management}
-
-A fundamental aspect of Arches is that the platform is designed to enable implementers to manage the specific data they have defined by modifying the system to accommodate it. For example, the visual interface of Arches provides the ability to configure the underlying database and generate the necessary end-user interfaces without the need for software coding. Integrated with this configurability is the capacity for advanced management of controlled vocabularies. Arches also offers the ability to publish information online, including tools to fully control access to published information.
-
-Additionally, Arches is built to support the ongoing work of heritage inventories and surveys to create, edit, update, and share data over the long term. This includes robust capabilities to create and edit geospatial data that describes locations. For those using ArcGIS Pro, the Arches Esri Add-In module facilitates a bidirectional link between ArcGIS Pro and Arches such that the creation or editing of spatial features and attributes in either software will be reflected in the other.
-
-The data structure of Arches provides the ability to produce semantically enhanced, self-describing data according to internationally recognized standards, such as ISO 21127:2023—more commonly referred to as the CIDOC Conceptual Reference Model, or CIDOC CRM ({% cite 'ISO 2023' %}). This capability creates machine-readable data that is interoperable and portable. Because Arches uses common nonproprietary file formats, the structured data stored in Arches is software-platform independent and can be exported and migrated to other systems as necessary.
-
-### Data Visualization and Discovery {#data-visualization-and-discovery}
-
-In addition to enabling data management, Arches features robust visualization and discovery tools. The most prominent means of visualization in Arches is its geospatial features, such as navigation via the map interface, search using map filters, and the inclusion of historic map layers and satellite imagery ([fig. 4.1](#fig-4-1)).
-
-{% figure 'fig-4-1' 'pdf-two-column' %}
-
-End users can also visually explore the relationships among resources in Arches and find new connections via the Related Resources network visualization. This capability allows relationships to be established among people, places, and things, including historical events and activities ([fig. 4.2](#fig-4-2)).
-
-Another visually oriented tool is the Time Wheel, which represents all time data in any particular implementation in a circular histogram. This feature allows users to filter and search the distribution of temporal attributes of all resources in their Arches implementation ([fig. 4.3](#fig-4-3)).
-
-{% figuregroup '1' 'fig-4-2, fig-4-3' 'pdf-two-column pdf-85-percent-width' %}
-
-Arches includes discovery tools that allow for in-depth interrogation of data. In addition to the geospatial and time filters mentioned above, the ability to conduct semantic searches based on the underlying data structure and controlled vocabularies provides an important way to find data in Arches. Users also have access to an advanced search capability that allows them to query any specific data field.
-
-An administrator of an independent Arches implementation can create predefined saved searches deemed to be of interest to users. For example, the City of Los Angeles’s deployment of Arches, HistoricPlacesLA, features an Entertainment Industry saved search on its homepage. All of these discovery tools can be used together to create powerful custom search queries.
-
-### Task and Project Management {#task-and-project-management}
-
-Arches can be customized to accommodate an agency’s specific workflows or business processes, integrating the existing inventory data with the information entered during the steps of a workflow. For example, if a heritage agency needs to manage a process mandated by law, such as a heritage impact assessment, that agency can customize Arches to include a step-by-step workflow that accesses the existing inventory data and includes task tracking, notifications of deadlines, and management of correspondence to help ensure that the process is completed in the correct order and in a timely fashion.
-
-## Arches and Survey Integration
-
-Surveys are an important data pipeline for heritage inventories, and Arches-powered inventories can integrate with survey efforts in several ways. The most effective method is to leverage Arches Workflows, which can be customized to create a step-by-step survey data entry process that can be accessed via a mobile or desktop web browser. Surveyors can collect data in the field if they have a network connection, and automatically populate their organization’s Arches implementation with the field survey data. Field data collection can be integrated with the research conducted by staff in the office, who can also use the shared Arches-powered system to record their research findings.
-
-Another method to integrate survey data involves using other applications to collect survey data and importing the data via a separate process into Arches. Arches can bulk import large amounts of data via common file formats, such as CSV, JSON, and Shapefile, via a synchronous link to other systems using custom programming via an application programming interface (API), and via interaction with the underlying PostgreSQL database.
-
 {% accordion '## Arches in Use' 'sidebar-1' %}
 
 Arches is currently being used independently by heritage organizations worldwide to serve their individual heritage inventory and survey goals. Because the software is powerful and flexible, it can be customized to manage heritage inventory data on a national, regional, and site-specific scale and to fit the implementor’s methodology and practice. Given that Arches is open-source software that can be downloaded and installed anonymously, it is not possible to know of everyone who is using it and how. As of this writing, the GCI knows of nearly one hundred implementations of Arches (already launched or in preparation), with many more in the planning stage. The known implementations collectively record heritage spanning five continents and nearly sixty countries. See “Who Is Using Arches?” at https://www.archesproject.org/implementations-of-arches/ for further information on deployments of Arches.
@@ -100,21 +66,21 @@ To highlight a few examples, Arches has been implemented to manage the following
 
 - **Isle of Man Historic Environment Record.** Manx National Heritage, the charity responsible for the care and promotion of Isle of Man’s natural and cultural heritage, launched the Arches-based Isle of Man Historic Environment Record (IOMHER) to improve management of and enable access to the island’s rich historic environment. See https://isleofmanher.im/.
 
-- **Jamaica National Inventory of Historic Places.** The Jamaica Ministry of Culture, Gender, Entertainment and Sport, with support from the Organization of American States, implemented Arches for the Jamaica National Inventory of Historic Places ([fig. 4.4](#fig-4-4)). It is maintained and updated by staff of the Jamaica National Heritage Trust. See https://siteinventory.jnht.com/.
+- **Jamaica National Inventory of Historic Places.** The Jamaica Ministry of Culture, Gender, Entertainment and Sport, with support from the Organization of American States, implemented Arches for the Jamaica National Inventory of Historic Places ([fig. 4.2](#fig-4-1)). It is maintained and updated by staff of the Jamaica National Heritage Trust. See https://siteinventory.jnht.com/.
 
-{% figure 'fig-4-4' 'pdf-two-column pdf-85-percent-width' %}
+{% figure 'fig-4-1' 'pdf-two-column pdf-90-percent-width' %}
 
-{% figure 'fig-4-5' 'pdf-two-column pdf-85-percent-width' %}
+{% figure 'fig-4-2' 'pdf-two-column pdf-90-percent-width' %}
 
 Additionally, several public agencies have implemented Arches to manage their heritage inventories for cities or urban areas, including:
 
 - **Los Angeles Historic Resources Inventory.** As mentioned above, the City of Los Angeles has deployed Arches as HistoricPlacesLA. It currently includes records of more than fifty thousand historic resources and districts. See <https://hpla.lacity.org/>.
 
-- **Greater London Historic Environment Record.** Historic England has deployed Arches as the Greater London Historic Environment Record (GLHER) which is used to manage a heritage impact assessment consultation process ([fig. 4.5](#fig-4-5)).
+- **Greater London Historic Environment Record.** Historic England has deployed Arches as the Greater London Historic Environment Record (GLHER) which is used to manage a heritage impact assessment consultation process ([fig. 4.2](#fig-4-2)).
 
 - **Lincoln Historic Environment Record.** As discussed in [chapter 13](/part-iv/chapter-13/), the City of Lincoln, U.K., has deployed Arches as its HER, branded Arcade, to manage the city’s archaeological and architectural heritage. See https://arcade.lincoln.gov.uk/.
 
-- **City and County of San Francisco.** The City and County of San Francisco has deployed Arches, known as SF Survey, as the city’s heritage inventory and as a tool to carry out a citywide survey. See https://sfculturalheritage.org.
+- **City and County of San Francisco.** The City and County of San Francisco has deployed Arches, known as SF Survey, as the city’s heritage inventory and as a tool to carry out a citywide survey. See https://sfculturalheritage.org and https://sfplanning.org/project/citywide-cultural-resources-survey.
 
 - **Te Kaunihera o Tāmaki Makaurau / Auckland Council.** In Aotearoa / New Zealand, Arches has been deployed to manage and publicly share information about heritage places in Tāmaki Makaurau / Auckland.
 
@@ -122,7 +88,41 @@ Arches is also being used to manage site-level heritage inventories. The Armed F
 
 {% endaccordion %}
 
-## Arches Community and Long-Term Aspirations
+### Data Management {#data-management}
+
+A fundamental aspect of Arches is that the platform is designed to enable implementers to manage the specific data they have defined by modifying the system to accommodate it. For example, the visual interface of Arches provides the ability to configure the underlying database and generate the necessary end-user interfaces without the need for software coding. Integrated with this configurability is the capacity for advanced management of controlled vocabularies. Arches also offers the ability to publish information online, including tools to fully control access to published information.
+
+Additionally, Arches is built to support the ongoing work of heritage inventories and surveys to create, edit, update, and share data over the long term. This includes robust capabilities to create and edit geospatial data that describes locations. For those using ArcGIS Pro, the Arches Esri Add-In module facilitates a bidirectional link between ArcGIS Pro and Arches such that the creation or editing of spatial features and attributes in either software will be reflected in the other.
+
+The data structure of Arches provides the ability to produce semantically enhanced, self-describing data according to internationally recognized standards, such as ISO 21127:2023—more commonly referred to as the CIDOC Conceptual Reference Model, or CIDOC CRM ({% cite 'ISO 2023' %}). This capability creates machine-readable data that is interoperable and portable. Because Arches uses common nonproprietary file formats, the structured data stored in Arches is software-platform independent and can be exported and migrated to other systems as necessary.
+
+### Data Visualization and Discovery {#data-visualization-and-discovery}
+
+In addition to enabling data management, Arches features robust visualization and discovery tools. The most prominent means of visualization in Arches is its geospatial features, such as navigation via the map interface, search using map filters, and the inclusion of historic map layers and satellite imagery ([fig. 4.3](#fig-4-3)).
+
+{% figure 'fig-4-3' 'pdf-two-column' %}
+
+End users can also visually explore the relationships among resources in Arches and find new connections via the Related Resources network visualization. This capability allows relationships to be established among people, places, and things, including historical events and activities ([fig. 4.4](#fig-4-4)).
+
+Another visually oriented tool is the Time Wheel, which represents all time data in any particular implementation in a circular histogram. This feature allows users to filter and search the distribution of temporal attributes of all resources in their Arches implementation ([fig. 4.5](#fig-4-5)).
+
+{% figuregroup '1' 'fig-4-4, fig-4-5' 'pdf-two-column pdf-75-percent-width' %}
+
+Arches includes discovery tools that allow for in-depth interrogation of data. In addition to the geospatial and time filters mentioned above, the ability to conduct semantic searches based on the underlying data structure and controlled vocabularies provides an important way to find data in Arches. Users also have access to an advanced search capability that allows them to query any specific data field.
+
+An administrator of an independent Arches implementation can create predefined saved searches deemed to be of interest to users. For example, the City of Los Angeles’s deployment of Arches, HistoricPlacesLA, features an Entertainment Industry saved search on its homepage. All of these discovery tools can be used together to create powerful custom search queries.
+
+### Task and Project Management {#task-and-project-management}
+
+Arches can be customized to accommodate an agency’s specific workflows or business processes, integrating the existing inventory data with the information entered during the steps of a workflow. For example, if a heritage agency needs to manage a process mandated by law, such as a heritage impact assessment, that agency can customize Arches to include a step-by-step workflow that accesses the existing inventory data and includes task tracking, notifications of deadlines, and management of correspondence to help ensure that the process is completed in the correct order and in a timely fashion.
+
+## Arches and Survey Integration
+
+Surveys are an important data pipeline for heritage inventories, and Arches-powered inventories can integrate with survey efforts in several ways. The most effective method is to leverage Arches Workflows, which can be customized to create a step-by-step survey data entry process that can be accessed via a mobile or desktop web browser. Surveyors can collect data in the field if they have a network connection, and automatically populate their organization’s Arches implementation with the field survey data. Field data collection can be integrated with the research conducted by staff in the office, who can also use the shared Arches-powered system to record their research findings.
+
+Another method to integrate survey data involves using other applications to collect survey data and importing the data via a separate process into Arches. Arches can bulk import large amounts of data via common file formats, such as CSV, JSON, and Shapefile, via a synchronous link to other systems using custom programming via an application programming interface (API), and via interaction with the underlying PostgreSQL database.
+
+## Arches Community and Long‑Term Aspirations
 
 The Arches open-source project was established with a strategic aim of helping break the cycle of heritage organizations investing scarce resources in duplicative expenditures to independently create digital inventory and survey systems. The Arches open-source license obligates those who enhance the software to share those improvements for the benefit of the entire community. Related to this obligation, the customization of Arches for the Greater London Historic Environment Record (GLHER) has resulted in the Arches for HERs software package, which is based on the standards and requirements of England’s more than eighty regional and local agency HERs. It is freely available for any of England’s HERs to deploy.
 

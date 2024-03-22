@@ -20,7 +20,7 @@ Based on the SurveyLA experience, when organizing a pilot survey program, consid
 
 -   **Themes that have an expected high yield of significant resources.** SurveyLA included a pilot for a subset of the city’s expansive post–World War II residential neighborhoods ([fig. 9.2](#fig-9-2)). This pilot helped establish field and research strategies for surveying postwar historic districts and assessing integrity and significance thresholds for postwar housing as a whole. The pilots also helped focus the approach for writing the Post–World War II Suburbanization historic context statement.
 
-    {% figure 'fig-9-2' %}
+{% figure 'fig-9-2' %}
 
 -   **Geographic areas that have a high density of historic sites and an expected high yield of significant resources.** These pilot areas may require more surveyors, time, and other resources than less dense areas.
 

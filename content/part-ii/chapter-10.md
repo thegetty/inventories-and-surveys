@@ -117,7 +117,7 @@ When working with consultant teams, heritage field survey projects are often too
 
 As discussed in earlier chapters, in the case of SurveyLA, field surveys were completed in phases by geographically based community plan areas. Each survey phase included two to four plan areas, collectively comprising approximately forty thousand to ninety thousand properties. Survey teams included, at a minimum, six or seven staff from two or three professional firms, working collaboratively under the management of one lead consultant firm. The teams also included [interns](#student-interns) and [community experts](#local-heritage-experts) ([fig. 10.3](#fig-10-3)), as described below.
 
-{% figure 'fig-10-3' %}
+{% figure 'fig-10-3' 'pdf-float-top' %}
 
 ### Student Interns {#student-interns}
 
@@ -249,7 +249,7 @@ To ensure consistent quality of intensive-level survey data, periodic data revie
 
 ### Final Reports
 
-At the culmination of any survey project, the survey team prepares a narrative report that documents and summarizes project objectives, scope, methodology, activities, and outcomes. In most cases, the report will offer valuable documentation of the survey effort and its findings for future use. In the case of SurveyLA, each phase of the survey was documented with a survey report that was published online. (For more information, see [chapter 11](/part-ii/chapter-11/).)
+At the culmination of any survey project, the survey team prepares a narrative report that documents and summarizes project objectives, scope, methodology, activities, and outcomes. In most cases, the report will offer valuable documentation of the survey effort and its findings for future use. In the case of SurveyLA, each phase of the survey was documented with a survey report that was published online. (For more information, see [chapter 11](/part-ii/chapter-11/).)
 
 ### Some Pointers on Field Photography
 
@@ -323,7 +323,7 @@ Over time, several types of questions surfaced at these meetings. There was cons
 
 Another extremely challenging aspect of SurveyLA was the recognition of ethnic identity and changing demographics associated with places in Los Angeles. In the Leimert Park community, for example, initially, the consultants evaluated the area as an important planned residential community whose prevailing historic architectural character was defined by period revival–style residential development and planned commercial spaces ([fig. 10.9](#fig-10-9)). An aspect of this history was that the developer included restrictive covenants that barred minority members from owning property in the area. However, by the 1950s, a number of African American families had moved into the region, and the population grew from 70 to approximately 4,200 within a decade ({% cite 'Kurashige 2008' '252' %}). Based on comments from the panel and further analysis by survey teams, the district evaluation now recognizes the significance of this period through additional themes associated with the African American community and their contributions to the history of the area.
 
-{% figure 'fig-10-9' %}
+{% figure 'fig-10-9' 'pdf-float-top' %}
 
 ### The Value of Peer Review
 
@@ -343,9 +343,9 @@ The process for assessing heritage significance can be designed to align with th
 
 -   Anticipate that some resource types may need to be reevaluated after a survey is complete and final data has been compiled. At that time, the entire pool of a resource type will be known, and a more complete comparative analysis will be possible to best understand significance thresholds.
 
--   It is recommended that the field data collection system and process include a mechanism to flag resource types that may be important but that have not been identified in a context or theme developed for the survey. This information can help revise and augment thematic frameworks and narrative historic contexts over time.[^4]
-
 -   When using a context- or theme-based approach, provide training to surveyors in the application of contexts, themes, and eligibility standards to both categorize and evaluate resources.
+
+-   It is recommended that the field data collection system and process include a mechanism to flag resource types that may be important but that have not been identified in a context or theme developed for the survey. This information can help revise and augment thematic frameworks and narrative historic contexts over time.[^4]
 
 ### Evaluation as Part of the Survey Process
 
@@ -379,7 +379,7 @@ Southeast Los Angeles is mostly flat in terrain and composed of numbered streets
 
 When surveyors drove down 59th Place, they noticed a small shift in visual character, likely perceivable only to those who had driven countless blocks in the same neighborhood paying close attention to the aesthetics of the built environment. Although the street was composed of single-family residences similar in scale to surrounding blocks, the houses appeared to have been designed as part of a small subdivision of modest houses with only a few consistent models and architectural styles: a Tudor Revival model, a Colonial Revival model, a Craftsman model, and a flat-roofed model that resembled Prairie School, which is uncommon in Los Angeles ([fig. 10.11](#fig-10-11-a)).
 
-{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. Los Angeles City Planning Office of Historic Resources' %}
+{% figuregroup '3' 'fig-10-11-a, fig-10-11-b, fig-10-11-c' 'pdf-two-column' '<span class="q-figure__label">Figure 10.11</span> Representative architectural styles of houses from the Goodyear Gardens tract identified by SurveyLA as a historic district. Goodyear Gardens is a rare intact example of worker housing in Los Angeles. <em>Los Angeles City Planning Office of Historic Resources</em>' %}
 
 Using the preloaded reference layers in the mobile survey application (see [Designing Digital Surveys](/part-ii/chapter-8/#designing-digital-surveys) in chapter 8), surveyors could see that these houses were all constructed in the same year: 1920. Field observations also noted the houses’ condition and alterations that had been made to them. The survey team members agreed the neighborhood was something to research further, and they noted it on the reconnaissance map for additional study.
 

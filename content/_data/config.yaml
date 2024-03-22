@@ -19,7 +19,7 @@ bibliography:
   heading: Bibliography
 
 citations:
-  divider: ', '
+  divider: ', '
   popupStyle: text # text | icon
 
 entryPage:

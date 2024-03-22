@@ -260,7 +260,7 @@ Considerations for putting together a project team may include the survey scope 
 
 In some instances, a survey may be wholly completed by agency or organization personnel. In other instances, it may be necessary to bring on temporary personnel for the duration of the project, or to use external consultants. A request for qualifications (RFQ) process can be an effective way to create a prequalified list of consultants who best meet the skills and competencies needed for a survey. Consultants on the list can form a range of collaborations and partnerships to build strong and diverse teams whose members’ skills supplement and complement the others’.
 
-### Key Survey Team Positions and Responsibilities
+### Key Survey Team Positions and Responsibilities {.pdf-break-before}
 
 Key survey team positions and responsibilities, including volunteers and interns, are illustrated in the survey team model in [figure 7.2](#fig-7-2).
 

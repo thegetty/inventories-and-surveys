@@ -76,40 +76,40 @@ figure_list:
     label: "FIGURE 4.1"
     src: "figures/fig-4-1.jpg"
     zoom: true
-    caption: "Using the Location filter in Arches, heritage resources that would be impacted by a proposed development project can be quickly identified."
-    credit: "HistoricPlacesLA"
+    caption: "Satellite map view of heritage resources in the Kingston, Jamaica, area from the Jamaica National Inventory of Historic Places, an Arches implementation that emphasizes community engagement through public nominations of significant sites."
+    credit: "Jamaica National Inventory of Historic Places"
     alt:
 
   - id: "fig-4-2"
     label: "FIGURE 4.2"
-    src: "figures/fig-4-2.png"
+    src: "figures/fig-4-2.jpg"
+    zoom: true
+    caption: "The Greater London Historic Environment Record (GLHER) online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
+    credit: "Historic England"
+    alt:
+
+  - id: "fig-4-3"
+    label: "FIGURE 4.3"
+    src: "figures/fig-4-3.jpg"
+    zoom: true
+    caption: "Using the Location filter in Arches, heritage resources that would be impacted by a proposed development project can be quickly identified."
+    credit: "HistoricPlacesLA"
+    alt:
+
+  - id: "fig-4-4"
+    label: "FIGURE 4.4"
+    src: "figures/fig-4-4.png"
     zoom: true
     caption: "The Related Resources graph displays relationships between Arches resources, in this instance between an architect and the buildings he designed as well as other persons related to those buildings, such as owners and occupants."
     credit: "Annabel Lee Enriquez, GCI, ©J. Paul Getty Trust"
     alt:
 
-  - id: "fig-4-3"
-    label: "FIGURE 4.3"
-    src: "figures/fig-4-3.png"
+  - id: "fig-4-5"
+    label: "FIGURE 4.5"
+    src: "figures/fig-4-5.png"
     zoom: true
     caption: "The Time Wheel allows users to filter and search the distribution of temporal attributes of all resources in their Arches implementation. This example shows the number of heritage resources constructed in the fifteenth century BCE and from 1470 to 1460 BCE."
     credit: "Annabel Lee Enriquez, GCI, ©J. Paul Getty Trust"
-    alt:
-
-  - id: "fig-4-4"
-    label: "FIGURE 4.4"
-    src: "figures/fig-4-4.jpg"
-    zoom: true
-    caption: "Satellite map view of heritage resources in the Kingston, Jamaica, area from the Jamaica National Inventory of Historic Places, an Arches implementation that emphasizes community engagement through public nominations of significant sites."
-    credit: "Jamaica National Inventory of Historic Places"
-    alt:
-
-  - id: "fig-4-5"
-    label: "FIGURE 4.5"
-    src: "figures/fig-4-5.jpg"
-    zoom: true
-    caption: "The Greater London Historic Environment Record (GLHER) online deployment of Arches. The map view is focused on the Trafalgar Square area of London, with historic environment sites shown as green polygons and archaeological consultations related to development applications depicted as red polygons."
-    credit: "Historic England"
     alt:
 
   - id: "fig-ii-1"

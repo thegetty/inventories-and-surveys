@@ -15,7 +15,7 @@ sidebar:
 
 As discussed in the [introduction](/introduction/), heritage inventories are considered to be ongoing records to be added to, improved, and updated over time. The introduction also covered a broad range of ways that inventories are typically utilized in heritage conservation and management. The assumptions that inventories need to be regularly improved and are in ongoing use in turn assume that an inventory program will be in a state of constant evolution. Therefore, to be effective, a heritage inventory program will require continuing support through an assortment of infrastructure, resources, and activities. [Figure 2.1](#fig-2-1) lists the types of infrastructure, resources, and activities that an inventory program may require. While some of those support elements are critical to any inventory program, the necessity of others will depend on the size and nature of any given heritage organization, its mandate, and its particular inventory. This chapter discusses the elements of [figure 2.1](#fig-2-1) and how each of them can support an inventory’s effectiveness.
 
-{% figure 'fig-2-1' 'pdf-two-column' %}
+{% figure 'fig-2-1' 'pdf-two-column pdf-85-percent-width' %}
 
 ## Support through a Legal and Policy Framework
 

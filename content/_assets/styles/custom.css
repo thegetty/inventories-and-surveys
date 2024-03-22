@@ -336,6 +336,15 @@
   font-style: italic;
   font-size: .75em;
 }
+/* To get the layout and page breaks right in the Chapter 4 sidebar */
+@media print {
+  #page-part-i-chapter-4 #sidebar-1 li:nth-child(3) {
+    padding-bottom: 3rem !important;
+  }
+  #page-part-i-chapter-4 #sidebar-1 li:nth-child(4) {
+    column-break-before: always;
+  }
+}
 
 /* ADDITIONAL RESOURCE BOXES
 ============================================================================= */
@@ -766,14 +775,30 @@ table .table-subhead,
   vertical-align: middle;
   height: 1.8rem;
 } 
+#table-10-2 table tbody tr.dummy-row-to-fix-spacing,
+[data-lightbox-slide-id=table-10-2] table tbody tr.dummy-row-to-fix-spacing,
+#table-10-2 table tbody tr.dummy-row-to-fix-spacing *,
+[data-lightbox-slide-id=table-10-2] table tbody tr.dummy-row-to-fix-spacing * {
+  height: 0px !important;
+  padding: 0;
+  font-size: 0px;
+  border-width: 0 !important;
+}
 @media print {
-  #table-10-2 table thead tr th:first-child {
-    width: 1.5in;
-  }
   #table-10-2 table tbody tr {
     height: 2.5rem;
     max-height: 2.5rem;
     line-height: 1.3;
+  }
+  #table-10-2 table thead tr th {
+    width: calc((100% - 1.75in) / 13);
+    padding: 0.5em 0.25em;
+  }
+  #table-10-2 table thead tr th:first-child {
+    width: 1.75in;
+  }
+  #table-10-2 table tbody tr td.narrow-band {
+    padding: 0.5em 0.25em;
   }
 }
 
@@ -921,7 +946,7 @@ table .table-subhead,
     line-height: 1.3;
   }
   .q-figure.is-table-scale-4#table-10-2 table {
-    font-size: 0.6rem;
+    font-size: 0.75rem;
     line-height: 1.3;
   }
 }
@@ -1041,6 +1066,9 @@ table .table-subhead,
     margin: 0 auto;
   }
   .pdf-splash-page .quire-contents-list {
+    display: none;
+  }
+  #lauren-weiss-and-160-bricker .quire-contributor__bio ul {
     display: none;
   }
 }

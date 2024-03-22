@@ -44,7 +44,7 @@ As part of new construction projects, developers are required by English plannin
 
 Archaeological investigation can add significant costs to new development, often to the extent of making the project unprofitable for the developer. This fact makes it vital for the HER to be as up to date and accurate as possible; doing so is typically the duty of a dedicated records officer. It is equally important that the information held by the HER can be easily understood by nonspecialists, to enable effective decision-making by developers before resources are committed to a project ([fig. 13.1](#fig-13-1)).
 
-{% figure 'fig-13-1' %}
+{% figure 'fig-13-1' 'pdf-float-top' %}
 
 Typically, construction projects in Lincoln involve discussions between the applicant and the heritage team, which comprises the city’s experts in built heritage and archaeology. For both Lincoln’s archaeological and conservation officers,[^3] the HER is a key resource to identify any relevant historic buildings or archaeological remains that may have been recorded from previous excavations in the area affected by the proposed development.
 
@@ -62,7 +62,7 @@ In Lincoln, the information system used to perform all these tasks is called Arc
 
 Where data is restricted, such as that relating to ongoing planning applications or the detailed locations of sensitive archaeological sites, it is maintained in a protected area of the system. All other information in Lincoln’s HER is publicly accessible on the Arcade system ([fig. 13.3](#fig-13-3)).
 
-{% figure 'fig-13-3' %}
+{% figure 'fig-13-3' 'pdf-float-top' %}
 
 For trusted users outside the organization, including members of local heritage societies or university staff, Arcade provides for data entry and upload. This capability has sparked new crowdsourcing initiatives, including providing a volunteer group with the ability to make provisional additions to Arcade (subject to verification) to identify and help protect particular historic buildings and enhance existing records. Such tasks would traditionally have been undertaken solely by council officers, who are now free to spend more time on casework, such as reviewing development proposals.
 
