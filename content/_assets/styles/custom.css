@@ -290,6 +290,9 @@
   margin-right: 1rem;
   display: block;
 }
+.accordion-section[open] > .accordion-section__controls--plus-minus:after {
+  content: "–";
+}
 .accordion-section[id^='sidebar'] .accordion-section__body {
   background-color: var(--light-gray);
   padding: 1rem;

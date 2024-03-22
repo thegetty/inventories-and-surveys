@@ -2,6 +2,7 @@
 //
 // CUSTOMIZED FILE
 // Added copyURL() function to strip zero-width spaces from URLs on copy
+// Added '.sidebar-list a' to invalidHashLinkSelectors as sidebar links were breaking on section landing pages
 // 
 /**
  * @fileOverview
@@ -140,7 +141,8 @@ function setupCustomScrollToHash() {
     '[href="#"]',
     '[href="#0"]',
     '.accordion-section__heading-link',
-    '.q-figure__modal-link'
+    '.q-figure__modal-link',
+    '.sidebar-list a'
   ]
   const validHashLinkSelector =
     'a[href*="#"]' +

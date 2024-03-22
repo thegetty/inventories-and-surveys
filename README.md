@@ -72,6 +72,9 @@ TK
 
 ### Customizations
 
+**_includes/components/contributor/bio.js**
+Changed .quire-contributor__page-link handling to remove target="_blank"
+
 **_includes/components/icon.js**
 Used `oneLine` instead of `html` so that the include could be used in Markdown files
 
@@ -112,7 +115,8 @@ Simplify markup and enable custom classes and group captions for figure groups
 Remove title truncation from PDF footer
 
 **content/_assets/javascript/application/index.js**
-Added copyURL() function to strip zero-width spaces from URLs on copy, which were added to improve URL line breaks
+Added copyURL() function to strip zero-width spaces from URLs on copy, which were added to improve URL line breaks;
+Added '.sidebar-list a' to invalidHashLinkSelectors as sidebar links were breaking on section landing pages
 
 **content/_computed/eleventyComputed.js**
 Added `sidebar` to global page data, for listing sidebars in TOC in `_includes/components/table-of-contents/item/list.js`

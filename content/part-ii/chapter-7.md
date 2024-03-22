@@ -308,7 +308,7 @@ Volunteers, like interns, are not recommended for tasks that require specialized
 
 #### <span class="label">Resource 7.2</span> SurveyLA: Volunteer Registration Form
 
-[Download Guide {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-7-2.pdf){target=_blank}
+[Download Form {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-7-2.pdf){target=_blank}
 
 {% figuregroup '2' 'ch-7-resource-1' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
