@@ -138,7 +138,7 @@ Information policies, standards, and other guidance are key elements of any inve
 
 Standards relating to what information should be recorded can be referred to as *content standards.* In specifying *what* information should be recorded, this can be defined at two different levels of detail, as shown in [figures 2.2a](#fig-2-2a) and [2.2b](#fig-2-2b).
 
-{% figuregroup '2' 'fig-2-2a, fig-2-2b' 'pdf-two-column' %}
+{% figuregroup '1' 'fig-2-2a, fig-2-2b' 'pdf-float-top' %}
 
 -   **Record types.** As shown in [figure 2.2a](#fig-2-2a), a single inventory typically contains many types of information records, for example, immovable heritage resources (e.g., buildings, landscapes, archaeological sites, underwater heritage), intangible heritage (e.g., spiritual practices, oral traditions), collections of movable cultural materials associated with places, activities (e.g., surveys, conservation interventions), persons (e.g., architects, historical figures), organizations, or information resources (e.g., images, reports).
 
@@ -350,7 +350,7 @@ Audits of HERs in England and Wales are generally carried out on a five-year cyc
 
 Some heritage organizations evaluate access to and use of inventory information through surveying the opinions of inventory users. This can also be done through data analytics of online inventory information systems and other websites. Periodically assessing inventory-related data analytics can provide useful insights ([fig. 2.3](#fig-2-3)).
 
-{% figure 'fig-2-3' 'pdf-two-column pdf-75-percent-width' %}
+{% figure 'fig-2-3' 'pdf-two-column' %}
 
 Such analytics can convey trends in the overall number of unique online visitors to an inventory over time, how users tend to come upon the inventory (e.g., search engines, social media), the types of digital devices and web browsers they use to access the inventory, trends in the geographic locations of users, and insights regarding particular interests of online users. This information can help in understanding how further efforts might be made to disseminate information about the inventory (such as through social media), and whether inventory system webpages should be further optimized to be read by search engines. Statistics on user engagement are also useful to providing decision-makers information about the extent to which an inventory is being used by the public, and thereby justify ongoing support.
 
