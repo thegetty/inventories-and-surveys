@@ -80,7 +80,7 @@ Additionally, several public agencies have implemented Arches to manage their he
 
 - **Lincoln Historic Environment Record.** As discussed in [chapter 13](/part-iv/chapter-13/), the City of Lincoln, U.K., has deployed Arches as its HER, branded Arcade, to manage the city’s archaeological and architectural heritage. See https://arcade.lincoln.gov.uk/.
 
-- **City and County of San Francisco.** The City and County of San Francisco has deployed Arches, known as SF Survey, as the city’s heritage inventory and as a tool to carry out a citywide survey. See https://sfculturalheritage.org and https://sfplanning.org/project/citywide-cultural-resources-survey.
+- **City and County of San Francisco.** The City and County of San Francisco has deployed Arches, known as SF Survey, as the city’s heritage inventory and as a tool to carry out a citywide survey. See https://sfculturalheritage.org.
 
 - **Te Kaunihera o Tāmaki Makaurau / Auckland Council.** In Aotearoa / New Zealand, Arches has been deployed to manage and publicly share information about heritage places in Tāmaki Makaurau / Auckland.
 
