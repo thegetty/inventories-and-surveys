@@ -6,7 +6,7 @@ contributor:
     last_name: "Whalen"
     title: "John E. and Louise Bryson Director"
     affiliation: "Getty Conservation Institute"
-byline_format: false
+# byline_format: false
 order: 10
 ---
 

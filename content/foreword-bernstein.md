@@ -6,7 +6,7 @@ contributor:
     last_name: "Bernstein"
     title: "Principal City Planner"
     affiliation: "Los Angeles City Planning Office of Historic Resources"
-byline_format: false
+# byline_format: false
 order: 15
 ---
 
