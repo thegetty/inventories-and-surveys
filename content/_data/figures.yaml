@@ -119,6 +119,14 @@ figure_list:
     caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and participation are integrated into each step."
     credit: "Janet Hansen"
     alt:
+  
+  - id: "fig-ii-1--print"
+    label: "FIGURE II.1"
+    src: "figures/fig-ii-1--print.png"
+    zoom: true
+    caption: "Based on the experience of SurveyLA, a heritage survey can be designed as a six-step process; public outreach and participation are integrated into each step."
+    credit: "Janet Hansen"
+    alt:
 
   - id: "fig-5-1"
     label: "FIGURE 5.1"
