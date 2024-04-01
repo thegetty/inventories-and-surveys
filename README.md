@@ -81,6 +81,9 @@ Used `oneLine` instead of `html` so that the include could be used in Markdown f
 **_includes/components/icons.js**
 Add custom (bolder) version of full-screen icon to match design customizations
 
+**_includes/components/license-icons.js**
+Exclude SVG icons from EPUB output
+
 **_includes/components/menu/header.js**
 Added individual title and subtitle elements
 

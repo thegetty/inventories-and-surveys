@@ -2,6 +2,7 @@
 // CUSTOMIZED FILE
 // refactored logic to handle oxford commas correctly, lines 125–131
 // also added 'foreword' format to add affiliations to Foreword authors, lines 42, 78–82
+// also removed `id` value from markup that was causing EPUB validation error, line 113
 //
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
@@ -109,7 +110,7 @@ module.exports = function (eleventyConfig) {
             )
             : null
           return `
-            <li class="quire-contributor" id="${slugify(contributor.id)}">${contributorParts.join(separator)}</li>
+            <li class="quire-contributor">${contributorParts.join(separator)}</li>
           `
         })
         contributorsElement = `
