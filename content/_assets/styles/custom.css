@@ -110,6 +110,14 @@
   }
 }
 
+/* NAVBAR
+============================================================================= */
+@media screen and (max-width: 930px) {
+  .quire-navbar-page-controls__item span.nav-label {
+    display: none;
+  }
+}
+
 /* SIDEBAR MENU
 ============================================================================= */
 .quire-menu__header {
@@ -774,6 +782,7 @@ table .table-subhead,
 #table-10-2 table tbody tr td,
 [data-lightbox-slide-id='table-10-2'] table tbody tr td {
   /* overflow: clip; */
+  font-size: .65rem;
   white-space: nowrap;
   vertical-align: middle;
   height: 1.8rem;

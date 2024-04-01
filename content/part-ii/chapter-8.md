@@ -119,7 +119,7 @@ The survey itself is an activity associated with creating and/or updating an ass
 
 Before starting surveys, it is important to develop standard procedures and protocols for data entry and editing to be used by the field surveyors during data collection activities and by the project personnel responsible for the final data. The quality and consistency of survey data is essential not only to the credibility of the survey but also to the usability of the resulting information. The following are considerations and recommendations for developing and implementing data entry, review, and editing procedures.
 
--   **Consider continuity:** data is generally more consistent and reliable if the same survey teams are used over the life of a survey.
+-   **Consider continuity.** Data is generally more consistent and reliable if the same survey teams are used over the life of a survey.
 
 -   **Anticipate that field surveyors will become more proficient** in the recording process as they gain more experience with data collection technologies and survey methods and standards.
 

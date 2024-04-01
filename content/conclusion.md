@@ -1,5 +1,6 @@
 ---
 title: "Conclusion"
+subtitle: "Considerations, Challenges and Remedies, and Recommendations"
 layout: "essay"
 order: 120
 contributor:

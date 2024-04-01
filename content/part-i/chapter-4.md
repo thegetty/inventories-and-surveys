@@ -66,7 +66,7 @@ To highlight a few examples, Arches has been implemented to manage the following
 
 - **Isle of Man Historic Environment Record.** Manx National Heritage, the charity responsible for the care and promotion of Isle of Man’s natural and cultural heritage, launched the Arches-based Isle of Man Historic Environment Record (IOMHER) to improve management of and enable access to the island’s rich historic environment. See https://isleofmanher.im/.
 
-- **Jamaica National Inventory of Historic Places.** The Jamaica Ministry of Culture, Gender, Entertainment and Sport, with support from the Organization of American States, implemented Arches for the Jamaica National Inventory of Historic Places ([fig. 4.2](#fig-4-1)). It is maintained and updated by staff of the Jamaica National Heritage Trust. See https://siteinventory.jnht.com/.
+- **Jamaica National Inventory of Historic Places.** The Jamaica Ministry of Culture, Gender, Entertainment and Sport, with support from the Organization of American States, implemented Arches for the Jamaica National Inventory of Historic Places ([fig. 4.1](#fig-4-1)). It is maintained and updated by staff of the Jamaica National Heritage Trust. See https://siteinventory.jnht.com/.
 
 {% figure 'fig-4-1' 'pdf-two-column pdf-90-percent-width' %}
 
@@ -106,7 +106,9 @@ End users can also visually explore the relationships among resources in Arches 
 
 Another visually oriented tool is the Time Wheel, which represents all time data in any particular implementation in a circular histogram. This feature allows users to filter and search the distribution of temporal attributes of all resources in their Arches implementation ([fig. 4.5](#fig-4-5)).
 
-{% figuregroup '1' 'fig-4-4, fig-4-5' 'pdf-two-column pdf-75-percent-width' %}
+{% figure 'fig-4-4' 'pdf-two-column pdf-75-percent-width' %}
+
+{% figure 'fig-4-5' 'pdf-two-column pdf-75-percent-width' %}
 
 Arches includes discovery tools that allow for in-depth interrogation of data. In addition to the geospatial and time filters mentioned above, the ability to conduct semantic searches based on the underlying data structure and controlled vocabularies provides an important way to find data in Arches. Users also have access to an advanced search capability that allows them to query any specific data field.
 

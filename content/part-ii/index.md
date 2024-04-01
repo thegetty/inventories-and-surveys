@@ -10,7 +10,7 @@ order: 55
 
 Part II of this book aims to provide a framework and practical guidance for planning, designing, and carrying out modern heritage surveys. *Modern* in this context is meant to refer to survey practices that use the latest methods, technologies (particularly digital), tools, and concepts in heritage conservation.
 
-This narrative includes recommendations, considerations, and pointers for surveys drawn largely from my (Janet Hansen's) hands-on experiences and lessons learned in her role as lead author and manager of SurveyLA, the citywide survey of Los Angeles. City staff, consultants, and others directly involved in the project also contributed to the content.
+This narrative includes recommendations, considerations, and pointers for surveys drawn largely from my (Janet Hansen's) hands-on experiences and lessons learned in my role as lead author and manager of SurveyLA, the citywide survey of Los Angeles. City staff, consultants, and others directly involved in the project also contributed to the content.
 
 As described in [chapter 5](/part-ii/chapter-5/), SurveyLA is the outgrowth of earlier research and study by the Getty Conservation Institute (GCI) to establish the need for and benefits of a survey of Los Angeles and to provide a blueprint for how it could be completed. This information served as an indispensable starting point for the city in undertaking a survey of unprecedented size and scope and implementing innovative methodologies. Various strategies were tried, tested, and revised over the course of the multiyear survey. While in the end SurveyLA proved successful for Los Angeles, it has also gained ongoing international interest as a demonstration project for completing surveys.
 
