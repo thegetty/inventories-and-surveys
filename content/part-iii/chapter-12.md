@@ -1,7 +1,7 @@
 ---
 label: "12"
 title: "Using Inventory and Survey Information for Heritage Management"
-short_title:
+short_title: "Using Information for Heritage Management"
 layout: essay
 contributor:
   - id: dmyers

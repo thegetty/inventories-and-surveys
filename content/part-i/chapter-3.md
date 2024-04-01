@@ -1,7 +1,7 @@
 ---
 label: "3"
 title: "Considerations for Building Inventories for Effective Heritage Management"
-short_title:
+short_title: "Considerations for Inventories"
 layout: essay
 contributor:
   - id: dmyers

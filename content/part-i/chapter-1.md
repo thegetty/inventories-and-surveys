@@ -1,7 +1,7 @@
 ---
 label: "1"
 title: "Key Inventory Qualities for Effective Heritage Management"
-short_title:
+short_title: "Key Inventory Qualities"
 layout: essay
 contributor:
   - id: dmyers

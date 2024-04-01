@@ -1,7 +1,7 @@
 ---
 label: "13"
 title: "Archaeology and Local Heritage Inventories in England: The View from Lincoln"
-short_title:
+short_title: "Heritage Inventories in England"
 layout: essay
 contributor:
   - id: amacintosh

@@ -2,7 +2,7 @@
 label: "14"
 title: "Surveying and Inventorying Intangible Cultural Heritage in a Multicultural Society"
 subtitle: "The Singapore Case Study"
-short_title:
+short_title: "Intangible Cultural Heritage in Singapore"
 layout: essay
 contributor:
   - id: nyeo

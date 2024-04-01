@@ -87,6 +87,9 @@ Added individual title and subtitle elements
 **_includes/components/menu/item.js**
 Add subtitles, and Foreword contributors with affiliations to sidebar menu
 
+**_includes/components/navigation.js** 
+Add missing .nav-label span to hide labels on mobile, and remove title truncation
+
 **_includes/components/table-of-contents/item/list.js**
 Added affiliations for Foreword authors, and added listing of any sidebars in the chapter
 

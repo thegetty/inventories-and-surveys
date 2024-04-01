@@ -1,7 +1,7 @@
 ---
 label: "2"
 title: "Infrastructure, Resources, and Activities to Support Inventory Effectiveness"
-short_title:
+short_title: "Infrastructure, Resources, and Activities"
 layout: essay
 contributor:
   - id: dmyers
