@@ -201,7 +201,7 @@ The following tips may also relate to narrative thematic (or theme) studies (see
 
 #### <span class="label">Resource 8.1</span> Citywide Historic Context Statement: Resource Guide
 
-[Download Guide {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-1.pdf){target=_blank}
+[Download Guide {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-1.pdf)
 
 {% figuregroup '2' 'ch-8-resource-1' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
@@ -321,7 +321,7 @@ A range of tools, materials, and activities may be considered to support outreac
 
 #### <span class="label">Resource 8.2</span> MyHistoricLA Historic Resources Identification Form developed for SurveyLA
 
-[Download Form {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-2.pdf){target=_blank}
+[Download Form {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-2.pdf)
 
 {% figuregroup '2' 'ch-8-resource-2-a, ch-8-resource-2-b' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
@@ -339,7 +339,7 @@ A range of tools, materials, and activities may be considered to support outreac
 
 #### <span class="label">Resource 8.3</span> MyHistoricLA: Guide to Public Participation in SurveyLA
 
-[Download Guide {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-3.pdf){target=_blank}
+[Download Guide {% icon type='download' description='Download the PDF' %}]({{ publication.url }}_assets/downloads/resource-8-3.pdf)
 
 {% figuregroup '2' 'ch-8-resource-3' '' 'Source: Los Angeles City Planning Office of Historic Resources' %}
 
