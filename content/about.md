@@ -65,6 +65,8 @@ outputs:
 
 {% copyright %}
 
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+
 </div>
 <div class="publisher">
 
@@ -90,14 +92,12 @@ outputs:
 
 Front cover: Arcade, reproduced courtesy of City of Lincoln Council.
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
-
 </div>
 
 ## Getty Conservation Institute
 
 Timothy P. Whalen, *John E. and Louise Bryson Director*
-Jeanne Marie Teutonico, *Associate Director, Strategic Initiatives and Publications*
+Martin Coleman, *Publications Manager*
 
 The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
 

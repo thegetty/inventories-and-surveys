@@ -23,6 +23,8 @@ The free online edition of this open-access publication is available at [getty.e
 
 {% copyright %}
 
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+
 First edition, {{ publication.pub_date | date: "%Y" }}
 [{{ publication.repository_url | replace: "https://", "" }}]({{ publication.repository_url }})
 
@@ -56,7 +58,5 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 <div class="cover-image-credits">
 
 Front cover:  Arcade, reproduced courtesy of City of Lincoln Council.
-
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
 </div>

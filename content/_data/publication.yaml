@@ -40,7 +40,7 @@ identifier:
 publisher:
   - name: Getty Conservation Institute
     location: Los Angeles
-    url: https://www.getty.edu/publications/
+    url: https://www.getty.edu/publications
     logo: logo-getty.png
     address: |
       Getty Publications
@@ -128,7 +128,7 @@ license:
   name: Creative Commons Attribution-NonCommercial 4.0 International License
   abbreviation: CC BY-NC
   url: https://creativecommons.org/licenses/by-nc/4.0/
-  scope: text-only # full | text-only | some-exceptions
+  scope: text-only # full | text-only | some-exceptions 
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -182,9 +182,9 @@ subject:
 
 library_of_congress_cip: |
   Library of Congress Cataloging-in-Publication Data
-  - Names: Hansen, Janet (Writer on heritage management), author. | Myers, David, 1967 February 5- author. | Getty Conservation Institute, issuing body.  
+  - Names: Hansen, Janet (Writer on heritage management), author. | Myers, David, [date] author. | Getty Conservation Institute, issuing body.  
   - Title: Inventories and surveys for heritage management : lessons for the digital age / Janet Hansen and David Myers
-  - Description: First edition. | Los Angeles : Getty Conservation Institute, 2024. | With contributions by Lauren Weiss Bricker, Sara Delgadillo, Annabel Lee Enriquez, Katie Horak, Alastair Macintosh, and Nicholas Yeo. | Includes bibliographical references. | Summary: "This publication provides technical advice and guidance for using inventories and surveys as tools for heritage conservation and management"— Provided by publisher.  
+  - Description: First edition. | Los Angeles : Getty Conservation Institute, 2024. | With contributions by Lauren Weiss Bricker, Sara Delgadillo, Annabel Lee Enriquez, Katie Horak, Alastair MacIntosh, and Nicholas Yeo. | Includes bibliographical references. | Summary: "This publication provides technical advice and guidance for using inventories and surveys as tools for heritage conservation and management"— Provided by publisher.  
   - Identifiers: LCCN 2023052837 (print) | LCCN 2023052838 (ebook) | ISBN 9781606068816 (paperback) | ISBN 9781606068830 (epub) | ISBN 9781606068823 (adobe pdf) | ISBN 9781606068847  
   - Subjects: LCSH: Cultural property—Inventories. | Archaeological surveying. | Cultural property—Protection. | Historic preservation. 
   - Classification: LCC CC135 .H365 2024  (print) | LCC CC135  (ebook) | DDC 363.6/9—dc23/eng/20240212 
