@@ -1089,6 +1089,9 @@ table .table-subhead,
 .copyright-page .cip-data p:first-child {
   margin-bottom: 0 !important;
 }
+.copyright-page .publisher {
+  margin: 1.25rem 0;
+}
 .copyright-page .project-team ul {
   margin-left: 0;
 }
