@@ -72,6 +72,10 @@ TK
 
 ### Customizations
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/contributor/bio.js**
 Changed .quire-contributor__page-link handling to remove target="_blank"
 
