@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// updated snippet fo GA4
+//
 const path = require('path')
 const { html } = require('~lib/common-tags')
 
