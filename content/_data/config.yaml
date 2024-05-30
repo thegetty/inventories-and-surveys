@@ -1,5 +1,5 @@
 accordion:
-  controls: arrow # arrow | plus-minus
+  controls: plus-minus # arrow | plus-minus
   copyButton:
     ariaLabel: Copy page section link to clipboard
     successText: Copied page section link to clipboard
@@ -9,17 +9,17 @@ accordion:
     expandText: Expand All
 
 analytics:
-  googleId: ''
+  googleId: 'GTM-NRDC63K'
 
-bylineFormat: name-title # name | name-title | false
+bylineFormat: name # name | name-title | false
 
 bibliography:
-  displayOnPage: true
+  displayOnPage: false
   displayShort: true
   heading: Bibliography
 
 citations:
-  divider: ', '
+  divider: ', '
   popupStyle: text # text | icon
 
 entryPage:
@@ -27,7 +27,7 @@ entryPage:
   objectLinkText: View in Collection
 
 epub:
-  defaultCoverImage: 'epub-cover.png'
+  defaultCoverImage: 'cover-full.jpg'
   outputDir: '_epub'
 
 footnotes:
@@ -59,3 +59,5 @@ searchEnabled: true
 
 tableOfContents:
   contributorDivider: ' — '
+
+quire_credit_line: "This publication was created using Quire™, a multiformat publishing tool from Getty."

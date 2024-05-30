@@ -1,3 +1,9 @@
+//
+// CUSTOMIZED FILE
+// refactored logic to handle oxford commas correctly, lines 125–131
+// also added 'foreword' format to add affiliations to Foreword authors, lines 42, 78–82
+// also removed `id` value from markup that was causing EPUB validation error, line 113
+//
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
 
@@ -34,7 +40,7 @@ module.exports = function (eleventyConfig) {
       type='all'
     } = params
 
-    const formats = ['bio', 'initials', 'name', 'name-title', 'name-title-block', 'string']
+    const formats = ['bio', 'foreword', 'initials', 'name', 'name-title', 'name-title-block', 'string']
 
     if (!formats.includes(format)) {
       logger.error(
@@ -70,6 +76,11 @@ module.exports = function (eleventyConfig) {
           </ul>
         `
         break
+      case 'foreword': 
+        contributorsElement = contributorList.map((contributor) =>  
+            `${fullname(contributor)}, ${ contributor.affiliation }` 
+          )
+        break
       case 'initials': {
         const contributorInitials = contributorList.map(initials)
         const last = contributorInitials.pop()
@@ -99,7 +110,7 @@ module.exports = function (eleventyConfig) {
             )
             : null
           return `
-            <li class="quire-contributor" id="${slugify(contributor.id)}">${contributorParts.join(separator)}</li>
+            <li class="quire-contributor">${contributorParts.join(separator)}</li>
           `
         })
         contributorsElement = `
@@ -111,10 +122,14 @@ module.exports = function (eleventyConfig) {
       }
       case 'string': {
         const last = contributorNames.pop()
-        const namesString =
-          contributorNames.length >= 1
-            ? contributorNames.join(', ') + ', and ' + last
-            : last
+        let namesString = ''
+        if (contributorNames.length > 1) {
+          namesString = contributorNames.join(', ') + ', and ' + last
+        } else if (contributorNames.length == 1 ){
+          namesString = contributorNames + ' and ' + last
+        } else {
+          namesString = last
+        }
         contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
         break
       }

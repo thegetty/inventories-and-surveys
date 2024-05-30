@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// added 'foreword' format to add affiliations to Foreword authors, lines 52-54
+// added listing of any sidebars in the chapter, lines 73–83, 96
+//
 const { html, oneLine } = require('~lib/common-tags')
 
 /**
@@ -33,6 +38,7 @@ module.exports = function (eleventyConfig) {
       label,
       layout,
       short_title,
+      sidebar,
       subtitle,
       summary,
       title
@@ -44,7 +50,9 @@ module.exports = function (eleventyConfig) {
      */
     const isPage = !!layout
 
-    const pageContributorsElement = pageContributors
+    const pageContributorsElement = pageContributors && (title == 'Foreword')
+      ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'foreword' })}</span>`
+      : pageContributors
       ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
       : ''
 
@@ -62,6 +70,18 @@ module.exports = function (eleventyConfig) {
         ? `<div class="abstract-text">${ removeHTML(markdownify(abstract)) }</div>`
         : ''
 
+    let sidebarList = ''
+    if (sidebar) {
+      let sidebarItems = []
+      for (item of sidebar) {
+        const sidebarLink = item.id ? `${page.url}#${item.id}` : ''
+        const contributorElement = item.contributor ? ` — ${item.contributor}` : ''
+        const titleElement = item.title ? `Sidebar: ${item.title}` : ''
+        sidebarItems += `<li><a href="${sidebarLink}">${titleElement}${contributorElement}</a></li>`
+      }
+      sidebarList = `<ol class="sidebar-list">${sidebarItems}</ol>`
+    }
+
     let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
 
     if (isPage) {
@@ -73,6 +93,7 @@ module.exports = function (eleventyConfig) {
     return html`
       <li class="${classes.join(' ')}">
         ${mainElement}
+        ${sidebarList}
         ${abstractText}
         ${children}
       </li>

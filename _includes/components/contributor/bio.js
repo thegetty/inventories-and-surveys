@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Changed .quire-contributor__page-link handling to remove target="_blank"
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -56,9 +60,9 @@ module.exports = function (eleventyConfig) {
 
     const contributorPagesList = () => {
       const items = pages.map(({ label, subtitle, title, url }) => {
-        const classes = ['quire-contributor__page-link']
+        // const classes = ['quire-contributor__page-link']
         const name = pageTitle({ label, subtitle, title })
-        return `<li>${link({ classes, name, url })}</li>`
+        return `<li><a href="${url}" class="quire-contributor__page-link">${name}</a></li>`
       })
       return html`
         <ul>

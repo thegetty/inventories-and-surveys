@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE 
+// Added customLicenseText regarding image rights holders
+//
 const { oneLine } = require('~lib/common-tags')
 
 module.exports = function(eleventyConfig) {
@@ -18,7 +22,7 @@ module.exports = function(eleventyConfig) {
       `
     } else if (license.scope === 'text-only') {
       licenseText += `
-        The text of this work is licensed under a ${licenseName}. Unless otherwise indicated, all illustrations are excluded from the ${licenseAbbreviation} license.
+        The text of this work is licensed under a ${licenseName}.
       `
     } else {
       licenseText += `
@@ -26,11 +30,14 @@ module.exports = function(eleventyConfig) {
       `
     }
 
+    const customLicenseText = `All images are reproduced with the permission of the copyright holders acknowledged in the captions and are expressly excluded from the ${licenseAbbreviation} license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.`
+
     return oneLine`
       ${licenseText}
       <span class="is-print-only">
         To view a copy of this license visit ${license.url}.
       </span>
+      ${customLicenseText}
     `
   }
 }
