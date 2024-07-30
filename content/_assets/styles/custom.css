@@ -109,6 +109,9 @@
   margin-left: .5rem;
   margin-right: .5rem;
 }
+.quire-cover .cover-description {
+  font-size: 1.125rem;
+}
 .quire-cover .quire-page__content .container .content blockquote {
   margin-right: 1.5rem;
 }

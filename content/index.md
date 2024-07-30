@@ -22,7 +22,11 @@ image: figures/cover-background.jpg
 
 > “If we are to protect cultural heritage, we need to know what we are trying to protect and where it is. The authors have been grappling with these issues for many years, and they have set out an insightful, comprehensive, and thoughtful contribution to the debate. An essential read for all involved in protecting our heritage.” *—Peter G. Stone, UNESCO Chair in Cultural Property Protection and Peace, and President, The Blue Shield*
 
+<div class="cover-description">
+
 {{ publication.description.full }}
+
+</div>
 
 > “The book seamlessly integrates praxis with relevant theoretical frameworks, principles, and guidelines. It equips readers with a diverse toolkit for the increasing use and implementation of digital methodologies in crafting comprehensive inventories and surveys of heritage sites. These foundational works serve as the basis for formulating effective management and conservation strategies crucial for conserving our cultural heritage assets.
 >
