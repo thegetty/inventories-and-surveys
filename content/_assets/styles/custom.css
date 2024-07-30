@@ -1,30 +1,3 @@
-/* Temporary "UNCORRECTED PROOF" Banner */
-@media screen {
-  .quire::before,
-  .quire::after {
-    color: black;
-    font-weight: 700;
-    position: fixed;
-    width: 230px;
-    height: 230px;
-    z-index: 4000;
-    transform: rotate(-45deg);
-    text-align: center;
-    padding-top: 1rem;
-  }
-  .quire::before {
-    content: "PRESS";
-    background-color: yellow;
-    bottom: -115px;
-    right: -115px;
-  }
-  .quire::after {
-    content: "PREVIEW";
-    bottom: -130px;
-    right: -130px;
-  }
-}
-
 :root {
   --dark-blue: #112e4a;
   --mid-blue: #007fb7;
@@ -107,6 +80,44 @@
   .quire-cover__hero .contributor {
     /* margin-top: 52px; */
     margin-bottom: var(--cover-title-line-height);
+  }
+}
+.quire-cover .other-format-buttons {
+  display: flex;
+  justify-content: center;
+}
+.quire-cover .other-format-buttons ul {
+  margin-left: 0 !important;
+}
+.quire-cover .other-format-buttons ul .button {
+  padding: .625rem 1.5rem;
+  border-color: var(--dark-blue);
+  color: var(--dark-blue);
+}
+.quire-cover .other-format-buttons ul .button:hover {
+  background-color: var(--dark-blue);
+}
+.quire-cover .other-format-buttons ul .button a {
+  border-bottom-width: 0 !important;
+}
+.quire-cover .other-format-buttons ul .button:hover a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
+.quire-cover .other-format-buttons ul .button a:hover:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+  border-bottom-width: 0 !important;
+  color: var(--white) !important;
+}
+.quire-cover .other-format-buttons ul li.button {
+  margin-left: .5rem;
+  margin-right: .5rem;
+}
+.quire-cover .cover-description {
+  font-size: 1.125rem;
+}
+.quire-cover .quire-page__content .container .content blockquote {
+  margin-right: 1.5rem;
+}
+@media screen and (min-width: 500px) {
+  .quire-cover .quire-page__content .container .content blockquote {
+    margin-right: 3rem;
   }
 }
 
