@@ -9,8 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-# url: 'https://www.getty.edu/publications/inventories-and-surveys/'
-url: 'https://revisions--inventories-and-surveys.netlify.app/'
+url: 'https://www.getty.edu/publications/inventories-and-surveys/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
