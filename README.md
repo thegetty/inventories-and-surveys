@@ -1,14 +1,14 @@
-This is the repository for *Inventories and Surveys for Heritage Management: Lessons for the Digital Age*, by David Myers and Janet Hansen. This digital book was first published July 25, 2024, by the J. Paul Getty Museum. It is available online at https://www.getty.edu/publications/inventories-and-surveys/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *Inventories and Surveys for Heritage Management: Lessons for the Digital Age*, by David Myers and Janet Hansen. This digital book was first published July 30, 2024, by the Getty Conservation Institute. It is available online at https://www.getty.edu/publications/inventories-and-surveys/ and may be downloaded there free of charge in multiple formats.
 
 ## About the Book
 
-A critical first step in the conservation of cultural heritage is to identify and understand the places we want to protect. Inventories and related data collection activities such as surveys are essential tools in this effort, and heritage-related legislation across the globe now universally mandates their use. However, despite wide understanding of the importance and critical role of inventories and surveys in documenting heritage places, practical, up-to-date guidance on how these instruments should be created, implemented, and maintained has been sorely lacking—until now.
+A critical first step in the conservation of cultural heritage is to identify and understand the places we want to protect. Inventories and surveys are essential tools in this effort, and their use in managing national, regional, and local heritage is mandated in heritage-related legislation across the globe. Despite the widespread understanding of the importance of inventories and surveys, practical, up-to-date guidance on how they should be created, implemented, and maintained has been substantially lacking—until now.
 
-This publication provides a step-by-step guide to identifying, recording, and managing information on heritage resources as a basis for their conservation and management. It is drawn from the Getty Conservation Institute’s two decades of experience and research in this topical area, including ongoing work related to its open-source [Arches Cultural Heritage Data Management Platform](https://www.archesproject.org/) and, previously, the creation of the Middle Eastern Geodatabase for Antiquities (MEGA)-Jordan. It is also drawn from SurveyLA, a multiyear undertaking that was a joint project of the City of Los Angeles and Getty and is considered the largest American urban historic resource survey to date.
+This publication draws from the Getty Conservation Institute's ongoing work with heritage inventories and the Los Angeles Office of Historic Resources’ experience with SurveyLA. It provides technical advice, guidance, and lessons learned for employing inventories and surveys as tools for heritage conservation and management.
 
 ## Using this Repository
 
-This is one in series of multiformat publications using [Quire](http://quire.getty.edu)™, Getty’s multiformat publishing tool. 
+This is one in series of multiformat publications using [Quire](http://quire.getty.edu)™, Getty’s free and open-source multiformat publishing tool. 
 
 We are dedicated to maintaining this publication for years to come at the permanent URL, https://www.getty.edu/publications/inventories-and-surveys/, and in its various formats and incarnations. For any updates to the book, we will be following something between an app and traditional book publication model. Updates will only be made in regulated chunks as formal revisions and new editions and will always be thoroughly documented here in the repository, as well as in the revision history included with each of the book’s many formats.
 
@@ -18,8 +18,11 @@ The primary content pieces of the book can be found in the `content` directory. 
 
 This project was last built with the following software versions:
 
-- Node 18.16.0
-- Quire CLI 1.0.0-rc.11
+- quire-cli 1.0.0-rc.11
+- quire-11ty 1.0.0-rc.16
+- starter https://github.com/thegetty/quire-starter-default@2.9.0
+- node v18.16.0
+- npm 9.5.1
 
 ### Branches
 
@@ -68,7 +71,9 @@ git clone --recursive https://github.com/thegetty/inventories-and-surveys.git
 
 ### Creating an EPUB Version
 
-TK
+1. Run `quire build`
+
+2. Run `quire epub`
 
 ### Customizations
 
