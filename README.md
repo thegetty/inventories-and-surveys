@@ -84,6 +84,9 @@ Added Google Analytics 4
 **_includes/components/contributor/bio.js**
 Changed .quire-contributor__page-link handling to remove target="_blank"
 
+**_includes/components/head.js**
+Remove noindex,nofollow tag
+
 **_includes/components/icon.js**
 Used `oneLine` instead of `html` so that the include could be used in Markdown files
 
