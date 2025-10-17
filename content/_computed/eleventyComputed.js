@@ -164,7 +164,7 @@ module.exports = {
      */
     const addPages = (contributor) => {
       const { id } = contributor
-      contributor.pages = collections.all.flatMap(
+      contributor.pages = collections.allSorted.flatMap(
         (page) => {
           const { data, url } = page
           const { contributor, label, subtitle, title } = data
